@@ -1,5 +1,19 @@
 # blogs
 
+
+
+## [28]20240708-20240714
+
+#### [raft zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
+
+raft分布式一致算法的中文翻译版，是目前分布式系统内比较常用的一种算法，其核心就是领导者选举和日志复制。Raft 算法能很好地处理绝大部分场景的一致性问题，推荐大家在设计分布式系统时，优先考虑 Raft 算法。此处附加[英文原版地址](https://raft.github.io/)
+
+
+
+#### [与程序员相关的CPU缓存知识](https://coolshell.cn/articles/20793.html)
+
+耗子叔写的一篇关于CPU，CPU缓存的处理策略对程序执行的影响的文章，读完你会发现自己写的代码，如果考虑到CPU的缓存策略很多地方可以优化的更快。
+
 ## [27]20240701-20240705
 
 #### [Git Pro](https://git-scm.com/book/en/v2)

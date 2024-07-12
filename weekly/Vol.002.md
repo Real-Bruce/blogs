@@ -1,9 +1,7 @@
-# [27]20240701-20240705
-
 > 收集整理一周所见所闻，包含技术文章资料，开源项目和一些网站工具
->
-> 时间：20240701-20240705
->
+> 
+> 时间：20240701-20240707
+> 
 > 周数：第27周
 
 
@@ -12,7 +10,7 @@
 
 #### [大教堂和集市](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%B8%82%E9%9B%86)
 
-*The Cathedral and the Bazaar*）是[埃里克·斯蒂芬·雷蒙](https://zh.wikipedia.org/wiki/埃里克·斯蒂芬·雷蒙)（Eric Steven Raymond）所撰写的[软件工程](https://zh.wikipedia.org/wiki/軟體工程)方法论。以[Linux](https://zh.wikipedia.org/wiki/Linux)的核心开发过程以及作者自己主持开发的[开放源代码](https://zh.wikipedia.org/wiki/開放原始碼)[软件](https://zh.wikipedia.org/wiki/軟體)──[Fetchmail](https://zh.wikipedia.org/w/index.php?title=Fetchmail&action=edit&redlink=1)为讨论案例。文章在1997年5月27日发表，并在1999年出版成书。
+*The Cathedral and the Bazaar*）是[埃里克·斯蒂芬·雷蒙](https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E9%9B%B7%E8%92%99)（Eric Steven Raymond）所撰写的[软件工程](https://zh.wikipedia.org/wiki/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B)方法论。以[Linux](https://zh.wikipedia.org/wiki/Linux)的核心开发过程以及作者自己主持开发的[开放源代码](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E5%8E%9F%E5%A7%8B%E7%A2%BC)[软件](https://zh.wikipedia.org/wiki/%E8%BB%9F%E9%AB%94)──[Fetchmail](https://zh.wikipedia.org/w/index.php?title=Fetchmail&action=edit&redlink=1)为讨论案例。文章在1997年5月27日发表，并在1999年出版成书。
 
 
 
@@ -28,7 +26,7 @@
 
 SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
-![image-20240705101651377](./images/image-20240705101651377.png)
+![](./images/image-20240705101651377.png)
 
 
 
@@ -36,7 +34,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 开源的MAC平台工具，可以生成字帖练习书法
 
-![image-20240705103421539](./images/image-20240705103421539.png)
+![](./images/image-20240705103421539.png)
 
 
 
@@ -48,7 +46,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 联网档案馆收集了全球绝大部分网站历年的页面，在这里你可以找到数以万计的书籍、电影、软件、音乐、网站等等，比如我就经常用它查找一些老版本的软件，或者查看某些网站的发展变迁考古。
 
-![image-20240705100925618](./images/image-20240705100925618.png)
+![](./images/image-20240705100925618.png)
 
 
 
@@ -62,7 +60,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 网站列出 Hack news 前一天讨论前10的话题，帮助你了解最新的科技话题
 
-![image-20240705111446997](./images/image-20240705111446997.png)
+![](./images/image-20240705111446997.png)
 
 
 
@@ -70,7 +68,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 临时邮箱服务器，提供可以使用1个小时的临时邮箱，方便注册一些不想要提供个人邮箱的网站。
 
-![image-20240705111408348](./images/image-20240705111408348.png)
+![](./images/image-20240705111408348.png)
 
 
 

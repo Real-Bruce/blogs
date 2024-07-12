@@ -1,6 +1,26 @@
 # article
 
-## [27]20240701-20240705
+## [28]20240708-20240714
+
+#### [should you get a phd？](https://medium.com/@jpolak/should-you-get-a-phd-4806663cf380)
+
+一篇讨论是否应该读博的文章，里面的一些想法是我认同的，比如这一句：
+
+In life, you can’t base your goals on how other people will respond to your achievements. That’s why basing your actions on whether you will get a job is a fool’s errand. Instead, you have to base your actions on how they will help you in your own self-development and growth.
+
+> 在生活中，你不能将你的目标建立在其他人对你的成就有何反应的基础上。这就是为什么将你的行动建立在是否能找到工作的基础上是愚蠢的事情。相反，你的行动必须基于它们如何帮助你自我发展和成长。
+
+
+
+#### [steam-engine-origins](https://blog.rootsofprogress.org/steam-engine-origins)
+
+蒸汽机的发展历史，介绍它的发明和制造过程，配有详细的可交互动画。
+
+
+
+
+
+## [27]20240701-20240707
 
 #### [大教堂和集市](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%B8%82%E9%9B%86)
 
@@ -14,7 +34,7 @@
 
 
 
-## [26]20240624-20240628
+## [26]20240624-20240730
 
 #### [信息过载导致智力肥胖](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 

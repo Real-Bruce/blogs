@@ -1,8 +1,16 @@
 # software
 
-## [27]20240701-20240705
+## [28]20240708-20240714
+
+#### [ELog](https://github.com/LetTTGACO/elog)
+
+开源的博客书写发布项目，支持多种博客写作工具和博客发布工具，方便用自己熟悉的博客写作工具发布博客
+
+![image-20240712151348763](./images/image-20240712151348763.png)
 
 
+
+## [27]20240701-20240707
 
 #### [inwind-landing-page](https://github.com/huglemon/inwind-landing-page)
 
@@ -20,7 +28,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 
 
-## [26]20240624-20240628
+## [26]20240624-20240630
 
 #### [pic-smaller](https://github.com/joye61/pic-smaller)
 
