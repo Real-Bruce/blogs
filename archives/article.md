@@ -1,5 +1,41 @@
 # article
 
+## [29]20240715-20240721
+
+#### [life is not short](https://dkb.show/post/life-is-not-short)
+
+文章很有启发性推荐全文阅读，以下是我摘抄的几句：
+
+Life is long enough for you to achieve your wildest dreams. You’re just so busy wasting it that you get to the end without living much of it.
+
+> 生命足够长，足以让您实现最疯狂的梦想。你只是忙于浪费它，以至于你没有活出太多时间就到了终点。
+
+
+
+"It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested."
+
+> “并不是说我们的寿命很短，而是我们浪费了很多时间。生命足够长，如果我们充分投资的话，我们已经获得了足够慷慨的资金来取得最高的成就。”
+
+
+
+You should stop spending your time on things that don’t matter, and focus on the few things that do.
+
+> 你应该停止把时间花在无关紧要的事情上，而专注于少数重要的事情。
+
+
+
+"Assuredly your lives, even if they last more than a thousand years, will shrink into the tiniest span: those vices will swallow up any space of time." 
+
+> “你们的生命，哪怕持续一千多年，肯定也会缩成最短的一段：那些恶习会吞噬任何时间空间。” 
+
+
+
+The most surprising thing is that you wouldn’t let anyone steal your property, but you consistently let people steal your time, which is infinitely more valuable.
+
+> 最令人惊讶的是，你不会让任何人偷走你的财产，但你却一直让别人偷走你的时间，而你的时间更有价值
+
+
+
 ## [28]20240708-20240714
 
 #### [should you get a phd？](https://medium.com/@jpolak/should-you-get-a-phd-4806663cf380)

@@ -2,6 +2,18 @@
 
 
 
+## [29]20240715-20240721
+
+#### [《Pytorch实用教程》第二版](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+
+这本书不仅全面介绍了 PyTorch 的基础知识，还包含丰富的 PyTorch 实战案例和大型语言模型部署实例，能帮你快速上手 PyTorch，并具备出色的开发能力。
+
+
+
+#### [《hello 算法》](https://www.hello-algo.com/chapter_hello_algo/)
+
+一本介绍算法的开源书籍，文本内提供清晰易懂的动画图解和可运行的代码示例，使读者理解算法和数据结构的核心概念，并能够通过编程来实现它们。在
+
 ## [28]20240708-20240714
 
 #### [raft zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)

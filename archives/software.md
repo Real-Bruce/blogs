@@ -1,5 +1,31 @@
 # software
 
+## [28]20240715-20240721
+
+#### [easyvideotrans](https://github.com/sutro-planet/easyvideotrans)
+
+英文视频转中文开源项目，可以快速将英文视频转换为中文视频，并提供易于操作的web界面，项目提供了一个[在线演示的版本](https://easyvideotrans.com/playground)，可以尝试一下。
+
+![image-20240719091814583](./images/image-20240719091814583.png)
+
+
+
+#### [mathlive](https://github.com/arnog/mathlive)
+
+一个支持web端输入数学公式的组件，可以用来编辑展示数学公式，拥有简洁易懂的公式输入虚拟键盘，同时支持数学公式输出为LaTeX、MathML、ASCIIMath 和 MathJSON 格式，这是[demo测试地址](https://cortexjs.io/mathlive/demo/)
+
+![image-20240719093202356](./images/image-20240719093202356.png)
+
+
+
+#### [free-font](https://wangchujiang.com/free-font/)
+
+这个仓库收录了可以免费商用的中文字体，目前已收录499个还在持续更新中。
+
+![image-20240719094436871](./images/image-20240719094436871.png)
+
+
+
 ## [28]20240708-20240714
 
 #### [ELog](https://github.com/LetTTGACO/elog)

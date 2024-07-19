@@ -1,5 +1,29 @@
 # website
 
+## [29]20240715-20240721
+
+#### [book.tsters](https://book.tstrs.me/)
+
+在线电子书搜索网站，点击搜索后会全网查找电子书，并提供下载链接汇集。
+
+作者还提供了一个搜索图书的[api接口](https://book-db-v1.saltyleo.com/)，发送图书的名称或作者的名称可以返回图书或作者的相关信息。
+
+
+
+#### [photo2poem](https://photo2poem.top/)
+
+给图片配诗句，根据你上传的图片配上合适的诗句，支持导出图片很有意思的网站。
+
+![image-20240719104335429](./images/image-20240719104335429.png)
+
+#### [hellogithub](https://hellogithub.com/)
+
+github项目分类展示网站，在这里能找到很多好玩的github项目，是我周刊的灵感来源
+
+![image-20240719104232239](./images/image-20240719104232239.png)
+
+
+
 ## [28]20240708-20240714
 
 #### [opkfc](https://www.opkfc.com/list)
