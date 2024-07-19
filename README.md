@@ -11,7 +11,7 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### [Vol.004 life is not shot](/weekly/Vol.004) 20240715-20240721
+#### [Vol.004 life is not shot](/weekly/Vol.004.md) 20240715-20240721
 
 #### [Vol.003 should you get a phd？](/weekly/Vol.003.md)  20240708-20240714
 #### [Vol.002 大教堂和集市](/weekly/Vol.002.md) 20240701-20240707
