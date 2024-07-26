@@ -1,6 +1,24 @@
 # software
 
-## [28]20240715-20240721
+## [30]20240722-20240728
+
+#### [EcoPaste](https://github.com/ayangweb/EcoPaste)
+
+开源的跨平台剪切板管理工具，同时支持Mac平台和Windows平台
+
+
+
+#### [hash-wasm](https://github.com/Daninet/hash-wasm)
+
+轻量级的npm哈希函数库，提供了二十几种常见的哈希算法，比如 MD5 和 SHA-1，以及更安全的 BLAKE3。
+
+
+
+#### [Sucurose](https://github.com/Taiizor/Sucrose)
+
+开源的Windows桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
+
+## [29]20240715-20240721
 
 #### [easyvideotrans](https://github.com/sutro-planet/easyvideotrans)
 

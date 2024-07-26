@@ -2,6 +2,24 @@
 
 
 
+## [30]20240722-20240728
+
+#### [43个关于 ElasticSearch 的使用建议](https://mp.weixin.qq.com/s/Gsa1rPVISjOdVteol78EoA)
+
+得物技术团队整理的关于 ElasticSearch 的使用建议，文章介绍的很多场景自己都遇到过，很推荐阅读的一篇文章。
+
+
+
+#### [frontend-build-systems](https://sunsetglow.net/posts/frontend-build-systems.html#minification)
+
+文章讲述了前端的构建的基本概念、步骤和工具，帮助你大致了解目前前端构建相关的内容。
+
+
+
+#### [一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html)
+
+关于多线程和多线程同步的文章，美团技术团队出品，值得一读。
+
 ## [29]20240715-20240721
 
 #### [《Pytorch实用教程》第二版](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)

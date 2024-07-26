@@ -1,5 +1,9 @@
 # article
 
+## [30]20240722-20240728
+
+-_-没找到合适的文章，这周收获不太多。。。
+
 ## [29]20240715-20240721
 
 #### [life is not short](https://dkb.show/post/life-is-not-short)

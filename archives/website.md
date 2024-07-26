@@ -1,5 +1,29 @@
 # website
 
+## [30]20240722-20240728
+
+#### [GT Diagram Kit](https://www.figma.com/community/file/1015543187940120536/gt-diagram-kit-isometric-style)
+
+Figma组件库，Isometric 风格的架构图资源，很适合用来画架构图，它的设计风格为Isometric（等轴测风格），适用于各种类型的项目。
+
+
+
+#### [fastdownload](https://www.fastdownload.io/)
+
+可以下载流媒体视频的在线工具，支持Youtobe和TikTok
+
+![](./images/image-20240726103051878.png)
+
+
+
+#### [devdoces](https://devdocs.io/)
+
+常用技术文档的汇总集合，可以查询多种主流软件工具的API文档。
+
+![](./../weekly/images/image-20240726110821927.png)
+
+
+
 ## [29]20240715-20240721
 
 #### [book.tsters](https://book.tstrs.me/)
