@@ -1,5 +1,23 @@
 # software
 
+## [31]20240729-20240804
+
+#### [orion-visor](https://github.com/dromara/orion-visor)
+
+开源的堡垒机管理项目，界面简洁现代化，而且提供在线版本的SHH连接。
+
+#### [canvas-confetti](https://github.com/catdad/canvas-confetti)
+
+给网站添加庆祝特效的npm库，点击按钮会触发抛洒碎纸的网页特效，作者还提供了演示的[demo网址](https://www.kirilv.com/canvas-confetti/)
+
+![](../weekly/images/image-20240802085808048.png)
+
+
+
+#### [x-file-storage](https://github.com/dromara/x-file-storage)
+
+开源的Java项目，一行代码帮你实现文件上传操作，支持目前主流的文件存储服务，如阿里云OSS、华为云OBS、腾讯云COS、FTP等等，很实用的一个开源项目。
+
 ## [30]20240722-20240728
 
 #### [EcoPaste](https://github.com/ayangweb/EcoPaste)
@@ -24,7 +42,7 @@
 
 英文视频转中文开源项目，可以快速将英文视频转换为中文视频，并提供易于操作的web界面，项目提供了一个[在线演示的版本](https://easyvideotrans.com/playground)，可以尝试一下。
 
-![image-20240719091814583](./images/image-20240719091814583.png)
+![](./images/image-20240719091814583.png)
 
 
 
@@ -32,7 +50,7 @@
 
 一个支持web端输入数学公式的组件，可以用来编辑展示数学公式，拥有简洁易懂的公式输入虚拟键盘，同时支持数学公式输出为LaTeX、MathML、ASCIIMath 和 MathJSON 格式，这是[demo测试地址](https://cortexjs.io/mathlive/demo/)
 
-![image-20240719093202356](./images/image-20240719093202356.png)
+![](./images/image-20240719093202356.png)
 
 
 
@@ -40,7 +58,7 @@
 
 这个仓库收录了可以免费商用的中文字体，目前已收录499个还在持续更新中。
 
-![image-20240719094436871](./images/image-20240719094436871.png)
+![](./images/image-20240719094436871.png)
 
 
 
@@ -50,7 +68,7 @@
 
 开源的博客书写发布项目，支持多种博客写作工具和博客发布工具，方便用自己熟悉的博客写作工具发布博客
 
-![image-20240712151348763](./images/image-20240712151348763.png)
+![](./images/image-20240712151348763.png)
 
 
 
@@ -60,7 +78,7 @@
 
 SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
-![image-20240705101651377](./images/image-20240705101651377.png)
+![](./images/image-20240705101651377.png)
 
 
 
@@ -68,7 +86,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 开源的MAC平台工具，可以生成字帖练习书法
 
-![image-20240705103421539](./images/image-20240705103421539.png)
+![](./images/image-20240705103421539.png)
 
 
 

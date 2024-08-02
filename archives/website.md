@@ -1,5 +1,19 @@
 # website
 
+## [31]20240729-20240804
+
+#### [jpghi](https://jpghi.com/)
+
+无损放大图片的网站，可以把为模糊不清的图片增加细节，提升画面质感，免费版本处理的比较慢。
+
+
+
+#### [alternativeto](https://alternativeto.net/)
+
+帮你找到某些软件的平替版本，搜索某一类型软件时会把功能相似的软件都展示出来，方便找到某些付费软件功能相似的开源软件，比如找类似于navicat的数据库管理软件。
+
+![](../weekly/images/image-20240729155847001.png)
+
 ## [30]20240722-20240728
 
 #### [GT Diagram Kit](https://www.figma.com/community/file/1015543187940120536/gt-diagram-kit-isometric-style)

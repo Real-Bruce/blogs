@@ -2,6 +2,18 @@
 
 
 
+## [31]20240729-20240804
+
+#### [reversing](https://0xinfection.github.io/reversing/)
+
+一本关于逆向工程的书，内容包含x86、x64以及ARM32和ARM64架构的平台，很适合想要了解或者想深入学习逆向工程的小伙伴。
+
+
+
+#### [notion guide](https://notionchina.co/guide/)
+
+notion作为全球最好用的笔记软件，最近宣布要支持中文了，在此给各位提供一份关于notion使用的指南。
+
 ## [30]20240722-20240728
 
 #### [43个关于 ElasticSearch 的使用建议](https://mp.weixin.qq.com/s/Gsa1rPVISjOdVteol78EoA)

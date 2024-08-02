@@ -1,5 +1,33 @@
 # article
 
+## [31]20240729-20240804
+
+#### [long game](https://fs.blog/long-game/)
+
+一篇讲长期项目的文章，其中有很多的想法我很认同，我做了一些摘抄：
+
+“If you do what everyone else is doing, you shouldn’t be surprised to get the same results everyone else is getting.” Unless you’re lucky, doing what everyone else does ensures average results. 
+
+> “如果你做了其他人都在做的事情，你不应该对得到其他人得到的相同结果感到惊讶。除非你很幸运，否则做其他人都会做的事情可以确保平均结果。
+
+
+
+The most successful people in any field all play the long game. The long game isn’t particularly notable. It doesn’t attract a lot of attention. In fact, from the outside, the long game looks boring. The tiny advantages that accrue aren’t noticed until success becomes too obvious to ignore.
+
+> 任何领域最成功的人都在打持久战。这场漫长的博弈并不是特别引人注目。它并没有引起很多关注。事实上，从外面看，这场漫长的游戏看起来很无聊。在成功变得太明显而无法忽视之前，所积累的微小优势不会被注意到。
+
+
+
+Just as the accumulation of tiny advantages makes the future easier, the accumulation of tiny disadvantages makes the future harder.
+
+> 正如微小优势的积累让未来更轻松一样，微小劣势的积累也让未来更难。
+
+
+
+The first step in the long game is the hardest. You have to be willing to suffer a little today in order to make tomorrow just a little bit easier. And you have to be smart enough to know that just because you can’t see the tiny advantage you created doesn’t mean it’s not there.
+
+> 长期游戏的第一步是最困难的。你必须愿意今天受一点苦，才能让明天稍微轻松一点。你必须足够聪明，才能知道，仅仅因为你看不到你创造的微小优势并不意味着它不存在。
+
 ## [30]20240722-20240728
 
 -_-没找到合适的文章，这周收获不太多。。。
