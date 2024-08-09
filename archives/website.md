@@ -1,5 +1,33 @@
 # website
 
+## [32]20240805-20240811
+
+#### [nvidia explore](https://build.nvidia.com/explore/discover)
+
+nvidia提供的免费大模型调用平台，支持最新的 Llama 3.1 405B 等模型免费调用。
+
+![](../weekly/images/image-20240807143741356.png)
+
+
+
+#### [old web today](https://oldweb.today/#19960101/http://geocities.com/)
+
+网站可以选择多种老旧的浏览器，并在浏览器内选择任意的时间，可以看到当时时间节点网站的样式，就像可以交互版的互联网档案馆
+
+![](../weekly/images/image-20240807143425631.png)
+
+#### [实时黄金价格](https://goldprice.fun/)
+
+这个网站整理了各个平台当天的黄金价格，适合做黄金理财的小伙伴。
+
+
+
+#### [有用经验](https://yyjingyan.com/)
+
+这个网站整理了很多生活中有用的小技巧、省钱的小妙招等等。
+
+![image-20240807142701036](../weekly/images/image-20240807142701036.png)
+
 ## [31]20240729-20240804
 
 #### [jpghi](https://jpghi.com/)

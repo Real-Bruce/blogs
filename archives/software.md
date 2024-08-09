@@ -1,5 +1,13 @@
 # software
 
+## [32]20240805-20240811
+
+#### [Quick Recorder](https://github.com/lihaoyun6/QuickRecorder)
+
+MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移动设备等; 支持窗口声音内录, 鼠标高亮, 隐藏桌面文件等功能。
+
+
+
 ## [31]20240729-20240804
 
 #### [orion-visor](https://github.com/dromara/orion-visor)
