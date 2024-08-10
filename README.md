@@ -14,6 +14,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### [Vol.007 别让AI代替你思考](/weekly/Vol.007.md) 20240805-20240811
+
 #### [Vol.006 long game](/weekly/Vol.006.md) 20240729-20240804
 
 #### [Vol.005 nothing](/weekly/Vol.005.md) 20240722-20240728

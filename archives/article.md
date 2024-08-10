@@ -1,5 +1,19 @@
 # article
 
+## [32]20240805-20240811
+
+#### [turning the tables on ai](https://ia.net/topics/turning-the-tables-on-ai)
+
+一篇关于AI使用的文章，不过作者提供了一个新的使用AI的视角，让AI协助我们思考而不是让AI代替我们思考。通过让AI不断激发我们思考方向和深度的方式让我们自己得出更好的结论，而不是让AI直接给我们答案，这样我们才不会因为AI的发展而变得愚蠢。
+
+下面摘录我很喜欢的内容：
+
+With every thought we outsource, we miss out on a chance to grow. Love it or hate it, AI is here to stay. However we use it, we need to think more, not less.
+
+> 我们把每一个想法都外包出去，就错过了成长的机会。爱也好，恨也罢，人工智能都会留下来。无论我们如何使用它，我们都需要思考更多，而不是更少。
+
+
+
 ## [31]20240729-20240804
 
 #### [long game](https://fs.blog/long-game/)
