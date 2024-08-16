@@ -1,5 +1,33 @@
 # software
 
+## [33]20240812-20240818
+
+#### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+
+内网穿透工具FRP的桌面客户端，帮助你可视化配置内网穿透，支持所有的FRP版本还支持开机自启。
+
+![](https://raw.githubusercontent.com/luckjiawei/frpc-desktop/main/screenshots/proxys.png)
+
+
+
+#### [cosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)
+
+跨平台的剪切板管理工具，支持同步window、mac、Linux系统平台的剪切板，方便在各个平台实现自由流畅的剪切板复制粘贴操作。
+
+
+
+#### [deeplive](https://deeplive.cam/zh)
+
+通过AI技术仅需一张图片就能实现视频的人脸替换，好强大的技术(≧∇≦)ﾉ
+
+
+
+#### [macdata](https://github.com/tomandjerry136/macdata?tab=readme-ov-file)
+
+这个仓库收录4万余条 MAC 地址厂商信息，提供 csv、json 格式下载。
+
+
+
 ## [32]20240805-20240811
 
 #### [Quick Recorder](https://github.com/lihaoyun6/QuickRecorder)

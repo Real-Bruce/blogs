@@ -1,5 +1,29 @@
 # article
 
+## [33]20240812-2024-818
+
+#### [Obvious travel advice](https://dynomight.net/travel/)
+
+显而易见的旅行建议，作者在文中提出了很多有趣的旅行小建议，建议全文阅读，下面是我摘录的一些内容：
+
+Mindset matters more than where you go.
+
+> 心态比你去哪里更重要。
+
+
+
+If you have to do something really important right after traveling (like a job interview or getting married) you can “pre-adjust” your schedule before leaving. If that’s not an option, you might actually be in better shape on the first day than the second due to having more “residual health”.
+
+> 如果你必须在旅行后立即做一些真正重要的事情（比如工作面试或结婚），你可以在离开前“预先调整”你的日程安排。如果这不是一种选择，由于有更多的“残余健康”，您实际上可能在第一天比第二天处于更好的状态。
+
+
+
+Don’t confuse scarcity with value. A really good afternoon in the park (a *really* good one) is maybe about as good as it gets.
+
+> 不要将稀缺性与价值混为一谈。在公园里度过一个非常美好的下午（一个*非常好的*下午）也许就是最好的。
+
+
+
 ## [32]20240805-20240811
 
 #### [turning the tables on ai](https://ia.net/topics/turning-the-tables-on-ai)

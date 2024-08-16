@@ -14,6 +14,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### [Vol.008 Mindset matters more than where you go](/weekly/Vol.008.md) 20240812-20240818
+
 #### [Vol.007 别让AI代替你思考](/weekly/Vol.007.md) 20240805-20240811
 
 #### [Vol.006 long game](/weekly/Vol.006.md) 20240729-20240804

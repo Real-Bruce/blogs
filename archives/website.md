@@ -1,5 +1,33 @@
 # website
 
+## [33]20240812-20240818
+
+#### [surf](https://www.logo.surf/)
+
+一个制作文字徽标（logo 和 favicon）的在线工具
+
+![](../weekly/images/image-20240816091341618.png)
+
+
+
+#### [decohack](https://decohack.com/)
+
+每日 Product Hunt 热门产品的中文榜单，可以帮你发现最近热门的独立开发产品。[代码开源](https://github.com/ViggoZ/producthunt-daily-hot)。
+
+![](../weekly/images/image-20240816093053372.png)
+
+
+
+#### [svgviewer](https://www.svgviewer.dev/)
+
+SVG 图标的搜索引擎，并且提供可视化编辑器，允许你对源文件进行调整。
+
+![](../weekly/images/image-20240816092633852.png)
+
+
+
+
+
 ## [32]20240805-20240811
 
 #### [nvidia explore](https://build.nvidia.com/explore/discover)

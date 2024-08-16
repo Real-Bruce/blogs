@@ -1,5 +1,17 @@
 # blogs
 
+## [33]20240912-20240818
+
+#### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
+
+英文版开源电子书《命令行里的数据科学》，主要讲通过命令行工具学习数据科学。
+
+
+
+#### [sweep and prune](https://leanrada.com/notes/sweep-and-prune/)
+
+一篇介绍碰撞检查算法的文章，很值得读一读。
+
 
 
 ## [32]20240805-20240811
