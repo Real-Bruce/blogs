@@ -1,5 +1,17 @@
 # website
 
+## [34]20240819-20240825
+
+#### [freaky font generator](https://freakyfontgenerator.top/)
+
+一款在线字体生成工具，通过Unicode字符编码转换，可以生成各种有趣效果的字体，生成的字体支持一键复制。
+
+
+
+#### [aichatru](https://aichatru.ru/zh-CN)
+
+免费的AI在线聊天工具，目前支持GPT-4o和Claude3，无需登陆可以直接发起会话。
+
 ## [33]20240812-20240818
 
 #### [surf](https://www.logo.surf/)

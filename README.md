@@ -14,6 +14,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### [Vol.009 tacit knowledge dangerous](/weekly/vol.009.md) 20240819-20240825
+
 #### [Vol.008 Mindset matters more than where you go](/weekly/Vol.008.md) 20240812-20240818
 
 #### [Vol.007 别让AI代替你思考](/weekly/Vol.007.md) 20240805-20240811

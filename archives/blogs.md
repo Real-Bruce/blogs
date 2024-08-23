@@ -1,6 +1,36 @@
 # blogs
 
-## [33]20240912-20240818
+## [34]20240819-20240825
+
+#### [comprehensive-rust](https://google.github.io/comprehensive-rust/)
+
+Google安卓团队开源的Rust教程，可以帮你做Rust的基础知识入门，大厂出品的课程质量还是有保证的，推荐看看。
+
+
+
+#### [cs224n](https://web.stanford.edu/class/cs224n/)
+
+斯坦福大学2024年NLP公开课程，实用性和更新都比较好，推荐感兴趣的同学看看。
+
+
+
+#### [putting the you in CPU](https://cpu.land/)
+
+一本英文科普书，帮你理解处理器工作原理和系统调用相关的知识点。
+
+
+
+#### [union-intersection-difference-javascript-sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
+
+关于JS即将引入的新功能，增强set集合的操作功能，支持两个集合之间求并集、交集、差集功能的介绍，目前该功能已经被chrome-122版本支持。
+
+
+
+#### [git worktree](https://fev.al/posts/git-worktree/)
+
+关于git命令`worktree`的介绍，可以实现同一分支下创建不同的工作目录操作。
+
+## [33]20240812-20240818
 
 #### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 

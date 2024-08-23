@@ -1,5 +1,19 @@
 # software
 
+## [34]20240819-20240825
+
+#### [moffee](https://github.com/BMPixel/moffee)
+
+开源的markdown制作ppt工具，支持自动分页和样式设置，可以通过网页实时页面预览或导出PPT。
+
+
+
+#### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
+
+开源项目程序员考公指南，介绍作者从备考到上岸的经历以及一些经验的分享，不过项目很久没有更新了，部分链接也打不开，只能作为参考信息。类似的项目还有这个 [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+
+
+
 ## [33]20240812-20240818
 
 #### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
