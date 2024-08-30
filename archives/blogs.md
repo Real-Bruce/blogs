@@ -1,5 +1,17 @@
 # blogs
 
+## [35]20240826-20240901
+
+#### [why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
+
+文章介绍了为什么网站使小写字母能节省空间，主要原因在于大写字母和小写字母对应不同的字符吗，在使用常见的压缩算法，如哈夫曼算法时会被统计成两个字符，造成构建的哈夫曼树变高，导致压缩效果不好。
+
+
+
+#### [dbwu](https://dbwu.tech/)
+
+一个不错的博客网站，里面有很多关于K8s的内容很值得学习。
+
 ## [34]20240819-20240825
 
 #### [comprehensive-rust](https://google.github.io/comprehensive-rust/)

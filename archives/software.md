@@ -1,5 +1,29 @@
 # software
 
+## [35]20240826-20240901
+
+#### [ente](https://github.com/ente-io/ente)
+
+开源的双因素认证密码管理器，类似于微软的Authenticator。
+
+
+
+#### [xpano](https://krupkat.github.io/xpano/)
+
+开源的照片拼接工具，可以将多张相似的照片拼接成一张照片。
+
+
+
+#### [kotaemon](https://github.com/Cinnamon/kotaemon)
+
+开源的本地AI工具，可指定AI模型，与添加的文档聊天。
+
+
+
+#### [wifi-card](https://github.com/bndw/wifi-card)
+
+开源的wifi密码生成二维码工具，输入你的wifi账号密码，生成二维码
+
 ## [34]20240819-20240825
 
 #### [moffee](https://github.com/BMPixel/moffee)

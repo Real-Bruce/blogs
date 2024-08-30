@@ -1,5 +1,9 @@
 # article
 
+## [35]20240826-20240901
+
+-_-本周没有找到合适的文章，收获不多
+
 ## [34]20240819-20240825
 
 #### [tacit knowledge dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)

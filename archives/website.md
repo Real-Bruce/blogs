@@ -1,5 +1,23 @@
 # website
 
+## [35]20240826-20240901
+
+#### [notion exporter](https://notionexporter.com/)
+
+浏览器插件支持将notion导出为图片和卡片形式。
+
+
+
+#### [ihavenotv](https://ihavenotv.com/)
+
+可以免费查看英语纪录片的网站
+
+#### [emojis park](https://emojispark.com/)
+
+支持关键词搜索的emoj网站，方便快速找到符合情景的emoj，支持中文搜索。
+
+
+
 ## [34]20240819-20240825
 
 #### [freaky font generator](https://freakyfontgenerator.top/)
