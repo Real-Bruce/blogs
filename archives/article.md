@@ -1,5 +1,22 @@
 # article
 
+## [36]20240902-20240908
+
+#### [Four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
+
+个人能力的四个阶段：
+
+1. **Unconscious incompetence 无意识无能**
+2. **Conscious incompetence 有意识的无能**
+3. **Conscious competence 有意识的能力**
+4. **Unconscious competence 无意识能力**
+
+![](https://res.cloudinary.com/dbdm1ds3s/image/fetch/c_limit,f_webp,q_70,w_1920/https://img.ameow.xyz/202409010235538.jpg)
+
+[邓宁-克鲁格效应（Dunning–Kruger effect）](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)是一种认知偏差，指在特定领域知识或能力有限的人往往会大大高估自己在该领域的知识或能力。这种效应表明，在特定领域不够胜任的个体往往意识不到自己的无能，并倾向于高估自己的能力。
+
+这张图对应了我们日常学习使用某种能力的情况，不妨对着图想想自己目前处于那个阶段，及时调整对自己能力的认知，避免在愚昧之巅或绝望之谷止步不前，尽早熟练掌握技能。
+
 ## [35]20240826-20240901
 
 -_-本周没有找到合适的文章，收获不多

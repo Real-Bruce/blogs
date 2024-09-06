@@ -14,6 +14,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### [Vol.011 Four stages of competence ](/weekly/Vol.011.md) 20240902-20240908
+
 #### [Vol.010 normal weekly](/weekly/Vol.010.md) 20240826-20240901
 
 #### [Vol.009 tacit knowledge dangerous](/weekly/vol.009.md) 20240819-20240825

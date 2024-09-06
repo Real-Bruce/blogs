@@ -1,5 +1,17 @@
 # website
 
+## [36]20240902-20240908
+
+#### [dns iui im](https://dns.iui.im/)
+
+公共DNS解析服务器地址大全，网站提供了很多公开的DNS解析服务器地址，方便查询设置自己的DNS解析地址。
+
+
+
+#### [easy nomad](https://easynomad.cn/)
+
+这个网站每天收集支持远程办公的岗位，适合找兼职的时候看一看
+
 ## [35]20240826-20240901
 
 #### [notion exporter](https://notionexporter.com/)

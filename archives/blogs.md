@@ -1,5 +1,19 @@
 # blogs
 
+## [36]20240902-20240908
+
+#### [我是如何使用 ChatGPT 的](https://kenengba.com/post/3800.html)
+
+一篇介绍如何使用GPT的文章，总结两个使用诀窍：让GPT帮你做事的时候把它当作刚入行的实习生，详细的描述设计和需求，步步引导。当你需要它来引导你学习的时候，把自己当作刚入行的实习生，不断的提问实践学习。
+
+
+
+#### [calculus beginners](https://math.mit.edu/~djk/calculus_beginners/)
+
+适合初学者的微积分学习指南，国外的教材比国内的更注重实践和引导，感觉会更容易理解一点。
+
+
+
 ## [35]20240826-20240901
 
 #### [why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)

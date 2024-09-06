@@ -1,5 +1,30 @@
 # software
 
+## [36]20240902-20240908
+
+#### [MaxKB](https://github.com/1Panel-dev/MaxKB)
+
+MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知识库问答系统，广泛应用于企业内部知识库、客户服务、学术研究与教育等场景。
+
+- **开箱即用**：支持直接上传文档、自动爬取在线文档，支持文本自动拆分、向量化、RAG（检索增强生成），智能问答交互体验好；
+- **模型中立**：支持对接各种大语言模型，包括本地私有大模型（Llama 3 / Qwen 2 等）、国内公共大模型（通义千问 / 智谱 AI / 百度千帆 / Kimi / DeepSeek 等）和国外公共大模型（OpenAI / Azure OpenAI / Gemini 等）；
+- **灵活编排**：内置强大的工作流引擎，支持编排 AI 工作过程，满足复杂业务场景下的需求；
+- **无缝嵌入**：支持零编码快速嵌入到第三方业务系统，让已有系统快速拥有智能问答能力，提高用户满意度。
+
+
+
+#### [cloud dns exporter](https://github.com/eryajf/cloud_dns_exporter)
+
+这个开源工具从DNS提供商，自动获取域名解析，用来检查所有域名（含二级域名）的证书是否过期，目前项目已经支持腾讯云、阿里云和Godaddy。
+
+
+
+#### [immich](https://github.com/immich-app/immich)
+
+在服务器搭建私人的照片视频管理平台，同时支持web端和手机端访问，类似的项目还有 [photoprism](https://github.com/photoprism/photoprism) 和 [ente](https://github.com/ente-io/ente)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071104.webp)
+
 ## [35]20240826-20240901
 
 #### [ente](https://github.com/ente-io/ente)
