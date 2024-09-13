@@ -71,3 +71,9 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 #### [calculus beginners](https://math.mit.edu/~djk/calculus_beginners/)
 
 适合初学者的微积分学习指南，国外的教材比国内的更注重实践和引导，感觉会更容易理解一点。
+
+
+
+#### [how https works](https://howhttps.works/zh/)
+
+一个在线的漫画，帮你理解Https是怎样工作的，还有一个DNS系列的漫画 [how dns work](https://howdns.works/zh/)

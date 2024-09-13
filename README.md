@@ -10,9 +10,9 @@
 
 #### [website](/archives/website.md): interesting website or web tools
 
-
-
 ### 📰weekly: Records the resources collected each week
+
+#### [Vol.012 art of finishing](/weekly/Vol.012.md) 20240909- 20240915
 
 #### [Vol.011 Four stages of competence ](/weekly/Vol.011.md) 20240902-20240908
 

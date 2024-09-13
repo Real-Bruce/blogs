@@ -1,5 +1,21 @@
 # software
 
+## [37]20240909-20240915
+
+#### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+
+给pdf加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 工具支持设定印章大小,骑缝章位置,印章位置等。
+
+#### [wenyan](https://github.com/caol64/wenyan)
+
+md美化工具，可以自动优化md文件排版转换成公众号、今日头条、知乎等平台的样式
+
+#### [hacking tool](https://github.com/Z4nzu/hackingtool?tab=readme-ov-file)
+
+黑客工具箱，一些常用黑客工具集合的仓库，包括匿名、信息收集、SQL注入、逆向工程等等工具包。
+
+
+
 ## [36]20240902-20240908
 
 #### [MaxKB](https://github.com/1Panel-dev/MaxKB)
@@ -11,13 +27,9 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 - **灵活编排**：内置强大的工作流引擎，支持编排 AI 工作过程，满足复杂业务场景下的需求；
 - **无缝嵌入**：支持零编码快速嵌入到第三方业务系统，让已有系统快速拥有智能问答能力，提高用户满意度。
 
-
-
 #### [cloud dns exporter](https://github.com/eryajf/cloud_dns_exporter)
 
 这个开源工具从DNS提供商，自动获取域名解析，用来检查所有域名（含二级域名）的证书是否过期，目前项目已经支持腾讯云、阿里云和Godaddy。
-
-
 
 #### [immich](https://github.com/immich-app/immich)
 
@@ -25,37 +37,33 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071104.webp)
 
+
+
 ## [35]20240826-20240901
 
 #### [ente](https://github.com/ente-io/ente)
 
 开源的双因素认证密码管理器，类似于微软的Authenticator。
 
-
-
 #### [xpano](https://krupkat.github.io/xpano/)
 
 开源的照片拼接工具，可以将多张相似的照片拼接成一张照片。
-
-
 
 #### [kotaemon](https://github.com/Cinnamon/kotaemon)
 
 开源的本地AI工具，可指定AI模型，与添加的文档聊天。
 
-
-
 #### [wifi-card](https://github.com/bndw/wifi-card)
 
 开源的wifi密码生成二维码工具，输入你的wifi账号密码，生成二维码
+
+
 
 ## [34]20240819-20240825
 
 #### [moffee](https://github.com/BMPixel/moffee)
 
 开源的markdown制作ppt工具，支持自动分页和样式设置，可以通过网页实时页面预览或导出PPT。
-
-
 
 #### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
 
@@ -71,19 +79,13 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 ![](https://raw.githubusercontent.com/luckjiawei/frpc-desktop/main/screenshots/proxys.png)
 
-
-
 #### [cosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)
 
 跨平台的剪切板管理工具，支持同步window、mac、Linux系统平台的剪切板，方便在各个平台实现自由流畅的剪切板复制粘贴操作。
 
-
-
 #### [deeplive](https://deeplive.cam/zh)
 
 通过AI技术仅需一张图片就能实现视频的人脸替换，好强大的技术(≧∇≦)ﾉ
-
-
 
 #### [macdata](https://github.com/tomandjerry136/macdata?tab=readme-ov-file)
 
@@ -111,11 +113,11 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 ![](../weekly/images/image-20240802085808048.png)
 
-
-
 #### [x-file-storage](https://github.com/dromara/x-file-storage)
 
 开源的Java项目，一行代码帮你实现文件上传操作，支持目前主流的文件存储服务，如阿里云OSS、华为云OBS、腾讯云COS、FTP等等，很实用的一个开源项目。
+
+
 
 ## [30]20240722-20240728
 
@@ -123,17 +125,15 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 开源的跨平台剪切板管理工具，同时支持Mac平台和Windows平台
 
-
-
 #### [hash-wasm](https://github.com/Daninet/hash-wasm)
 
 轻量级的npm哈希函数库，提供了二十几种常见的哈希算法，比如 MD5 和 SHA-1，以及更安全的 BLAKE3。
 
-
-
 #### [Sucurose](https://github.com/Taiizor/Sucrose)
 
-开源的Windows桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
+开源的Windows桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸.
+
+
 
 ## [29]20240715-20240721
 
@@ -171,6 +171,8 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 
 
+
+
 ## [27]20240701-20240707
 
 #### [inwind-landing-page](https://github.com/huglemon/inwind-landing-page)
@@ -178,8 +180,6 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 ![](../weekly/images/image-20240705101651377.png)
-
-
 
 #### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
@@ -195,13 +195,9 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 可以本地部署的图片无损压缩工具，相比于在线的图片压缩工具可以避免图片被泄露的风险。
 
-
-
 #### [certd](https://github.com/certd/certd)
 
 `CertD` 一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云
-
-
 
 #### [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
 
