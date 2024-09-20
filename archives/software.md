@@ -1,5 +1,27 @@
 # software
 
+## [38]20240916-20240922
+
+#### [DawnLanuncher](https://github.com/fanchenio/DawnLauncher)
+
+`Windows`快捷启动工具，帮助您整理杂乱无章的桌面，分门别类管理您的桌面快捷方式，让您的桌面保持干净整洁。
+
+支持关联文件夹（实时同步文件夹内容）、快速搜索、相对路径（便携路径）、扫描本机开始菜单、本地扫描本机 Appx 应用列表、添加网址并一键获取网址信息。
+
+#### [common intellisense](https://github.com/Simon-He95/common-intellisense)
+
+vscode插件，可以为常用的UI组件库如：element-ui、vuetify 等提供代码提示，提升使用UI组件库的效率/
+
+#### [RTranslator](https://github.com/niedev/RTranslator)
+
+开源的手机APP，实现离线使用翻译功能，支持对话模式和文本模式。
+
+#### [Awesome Dify Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+
+一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。
+
+
+
 ## [37]20240909-20240915
 
 #### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
@@ -34,8 +56,6 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 #### [immich](https://github.com/immich-app/immich)
 
 在服务器搭建私人的照片视频管理平台，同时支持web端和手机端访问，类似的项目还有 [photoprism](https://github.com/photoprism/photoprism) 和 [ente](https://github.com/ente-io/ente)
-
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071104.webp)
 
 
 

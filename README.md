@@ -12,7 +12,9 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### [Vol.012 art of finishing](/weekly/Vol.012.md) 20240909- 20240915
+#### [Vol.013 why don't more people use linux](/weekly/Vol.013.md) 20240916-20240922
+
+#### [Vol.012 art of finishing](/weekly/Vol.012.md) 20240909-20240915
 
 #### [Vol.011 Four stages of competence ](/weekly/Vol.011.md) 20240902-20240908
 

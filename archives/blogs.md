@@ -1,5 +1,17 @@
 # blogs
 
+## [38]20240916-20240922
+
+#### [plugs and sockets](https://www.worldstandards.eu/electricity/plugs-and-sockets/)
+
+世界各地常见的集中插头和插座，网站列出了15种，还是蛮有意思的/
+
+#### [open source cs](https://github.com/ForrestKnight/open-source-cs)
+
+计算机专业开源课程仓库，这个仓库里收集了很多知名大学的计算机公开课，并且按照学习顺序做出了排列，很有意思。
+
+
+
 ## [37]20240909-20240915
 
 #### [《英语学习提升指南》](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)

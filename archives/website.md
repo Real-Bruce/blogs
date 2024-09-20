@@ -1,5 +1,13 @@
 # website
 
+## [38]20240916-20240920
+
+#### [xnapp](https://xnapper.com/app)
+
+截图美化工具，可以给你的截图添加各种机器的外壳，比如imac、mac book、ipad等等
+
+
+
 ## [37]20240909-20240915
 
 #### [分歧解决机](https://www.pingli.app/)
