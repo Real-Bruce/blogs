@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/Real-Bruce/blogs/image?description=1&font=Rokkitt&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light" alt="blogs" width="640" height="320" />
+
 ## Bruce's Blogs, Write down thoughts and collect and organize resources
 
 ### 📌archives: Sort the collected resources
@@ -11,6 +13,8 @@
 #### [website](/archives/website.md): interesting website or web tools
 
 ### 📰weekly: Records the resources collected each week
+
+#### [Vol.013 Debt defines your future](/weekly/Vol.014.md) 20240922-20240929
 
 #### [Vol.013 why don't more people use linux](/weekly/Vol.013.md) 20240916-20240922
 

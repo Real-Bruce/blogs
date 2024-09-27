@@ -1,5 +1,25 @@
 # software
 
+## [39]20240923-20240929
+
+#### [certimate](https://github.com/usual2970/certimate)
+
+域名SSL证书自动化管理解决方案，提供域名SSL证书的检查、申请、替换操作，项目完全开源，使用MIT开源协议。
+
+#### [background music](https://github.com/kyleneideck/BackgroundMusic)
+
+mac上的开源小工具，支持在地址栏单独控制每个应用程序的音量。
+
+#### [pake](https://github.com/tw93/Pake)
+
+使用rust将网页打包成桌面应用程序，支持 Windows 打包下设置语言、Linux 下使用 Docker 运行、Linux 和 Windows 下的 App 增加了标题、优化 Pake 打包网页里面关于超链接跳出的处理、支持 Mac 下设置强制黑暗模式。
+
+#### [json4u](https://github.com/loggerhead/json4u/)
+
+开源的JSON工具，支持JSON格式化和各种形式的查看，最重要的是支持JSON的在线树状图谱查看，体验地址：[json4u](https://json4u.cn/)
+
+
+
 ## [38]20240916-20240922
 
 #### [DawnLanuncher](https://github.com/fanchenio/DawnLauncher)

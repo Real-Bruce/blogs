@@ -1,5 +1,32 @@
 # blogs
 
+## [39]20240923-20240929
+
+#### [Java 内存泄露和内存溢出](https://www.cnblogs.com/three-fighter/p/14579622.html)
+
+讲解Java内存泄漏和内存溢出的区别，文中举了很多相关的例子很推荐阅读。
+
+#### [good vs bad refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
+
+好的重构和错误重构，重构是件好事但并不是所有的重构都是好的，作者在文中指出了几种不好的重构方式，同时也给出了好的重构方式：
+
+1. Be incremental: Make small, manageable changes rather than sweeping rewrites.  
+    增量式：进行小的、可管理的更改，而不是彻底重写。
+2. Deeply understand code before doing significant refactors or new abstractions.  
+    在进行重大重构或新抽象之前，深入了解代码。
+3. Match the existing code style: Consistency is key for maintainability.  
+    匹配现有代码样式：一致性是可维护性的关键。
+4. Avoid too many new abstractions: Keep it simple unless complexity is truly warranted.  
+    避免太多的新抽象：除非确实需要复杂性，否则请保持简单。
+5. Avoid adding new libraries, especially of a very different programming style, without buy-in from the team.  
+    避免在没有团队支持的情况下添加新的库，尤其是非常不同的编程风格的库。
+6. Write tests before refactoring and update them as you go. This ensures you're maintaining the original functionality.  
+    在重构之前编写测试，并随时更新它们。这可确保您保持原始功能。
+7. Hold your coworkers accountable to these principles.  
+    让您的同事对这些原则负责。
+
+
+
 ## [38]20240916-20240922
 
 #### [plugs and sockets](https://www.worldstandards.eu/electricity/plugs-and-sockets/)

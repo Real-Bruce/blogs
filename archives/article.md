@@ -1,5 +1,22 @@
 # article
 
+## [39]20240923-20240929
+
+#### [How i think about debt](https://collabfund.com/blog/how-i-think-about-debt/)
+
+作者在文中提出了个很有意思的观点，你的债务降低了你生活的可能性，让你的未来不再充满希望，下面是我摘抄的内容：
+
+ “Debt defines your future, and when your future is defined, hope begins to die.”  
+> “债务定义了你的未来，当你的未来被定义时，希望就开始消亡了。
+
+Not only does hope begin to die, but the number of outcomes you can endure does, too.  
+> 不仅希望开始破灭，而且你能忍受的结果数量也会破灭
+
+I think this is the most practical way to think about debt: **As debt increases, you narrow the range of outcomes you can endure in life.**  
+>我认为这是思考债务最实用的方式：**随着债务的增加，你会缩小你在生活中可以承受的结果范围。**
+
+
+
 ## [38]20240916-20240922
 
 #### [why don't more people use linux?](https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53)
