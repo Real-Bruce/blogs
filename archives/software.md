@@ -1,5 +1,29 @@
 # software
 
+## [41]20241007-20241013
+
+#### [copi](https://github.com/s1ntoneli/Copi)
+
+macOS上开源的安全剪切板工具，可以阻止三方应用访问剪切板。
+
+#### [TvT.js](https://github.com/hawk86104/icegl-three-vue-tres)
+
+一个融合了ThressJS + Vue3.x + ThresJS三大项目的神奇项目，帮助你使用Vue3.x的语法做3D应用。项目还提供了[在线插件市场](http://oss.icegl.cn/#/)
+
+#### [hexo-themep-sea](https://github.com/hai-zou/hexo-theme-sea)
+
+一个开源的Hexo博客主题，支持国际化和黑暗模式。
+
+
+
+## [40]20240930-20241006
+
+#### [LunarLink](https://github.com/tahitimoon/LunarLink)
+
+基于HttpRunner + Django + Vue + Element UI 的接口自动化测试平台，比较有意思的一个项目。
+
+![img](https://github.com/tahitimoon/LunarLink/raw/main/screenshots/3.png)
+
 ## [39]20240923-20240929
 
 #### [certimate](https://github.com/usual2970/certimate)

@@ -1,5 +1,54 @@
 # website
 
+## [41]20241007-20241013
+
+#### [nothing](https://nothing.mvze.net/)
+
+什么都不做，又或者说「放空」。现在的氛围其实很焦虑，很少有人真的能静下来什么都不做，什么都不想，就发呆。这个网站提倡你什么都不要做，就盯着页面上的秒数上涨，或者走一下神。
+
+#### [littlediffer](https://www.littlediffer.com/)
+
+文字比对工具，支持单词级别的对比，很好用的对比工具。类似工具还有这个：[diffsuite](https://diffsuite.com/)
+
+#### [流光卡片](https://fireflycard.shushiai.com/)
+
+各大平台对文字的渲染展示样式不一致，使用文字卡片可以统一阅读体验，流光卡片可以帮助你制作符合你审美的文字卡片。
+还有个开源版本的类似应用 [oneimg](https://github.com/byodian/oneimg)，不过样式没有流光卡片好看。
+
+#### [上市公司财报查询](https://discountingcashflows.com/)
+
+最近股市大热，这个网站可以协助你查看各个上市公司的财报，助你选择合适的股票。
+
+#### [用中文读科技新闻](https://zeli.app/zh)
+
+实时给Hacker News文章链接生成中文摘要，帮你快速浏览感兴趣的科技新闻。黑客新闻官网：[hacker news](https://news.ycombinator.com/)
+
+
+
+## [40]20240930-20241006
+
+#### [有用经验](https://yyjingyan.com/)
+
+网友整理的一些生活中有用的经验，帮你解决生活中的小烦恼避免踩坑。
+
+#### [酷鸭练习站](https://practise.coolielts.com/words/dictation)
+
+免费的雅思听力练习和测验网站，提供多种英语听力语料的听写、校对及统计功能。
+
+#### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
+
+通过提问选择的方式帮助你选择适合你项目的开源许可证的网站。
+
+#### [海棠诗社](https://shi300.com/)
+
+诗词在线查看网站，还有每日一诗功能，给你无聊的生活增加一点诗情画意。
+
+#### [得理法搜](https://data.delilegal.com/)
+
+法律条文、案例在线搜索工具输入案情可以找到所有相关案例，很好用的法律法规搜索类工具。
+
+
+
 ## [39]20240923-20240929
 
 #### [they can talk](https://theycantalk.com/)

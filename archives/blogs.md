@@ -1,5 +1,27 @@
 # blogs
 
+## [41]20241007-20241013
+
+#### [电商系统-优惠券叠加规则、优惠分摊介绍](https://www.woshipm.com/operate/4191246.html)
+
+一篇介绍电商系统优惠券的文章，帮你梳理清楚电商系统内优惠券的叠加使用、优惠分摊计算逻辑，很好的一篇文章。
+
+
+
+## [40]20240930-20241006
+
+#### [搭建dockerhub加速网站](https://blog.quickso.cn/2024/06/22/%E7%99%BD%E5%AB%96CloudflareWorkers%E6%90%AD%E5%BB%BADockerHub%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1/)
+
+由于DockerHub的限制导致国内访问获取docker镜像变得比较困难，使用国内的镜像加速网站存在镜像版本落后等问题，所以推荐有动手能力的小伙伴自建镜像加速源。
+
+#### [win软件推荐](https://blog.wfso.cn/archives/115/)
+
+作者在文中提到了很多好用的win软件，并且贴心的提供了下载链接。
+
+作者还写了计算机入门相关的系列博客也很推荐查看[《你缺失的那门计算机课》](https://www.criwits.top/missing/)
+
+
+
 ## [39]20240923-20240929
 
 #### [Java 内存泄露和内存溢出](https://www.cnblogs.com/three-fighter/p/14579622.html)
