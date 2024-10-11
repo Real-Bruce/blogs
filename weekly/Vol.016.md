@@ -8,6 +8,12 @@
 
 ## 🛸开源项目
 
+#### [copi](https://github.com/s1ntoneli/Copi)
+macOS上开源的安全剪切板工具，可以阻止三方应用访问剪切板。
+
+，类似的应用还有流光卡片，不过不是开源的。
+
+
 ## 🚀网站&工具
 
 #### [nothing](https://nothing.mvze.net/)
@@ -18,6 +24,7 @@
 
 #### [流光卡片](https://fireflycard.shushiai.com/)
 各大平台对文字的渲染展示样式不一致，使用文字卡片可以统一阅读体验，流光卡片可以帮助你制作符合你审美的文字卡片。
+还有个开源版本的类似应用 [oneimg](https://github.com/byodian/oneimg)，不过样式没有流光卡片好看。
 
 #### [上市公司财报查询](https://discountingcashflows.com/)
 最近股市大热，这个网站可以协助你查看各个上市公司的财报，助你选择合适的股票。
