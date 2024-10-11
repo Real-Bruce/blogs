@@ -30,7 +30,9 @@ macOS上开源的安全剪切板工具，可以阻止三方应用访问剪切板
 #### [上市公司财报查询](https://discountingcashflows.com/)
 最近股市大热，这个网站可以协助你查看各个上市公司的财报，助你选择合适的股票。
 
-[]()
+#### [用中文读科技新闻](https://zeli.app/zh)
+实时给Hacker News文章链接生成中文摘要，帮你快速浏览感兴趣的科技新闻。黑客新闻官网：[hacker news](https://news.ycombinator.com/)
+
 
 ## ⛵资料&博文
 
