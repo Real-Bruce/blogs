@@ -8,6 +8,10 @@
 
 ## 🛸开源项目
 
+#### [immich](https://github.com/immich-app/immich)
+自托管照片视频管理工具
+
+
 ## 🚀网站&工具
 
 #### [explainshell](https://www.explainshell.com/)
