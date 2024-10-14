@@ -9,7 +9,7 @@
 ## 🛸开源项目
 
 #### [immich](https://github.com/immich-app/immich)
-自托管照片视频管理工具
+自托管照片视频管理工具，部署后支持网页和手机端访问
 
 
 ## 🚀网站&工具
