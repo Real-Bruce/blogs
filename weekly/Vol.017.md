@@ -15,9 +15,10 @@
 ## 🚀网站&工具
 
 #### [explainshell](https://www.explainshell.com/)
-输入shell命令解析每段参数的含义，帮你理解shell脚本的意思/
+输入shell命令解析每段参数的含义，帮你理解shell脚本的意思。
 
-#### []()
+#### [devtool](https://devtool.tech/for-star)
+一些开发中常用的网页工具集合，在提供转化结果的同时会附带计算过程，帮助你更好的理解进制转化、哈希编码等等操作的具体过程。
 
 ## ⛵资料&博文
 
