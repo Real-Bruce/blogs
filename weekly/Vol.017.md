@@ -7,7 +7,8 @@
 ## 📜有价值的文章
 
 #### [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
-作者在文中提出了一个有意思的观点，高级初学者也就是在ju
+作者在文中提出了一个有意思的观点，高级初学者也就是在初级阶段的得到足够的反馈后便不再向下一个阶段进发，因为继续改进进步下去的速度没有初学者阶段速度快，也就是我们常说的瓶颈，并且大多数人会放弃继续进步于是便成为了“高级初学者”。文章让我开始反思自己学习获取技能的时候是否也是在“高级初学者”的时候放弃进步，还是应当找对方向继续突破，以下是我摘抄的一些原文：
+
 技能获取的几个阶段：
 1. Novice 新手
 2. Advanced Beginner 高级初学者
@@ -15,6 +16,9 @@
 4. Proficient 熟练
 5. Expert 专家
 
+As such, Advanced Beginners can break one of two ways: they can move to Competent and start to grasp the big picture and their place in it, or they can ‘graduate’ to Expert Beginner by assuming that they’ve graduated to Expert.  
+
+>因此，高级初学者可以打破以下两种方式之一：他们可以转变为 Competent 并开始掌握大局和他们在其中的位置，或者他们可以通过假设他们已经毕业成为 Expert 来“毕业”成为 Expert 初学者。
 
 
 ## 🛸开源项目
