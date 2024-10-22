@@ -29,6 +29,7 @@ But what happens when the Advanced Beginner doesn’t care enough to interact wi
 #### [immich](https://github.com/immich-app/immich)
 自托管照片视频管理工具，部署后支持网页和手机端访问
 
+[]()
 
 ## 🚀网站&工具
 
@@ -38,6 +39,7 @@ But what happens when the Advanced Beginner doesn’t care enough to interact wi
 #### [devtool](https://devtool.tech/for-star)
 一些开发中常用的网页工具集合，在提供转化结果的同时会附带计算过程，帮助你更好的理解进制转化、哈希编码等等操作的具体过程。
 
+#### [](https://about.noteshub.app/)
 ## ⛵资料&博文
 
 #### [凤凰架构](https://icyfenix.cn/)
