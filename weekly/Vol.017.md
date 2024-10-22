@@ -35,6 +35,9 @@ markdown笔记管理软件，支持多端查看，可以插入图表、画板、
 #### [facker server](https://github.com/Ray-D-Song/faker-server)
 基于 Faker.js 的 mock 服务器。 使用 MongoDB 作为数据存储，包含一个前端管理页面，可以方便地管理 mock 数据。
 
+#### [notion 2 md demo](https://github.com/thinkerchan/notion2md)
+一个notion配合GitHub工作流的实例项目，利用github工作流将notion笔记转化为md格式，并保存到github仓库。
+
 ## 🚀网站&工具
 
 #### [explainshell](https://www.explainshell.com/)
