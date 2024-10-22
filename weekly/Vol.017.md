@@ -20,6 +20,9 @@ As such, Advanced Beginners can break one of two ways: they can move to Competen
 
 >因此，高级初学者可以打破以下两种方式之一：他们可以转变为 Competent 并开始掌握大局和他们在其中的位置，或者他们可以通过假设他们已经毕业成为 Expert 来“毕业”成为 Expert 初学者。
 
+But what happens when the Advanced Beginner doesn’t care enough to interact with the broader community and for whatever reason doesn’t have much interaction with peers? The Daily WTF [is filled](http://thedailywtf.com/Articles/The-Slowdown.aspx) with [such examples](http://thedailywtf.com/Articles/Batch-of-Trouble.aspx).  
+
+>但是，如果 Advanced Beginner 不够关心与更广泛的社区互动，并且出于某种原因没有与同行进行太多互动，会发生什么呢？Daily WTF [充满了](http://thedailywtf.com/Articles/The-Slowdown.aspx)[这样的例子](http://thedailywtf.com/Articles/Batch-of-Trouble.aspx)。
 
 ## 🛸开源项目
 
