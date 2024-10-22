@@ -29,7 +29,11 @@ But what happens when the Advanced Beginner doesn’t care enough to interact wi
 #### [immich](https://github.com/immich-app/immich)
 自托管照片视频管理工具，部署后支持网页和手机端访问
 
-[]()
+#### [noteshub](https://about.noteshub.app/)
+markdown笔记管理软件，支持多端查看，可以插入图表、画板、流程图、公式甚至乐谱，而且支持笔记同步GitHub。
+
+#### [facker server](https://github.com/Ray-D-Song/faker-server)
+基于 Faker.js 的 mock 服务器。 使用 MongoDB 作为数据存储，包含一个前端管理页面，可以方便地管理 mock 数据。
 
 ## 🚀网站&工具
 
@@ -39,7 +43,9 @@ But what happens when the Advanced Beginner doesn’t care enough to interact wi
 #### [devtool](https://devtool.tech/for-star)
 一些开发中常用的网页工具集合，在提供转化结果的同时会附带计算过程，帮助你更好的理解进制转化、哈希编码等等操作的具体过程。
 
-#### [](https://about.noteshub.app/)
+#### [surf](https://dns.surf/)
+DNS解析测试，检查你的域名在全球互联网的解析情况。
+
 ## ⛵资料&博文
 
 #### [凤凰架构](https://icyfenix.cn/)
