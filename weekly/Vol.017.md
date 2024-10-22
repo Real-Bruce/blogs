@@ -6,6 +6,17 @@
 
 ## 📜有价值的文章
 
+#### [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
+作者在文中提出了一个有意思的观点，高级初学者也就是在ju
+技能获取的几个阶段：
+1. Novice 新手
+2. Advanced Beginner 高级初学者
+3. Competent 主管
+4. Proficient 熟练
+5. Expert 专家
+
+
+
 ## 🛸开源项目
 
 #### [immich](https://github.com/immich-app/immich)
