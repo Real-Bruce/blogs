@@ -20,4 +20,7 @@
 #### [how i experience web today](https://how-i-experience-web-today.com/)
 整合你在网上遇到的各种网站打扰，十分真实非常让人高血压。
 
+#### [open slum](https://open-slum.org/)
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna’s Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。避免你访问到钓鱼网站。
+
 ## ⛵资料&博文
