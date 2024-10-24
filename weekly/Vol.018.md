@@ -13,7 +13,7 @@
 ## 🛸开源项目
 
 #### [keyviz](https://github.com/mulaRahul/keyviz)
-开源的键盘按下提示项目，可以在平pin'mu
+开源的键盘按下提示项目，可以在
 
 ## 🚀网站&工具
 
