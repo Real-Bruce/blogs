@@ -26,4 +26,7 @@
 #### [linkpreview](https://linkpreview.xyz/)
 快速预览链接在各个平台的展示样式，很有意思的项目。
 
+#### [shots](https://shots.so/)
+在线生成各类设备的套壳截图，如带有iphone手机、ipad或者Mac笔记本样式的截图。
+
 ## ⛵资料&博文
