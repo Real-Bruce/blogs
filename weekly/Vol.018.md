@@ -23,4 +23,7 @@
 #### [open slum](https://open-slum.org/)
 `SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna’s Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。避免你访问到钓鱼网站。
 
+#### [linkpreview](https://linkpreview.xyz/)
+快速预览链接在各个平台的展示样式，很有意思的项目。
+
 ## ⛵资料&博文
