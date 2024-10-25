@@ -8,11 +8,28 @@
 
 #### [learning to learn](https://kevin.the.li/posts/learning-to-learn/)
 
-学会学习
+学会学习比一直学习更重要，因为效率为 25% 的 40 小时与效率为 80% 的 12.5 小时相同
 
 #### [merchants of complity](https://world.hey.com/dhh/merchants-of-complexity-4851301b)
+大多数时间人们并不需要很复杂的东西，简单的基本的功能就能满足需求，但是简单的商品不会给商人们带来利益，所以商人们都更加倾向于售卖看起来复杂的简单商品。
+比如手机，目前市面上大多数的入门手机已经能满足我们的日常需求，但是每年还有会有很多的厂商发布更新更贵的手机，看起来这些手机有很多的功能，比如更好的芯片、屏幕、相机，但是你有没有想过你真的需要这些功能吗？虽然这些功能让你的体验好了一点，但是却要付出更多的金钱。这让我想起以前看过的一本书，获取到90%的体验就好了，剩下的10%想要获得会出现边际递减的效应，你想要在90%的基础上在好一点就要付出更多的代价，所以接受90%就很好。
+下面是我摘抄的一些原文：
+It's hard to sell simple, because simple looks easy, and who wants to pay for that? Of course, everyone _says_ they want something simple, but the way they buy reveals that they usually don't.  
 
+>简单很难销售，因为简单看起来很容易，谁愿意为此付费呢？当然，每个人都_说_他们想要一些简单的东西，但他们的购买方式表明他们通常不需要。
 
+This is the secret that the merchants of complexity have long since figured out. That clever and sophisticated beats basic and straightforward most days in the market. Since both clever and sophisticated implies something special, and only what's special command the premium dollar.
+
+>这是复杂商人早已弄清楚的秘密。这种聪明而复杂的做法胜过市场上大多数时候的基本和直接。因为聪明和复杂都意味着一些特别的东西，只有特别的东西才能获得溢价美元。
+
+  
+Deep down, that's what most people want. To feel special. That's far more important than merely purchasing a solution. Basic, cheap, or even free options are for the common dolt, with simple needs and simple problems, goes this wicked intuition. Few people have the courage to admit their life and work isn't that complicated.  
+
+>在内心深处，这就是大多数人想要的。感觉特别。这比仅仅购买解决方案重要得多。这种邪恶的直觉是基本的、便宜的，甚至免费的选择都是为普通的傻瓜准备的，有简单的需求和简单的问题。很少有人有勇气承认他们的生活和工作并没有那么复杂。
+
+If you decide tomorrow that all this mass and weight and expense isn't worth it, it won't be. It's that simple and that hard.  
+
+>如果你明天决定所有这些质量、重量和费用都不值得，那它就不会值得。就是这么简单，就是这么难。
 ## 🛸开源项目
 
 #### [keyviz](https://github.com/mulaRahul/keyviz)
