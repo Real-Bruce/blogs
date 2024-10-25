@@ -10,6 +10,9 @@
 
 学会学习
 
+#### [merchants of complity](https://world.hey.com/dhh/merchants-of-complexity-4851301b)
+
+
 ## 🛸开源项目
 
 #### [keyviz](https://github.com/mulaRahul/keyviz)
@@ -44,3 +47,6 @@
 文中介绍了一个可以帮你找到出现问题提交的 git 命令 `git bisect` 的用法，这个命令非常有用，可以帮你快速找到存在问题的提交记录。
 类似的文章阮老师也过：[# git bisect 命令教程](https://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
 还有官方的文档：[git bisect](https://git-scm.com/docs/git-bisect/zh_HANS-CN)
+
+#### [visual data structures cheat sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
+一篇介绍数据结构的文章，文中附带了大量的数据结构展示图
