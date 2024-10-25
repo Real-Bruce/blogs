@@ -15,6 +15,12 @@
 #### [keyviz](https://github.com/mulaRahul/keyviz)
 多平台开源的键盘按下提示项目，实时显示当前按下的按键，很适合做录屏演示。
 
+#### [wechat article exporter](https://github.com/jooooock/wechat-article-exporter)
+开源的公众号文章导出工具，支持私有化部署，可用来批量下载公众号文章。
+
+#### [newsnow](https://github.com/ourongxing/newsnow)
+开源的今日热榜类网站，
+
 ## 🚀网站&工具
 
 #### [ai tts](https://d1tools.com/tools/ai-tts/)
@@ -35,6 +41,6 @@
 ## ⛵资料&博文
 
 #### [debugging till dawn](https://www.mikebuss.com/posts/debugging-till-dawn)
-文中介绍了一个可以帮你找到出现问题提交的 git 命令 `git bisect` 的用法，这个命令非常有用，可以帮你快速找到存在问题的提交。
+文中介绍了一个可以帮你找到出现问题提交的 git 命令 `git bisect` 的用法，这个命令非常有用，可以帮你快速找到存在问题的提交记录。
 类似的文章阮老师也过：[# git bisect 命令教程](https://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
 还有官方的文档：[git bisect](https://git-scm.com/docs/git-bisect/zh_HANS-CN)
