@@ -33,3 +33,8 @@
 一个好玩的chrome插件，可以让你对当前网页随意操作，具体的使用方式可以看这篇文章：[# 这个AI插件，想让你体验在浏览器上开挂的感觉。](https://mp.weixin.qq.com/s/gA_IGG-1jbHTlgrTZkiC6A)
 
 ## ⛵资料&博文
+
+#### [debugging till dawn](https://www.mikebuss.com/posts/debugging-till-dawn)
+文中介绍了一个可以帮你找到出现问题提交的 git 命令 `git bisect` 的用法，这个命令非常有用，可以帮你快速找到存在问题的提交。
+类似的文章阮老师也过：[# git bisect 命令教程](https://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
+还有官方的文档：[git bisect](https://git-scm.com/docs/git-bisect/zh_HANS-CN)
