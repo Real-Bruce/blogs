@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/Real-Bruce/blogs/image?description=1&font=Rokkitt&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light" alt="blogs" width="640" height="320" />
+![blogs](https://socialify.git.ci/Real-Bruce/blogs/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)
 
 ## Bruce's Blogs, Write down thoughts and collect and organize resources
 
@@ -13,6 +13,9 @@
 #### [website](/archives/website.md): interesting website or web tools
 
 ### 📰weekly: Records the resources collected each week
+
+#### 20241028-20241103 [Vol.019](/weekly/Vol.019.md)
+#### 20241021-20241027 [Vol.018 learning to learn](/weekly/Vol.018.md)
 
 #### 20241014-20241020 [Vol.017](/weekly/Vol.017.md)
 
