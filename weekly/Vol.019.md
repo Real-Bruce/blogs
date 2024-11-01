@@ -24,6 +24,10 @@
 
 #### [open books hong kong](https://openbookshongkong.com/book/)
 先导计划由香港中文大学、香港城市大学和香港大学三家高等教育院校的图书馆与出版社联合发起，是香港首个开放取用（open access）图书计划。本计划将陆续推出三家大学出版社出版的中文学术著作，免费开放予公众阅览、下载、取用和传播。
+
+#### [fresco](https://www.adobe.com/products/fresco.html)
+Adobe出品的手绘画图工具，可以免费使用高级功能需要付费，支持跨平台使用。
+
 ## ⛵资料&博文
 #### [battery university](https://batteryuniversity.com/articles)
 一本关于电池的书籍，向你解释关于电池的知识。
