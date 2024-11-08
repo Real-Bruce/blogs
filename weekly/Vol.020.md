@@ -16,7 +16,7 @@
 开源的打字联系平台，界面友好练习内容丰富，且具备专业的数据分析和实时反馈系统。
 
 #### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
-跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)，目前已经上架chrome插件市场
+跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)，目前已经上架[Chrome 应用商店](https://chromewebstore.google.com/detail/eaoelafamejbnggahofapllmfhlhajdd)，支持提交恰饭片段，帮助自己和他人节省时间。
 
 #### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
 开源的桌面下载器，支持Windows/Linux平台，支持浏览器插件扩展
