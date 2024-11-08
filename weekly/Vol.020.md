@@ -23,3 +23,6 @@ google开发的文件类型检测工具，支持传入文件检测文件的类�
 一款在电脑本地运行的私有软件。一键开启多语种实时翻译，管理音频、译文和时间轴，即使身处没有网络的教室、地铁、商场或户外。不收集数据，保护隐私。
 
 ## ⛵资料&博文
+
+#### [系统设计面试 - 内幕指南](https://learning-guide.gitbook.io/system-design-interview)
+《System Design Interview: An Insider’s Guide》书中文翻译版，介绍如何设计不同用途的系统
