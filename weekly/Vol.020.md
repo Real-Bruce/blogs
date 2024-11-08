@@ -14,6 +14,9 @@
 
 ## 🚀网站&工具
 #### [tempmail100](https://tempmail100.com/)
-临时邮箱服务，提供网页和IOS程序
+临时邮箱服务，提供网页和IOS程序。
+
+#### [magika](https://google.github.io/magika/)
+google开发的文件类型检测工具，支持传入文件检测文件的类型，提供网页版和命令行版。
 
 ## ⛵资料&博文
