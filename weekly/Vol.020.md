@@ -12,6 +12,10 @@
 #### [dazhengs](https://github.com/dazhengs/tools)
 开源的纯前端在线加密/解密工具箱，可以离线部署，支持文件加密/解密、对称加密与解密、非对称加密与解密、签名与验签、哈希计算等
 
+#### [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top)
+开源的打字联系平台，界面友好练习内容丰富，且具备专业的数据分析和实时反馈系统。
+
+
 ## 🚀网站&工具
 #### [tempmail100](https://tempmail100.com/)
 临时邮箱服务，提供网页和IOS程序。
