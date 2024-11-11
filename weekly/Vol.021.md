@@ -12,6 +12,6 @@
 
 ## ⛵资料&博文
 
-#### [ES分词器介绍](https://www.cnblogs.com/wupeixuan/p/12444528.html)
+#### [ElasticSearch](https://www.cnblogs.com/wupeixuan/p/12444528.html)
 
 一篇介绍ES分词器的文章，
