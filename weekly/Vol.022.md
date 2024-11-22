@@ -10,6 +10,10 @@
 #### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 开源的安卓自动点击软件，提供基于图像识别技术的连续点击功能，同时也支持传统的连续点击功能。
 
+#### [maxun](https://github.com/getmaxun/maxun)
+开源的无代码网页数据提取项目，帮你快速构建针对网站的
+
+
 ## 🚀网站&工具
 
 ## ⛵资料&博文
