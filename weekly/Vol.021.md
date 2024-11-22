@@ -15,10 +15,13 @@
 开源免费的在线简历制作工具，使用LaTex构建简历，成品效果很惊艳。
 
 #### [anchordotdev](https://github.com/anchordotdev/cli)
-
+一个为本地开发项目配置https的
 
 
 ## 🚀网站&工具
+
+#### [soundbox](https://soundbox.fun/)
+可以听白噪音的网站
 
 ## ⛵资料&博文
 
