@@ -77,4 +77,4 @@ If you decide tomorrow that all this mass and weight and expense isn't worth it,
 还有官方的文档：[git bisect](https://git-scm.com/docs/git-bisect/zh_HANS-CN)
 
 #### [visual data structures cheat sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
-一篇介绍数据结构的文章，文中附带了大量的数据结构展示图
+一篇介绍数据结构的文章，文中附带了大量的数据结构展示图。

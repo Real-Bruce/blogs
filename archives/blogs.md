@@ -1,28 +1,46 @@
 # blogs
 
-## [47]20241118-20241124
+## 【47】20241118-20241124
 #### [Emoji的隐藏玩法大揭秘](https://mp.weixin.qq.com/s/DRkamHqAba29TMcFIFy5wQ)
 一篇关于Emoji的文章，介绍不同地区文化对Emoji的理解，以及一些常见的Emoji的历史渊源和文化背景，很有趣的一篇文章。
 
-## [46]20241111-20241117
+## 【46】20241111-20241117
 #### [ElasticSearch分词器，了解一下？](https://www.cnblogs.com/wupeixuan/p/12444528.html)
 
 一篇介绍ES分词器的文章，对常用的分词器做了举例说明，考试的时候就考到了，可惜没有早点看到这篇文章。
 
-## [45]20241104-20241110
+## 【45】20241104-20241110
+#### [系统设计面试 - 内幕指南](https://learning-guide.gitbook.io/system-design-interview)
+《System Design Interview: An Insider’s Guide》书中文翻译版，介绍如何设计不同用途的系统
 
-## [44]20241028-20241104
+#### [auth wiki](https://auth.wiki/)
+收录各种与身份验证、授权和身份管理相关的条目，每个条目都做了详细的解释；
+
+## 【44】20241028-20241104
+#### [battery university](https://batteryuniversity.com/articles)
+一本关于电池的书籍，向你解释关于电池的知识。
+
+#### [自己动手写GIT](https://wyag-zh.hanyujie.xyz/)
+开源文档[write yourself a git](https://github.com/thblt/write-yourself-a-git)的中文翻译版，教你用python手写一个git，目的是通过构建一个包含 init、add、commit 和 log 等基本命令的基本版本，帮助读者理解 Git 的核心原理。
 
 ## [43]20241021-20241027
+#### [debugging till dawn](https://www.mikebuss.com/posts/debugging-till-dawn)
+文中介绍了一个可以帮你找到出现问题提交的 git 命令 `git bisect` 的用法，这个命令非常有用，可以帮你快速找到存在问题的提交记录。
+类似的文章阮老师也过：[# git bisect 命令教程](https://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
+还有官方的文档：[git bisect](https://git-scm.com/docs/git-bisect/zh_HANS-CN)
 
-## [42]202410
+#### [visual data structures cheat sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
+一篇介绍数据结构的文章，文中附带了大量的数据结构展示图。
+
+## [42]20241014-20241026
+#### [凤凰架构](https://icyfenix.cn/)
+讲解分布式架构的书籍，帮你理解架构的演进和分布式系统中需要关注的问题，作者是周志平老师，也就是大名鼎鼎的《深入理解JVM虚拟机》的作者，很值得读一读。
 
 ## [41]20241007-20241013
 
 #### [电商系统-优惠券叠加规则、优惠分摊介绍](https://www.woshipm.com/operate/4191246.html)
 
 一篇介绍电商系统优惠券的文章，帮你梳理清楚电商系统内优惠券的叠加使用、优惠分摊计算逻辑，很好的一篇文章。
-
 
 ## [40]20240930-20241006
 
@@ -35,8 +53,6 @@
 作者在文中提到了很多好用的win软件，并且贴心的提供了下载链接。
 
 作者还写了计算机入门相关的系列博客也很推荐查看[《你缺失的那门计算机课》](https://www.criwits.top/missing/)
-
-
 
 ## [39]20240923-20240929
 
@@ -245,10 +261,6 @@ git官方推荐的git使用书籍，认真读完会增加你对git的理解和�
 #### [《高并发的哲学》](https://pphc.lvwenhan.com/)
 
 我们将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCIe 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。
-
-全书共 167956 字。
-
-
 
 ## [26]20240624-20240628
 

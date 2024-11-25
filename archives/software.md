@@ -17,6 +17,48 @@
 #### [anchordotdev](https://github.com/anchordotdev/cli)
 一个为本地项目配置https的的开源项目，保持本地开发环境和线上环境的一致性。
 
+## [45]20241104-20241110
+#### [dazhengs](https://github.com/dazhengs/tools)
+开源的纯前端在线加密/解密工具箱，可以离线部署，支持文件加密/解密、对称加密与解密、非对称加密与解密、签名与验签、哈希计算等
+
+#### [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top)
+开源的打字联系平台，界面友好练习内容丰富，且具备专业的数据分析和实时反馈系统。
+
+#### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
+跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)，目前已经上架[Chrome 应用商店](https://chromewebstore.google.com/detail/eaoelafamejbnggahofapllmfhlhajdd)，支持提交恰饭片段，帮助自己和他人节省时间。
+
+#### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
+开源的桌面下载器，支持Windows/Linux平台，支持浏览器插件扩展
+
+## [44]20241028-20241104
+#### [web archive](https://github.com/Ray-D-Song/web-archive)
+基于Cloudflarede的免费网页归档和分享工具，可以将你收藏的网站以快照的形式保存到Cloudflare
+
+#### [bookmarks artist](https://github.com/liujuntao123/bookmarks-artist)
+开源的chrome浏览器书签查看工具，提供查看的样式还挺好看。
+
+#### [pgmanage](https://github.com/commandprompt/pgmanage)
+支持跨平台的 Postgres 数据库的桌面客户端，提供图形界面。
+
+## [43]20241021-20241027
+#### [keyviz](https://github.com/mulaRahul/keyviz)
+多平台开源的键盘按下提示项目，实时显示当前按下的按键，很适合做录屏演示。
+
+#### [wechat article exporter](https://github.com/jooooock/wechat-article-exporter)
+开源的公众号文章导出工具，支持私有化部署，可用来批量下载公众号文章。
+
+## [42]20241014-20241026
+#### [immich](https://github.com/immich-app/immich)
+自托管照片视频管理工具，部署后支持网页和手机端访问
+
+#### [noteshub](https://about.noteshub.app/)
+markdown笔记管理软件，支持多端查看，可以插入图表、画板、流程图、公式甚至乐谱，而且支持笔记同步GitHub。
+
+#### [facker server](https://github.com/Ray-D-Song/faker-server)
+基于 Faker.js 的 mock 服务器。 使用 MongoDB 作为数据存储，包含一个前端管理页面，可以方便地管理 mock 数据。
+
+#### [notion 2 md demo](https://github.com/thinkerchan/notion2md)
+一个notion配合GitHub工作流的实例项目，利用github工作流将notion笔记转化为md格式，并保存到github仓库。
 
 ## [41]20241007-20241013
 

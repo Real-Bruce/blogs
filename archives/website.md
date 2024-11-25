@@ -20,6 +20,45 @@
 #### [idonthavespotify](https://idonthavespotify.donado.co/)
 输入 Spotify 的音乐链接，这个网站就会查找替代音源（比如 Youtube）
 
+## [45]20241104-20241110
+#### [tempmail100](https://tempmail100.com/)
+临时邮箱服务，提供网页和IOS程序。
+
+#### [magika](https://google.github.io/magika/)
+google开发的文件类型检测工具，支持传入文件检测文件的类型，提供网页版和命令行版。
+
+#### [AI Hear](https://hear.thucydides.net/zh-cn/)
+一款在电脑本地运行的私有软件。一键开启多语种实时翻译，管理音频、译文和时间轴，即使身处没有网络的教室、地铁、商场或户外。不收集数据，保护隐私。
+
+## [44]20241028-20241104
+#### [iCraft Editor](https://icraft.gantcloud.com/zh-CN)
+在线绘制3D架构图的工具，可以免费使用。
+
+#### [open books hong kong](https://openbookshongkong.com/book/)
+先导计划由香港中文大学、香港城市大学和香港大学三家高等教育院校的图书馆与出版社联合发起，是香港首个开放取用（open access）图书计划。本计划将陆续推出三家大学出版社出版的中文学术著作，免费开放予公众阅览、下载、取用和传播。
+
+#### [fresco](https://www.adobe.com/products/fresco.html)
+Adobe出品的手绘画图工具，可以免费使用高级功能需要付费，支持跨平台使用。
+
+## [43]20241021-20241027
+#### [ai tts](https://d1tools.com/tools/ai-tts/)
+文字转语音工具，利用AI将文字转化成语音的工具，支持74种语言318种声音很适合做配音。
+
+#### [how i experience web today](https://how-i-experience-web-today.com/)
+整合你在网上遇到的各种网站打扰，十分真实非常让人高血压。
+
+#### [open slum](https://open-slum.org/)
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna’s Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。避免你访问到钓鱼网站。
+
+## [42]20241014-20241026
+#### [explainshell](https://www.explainshell.com/)
+输入shell命令解析每段参数的含义，帮你理解shell脚本的意思。
+
+#### [devtool](https://devtool.tech/for-star)
+一些开发中常用的网页工具集合，在提供转化结果的同时会附带计算过程，帮助你更好的理解进制转化、哈希编码等等操作的具体过程。
+
+#### [surf](https://dns.surf/)
+DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 ## [41]20241007-20241013
 
