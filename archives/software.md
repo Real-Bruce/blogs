@@ -1,5 +1,23 @@
 # software
 
+## [47]20241118-20241124
+#### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+开源的安卓自动点击软件，提供基于图像识别技术的连续点击功能，同时也支持传统的连续点击功能。
+
+#### [maxun](https://github.com/getmaxun/maxun)
+开源的无代码网页数据提取项目，帮你快速构建针对网站的数据抓取任务。
+
+## [46]20241111-20241117
+#### [beautifully crafted animated icons](https://icons.pqoqubbw.dev/)
+开源的动画icon图标库，让你的网站交互变得更有有趣一点。
+
+#### [resumake](https://github.com/saadq/resumake.io)
+开源免费的在线简历制作工具，使用LaTex构建简历，成品效果很惊艳。
+
+#### [anchordotdev](https://github.com/anchordotdev/cli)
+一个为本地项目配置https的的开源项目，保持本地开发环境和线上环境的一致性。
+
+
 ## [41]20241007-20241013
 
 #### [copi](https://github.com/s1ntoneli/Copi)

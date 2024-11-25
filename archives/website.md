@@ -1,5 +1,26 @@
 # website
 
+## [47]20241117-20241124
+#### [Emoji百科](https://www.emojiall.com/)
+可以在这个网站搜索Emoji的来历和解释，还能帮你找到相关的Emoji表情，很有趣的一个网站。
+
+#### [your hacker news](https://yourhackernews.com/)
+以报纸形式展示的hacker news，这样看新闻更有感觉，哈哈哈。
+
+#### [best free fonts](https://bestfreefonts.com/)
+开源免费的字体，网站支持在线查看字体效果，并提供了获得字体的链接，目前有190多种自字体。
+
+#### [who is making money](https://whoismaking.money/)
+通过分析 Stripe 支付流量，来展示各个热门域名的流量，帮你找到一些创业的思路。
+
+## [46]20241111-20241117
+#### [soundbox](https://soundbox.fun/)
+可以听白噪音的网站，网站提供了很多种类的白噪音，还可以将不同的白噪音混合起来。
+
+#### [idonthavespotify](https://idonthavespotify.donado.co/)
+输入 Spotify 的音乐链接，这个网站就会查找替代音源（比如 Youtube）
+
+
 ## [41]20241007-20241013
 
 #### [nothing](https://nothing.mvze.net/)
