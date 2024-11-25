@@ -1,5 +1,49 @@
 # article
 
+## [45]
+
+## [44]20241028-20241103
+本周偷懒了……
+
+## [43]20241021-20241027
+#### [learning to learn](https://kevin.the.li/posts/learning-to-learn/)
+
+学会学习比一直学习更重要，因为效率为 25% 的 40 小时与效率为 80% 的 12.5 小时相同，学会学习就是给自己节省时间。
+
+When you’re starting something new, the most important thing is knowing what to learn.  
+
+> 当你开始新事物时，最重要的是知道要学习什么。
+
+Followed by unpacking an optimal learning flow:  
+接下来是优化学习流程：
+
+1. Very quickly identify what the foundational knowledge is.  
+    非常快速地确定基础知识是什么。
+2. Build a personal curriculum to become an expert and avoid the trap of the [expert beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/).  
+    建立个人课程以成为专家并避免[专家初学者](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)的陷阱。
+3. Sprint hard the first 15-20 hours to impress initial memory, then decelerate to a more regular pace.  
+    在最初的 15-20 小时内努力冲刺以打动初始记忆，然后减速到更规律的速度
+
+## [42]20241014-20241020
+
+#### [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
+作者在文中提出了一个有意思的观点，高级初学者也就是在初级阶段的得到足够的反馈后便不再向下一个阶段进发，因为继续改进进步下去的速度没有初学者阶段速度快，也就是我们常说的瓶颈，并且大多数人会放弃继续进步于是便成为了“高级初学者”。文章让我开始反思自己学习获取技能的时候是否也是在“高级初学者”的时候放弃进步，还是应当找对方向继续突破，以下是我摘抄的一些原文：
+
+技能获取的几个阶段：
+1. Novice 新手
+2. Advanced Beginner 高级初学者
+3. Competent 主管
+4. Proficient 熟练
+5. Expert 专家
+
+As such, Advanced Beginners can break one of two ways: they can move to Competent and start to grasp the big picture and their place in it, or they can ‘graduate’ to Expert Beginner by assuming that they’ve graduated to Expert.  
+
+>因此，高级初学者可以打破以下两种方式之一：他们可以转变为 Competent 并开始掌握大局和他们在其中的位置，或者他们可以通过假设他们已经毕业成为 Expert 来“毕业”成为 Expert 初学者。
+
+But what happens when the Advanced Beginner doesn’t care enough to interact with the broader community and for whatever reason doesn’t have much interaction with peers? The Daily WTF [is filled](http://thedailywtf.com/Articles/The-Slowdown.aspx) with [such examples](http://thedailywtf.com/Articles/Batch-of-Trouble.aspx).  
+
+>但是，如果 Advanced Beginner 不够关心与更广泛的社区互动，并且出于某种原因没有与同行进行太多互动，会发生什么呢？Daily WTF [充满了](http://thedailywtf.com/Articles/The-Slowdown.aspx)[这样的例子](http://thedailywtf.com/Articles/Batch-of-Trouble.aspx)。
+
 ## [41]20241007-20241013
 
 -_-!本周没发现好的文章
