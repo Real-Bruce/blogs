@@ -4,8 +4,6 @@
 > 
 > 周数：第32周
 
-
-
 ## 📜有价值的文章
 
 #### [turning the tables on ai](https://ia.net/topics/turning-the-tables-on-ai)
@@ -18,15 +16,11 @@ With every thought we outsource, we miss out on a chance to grow. Love it or hat
 
 > 我们把每一个想法都外包出去，就错过了成长的机会。爱也好，恨也罢，人工智能都会留下来。无论我们如何使用它，我们都需要思考更多，而不是更少。
 
-
-
 ## 🛸开源项目
 
 #### [Quick Recorder](https://github.com/lihaoyun6/QuickRecorder)
 
 MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移动设备等; 支持窗口声音内录, 鼠标高亮, 隐藏桌面文件等功能。
-
-
 
 ## 🚀网站&工具
 
@@ -35,8 +29,6 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 nvidia提供的免费大模型调用平台，支持最新的 Llama 3.1 405B 等模型免费调用。
 
 ![](./images/image-20240807143741356.png)
-
-
 
 #### [old web today](https://oldweb.today/#19960101/http://geocities.com/)
 
@@ -47,8 +39,6 @@ nvidia提供的免费大模型调用平台，支持最新的 Llama 3.1 405B 等�
 #### [实时黄金价格](https://goldprice.fun/)
 
 这个网站整理了各个平台当天的黄金价格，适合做黄金理财的小伙伴。
-
-
 
 #### [有用经验](https://yyjingyan.com/)
 
@@ -68,19 +58,13 @@ TIME中文解读版《解读时代杂志》总主笔。第一名考上台大外�
 
 旋老师投入英语教学多年，深入了解中文读者学习英语的困难。为了帮助华人英文学习者学好英文，特别设计出一系列《深入浅出》、《只要理解，不要公式》的单元，如《语法俱乐部》、《时代经典用宇》、《字源大挪移》、《修辞高峰会》等。在《解读时代杂志》连载，与读者分享他的学习方法及心得。
 
-
-
 #### [《unix-and-linux-sysadmin-notes》](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes)
 
 unix和Linux系统管理手册，这是原书的开源版本，可以阅读了解一下。
 
-
-
 #### [《Vue编译原理揭秘》](https://vue-compiler.iamouyang.cn/)
 
 一本介绍Vuew3源码的书，书里不仅仅告诉你vue3的编译原理，更重要的是提供了一种Debug源码并搞懂问题的方法，掌握了方法自己也能顺畅的查看Vue3的源码。
-
-
 
 #### [架构师备考笔记](https://nekonull.me/posts/ruankao-architect/)
 

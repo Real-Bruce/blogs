@@ -14,25 +14,17 @@
 
 > “如果你做了其他人都在做的事情，你不应该对得到其他人得到的相同结果感到惊讶。除非你很幸运，否则做其他人都会做的事情可以确保平均结果。
 
-
-
 The most successful people in any field all play the long game. The long game isn’t particularly notable. It doesn’t attract a lot of attention. In fact, from the outside, the long game looks boring. The tiny advantages that accrue aren’t noticed until success becomes too obvious to ignore.
 
 > 任何领域最成功的人都在打持久战。这场漫长的博弈并不是特别引人注目。它并没有引起很多关注。事实上，从外面看，这场漫长的游戏看起来很无聊。在成功变得太明显而无法忽视之前，所积累的微小优势不会被注意到。
-
-
 
 Just as the accumulation of tiny advantages makes the future easier, the accumulation of tiny disadvantages makes the future harder.
 
 > 正如微小优势的积累让未来更轻松一样，微小劣势的积累也让未来更难。
 
-
-
 The first step in the long game is the hardest. You have to be willing to suffer a little today in order to make tomorrow just a little bit easier. And you have to be smart enough to know that just because you can’t see the tiny advantage you created doesn’t mean it’s not there.
 
 > 长期游戏的第一步是最困难的。你必须愿意今天受一点苦，才能让明天稍微轻松一点。你必须足够聪明，才能知道，仅仅因为你看不到你创造的微小优势并不意味着它不存在。
-
-
 
 #### [逃出大脑复杂系统的“死亡漩涡”](https://zhangke.space/%E9%80%83%E5%87%BA%E5%A4%A7%E8%84%91%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%AD%BB%E4%BA%A1%E6%BC%A9%E6%B6%A1/)
 
@@ -40,10 +32,6 @@ The first step in the long game is the hardest. You have to be willing to suffer
 
 1. 立即从这种状态中脱离处理，也就是不去想不去做，去做点别的事，别让情绪一直被放大扩散，导致你的大脑陷入其中；
 2. 当自己在想刷手机和阅读之间纠结不定时，不如定个小目标，想玩手机之前必须先阅读2分钟，2分钟并不长但是能让你完成你的阅读目标，慢慢的你也能完全从刷手机的状态中解脱出来。
-
-
-
-
 
 #### 🛸开源项目
 
@@ -57,21 +45,15 @@ The first step in the long game is the hardest. You have to be willing to suffer
 
 ![image-20240802085808048](./images/image-20240802085808048.png)
 
-
-
 #### [x-file-storage](https://github.com/dromara/x-file-storage)
 
 开源的Java项目，一行代码帮你实现文件上传操作，支持目前主流的文件存储服务，如阿里云OSS、华为云OBS、腾讯云COS、FTP等等，很实用的一个开源项目。
-
-
 
 ## 🚀网站&工具
 
 #### [jpghi](https://jpghi.com/)
 
 无损放大图片的网站，可以把为模糊不清的图片增加细节，提升画面质感，免费版本处理的比较慢。
-
-
 
 #### [alternativeto](https://alternativeto.net/)
 
@@ -84,8 +66,6 @@ The first step in the long game is the hardest. You have to be willing to suffer
 #### [reversing](https://0xinfection.github.io/reversing/)
 
 一本关于逆向工程的书，内容包含x86、x64以及ARM32和ARM64架构的平台，很适合想要了解或者想深入学习逆向工程的小伙伴。
-
-
 
 #### [notion guide](https://notionchina.co/guide/)
 

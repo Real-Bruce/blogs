@@ -14,15 +14,9 @@ In life, you can’t base your goals on how other people will respond to your ac
 
 > 在生活中，你不能将你的目标建立在其他人对你的成就有何反应的基础上。这就是为什么将你的行动建立在是否能找到工作的基础上是愚蠢的事情。相反，你的行动必须基于它们如何帮助你自我发展和成长。
 
-
-
 #### [steam-engine-origins](https://blog.rootsofprogress.org/steam-engine-origins)
 
 蒸汽机的发展历史，介绍它的发明和制造过程，配有详细的可交互动画。
-
-
-
-
 
 ## 🛸开源项目
 
@@ -32,15 +26,11 @@ In life, you can’t base your goals on how other people will respond to your ac
 
 ![image-20240712151348763](./images/image-20240712151348763.png)
 
-
-
 ## 🚀网站&工具
 
 #### [opkfc](https://www.opkfc.com/list)
 
 这个网站提供一些共享的GPT账号，免费使用GPT
-
-
 
 #### [life](https://oimo.io/works/life/)
 
@@ -48,15 +38,11 @@ In life, you can’t base your goals on how other people will respond to your ac
 
 小建议：别缩放的太快，要不然会头晕😵
 
-
-
 #### [svg app](https://svgl.app/)
 
 常见SVG的集合，包含公司、软件、语言等等
 
 ![image-20240712155025489](./images/image-20240712155025489.png)
-
-
 
 #### [shotki](https://shotki.app/)
 
@@ -64,25 +50,17 @@ In life, you can’t base your goals on how other people will respond to your ac
 
 ![image-20240708163328765](./images/image-20240708163328765.png)
 
-
-
 #### [bananabin](https://bananabin.app/)
 
 一款MAC软件，给你的废纸篓添加苍蝇乱飞效果，可以设置废纸篓内文件超过大小后显示特效，提示你及时清理废纸篓。
 
 ![image-20240708162801645](./images/image-20240708162801645.png)
 
-
-
-
-
 ## ⛵资料&博文
 
 #### [raft zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 
 raft分布式一致算法的中文翻译版，是目前分布式系统内比较常用的一种算法，其核心就是领导者选举和日志复制。Raft 算法能很好地处理绝大部分场景的一致性问题，推荐大家在设计分布式系统时，优先考虑 Raft 算法。此处附加[英文原版地址](https://raft.github.io/)
-
-
 
 #### [与程序员相关的CPU缓存知识](https://coolshell.cn/articles/20793.html)
 

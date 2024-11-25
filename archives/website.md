@@ -1,66 +1,90 @@
 # website
 
-## [47]20241117-20241124
+## 【47】20241117-20241124
+
 #### [Emoji百科](https://www.emojiall.com/)
+
 可以在这个网站搜索Emoji的来历和解释，还能帮你找到相关的Emoji表情，很有趣的一个网站。
 
 #### [your hacker news](https://yourhackernews.com/)
+
 以报纸形式展示的hacker news，这样看新闻更有感觉，哈哈哈。
 
 #### [best free fonts](https://bestfreefonts.com/)
+
 开源免费的字体，网站支持在线查看字体效果，并提供了获得字体的链接，目前有190多种自字体。
 
 #### [who is making money](https://whoismaking.money/)
+
 通过分析 Stripe 支付流量，来展示各个热门域名的流量，帮你找到一些创业的思路。
 
-## [46]20241111-20241117
+## 【46】20241111-20241117
+
 #### [soundbox](https://soundbox.fun/)
+
 可以听白噪音的网站，网站提供了很多种类的白噪音，还可以将不同的白噪音混合起来。
 
 #### [idonthavespotify](https://idonthavespotify.donado.co/)
+
 输入 Spotify 的音乐链接，这个网站就会查找替代音源（比如 Youtube）
 
-## [45]20241104-20241110
+## 【45】20241104-20241110
+
 #### [tempmail100](https://tempmail100.com/)
+
 临时邮箱服务，提供网页和IOS程序。
 
 #### [magika](https://google.github.io/magika/)
+
 google开发的文件类型检测工具，支持传入文件检测文件的类型，提供网页版和命令行版。
 
 #### [AI Hear](https://hear.thucydides.net/zh-cn/)
+
 一款在电脑本地运行的私有软件。一键开启多语种实时翻译，管理音频、译文和时间轴，即使身处没有网络的教室、地铁、商场或户外。不收集数据，保护隐私。
 
-## [44]20241028-20241104
+## 【44】20241028-20241104
+
 #### [iCraft Editor](https://icraft.gantcloud.com/zh-CN)
+
 在线绘制3D架构图的工具，可以免费使用。
 
 #### [open books hong kong](https://openbookshongkong.com/book/)
+
 先导计划由香港中文大学、香港城市大学和香港大学三家高等教育院校的图书馆与出版社联合发起，是香港首个开放取用（open access）图书计划。本计划将陆续推出三家大学出版社出版的中文学术著作，免费开放予公众阅览、下载、取用和传播。
 
 #### [fresco](https://www.adobe.com/products/fresco.html)
+
 Adobe出品的手绘画图工具，可以免费使用高级功能需要付费，支持跨平台使用。
 
-## [43]20241021-20241027
+## 【43】20241021-20241027
+
 #### [ai tts](https://d1tools.com/tools/ai-tts/)
+
 文字转语音工具，利用AI将文字转化成语音的工具，支持74种语言318种声音很适合做配音。
 
 #### [how i experience web today](https://how-i-experience-web-today.com/)
+
 整合你在网上遇到的各种网站打扰，十分真实非常让人高血压。
 
 #### [open slum](https://open-slum.org/)
+
 `SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna’s Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。避免你访问到钓鱼网站。
 
-## [42]20241014-20241026
+## 【42】20241014-20241026
+
 #### [explainshell](https://www.explainshell.com/)
+
 输入shell命令解析每段参数的含义，帮你理解shell脚本的意思。
 
 #### [devtool](https://devtool.tech/for-star)
+
 一些开发中常用的网页工具集合，在提供转化结果的同时会附带计算过程，帮助你更好的理解进制转化、哈希编码等等操作的具体过程。
 
 #### [surf](https://dns.surf/)
+
 DNS解析测试，检查你的域名在全球互联网的解析情况。
 
-## [41]20241007-20241013
+## 【41】20241007-20241013
 
 #### [nothing](https://nothing.mvze.net/)
 
@@ -83,9 +107,7 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 实时给Hacker News文章链接生成中文摘要，帮你快速浏览感兴趣的科技新闻。黑客新闻官网：[hacker news](https://news.ycombinator.com/)
 
-
-
-## [40]20240930-20241006
+## 【40】20240930-20241006
 
 #### [有用经验](https://yyjingyan.com/)
 
@@ -107,9 +129,7 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 法律条文、案例在线搜索工具输入案情可以找到所有相关案例，很好用的法律法规搜索类工具。
 
-
-
-## [39]20240923-20240929
+## 【39】20240923-20240929
 
 #### [they can talk](https://theycantalk.com/)
 
@@ -123,22 +143,17 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 这个网站镜像同步了国外常用的几个镜像仓库，方便拉取镜像。
 
-
-
-## [38]20240916-20240922
+## 【38】20240916-20240922
 
 #### [xnapp](https://xnapper.com/app)
 
 截图美化工具，可以给你的截图添加各种机器的外壳，比如imac、mac book、ipad等等
 
-
-
-## [37]20240909-20240915
+## 【37】20240909-20240915
 
 #### [分歧解决机](https://www.pingli.app/)
 
 输入两人的分歧，让7个AI来投票裁决，很有意思。
-
 
 #### [fnnas](https://fnnas.com/)
 
@@ -156,9 +171,7 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 基于homebrew构建的MAC 软件管理应用，可用来安装新应用，也可以管理已经安装的应用，可以方便的安装配置开发环境，且支持使用本地已安装的homebrew。
 
-
-
-## [36]20240902-20240908
+## 【36】20240902-20240908
 
 #### [dns iui im](https://dns.iui.im/)
 
@@ -168,9 +181,7 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 这个网站每天收集支持远程办公的岗位，适合找兼职的时候看一看.
 
-
-
-## [35]20240826-20240901
+## 【35】20240826-20240901
 
 #### [notion exporter](https://notionexporter.com/)
 
@@ -184,9 +195,7 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 支持关键词搜索的emoj网站，方便快速找到符合情景的emoj，支持中文搜索。
 
-
-
-## [34]20240819-20240825
+## 【34】20240819-20240825
 
 #### [freaky font generator](https://freakyfontgenerator.top/)
 
@@ -196,7 +205,7 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 免费的AI在线聊天工具，目前支持GPT-4o和Claude3，无需登陆可以直接发起会话。
 
-## [33]20240812-20240818
+## 【33】20240812-20240818
 
 #### [surf](https://www.logo.surf/)
 
@@ -204,15 +213,11 @@ DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 ![](../weekly/images/image-20240816091341618.png)
 
-
-
 #### [decohack](https://decohack.com/)
 
 每日 Product Hunt 热门产品的中文榜单，可以帮你发现最近热门的独立开发产品。[代码开源](https://github.com/ViggoZ/producthunt-daily-hot)。
 
 ![](../weekly/images/image-20240816093053372.png)
-
-
 
 #### [svgviewer](https://www.svgviewer.dev/)
 
@@ -220,11 +225,7 @@ SVG 图标的搜索引擎，并且提供可视化编辑器，允许你对源文�
 
 ![](../weekly/images/image-20240816092633852.png)
 
-
-
-
-
-## [32]20240805-20240811
+## 【32】20240805-20240811
 
 #### [nvidia explore](https://build.nvidia.com/explore/discover)
 
@@ -248,9 +249,7 @@ nvidia提供的免费大模型调用平台，支持最新的 Llama 3.1 405B 等�
 
 ![image-20240807142701036](../weekly/images/image-20240807142701036.png)
 
-
-
-## [31]20240729-20240804
+## 【31】20240729-20240804
 
 #### [jpghi](https://jpghi.com/)
 
@@ -262,7 +261,7 @@ nvidia提供的免费大模型调用平台，支持最新的 Llama 3.1 405B 等�
 
 ![](../weekly/images/image-20240729155847001.png)
 
-## [30]20240722-20240728
+## 【30】20240722-20240728
 
 #### [GT Diagram Kit](https://www.figma.com/community/file/1015543187940120536/gt-diagram-kit-isometric-style)
 
@@ -280,9 +279,7 @@ Figma组件库，Isometric 风格的架构图资源，很适合用来画架构�
 
 ![](../weekly/images/image-20240726110821927.png)
 
-
-
-## [29]20240715-20240721
+## 【29】20240715-20240721
 
 #### [book.tsters](https://book.tstrs.me/)
 
@@ -302,9 +299,7 @@ github项目分类展示网站，在这里能找到很多好玩的github项目�
 
 ![image-20240719104232239](../weekly/images/image-20240719104232239.png)
 
-
-
-## [28]20240708-20240714
+## 【28】20240708-20240714
 
 #### [opkfc](https://www.opkfc.com/list)
 
@@ -334,9 +329,7 @@ github项目分类展示网站，在这里能找到很多好玩的github项目�
 
 ![image-20240708162801645](../weekly/images/image-20240708162801645.png)
 
-
-
-## [27]20240701-20240707
+## 【27】20240701-20240707
 
 #### [INTERNET ARCHIVE](https://web.archive.org/)
 
@@ -360,9 +353,7 @@ github项目分类展示网站，在这里能找到很多好玩的github项目�
 
 ![image-20240705111408348](../weekly/images/image-20240705111408348.png)
 
-
-
-## [26]20240624-20240630
+## 【26】20240624-20240630
 
 #### [查思专利](https://www.chaspark.com/#/patents)
 

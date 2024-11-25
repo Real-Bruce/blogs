@@ -7,6 +7,7 @@
 ## 📜有价值的文章
 
 #### [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
+
 作者在文中提出了一个有意思的观点，高级初学者也就是在初级阶段的得到足够的反馈后便不再向下一个阶段进发，因为继续改进进步下去的速度没有初学者阶段速度快，也就是我们常说的瓶颈，并且大多数人会放弃继续进步于是便成为了“高级初学者”。文章让我开始反思自己学习获取技能的时候是否也是在“高级初学者”的时候放弃进步，还是应当找对方向继续突破，以下是我摘抄的一些原文：
 
 技能获取的几个阶段：
@@ -27,29 +28,37 @@ But what happens when the Advanced Beginner doesn’t care enough to interact wi
 ## 🛸开源项目
 
 #### [immich](https://github.com/immich-app/immich)
+
 自托管照片视频管理工具，部署后支持网页和手机端访问
 
 #### [noteshub](https://about.noteshub.app/)
+
 markdown笔记管理软件，支持多端查看，可以插入图表、画板、流程图、公式甚至乐谱，而且支持笔记同步GitHub。
 
 #### [facker server](https://github.com/Ray-D-Song/faker-server)
+
 基于 Faker.js 的 mock 服务器。 使用 MongoDB 作为数据存储，包含一个前端管理页面，可以方便地管理 mock 数据。
 
 #### [notion 2 md demo](https://github.com/thinkerchan/notion2md)
+
 一个notion配合GitHub工作流的实例项目，利用github工作流将notion笔记转化为md格式，并保存到github仓库。
 
 ## 🚀网站&工具
 
 #### [explainshell](https://www.explainshell.com/)
+
 输入shell命令解析每段参数的含义，帮你理解shell脚本的意思。
 
 #### [devtool](https://devtool.tech/for-star)
+
 一些开发中常用的网页工具集合，在提供转化结果的同时会附带计算过程，帮助你更好的理解进制转化、哈希编码等等操作的具体过程。
 
 #### [surf](https://dns.surf/)
+
 DNS解析测试，检查你的域名在全球互联网的解析情况。
 
 ## ⛵资料&博文
 
 #### [凤凰架构](https://icyfenix.cn/)
+
 讲解分布式架构的书籍，帮你理解架构的演进和分布式系统中需要关注的问题，作者是周志平老师，也就是大名鼎鼎的《深入理解JVM虚拟机》的作者，很值得读一读。

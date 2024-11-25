@@ -24,8 +24,6 @@
 6. 庆祝完工，无论多小的项目都要庆祝一下，积极给与自己正反馈；
 7. 勇于承担责任，对外部的责任感会让我们推进项目时更有动力；
 
-
-
  “good enough” truly is perfect, especially when the alternative is never finishing at all.
 
 > ”足够好“是完美的，特别是当替代方案根本不可能完成的时候。
@@ -41,8 +39,6 @@ Each unfinished project can chip away at your confidence. Over time, you might s
 Every unfinished project takes up mental space. It’s like having dozens of browser tabs open — each one uses a little bit of your mental RAM, leaving you with less capacity for new ideas and focused work. This mental clutter can be a significant drain on your creativity and productivity.
 
 > 每个未完成的项目都会占用精神空间。这就像打开了几十个浏览器选项卡——每个选项卡都会占用你一点点大脑内存，让你缺乏新想法和专注工作的能力。这种精神混乱会严重消耗你的创造力和生产力。
-
-
 
 1. ✅**Define “Done” from the Start**: Before diving into a project, I’ll clearly define what “finished” looks like. What are the core features that constitute a complete project? I’ll write them down and resist the urge to expand this list as I go. This clarity helps prevent scope creep and gives me a clear target to aim for.
 
@@ -71,8 +67,6 @@ Every unfinished project takes up mental space. It’s like having dozens of bro
 
    > 👥**承担责任**：我会找到方法让自己对完成项目负责。这可能涉及寻找责任合作伙伴、对项目里程碑做出公开承诺或加入一群开发人员。外部责任为通常孤独的个人项目之旅增添了动力和支持。 
 
-
-
 ## 🛸开源项目
 
 #### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
@@ -87,14 +81,11 @@ md美化工具，可以自动优化md文件排版转换成公众号、今日头�
 
 黑客工具箱，一些常用黑客工具集合的仓库，包括匿名、信息收集、SQL注入、逆向工程等等工具包。
 
-
-
 ## 🚀网站&工具
 
 #### [分歧解决机](https://www.pingli.app/)
 
 输入两人的分歧，让7个AI来投票裁决，很有意思。
-
 
 #### [fnnas](https://fnnas.com/)
 
@@ -111,8 +102,6 @@ md美化工具，可以自动优化md文件排版转换成公众号、今日头�
 #### [applite](https://aerolite.dev/applite)
 
 基于homebrew构建的MAC 软件管理应用，可用来安装新应用，也可以管理已经安装的应用，可以方便的安装配置开发环境，且支持使用本地已安装的homebrew。
-
-
 
 ## ⛵资料&博文
 

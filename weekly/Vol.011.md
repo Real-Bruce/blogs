@@ -32,13 +32,9 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 - **灵活编排**：内置强大的工作流引擎，支持编排 AI 工作过程，满足复杂业务场景下的需求；
 - **无缝嵌入**：支持零编码快速嵌入到第三方业务系统，让已有系统快速拥有智能问答能力，提高用户满意度。
 
-
-
 #### [cloud dns exporter](https://github.com/eryajf/cloud_dns_exporter)
 
 这个开源工具从DNS提供商，自动获取域名解析，用来检查所有域名（含二级域名）的证书是否过期，目前项目已经支持腾讯云、阿里云和Godaddy。
-
-
 
 #### [immich](https://github.com/immich-app/immich)
 
@@ -46,15 +42,11 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071104.webp)
 
-
-
 ## 🚀网站&工具
 
 #### [dns iui im](https://dns.iui.im/)
 
 公共DNS解析服务器地址大全，网站提供了很多公开的DNS解析服务器地址，方便查询设置自己的DNS解析地址。
-
-
 
 #### [easy nomad](https://easynomad.cn/)
 
@@ -66,13 +58,9 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 一篇介绍如何使用GPT的文章，总结两个使用诀窍：让GPT帮你做事的时候把它当作刚入行的实习生，详细的描述设计和需求，步步引导。当你需要它来引导你学习的时候，把自己当作刚入行的实习生，不断的提问实践学习。
 
-
-
 #### [calculus beginners](https://math.mit.edu/~djk/calculus_beginners/)
 
 适合初学者的微积分学习指南，国外的教材比国内的更注重实践和引导，感觉会更容易理解一点。
-
-
 
 #### [how https works](https://howhttps.works/zh/)
 

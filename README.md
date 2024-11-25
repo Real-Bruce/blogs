@@ -13,6 +13,7 @@
 #### [website](/archives/website.md): interesting website or web tools
 
 ### 📰weekly: Records the resources collected each week
+
 #### 20241118-20241124 [Vol.022](./weekly/Vol.022.md)
 
 #### 20241111-20241117 [Vol.021](./weekly/Vol.021.md)
@@ -20,6 +21,7 @@
 #### 20241104-20241110 [Vol.020](./weekly/Vol.020.md)
 
 #### 20241028-20241103 [Vol.019](/weekly/Vol.019.md)
+
 #### 20241021-20241027 [Vol.018 learning to learn](/weekly/Vol.018.md)
 
 #### 20241014-20241020 [Vol.017](/weekly/Vol.017.md)
@@ -33,6 +35,7 @@
 #### 20240916-20240922 [Vol.013 why don't more people use linux](/weekly/Vol.013.md) 
 
 #### 20240909-20240915 [Vol.012 art of finishing](/weekly/Vol.012.md) 
+
 #### 20240902-20240908 [Vol.011 Four stages of competence ](/weekly/Vol.011.md)
 
 #### 20240826-20240901 [Vol.010 normal weekly](/weekly/Vol.010.md) 

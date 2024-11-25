@@ -4,8 +4,6 @@
 >
 > 周数：第38周
 
-
-
 ## 📜有价值的文章
 
 #### [why don't more people use linux?](https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53)
@@ -24,19 +22,15 @@ If junk food is so bad for you, why do so many people eat it?
 
 > 如果垃圾食品对你这么有害，为什么这么多人吃它？
 
-
 The world is full of free invitations to self-improvement that are ignored by most people most of the time. Putting it crudely, it's easier to be fat and ignorant in a world of cheap, empty calories than it is to be fit and informed. It's hard to resist the temptation of minimal effort.
 
 > 世界上到处都是免费的自我提升邀请，但大多数人大多数时候都忽略了这些邀请。粗略地说，在一个廉价、空卡路里的世界里，肥胖和无知比健康和知情更容易。很难抗拒最小努力的诱惑。
-
 
 But programmers are different. Or ought to be different. They're like firefighters. Fitness isn't the purpose of firefighting, but a prerequisite. You're a better firefighter when you have the stamina and strength to carry people out of a burning building on your shoulders than if you do not. So most firefighters work to be fit in order to serve that mission.
 
 > 但程序员不同。或者应该有所不同。他们就像消防员。健身不是消防的目的，而是先决条件。当你有耐力和力量把人从燃烧的建筑物中扛在肩上时，你是一名更好的消防员，而不是没有。因此，大多数消防员都为了完成这项任务而努力保持健康。
 
 Do somethings not because it is easy, but because it is worth it.
-
-
 
 ## 🛸开源项目
 
@@ -58,8 +52,6 @@ vscode插件，可以为常用的UI组件库如：element-ui、vuetify 等提供
 
 一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。
 
-
-
 ## 🚀网站&工具
 
 #### [xnapp](https://xnapper.com/app)
@@ -69,8 +61,6 @@ vscode插件，可以为常用的UI组件库如：element-ui、vuetify 等提供
 #### [中国法律快查手册](https://lawrefbook.github.io/)
 
 在线版的中国法律查询手册，很值得收藏！
-
-
 
 ## ⛵资料&博文
 

@@ -4,8 +4,6 @@
 >
 > 周数：第40周
 
-
-
 ## 📜有价值的文章
 
 #### [组建起你自己的智囊团](https://www.icebeer.top/%E5%83%8F%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%80%E6%A0%B7%EF%BC%8C%E7%BB%84%E5%BB%BA%E8%B5%B7%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E6%99%BA%E5%9B%8A%E5%9B%A2/)
@@ -30,8 +28,6 @@
 
   每个人都会有自己的「视觉盲区」，明知不该这么做，但还是会下意识不由自主地做了一些「错误」的事情。由于所处的立场不同，大部分人看到你做错事情后，要么是等着看你笑话，要么是阿谀奉承以达到他的目的，你的错误会被掩盖，会影响「过去的你」提出的建议。
 
-
-
 ## 🛸开源项目
 
 #### [LunarLink](https://github.com/tahitimoon/LunarLink)
@@ -41,8 +37,6 @@
 ![img](https://github.com/tahitimoon/LunarLink/raw/main/screenshots/3.png)
 
 ![img](https://github.com/tahitimoon/LunarLink/raw/main/screenshots/4.png)
-
-
 
 ## 🚀网站&工具
 
@@ -66,15 +60,11 @@
 
 法律条文、案例在线搜索工具输入案情可以找到所有相关案例，很好用的法律法规搜索类工具。
 
-
-
 ## ⛵资料&博文
 
 #### [搭建dockerhub加速网站](https://blog.quickso.cn/2024/06/22/%E7%99%BD%E5%AB%96CloudflareWorkers%E6%90%AD%E5%BB%BADockerHub%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1/)
 
 由于DockerHub的限制导致国内访问获取docker镜像变得比较困难，使用国内的镜像加速网站存在镜像版本落后等问题，所以推荐有动手能力的小伙伴自建镜像加速源。
-
-
 
 #### [win软件推荐](https://blog.wfso.cn/archives/115/)
 

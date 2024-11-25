@@ -4,7 +4,6 @@
 >
 > 周数：第39周
 
-
 ## 📜有价值的文章
 
 #### [How i think about debt](https://collabfund.com/blog/how-i-think-about-debt/)
@@ -19,7 +18,6 @@ Not only does hope begin to die, but the number of outcomes you can endure does,
 
 I think this is the most practical way to think about debt: **As debt increases, you narrow the range of outcomes you can endure in life.**  
 >我认为这是思考债务最实用的方式：**随着债务的增加，你会缩小你在生活中可以承受的结果范围。**
-
 
 ## 🛸开源项目
 
@@ -52,7 +50,6 @@ mac上的开源小工具，支持在地址栏单独控制每个应用程序的�
 #### [渡渡鸟国内镜像站点](https://docker.aityp.com/)
 
 这个网站镜像同步了国外常用的几个镜像仓库，方便拉取镜像。
-
 
 ## ⛵资料&博文
 

@@ -4,8 +4,6 @@
 > 
 > 周数：第34周
 
-
-
 ## 📜有价值的文章
 
 #### [tacit knowledge dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
@@ -18,21 +16,15 @@
 
 我们的开发团队就面临这样的问题，很多时候配置和系统的详细架构设计信息，只能依赖少部分人，于是这部分人不得不承担大部分系统问题的解答工作，严重影响了双方的工作效率，尽管把开发设计、架构信息文档化很麻烦，但是梳理后的配置文档信息会节约很多时间。
 
-
-
 ## 🛸开源项目
 
 #### [moffee](https://github.com/BMPixel/moffee)
 
 开源的markdown制作ppt工具，支持自动分页和样式设置，可以通过网页实时页面预览或导出PPT。
 
-
-
 #### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
 
 开源项目程序员考公指南，介绍作者从备考到上岸的经历以及一些经验的分享，不过项目很久没有更新了，部分链接也打不开，只能作为参考信息。类似的项目还有这个 [coder2gwy](https://github.com/coder2gwy/coder2gwy)
-
-
 
 ## 🚀网站&工具
 
@@ -40,13 +32,9 @@
 
 一款在线字体生成工具，通过Unicode字符编码转换，可以生成各种有趣效果的字体，生成的字体支持一键复制。
 
-
-
 #### [aichatru](https://aichatru.ru/zh-CN)
 
 免费的AI在线聊天工具，目前支持GPT-4o和Claude3，无需登陆可以直接发起会话。
-
-
 
 ## ⛵资料&博文
 
@@ -54,25 +42,17 @@
 
 Google安卓团队开源的Rust教程，可以帮你做Rust的基础知识入门，大厂出品的课程质量还是有保证的，推荐看看。
 
-
-
 #### [cs224n](https://web.stanford.edu/class/cs224n/)
 
 斯坦福大学2024年NLP公开课程，实用性和更新都比较好，推荐感兴趣的同学看看。
-
-
 
 #### [putting the you in CPU](https://cpu.land/)
 
 一本英文科普书，帮你理解处理器工作原理和系统调用相关的知识点。
 
-
-
 #### [union-intersection-difference-javascript-sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
 
 关于JS即将引入的新功能，增强set集合的操作功能，支持两个集合之间求并集、交集、差集功能的介绍，目前该功能已经被chrome-122版本支持。
-
-
 
 #### [git worktree](https://fev.al/posts/git-worktree/)
 
