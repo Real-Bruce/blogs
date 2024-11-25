@@ -1,66 +1,90 @@
 # software
 
-## [47]20241118-20241124
+## 【47】20241118-20241124
+
 #### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+
 开源的安卓自动点击软件，提供基于图像识别技术的连续点击功能，同时也支持传统的连续点击功能。
 
 #### [maxun](https://github.com/getmaxun/maxun)
+
 开源的无代码网页数据提取项目，帮你快速构建针对网站的数据抓取任务。
 
-## [46]20241111-20241117
+## 【46】20241111-20241117
+
 #### [beautifully crafted animated icons](https://icons.pqoqubbw.dev/)
+
 开源的动画icon图标库，让你的网站交互变得更有有趣一点。
 
 #### [resumake](https://github.com/saadq/resumake.io)
+
 开源免费的在线简历制作工具，使用LaTex构建简历，成品效果很惊艳。
 
 #### [anchordotdev](https://github.com/anchordotdev/cli)
+
 一个为本地项目配置https的的开源项目，保持本地开发环境和线上环境的一致性。
 
-## [45]20241104-20241110
+## 【45】20241104-20241110
+
 #### [dazhengs](https://github.com/dazhengs/tools)
+
 开源的纯前端在线加密/解密工具箱，可以离线部署，支持文件加密/解密、对称加密与解密、非对称加密与解密、签名与验签、哈希计算等
 
 #### [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top)
+
 开源的打字联系平台，界面友好练习内容丰富，且具备专业的数据分析和实时反馈系统。
 
 #### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
+
 跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)，目前已经上架[Chrome 应用商店](https://chromewebstore.google.com/detail/eaoelafamejbnggahofapllmfhlhajdd)，支持提交恰饭片段，帮助自己和他人节省时间。
 
 #### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
+
 开源的桌面下载器，支持Windows/Linux平台，支持浏览器插件扩展
 
-## [44]20241028-20241104
+## 【44】20241028-20241104
+
 #### [web archive](https://github.com/Ray-D-Song/web-archive)
+
 基于Cloudflarede的免费网页归档和分享工具，可以将你收藏的网站以快照的形式保存到Cloudflare
 
 #### [bookmarks artist](https://github.com/liujuntao123/bookmarks-artist)
+
 开源的chrome浏览器书签查看工具，提供查看的样式还挺好看。
 
 #### [pgmanage](https://github.com/commandprompt/pgmanage)
+
 支持跨平台的 Postgres 数据库的桌面客户端，提供图形界面。
 
-## [43]20241021-20241027
+## 【43】20241021-20241027
+
 #### [keyviz](https://github.com/mulaRahul/keyviz)
+
 多平台开源的键盘按下提示项目，实时显示当前按下的按键，很适合做录屏演示。
 
 #### [wechat article exporter](https://github.com/jooooock/wechat-article-exporter)
+
 开源的公众号文章导出工具，支持私有化部署，可用来批量下载公众号文章。
 
-## [42]20241014-20241026
+## 【42】20241014-20241026
+
 #### [immich](https://github.com/immich-app/immich)
+
 自托管照片视频管理工具，部署后支持网页和手机端访问
 
 #### [noteshub](https://about.noteshub.app/)
+
 markdown笔记管理软件，支持多端查看，可以插入图表、画板、流程图、公式甚至乐谱，而且支持笔记同步GitHub。
 
 #### [facker server](https://github.com/Ray-D-Song/faker-server)
+
 基于 Faker.js 的 mock 服务器。 使用 MongoDB 作为数据存储，包含一个前端管理页面，可以方便地管理 mock 数据。
 
 #### [notion 2 md demo](https://github.com/thinkerchan/notion2md)
+
 一个notion配合GitHub工作流的实例项目，利用github工作流将notion笔记转化为md格式，并保存到github仓库。
 
-## [41]20241007-20241013
+## 【41】20241007-20241013
 
 #### [copi](https://github.com/s1ntoneli/Copi)
 
@@ -74,9 +98,7 @@ macOS上开源的安全剪切板工具，可以阻止三方应用访问剪切板
 
 一个开源的Hexo博客主题，支持国际化和黑暗模式。
 
-
-
-## [40]20240930-20241006
+## 【40】20240930-20241006
 
 #### [LunarLink](https://github.com/tahitimoon/LunarLink)
 
@@ -84,7 +106,7 @@ macOS上开源的安全剪切板工具，可以阻止三方应用访问剪切板
 
 ![img](https://github.com/tahitimoon/LunarLink/raw/main/screenshots/3.png)
 
-## [39]20240923-20240929
+## 【39】20240923-20240929
 
 #### [certimate](https://github.com/usual2970/certimate)
 
@@ -102,9 +124,7 @@ mac上的开源小工具，支持在地址栏单独控制每个应用程序的�
 
 开源的JSON工具，支持JSON格式化和各种形式的查看，最重要的是支持JSON的在线树状图谱查看，体验地址：[json4u](https://json4u.cn/)
 
-
-
-## [38]20240916-20240922
+## 【38】20240916-20240922
 
 #### [DawnLanuncher](https://github.com/fanchenio/DawnLauncher)
 
@@ -124,9 +144,7 @@ vscode插件，可以为常用的UI组件库如：element-ui、vuetify 等提供
 
 一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。
 
-
-
-## [37]20240909-20240915
+## 【37】20240909-20240915
 
 #### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
@@ -140,9 +158,7 @@ md美化工具，可以自动优化md文件排版转换成公众号、今日头�
 
 黑客工具箱，一些常用黑客工具集合的仓库，包括匿名、信息收集、SQL注入、逆向工程等等工具包。
 
-
-
-## [36]20240902-20240908
+## 【36】20240902-20240908
 
 #### [MaxKB](https://github.com/1Panel-dev/MaxKB)
 
@@ -161,9 +177,7 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 在服务器搭建私人的照片视频管理平台，同时支持web端和手机端访问，类似的项目还有 [photoprism](https://github.com/photoprism/photoprism) 和 [ente](https://github.com/ente-io/ente)
 
-
-
-## [35]20240826-20240901
+## 【35】20240826-20240901
 
 #### [ente](https://github.com/ente-io/ente)
 
@@ -181,9 +195,7 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 开源的wifi密码生成二维码工具，输入你的wifi账号密码，生成二维码
 
-
-
-## [34]20240819-20240825
+## 【34】20240819-20240825
 
 #### [moffee](https://github.com/BMPixel/moffee)
 
@@ -193,9 +205,7 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 开源项目程序员考公指南，介绍作者从备考到上岸的经历以及一些经验的分享，不过项目很久没有更新了，部分链接也打不开，只能作为参考信息。类似的项目还有这个 [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-
-
-## [33]20240812-20240818
+## 【33】20240812-20240818
 
 #### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
@@ -215,17 +225,13 @@ MaxKB = Max Knowledge Base，是一款基于大语言模型和 RAG 的开源知�
 
 这个仓库收录4万余条 MAC 地址厂商信息，提供 csv、json 格式下载。
 
-
-
-## [32]20240805-20240811
+## 【32】20240805-20240811
 
 #### [Quick Recorder](https://github.com/lihaoyun6/QuickRecorder)
 
 MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移动设备等; 支持窗口声音内录, 鼠标高亮, 隐藏桌面文件等功能。
 
-
-
-## [31]20240729-20240804
+## 【31】20240729-20240804
 
 #### [orion-visor](https://github.com/dromara/orion-visor)
 
@@ -241,9 +247,7 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 开源的Java项目，一行代码帮你实现文件上传操作，支持目前主流的文件存储服务，如阿里云OSS、华为云OBS、腾讯云COS、FTP等等，很实用的一个开源项目。
 
-
-
-## [30]20240722-20240728
+## 【30】20240722-20240728
 
 #### [EcoPaste](https://github.com/ayangweb/EcoPaste)
 
@@ -257,9 +261,7 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 开源的Windows桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸.
 
-
-
-## [29]20240715-20240721
+## 【29】20240715-20240721
 
 #### [easyvideotrans](https://github.com/sutro-planet/easyvideotrans)
 
@@ -267,15 +269,11 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 ![](../weekly/images/image-20240719091814583.png)
 
-
-
 #### [mathlive](https://github.com/arnog/mathlive)
 
 一个支持web端输入数学公式的组件，可以用来编辑展示数学公式，拥有简洁易懂的公式输入虚拟键盘，同时支持数学公式输出为LaTeX、MathML、ASCIIMath 和 MathJSON 格式，这是[demo测试地址](https://cortexjs.io/mathlive/demo/)
 
 ![](../weekly/images/image-20240719093202356.png)
-
-
 
 #### [free-font](https://wangchujiang.com/free-font/)
 
@@ -283,9 +281,7 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 ![](../weekly/images/image-20240719094436871.png)
 
-
-
-## [28]20240708-20240714
+## 【28】20240708-20240714
 
 #### [ELog](https://github.com/LetTTGACO/elog)
 
@@ -293,11 +289,7 @@ MacOS平台的轻量级录屏工具，支持窗口录制, App 录制, 录制移�
 
 ![](../weekly/images/image-20240712151348763.png)
 
-
-
-
-
-## [27]20240701-20240707
+## 【27】20240701-20240707
 
 #### [inwind-landing-page](https://github.com/huglemon/inwind-landing-page)
 
@@ -311,9 +303,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 ![](../weekly/images/image-20240705103421539.png)
 
-
-
-## [26]20240624-20240630
+## 【26】20240624-20240630
 
 #### [pic-smaller](https://github.com/joye61/pic-smaller)
 

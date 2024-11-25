@@ -1,17 +1,23 @@
 # article
-## [47]20241118-20241124
+
+## 【47】20241118-20241124
+
 本周偷懒了……
 
-## [46]20241111-20241117
+## 【46】20241111-20241117
+
 本周偷懒了……
 
-## [45]20241104-20241110
+## 【45】20241104-20241110
+
 本周偷懒了……
 
-## [44]20241028-20241103
+## 【44】20241028-20241103
+
 本周偷懒了……
 
-## [43]20241021-20241027
+## 【43】20241021-20241027
+
 #### [learning to learn](https://kevin.the.li/posts/learning-to-learn/)
 
 学会学习比一直学习更重要，因为效率为 25% 的 40 小时与效率为 80% 的 12.5 小时相同，学会学习就是给自己节省时间。
@@ -30,9 +36,10 @@ Followed by unpacking an optimal learning flow:
 3. Sprint hard the first 15-20 hours to impress initial memory, then decelerate to a more regular pace.  
     在最初的 15-20 小时内努力冲刺以打动初始记忆，然后减速到更规律的速度
 
-## [42]20241014-20241020
+## 【42】20241014-20241020
 
 #### [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
+
 作者在文中提出了一个有意思的观点，高级初学者也就是在初级阶段的得到足够的反馈后便不再向下一个阶段进发，因为继续改进进步下去的速度没有初学者阶段速度快，也就是我们常说的瓶颈，并且大多数人会放弃继续进步于是便成为了“高级初学者”。文章让我开始反思自己学习获取技能的时候是否也是在“高级初学者”的时候放弃进步，还是应当找对方向继续突破，以下是我摘抄的一些原文：
 
 技能获取的几个阶段：
@@ -50,11 +57,11 @@ But what happens when the Advanced Beginner doesn’t care enough to interact wi
 
 >但是，如果 Advanced Beginner 不够关心与更广泛的社区互动，并且出于某种原因没有与同行进行太多互动，会发生什么呢？Daily WTF [充满了](http://thedailywtf.com/Articles/The-Slowdown.aspx)[这样的例子](http://thedailywtf.com/Articles/Batch-of-Trouble.aspx)。
 
-## [41]20241007-20241013
+## 【41】20241007-20241013
 
--_-!本周没发现好的文章
+本周没发现好的文章
 
-## [40]20240930-20241006
+## 【40】20240930-20241006
 
 #### [组建起你自己的智囊团](https://www.icebeer.top/%E5%83%8F%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%80%E6%A0%B7%EF%BC%8C%E7%BB%84%E5%BB%BA%E8%B5%B7%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E6%99%BA%E5%9B%8A%E5%9B%A2/)
 
@@ -78,9 +85,7 @@ But what happens when the Advanced Beginner doesn’t care enough to interact wi
 
   每个人都会有自己的「视觉盲区」，明知不该这么做，但还是会下意识不由自主地做了一些「错误」的事情。由于所处的立场不同，大部分人看到你做错事情后，要么是等着看你笑话，要么是阿谀奉承以达到他的目的，你的错误会被掩盖，会影响「过去的你」提出的建议。
 
-
-
-## [39]20240923-20240929
+## 【39】20240923-20240929
 
 #### [How i think about debt](https://collabfund.com/blog/how-i-think-about-debt/)
 
@@ -95,9 +100,7 @@ Not only does hope begin to die, but the number of outcomes you can endure does,
 I think this is the most practical way to think about debt: **As debt increases, you narrow the range of outcomes you can endure in life.**  
 >我认为这是思考债务最实用的方式：**随着债务的增加，你会缩小你在生活中可以承受的结果范围。**
 
-
-
-## [38]20240916-20240922
+## 【38】20240916-20240922
 
 #### [why don't more people use linux?](https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53)
 
@@ -115,11 +118,9 @@ If junk food is so bad for you, why do so many people eat it?
 
 > 如果垃圾食品对你这么有害，为什么这么多人吃它？
 
-
 The world is full of free invitations to self-improvement that are ignored by most people most of the time. Putting it crudely, it's easier to be fat and ignorant in a world of cheap, empty calories than it is to be fit and informed. It's hard to resist the temptation of minimal effort.
 
 > 世界上到处都是免费的自我提升邀请，但大多数人大多数时候都忽略了这些邀请。粗略地说，在一个廉价、空卡路里的世界里，肥胖和无知比健康和知情更容易。很难抗拒最小努力的诱惑。
-
 
 But programmers are different. Or ought to be different. They're like firefighters. Fitness isn't the purpose of firefighting, but a prerequisite. You're a better firefighter when you have the stamina and strength to carry people out of a burning building on your shoulders than if you do not. So most firefighters work to be fit in order to serve that mission.
 
@@ -127,9 +128,7 @@ But programmers are different. Or ought to be different. They're like firefighte
 
 Do somethings not because it is easy, but because it is worth it.
 
-
-
-## [37]20240909-20240915
+## 【37】20240909-20240915
 
 #### [art of finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 
@@ -149,8 +148,6 @@ Do somethings not because it is easy, but because it is worth it.
 6. 庆祝完工，无论多小的项目都要庆祝一下，积极给与自己正反馈；
 7. 勇于承担责任，对外部的责任感会让我们推进项目时更有动力；
 
-
-
  “good enough” truly is perfect, especially when the alternative is never finishing at all.
 
 > ”足够好“是完美的，特别是当替代方案根本不可能完成的时候。
@@ -166,8 +163,6 @@ Each unfinished project can chip away at your confidence. Over time, you might s
 Every unfinished project takes up mental space. It’s like having dozens of browser tabs open — each one uses a little bit of your mental RAM, leaving you with less capacity for new ideas and focused work. This mental clutter can be a significant drain on your creativity and productivity.
 
 > 每个未完成的项目都会占用精神空间。这就像打开了几十个浏览器选项卡——每个选项卡都会占用你一点点大脑内存，让你缺乏新想法和专注工作的能力。这种精神混乱会严重消耗你的创造力和生产力。
-
-
 
 1. ✅**Define “Done” from the Start**: Before diving into a project, I’ll clearly define what “finished” looks like. What are the core features that constitute a complete project? I’ll write them down and resist the urge to expand this list as I go. This clarity helps prevent scope creep and gives me a clear target to aim for.
 
@@ -196,7 +191,7 @@ Every unfinished project takes up mental space. It’s like having dozens of bro
 
    > 👥**承担责任**：我会找到方法让自己对完成项目负责。这可能涉及寻找责任合作伙伴、对项目里程碑做出公开承诺或加入一群开发人员。外部责任为通常孤独的个人项目之旅增添了动力和支持。
 
-## [36]20240902-20240908
+## 【36】20240902-20240908
 
 #### [Four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
 
@@ -213,13 +208,11 @@ Every unfinished project takes up mental space. It’s like having dozens of bro
 
 这张图对应了我们日常学习使用某种能力的情况，不妨对着图想想自己目前处于那个阶段，及时调整对自己能力的认知，避免在愚昧之巅或绝望之谷止步不前，尽早熟练掌握技能。
 
-## [35]20240826-20240901
+## 【35】20240826-20240901
 
 -_-本周没有找到合适的文章，收获不多
 
-
-
-## [34]20240819-20240825
+## 【34】20240819-20240825
 
 #### [tacit knowledge dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
 
@@ -231,9 +224,7 @@ Every unfinished project takes up mental space. It’s like having dozens of bro
 
 我们的开发团队就面临这样的问题，很多时候配置和系统的详细架构设计信息，只能依赖少部分人，于是这部分人不得不承担大部分系统问题的解答工作，严重影响了双方的工作效率，尽管把开发设计、架构信息文档化很麻烦，但是梳理后的配置文档信息会节约很多时间。
 
-
-
-## [33]20240812-20240818
+## 【33】20240812-20240818
 
 #### [Obvious travel advice](https://dynomight.net/travel/)
 
@@ -251,9 +242,7 @@ Don’t confuse scarcity with value. A really good afternoon in the park (a *rea
 
 > 不要将稀缺性与价值混为一谈。在公园里度过一个非常美好的下午（一个*非常好的*下午）也许就是最好的。
 
-
-
-## [32]20240805-20240811
+## 【32】20240805-20240811
 
 #### [turning the tables on ai](https://ia.net/topics/turning-the-tables-on-ai)
 
@@ -265,9 +254,7 @@ With every thought we outsource, we miss out on a chance to grow. Love it or hat
 
 > 我们把每一个想法都外包出去，就错过了成长的机会。爱也好，恨也罢，人工智能都会留下来。无论我们如何使用它，我们都需要思考更多，而不是更少。
 
-
-
-## [31]20240729-20240804
+## 【31】20240729-20240804
 
 #### [long game](https://fs.blog/long-game/)
 
@@ -289,15 +276,11 @@ The first step in the long game is the hardest. You have to be willing to suffer
 
 > 长期游戏的第一步是最困难的。你必须愿意今天受一点苦，才能让明天稍微轻松一点。你必须足够聪明，才能知道，仅仅因为你看不到你创造的微小优势并不意味着它不存在。
 
-
-
-## [30]20240722-20240728
+## 【30】20240722-20240728
 
 -_-没找到合适的文章，这周收获不太多。。。
 
-
-
-## [29]20240715-20240721
+## 【29】20240715-20240721
 
 #### [life is not short](https://dkb.show/post/life-is-not-short)
 
@@ -323,9 +306,7 @@ The most surprising thing is that you wouldn’t let anyone steal your property,
 
 > 最令人惊讶的是，你不会让任何人偷走你的财产，但你却一直让别人偷走你的时间，而你的时间更有价值
 
-
-
-## [28]20240708-20240714
+## 【28】20240708-20240714
 
 #### [should you get a phd？](https://medium.com/@jpolak/should-you-get-a-phd-4806663cf380)
 
@@ -339,11 +320,7 @@ In life, you can’t base your goals on how other people will respond to your ac
 
 蒸汽机的发展历史，介绍它的发明和制造过程，配有详细的可交互动画。
 
-
-
-
-
-## [27]20240701-20240707
+## 【27】20240701-20240707
 
 #### [大教堂和集市](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%B8%82%E9%9B%86)
 
@@ -353,9 +330,7 @@ In life, you can’t base your goals on how other people will respond to your ac
 
 详细介绍了git诞生和发展过程，一篇很好的软件发展考古文章。
 
-
-
-## [26]20240624-20240730
+## 【26】20240624-20240730
 
 #### [信息过载导致智力肥胖](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 
