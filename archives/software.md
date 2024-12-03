@@ -1,5 +1,7 @@
 # software
 
+## 【48】20241125-20241201
+
 ## 【47】20241118-20241124
 
 #### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
