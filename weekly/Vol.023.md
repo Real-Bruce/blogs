@@ -8,7 +8,15 @@
 
 ## 🛸开源项目
 
+#### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+
+基于AI的PDF翻译工具，能在完整保留排版、公式、插图的情况下，将英文文档翻译为中文文档，看论文神器。
+
 ## 🚀网站&工具
+
+#### [llmresourceshub](https://llmresourceshub.vercel.app/)
+
+LLM资源聚合网站，包含论文、视频、数据集、开源项目、工具等，提供一站式LLM资源搜索查找。
 
 ## ⛵资料&博文
 
