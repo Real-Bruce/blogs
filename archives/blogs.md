@@ -1,5 +1,19 @@
 # blogs
 
+## 【49】20241202-20241208
+
+#### [付鹏的演讲](https://helelaoge.notion.site/HSBC-14d0b79c0d4080b7bc09e4b4b0f21226)
+
+11月24日付鹏在汇丰私人财富规划上的演讲，讲了很多关于投资、国际形势和政策解读的话题，有些话题的解读角度带给我一些不同的思考，值得收藏。
+
+#### [《王慧文清华产品课》](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
+
+如题，适合想了解产品设计的同学看一下。
+
+#### [system design primer](https://github.com/donnemartin/system-design-primer)
+
+关于如何设计大型可扩展系统的相关文章，作者整理了很多相关的文章，帮你了解如何构建大规模可扩展系统
+
 ## 【48】20241125-20241201
 
 ## 【47】20241118-20241124

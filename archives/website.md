@@ -1,5 +1,23 @@
 # website
 
+## 【49】20241202-20241208
+
+#### [llmresourceshub](https://llmresourceshub.vercel.app/)
+
+LLM资源聚合网站，包含论文、视频、数据集、开源项目、工具等，提供一站式LLM资源搜索查找。
+
+#### [docker国内镜像源](https://www.wxy97.com/archives/b5b225b6-7741-4560-be2f-2e6a4f671d9b)
+
+截至到目前可用的docker国内镜像源，作者还在一直更新可用镜像链接。
+
+#### [easyresizer](https://easyresizer.com/)
+
+一个在线工具，可以批量调整图片大小。
+
+#### [bylo](https://bylo.ai/zh-CN)
+
+免费的文本生成图片，集成了Flux AI图像生成器，测试图像生成速度还可以。
+
 ## 【48】20241125-20241201
 
 ## 【47】20241117-20241124

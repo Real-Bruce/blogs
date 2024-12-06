@@ -1,5 +1,23 @@
 # software
 
+## 【49】20241202-20241208
+
+#### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+
+基于AI的PDF翻译工具，能在完整保留排版、公式、插图的情况下，将英文文档翻译为中文文档，看论文神器。
+
+#### [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+
+程序员最该访问的最佳网站中文版，仓库里罗列了很多有趣的内容连接，不过仓库上次的更新时间已经是6年前了，有些链接可能已经失效了，可以找找自己感兴趣的内容。
+
+#### [json tree](https://github.com/xzitlou/jsontr.ee)
+
+将JSON转化为树形拓展结构的开源项目，可以更加直观的查看JSON数据，感觉可以参考一下改造成用JSON生成思维导图。
+
+#### [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion)
+
+可以给黑白相片上色的开源项目，用Python书写的有趣的项目。
+
 ## 【48】20241125-20241201
 
 ## 【47】20241118-20241124
