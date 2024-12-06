@@ -18,7 +18,11 @@
 
 #### [json tree](https://github.com/xzitlou/jsontr.ee)
 
-将JSON转化为树形拓展结构的开源项目，可以更加直观的查看JSON数据，感觉可以参考一下改造成用JSON生成思维导图类。
+将JSON转化为树形拓展结构的开源项目，可以更加直观的查看JSON数据，感觉可以参考一下改造成用JSON生成思维导图。
+
+#### [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion)
+
+可以给黑白相片上色的开源项目，用Python书写的有趣的项目。
 
 ## 🚀网站&工具
 
@@ -33,6 +37,10 @@ LLM资源聚合网站，包含论文、视频、数据集、开源项目、工�
 #### [easyresizer](https://easyresizer.com/)
 
 一个在线工具，可以批量调整图片大小。
+
+#### [bylo](https://bylo.ai/zh-CN)
+
+免费的文本生成图片，集成了Flux AI图像生成器，测试图像生成速度还可以。
 
 ## ⛵资料&博文
 
