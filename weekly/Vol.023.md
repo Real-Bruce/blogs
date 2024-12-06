@@ -22,6 +22,9 @@
 
 LLM资源聚合网站，包含论文、视频、数据集、开源项目、工具等，提供一站式LLM资源搜索查找。
 
+#### [docker国内镜像源](https://www.wxy97.com/archives/b5b225b6-7741-4560-be2f-2e6a4f671d9b)
+截至到目前可用的docker国内镜像源，作者还在一直更新可用镜像链接。
+
 ## ⛵资料&博文
 
 #### [付鹏的演讲](https://helelaoge.notion.site/HSBC-14d0b79c0d4080b7bc09e4b4b0f21226)
