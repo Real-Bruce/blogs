@@ -16,6 +16,10 @@
 
 程序员最该访问的最佳网站中文版，仓库里罗列了很多有趣的内容连接，不过仓库上次的更新时间已经是6年前了，有些链接可能已经失效了，可以找找自己感兴趣的内容。
 
+#### [json tree](https://github.com/xzitlou/jsontr.ee)
+
+将JSON转化为树形拓展结构的开源项目，可以更加直观的查看JSON数据，感觉可以参考一下改造成用JSON生成思维导图类。
+
 ## 🚀网站&工具
 
 #### [llmresourceshub](https://llmresourceshub.vercel.app/)
@@ -23,7 +27,12 @@
 LLM资源聚合网站，包含论文、视频、数据集、开源项目、工具等，提供一站式LLM资源搜索查找。
 
 #### [docker国内镜像源](https://www.wxy97.com/archives/b5b225b6-7741-4560-be2f-2e6a4f671d9b)
+
 截至到目前可用的docker国内镜像源，作者还在一直更新可用镜像链接。
+
+#### [easyresizer](https://easyresizer.com/)
+
+一个在线工具，可以批量调整图片大小。
 
 ## ⛵资料&博文
 
