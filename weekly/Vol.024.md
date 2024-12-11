@@ -26,6 +26,11 @@ Public Domain Radio 由瑞士的基金会提供的在网络上不间断播放古
 
 输入网址就能获取到对应网站的 favicon 图标。
 
+#### [visualization Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+这个网站用动画的方式展示各种数据结构，方便初学者快速的理解各种数据结构。
+如 [BPlusTree](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html) 就展示了B+ 树的插入、删除、查找、遍历操作，方便直观的理解 B+ 树的数据存储处理模式。
+
 ## ⛵资料&博文
 
 #### [llm_note](https://github.com/harleyszhang/llm_note)
