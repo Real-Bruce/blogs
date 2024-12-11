@@ -29,6 +29,7 @@ Public Domain Radio 由瑞士的基金会提供的在网络上不间断播放古
 ## ⛵资料&博文
 
 #### [llm_note](https://github.com/harleyszhang/llm_note)
+
 一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:
 
 - Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。
