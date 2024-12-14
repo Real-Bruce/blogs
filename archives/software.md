@@ -1,5 +1,15 @@
 # software
 
+## 【50】20241209-20241215
+#### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+
+mac平台显示器调整工具，支持自定义分辨率、XDR/HDR 额外亮度、虚拟屏幕、画中画、软断开连接、配置和 EDID 覆盖、DDC 控制、色彩模式选择、同步、布局保护等众多功能。
+
+#### [cloud bak](https://github.com/likeflyme/cloudbak)
+
+云朵备份是一个微信云备份程序，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
+
+
 ## 【49】20241202-20241208
 
 #### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
