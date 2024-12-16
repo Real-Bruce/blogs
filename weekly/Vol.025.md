@@ -12,7 +12,7 @@
 
 #### [security headers](https://securityheaders.com/)
 
-请求头安全性检测网站，帮你检查部署的服务，请求头是否是安全的。
+请求头安全性检测网站，帮你检查部署的服务，请求头是否是安全的。还有个类似的网站[HTTP安全标头分析器](https://zh.rakko.tools/tools/26/)
 
 ## ⛵资料&博文
 
