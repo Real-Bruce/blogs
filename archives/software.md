@@ -1,5 +1,14 @@
 # software
 
+## 【51】20241216-20241222
+
+#### [schemio](https://github.com/ishubin/schemio)
+
+基于web的绘图项目，可以制作各类流程图，也支持制作矢量图。
+
+#### [cursor.directory](https://github.com/pontusab/cursor.directory)
+
+基于编程语言或框架提供适当的cursor提示词，让你的cursor更好用。
 ## 【50】20241209-20241215
 #### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 

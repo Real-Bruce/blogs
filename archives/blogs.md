@@ -1,5 +1,15 @@
 # blogs
 
+## 【51】20241216-20241222
+#### [数据库内核月报](http://mysql.taobao.org/monthly/)
+
+数据库内核月报，是阿里云数据库维护团队书写的数据库内核及运维相关经验，数据库不仅限于MySQL，还有PolorDB、PostgreSQL、MongoDB等。
+不过文章不支持搜索和分类查看，好在这个[alidbmonthly](https://alidbmonthly.vimiix.com/)开源项目解决了这个问题。
+
+#### [java design patterns](https://java-design-patterns.com/zh/)
+
+java设计模式中文版，包括基于 Java 的软件设计模式，编程原则还有代码片段。
+
 ## 【50】20241209-20241215
 
 #### [llm_note](https://github.com/harleyszhang/llm_note)

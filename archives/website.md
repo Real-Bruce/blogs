@@ -1,5 +1,15 @@
 # website
 
+## 【51】20241216-20241222
+
+#### [security headers](https://securityheaders.com/)
+
+请求头安全性检测网站，帮你检查部署的服务，请求头是否是安全的。还有个类似的网站[HTTP安全标头分析器](https://zh.rakko.tools/tools/26/)
+
+#### [github cards](https://github.cards/)
+
+输入你的github账号名，帮你生成你的github介绍卡片。
+
 ## 【50】20241209-20241215
 
 #### [public domain radio](http://publicdomainradio.org/en/index.html)
@@ -14,6 +24,7 @@ Public Domain Radio 由瑞士的基金会提供的在网络上不间断播放古
 
 这个网站用动画的方式展示各种数据结构，方便初学者快速的理解各种数据结构。
 如 [BPlusTree](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html) 就展示了B+ 树的插入、删除、查找、遍历操作，方便直观的理解 B+ 树的数据存储处理模式。
+
 ## 【49】20241202-20241208
 
 #### [llmresourceshub](https://llmresourceshub.vercel.app/)
