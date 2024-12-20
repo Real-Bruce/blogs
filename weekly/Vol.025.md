@@ -6,6 +6,10 @@
 
 ## 📜有价值的文章
 
+#### [不要轻易地走进 AI Native](https://1q43.blog/post/10736/)
+
+作者在文中提出了一个很有意思的观点：绝大多是的AI都不是一个产品，只是一个功能。
+
 #### [theres no such thing as software productivity](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
 
 文章的观点是没有所谓的编程生产力的说法，无论是通过引入新的框架，增加维护成本的方式还是删除掉有问题的代码，核心实际上都是解决问题，所以优秀的开发者实际上都是在解决问题。文中评论区的讨论也很有启发性
@@ -41,3 +45,7 @@
 
 数据库内核月报，是阿里云数据库维护团队书写的数据库内核及运维相关经验，数据库不仅限于MySQL，还有PolorDB、PostgreSQL、MongoDB等。
 不过文章不支持搜索和分类查看，好在这个[alidbmonthly](https://alidbmonthly.vimiix.com/)开源项目解决了这个问题。
+
+#### [java design patterns](https://java-design-patterns.com/zh/)
+
+java设计模式中文版，包括基于 Java 的软件设计模式，编程原则还有代码片段。
