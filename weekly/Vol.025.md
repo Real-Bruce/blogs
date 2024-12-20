@@ -17,6 +17,10 @@
 
 基于web的绘图项目，可以制作各类流程图，也支持制作矢量图。
 
+#### [cursor.directory](https://github.com/pontusab/cursor.directory)
+
+基于编程语言或框架提供适当的cursor提示词，让你的cursor更好用。
+
 ## 🚀网站&工具
 
 #### [security headers](https://securityheaders.com/)
