@@ -33,7 +33,7 @@
 
 #### [github cards](https://github.cards/)
 
-输入你的github账号名，帮你生成你的github介绍卡片。
+输入你的github账号名，帮你生成你的github介绍卡片。还有个类似的好玩的项目[green wall](https://green-wall.leoku.dev/)，可以生成你的github贡献图，支持多种样式，可以作为你的年终总结小卡片。
 
 #### [颜色代码表](https://www.ysdaima.com/)
 
