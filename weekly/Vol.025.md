@@ -8,7 +8,8 @@
 
 #### [theres no such thing as software productivity](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
 
-m
+文章的观点是没有所谓的编程生产力的说法，无论是通过引入新的框架，增加维护成本的方式还是删除掉有问题的代码，核心实际上都是解决问题，所以优秀的开发者实际上都是在解决问题。文中评论区的讨论也很有启发性
+但是我觉得还是可以衡量的，付出更小的成本为后期维护增加便利的方案，就是那个最佳生产力的方案，优秀的开发者应该做那个提供最佳方案的人。
 
 ## 🛸开源项目
 
@@ -29,6 +30,7 @@ m
 #### [颜色代码表](https://www.ysdaima.com/)
 
 在线配色工具集，提供颜色搭配、色卡、渐变色、颜色转换等工具。
+
 ## ⛵资料&博文
 
 #### [数据库内核月报](http://mysql.taobao.org/monthly/)
