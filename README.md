@@ -14,6 +14,12 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20241223-20241229 [Vol.026](./weekly/Vol.026.md)
+
+#### 20241216-2024122 [Vol.025 不要轻易地走进 AI Native](./weekly/Vol.025.md)
+
+#### 20241209-20241215 [Vol.024](./weekly/Vol.024.md)
+
 #### 20241202-20241208 [Vol.023](./weekly/Vol.023.md)
 
 #### 20241118-20241124 [Vol.022](./weekly/Vol.022.md)
