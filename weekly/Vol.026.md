@@ -28,6 +28,10 @@
 
 ## ⛵资料&博文
 
+#### [配置安全响应头与安全标识](https://www.kancloud.cn/smallchill/blade-safety/3244465)
+
+关于安全响应头配置的文章，建议提供对外访问的网站都添加一下相关的 Nginx配置，减少网站被爬取和攻击的几率。
+
 #### [《提示工程指南》](https://www.promptingguide.ai/zh)
 
 提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。 掌握了提示工程相关技能将有助于用户更好地了解大型语言模型的能力和局限性。
