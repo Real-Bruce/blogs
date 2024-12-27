@@ -56,6 +56,9 @@ Your brain will always try to save time when forming beliefs — it’s what it 
 
 微软官方出品的软件，可以帮你把 Office 文件转换成 Markdown 格式的文件，还提供了在线体验地址：https://markitdown.pro/
 
+#### [excel 在线协同编辑器](https://github.com/nusr/excel)
+开源的类Excel表格网页应用，支持多人在线同时编辑
+
 ## 🚀网站&工具
 
 #### [postpark](https://postspark.app/)
