@@ -72,6 +72,9 @@ Your brain will always try to save time when forming beliefs — it’s what it 
 
 ## ⛵资料&博文
 
+#### [编程十年的感悟](https://ramsayleung.github.io/zh/post/2024/%E7%BC%96%E7%A8%8B%E5%8D%81%E5%B9%B4%E7%9A%84%E6%84%9F%E6%82%9F/)
+作者对自己十年编程工作的总结和思考，其中有些观点我很认同，技术学习是存在马太效应的，学习的越多对新的技术的学习速度就越快；学好英语真的很重要，如果你想接触一手的资料最好的方式就是阅读官方提供的文档，
+
 #### [配置安全响应头与安全标识](https://www.kancloud.cn/smallchill/blade-safety/3244465)
 
 关于安全响应头配置的文章，建议提供对外访问的网站都添加一下相关的 Nginx配置，减少网站被爬取和攻击的几率。
