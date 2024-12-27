@@ -52,14 +52,27 @@ Your brain will always try to save time when forming beliefs — it’s what it 
 
 ## 🛸开源项目
 
+#### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
+
+科幻小说收集仓库，收集了很多
+
+#### [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
+
+一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档
+
 #### [markitdown](https://github.com/microsoft/markitdown)
 
 微软官方出品的软件，可以帮你把 Office 文件转换成 Markdown 格式的文件，还提供了在线体验地址：https://markitdown.pro/
 
 #### [excel 在线协同编辑器](https://github.com/nusr/excel)
+
 开源的类Excel表格网页应用，支持多人在线同时编辑
 
 ## 🚀网站&工具
+
+#### [pngfree](https://pngfree.ai/)
+
+百万级免费PNG图片在线图库。
 
 #### [postpark](https://postspark.app/)
 
