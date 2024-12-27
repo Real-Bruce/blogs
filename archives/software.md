@@ -1,5 +1,31 @@
 # software
 
+## 【52】20241223-20241229
+
+#### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
+
+这个仓库收集了好用的 Cloudflare 工具、项目、使用指南等等。
+
+#### [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
+
+米家集成是一个由小米官方提供支持的 Home Assistant 的集成组件，它可以让您在 Home Assistant 中使用小米 IoT 智能设备。
+
+#### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
+
+科幻小说收集仓库，收集了刘慈欣、阿西莫夫、赫伯特、凡尔纳等等科幻小说作家的作品，很有意思的一个仓库。
+
+#### [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
+
+一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档
+
+#### [markitdown](https://github.com/microsoft/markitdown)
+
+微软官方出品的软件，可以帮你把 Office 文件转换成 Markdown 格式的文件，还提供了在线体验地址：https://markitdown.pro/
+
+#### [excel 在线协同编辑器](https://github.com/nusr/excel)
+
+开源的类Excel表格网页应用，支持多人在线同时编辑。
+
 ## 【51】20241216-20241222
 
 #### [schemio](https://github.com/ishubin/schemio)
@@ -9,7 +35,9 @@
 #### [cursor.directory](https://github.com/pontusab/cursor.directory)
 
 基于编程语言或框架提供适当的cursor提示词，让你的cursor更好用。
+
 ## 【50】20241209-20241215
+
 #### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 
 mac平台显示器调整工具，支持自定义分辨率、XDR/HDR 额外亮度、虚拟屏幕、画中画、软断开连接、配置和 EDID 覆盖、DDC 控制、色彩模式选择、同步、布局保护等众多功能。
@@ -17,7 +45,6 @@ mac平台显示器调整工具，支持自定义分辨率、XDR/HDR 额外亮度
 #### [cloud bak](https://github.com/likeflyme/cloudbak)
 
 云朵备份是一个微信云备份程序，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
-
 
 ## 【49】20241202-20241208
 

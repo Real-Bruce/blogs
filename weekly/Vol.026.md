@@ -52,6 +52,14 @@ Your brain will always try to save time when forming beliefs — it’s what it 
 
 ## 🛸开源项目
 
+#### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
+
+这个仓库收集了好用的 Cloudflare 工具、项目、使用指南等等。
+
+#### [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
+
+米家集成是一个由小米官方提供支持的 Home Assistant 的集成组件，它可以让您在 Home Assistant 中使用小米 IoT 智能设备。
+
 #### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
 
 科幻小说收集仓库，收集了刘慈欣、阿西莫夫、赫伯特、凡尔纳等等科幻小说作家的作品，很有意思的一个仓库。
@@ -66,7 +74,7 @@ Your brain will always try to save time when forming beliefs — it’s what it 
 
 #### [excel 在线协同编辑器](https://github.com/nusr/excel)
 
-开源的类Excel表格网页应用，支持多人在线同时编辑
+开源的类Excel表格网页应用，支持多人在线同时编辑。
 
 ## 🚀网站&工具
 

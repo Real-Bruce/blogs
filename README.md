@@ -14,7 +14,7 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20241223-20241229 [Vol.026](./weekly/Vol.026.md)
+#### 20241223-20241229 [Vol.026 Why You Are Probably An NPC](./weekly/Vol.026.md)
 
 #### 20241216-2024122 [Vol.025 不要轻易地走进 AI Native](./weekly/Vol.025.md)
 
