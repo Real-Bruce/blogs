@@ -54,7 +54,7 @@ Your brain will always try to save time when forming beliefs — it’s what it 
 
 #### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
 
-科幻小说收集仓库，收集了很多
+科幻小说收集仓库，收集了刘慈欣、阿西莫夫、赫伯特、凡尔纳等等科幻小说作家的作品，很有意思的一个仓库。
 
 #### [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
 
