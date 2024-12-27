@@ -6,6 +6,10 @@
 
 ## 📜有价值的文章
 
+#### [Why You Are Probably An NPC](https://www.gurwinder.blog/p/why-you-are-probably-an-npc)
+
+有启发性的文章，作者提出了一个论点，现代人越来越想NPC，失去或者说放弃了对生活的掌控，编程被算法塑造的NPC
+
 ## 🛸开源项目
 
 ## 🚀网站&工具
