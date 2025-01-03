@@ -1,8 +1,6 @@
-![blogs](https://socialify.git.ci/Real-Bruce/blogs/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)
-
 ## Bruce's Blogs, Write down thoughts and collect and organize resources
 
-### history blogs
+### 🌏history blogs
 
 #### [2024 blogs archives](./2024/README2024.md)
 
@@ -17,3 +15,5 @@
 #### [website](./archives/website.md): interesting website or web tools
 
 ### 📰weekly: Records the resources collected each week
+
+#### 20241230-20250105 [Vol.027](./weekly/Vol027.md)
