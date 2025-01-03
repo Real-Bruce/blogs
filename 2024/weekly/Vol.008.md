@@ -48,19 +48,19 @@ Don’t confuse scarcity with value. A really good afternoon in the park (a *rea
 
 一个制作文字徽标（logo 和 favicon）的在线工具
 
-![](./images/image-20240816091341618.png)
+![](image-20240816091341618.png)
 
 #### [decohack](https://decohack.com/)
 
 每日 Product Hunt 热门产品的中文榜单，可以帮你发现最近热门的独立开发产品。[代码开源](https://github.com/ViggoZ/producthunt-daily-hot)。
 
-![](./images/image-20240816093053372.png)
+![](image-20240816093053372.png)
 
 #### [svgviewer](https://www.svgviewer.dev/)
 
 SVG 图标的搜索引擎，并且提供可视化编辑器，允许你对源文件进行调整。
 
-![](./images/image-20240816092633852.png)
+![](image-20240816092633852.png)
 
 ## ⛵资料&博文
 

@@ -43,7 +43,7 @@ The first step in the long game is the hardest. You have to be willing to suffer
 
 给网站添加庆祝特效的npm库，点击按钮会触发抛洒碎纸的网页特效，作者还提供了演示的[demo网址](https://www.kirilv.com/canvas-confetti/)
 
-![image-20240802085808048](./images/image-20240802085808048.png)
+![image-20240802085808048](image-20240802085808048.png)
 
 #### [x-file-storage](https://github.com/dromara/x-file-storage)
 
@@ -59,7 +59,7 @@ The first step in the long game is the hardest. You have to be willing to suffer
 
 帮你找到某些软件的平替版本，搜索某一类型软件时会把功能相似的软件都展示出来，方便找到某些付费软件功能相似的开源软件，比如找类似于navicat的数据库管理软件。
 
-![](./images/image-20240729155847001.png)
+![](image-20240729155847001.png)
 
 ## ⛵资料&博文
 

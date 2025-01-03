@@ -20,13 +20,13 @@
 
 SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
-![](./images/image-20240705101651377.png)
+![](image-20240705101651377.png)
 
 #### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
 开源的MAC平台工具，可以生成字帖练习书法
 
-![](./images/image-20240705103421539.png)
+![](image-20240705103421539.png)
 
 ## 🚀网站&工具
 
@@ -34,7 +34,7 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 联网档案馆收集了全球绝大部分网站历年的页面，在这里你可以找到数以万计的书籍、电影、软件、音乐、网站等等，比如我就经常用它查找一些老版本的软件，或者查看某些网站的发展变迁考古。
 
-![](./images/image-20240705100925618.png)
+![](image-20240705100925618.png)
 
 #### [mobilephonemuseum](https://www.mobilephonemuseum.com/catalogue)
 
@@ -44,13 +44,13 @@ SaaS产品展示模板项目，方便快速搭建SaaS软件介绍官网
 
 网站列出 Hack news 前一天讨论前10的话题，帮助你了解最新的科技话题
 
-![](./images/image-20240705111446997.png)
+![](image-20240705111446997.png)
 
 #### [email.ml](https://email.ml/)
 
 临时邮箱服务器，提供可以使用1个小时的临时邮箱，方便注册一些不想要提供个人邮箱的网站。
 
-![](./images/image-20240705111408348.png)
+![](image-20240705111408348.png)
 
 ## ⛵资料&博文
 
