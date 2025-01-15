@@ -1,5 +1,11 @@
 # website
 
+## 【02】202450106-20250112
+
+#### [maths is fun](https://www.mathsisfun.com/)
+
+这个网站提供了很多数学模型、小游戏、解密等，让你体验数学的乐趣。
+
 ## 【01】20241230-20250105
 
 #### [filepilot](https://filepilot.tech/)

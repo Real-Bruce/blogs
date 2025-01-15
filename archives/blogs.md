@@ -1,5 +1,11 @@
 # blogs
 
+## 【02】20250106-20250112
+
+#### [《英语语法》](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
+
+通过图文、漫画帮你学习英语语法，很有趣的一本电子书，电子书的GIT仓库在 [这里](https://github.com/hzpt-inet-club/english-note)。
+
 ## 【01】20241230-20250105
 
 #### [《算法（第4版）》C++实现](https://github.com/landerrosette/algs4)

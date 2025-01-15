@@ -16,6 +16,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20240106-20240112 [Vol.028](./weekly/Vol028.md)
+#### 20250113-2025-0119 [Vol.029](./weekly/Vol029.md)
+
+#### 20250106-20240112 [Vol.028](./weekly/Vol028.md)
 
 #### 20241230-20250105 [Vol.027](./weekly/Vol027.md)

@@ -1,5 +1,11 @@
 # software
 
+## 【02】20250106-20250112
+
+#### [arnis](https://github.com/louis-e/arnis)
+
+用 Rust 编写的开源项目可以在 Minecraft Java 版中从现实世界中生成任何选定的位置，并且具有很高的细节，很有趣的一个开源项目。
+
 ## 【01】20241230-20250105
 
 #### [懒猫书签](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner)
