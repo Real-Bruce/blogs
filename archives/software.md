@@ -1,12 +1,12 @@
 # software
 
-#### 【03】20250113-20250119
+## 【03】20250113-20250119
 
 #### [fakemail](https://github.com/CH563/fakemail)
 
 基于 Cloudflare Workers 构建的临时电子邮箱服务，可以在 web 端查看接收的邮件。作者也提供了搭建好的网站，[地址在这里](https://mail.fakeact.fun/)
 
-## [在线简历生成工具](https://github.com/Arman19941113/dnd-resume)
+#### [在线简历生成工具](https://github.com/Arman19941113/dnd-resume)
 
 拖拽式在线简历生成工具，基本功能是够用的。
 
