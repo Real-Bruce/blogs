@@ -1,6 +1,24 @@
 # website
 
-## 【02】202450106-20250112
+#### 【03】20250113-20250119
+
+#### [文捕](https://www.blog-keeper.com/)
+
+在线博客文章解析下载工具，支持微信公众号/博客园/CSDN/掘金/简书/思否等平台，可以保存成多种格式。
+
+#### [datacommons](https://datacommons.org/)
+
+谷歌发布的数据网站，提供许多公开的数据集，以及配套的工具，让你可以检索和处理这些数据。
+
+#### [zcoloring](https://zcoloring.com/)
+
+通过AI在线生成涂色书，测试了一下生成的图片挺可爱的。
+
+#### [ai-voice-cloning](https://anyvoice.net/zh/ai-voice-cloning)
+
+AI声音克隆，只需要上传一段3s-10s的录音就能复制声音，感觉AI技术真的是越来越强了，未来或许大部分内容都是AI生成的，有种黑客帝国的感觉。
+
+## 【02】20250106-20250112
 
 #### [maths is fun](https://www.mathsisfun.com/)
 

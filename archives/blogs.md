@@ -1,5 +1,23 @@
 # blogs
 
+#### 【03】20250113-20250119
+
+#### [搭建免费的企业邮箱](https://javayhu.com/da-jian-mian-fei-de-qi-ye-you-xiang-gmail-resend-cloudflare/)
+
+文章介绍如何使用Gmail+Resend+Cloudflare搭建免费的企业邮箱，不仅支持接收企业域名邮件，同时支持发送企业域名邮件。
+
+#### [How to Think Like a Computer Scientist](https://levjj.github.io/thinkcspy/)
+
+一本编程入门教程，以 python 语言为例子，适合用来学习编程思想。
+
+#### [苹果生态玄学自指北](https://xream.notion.site/6fed380cf1d147c6a047bce452a8f2af#6b31ffdfcb0044c8b390f956ca2ba406)
+
+作者总结了一些常见的苹果生态问题解决方案，建议收藏备用。
+
+#### [一个副业应用的开发心得](https://javayhu.com/2018-nian-yi-ge-xiao-fu-ye-de-kai-fa-xin-de/)
+
+文章介绍一个副业的应用定位、收费模式、申请软著、上架商店、素材版权、收集反馈、账号体系、集成支付、宣传推广、统计分析等内容。对于个人开发者而言很有参考价值。
+
 ## 【02】20250106-20250112
 
 #### [《英语语法》](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
