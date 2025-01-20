@@ -16,7 +16,9 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20250113-2025-0119 [Vol.029 start-presentations-on-the-second](./weekly/Vol029.md)
+#### 20250120-20250126 [Vol.030 Everything Must Be Paid for Twice](./weekly/Vol030.md)
+
+#### 202501132025-0119 [Vol.029 start-presentations-on-the-second](./weekly/Vol029.md)
 
 #### 20250106-20240112 [Vol.028](./weekly/Vol028.md)
 
