@@ -1,5 +1,11 @@
 # blogs
 
+## 【04】20250120-20250126
+
+#### [自洽的程序员](https://github.com/zhangchenchen/self-consistent-coder)
+
+作者分享了自己如何调整心态，解决职场中遇到的种种问题，在线版本在[这里](https://self-consistent-coder.readthedocs.io/zh-cn/latest/)阅读
+
 ## 【03】20250113-20250119
 
 #### [搭建免费的企业邮箱](https://javayhu.com/da-jian-mian-fei-de-qi-ye-you-xiang-gmail-resend-cloudflare/)

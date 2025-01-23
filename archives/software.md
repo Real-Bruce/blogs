@@ -1,5 +1,15 @@
 # software
 
+## 【04】20250120-20250126
+
+#### [nopecha extension](https://github.com/NopeCHALLC/nopecha-extension)
+
+NopeCHA 是一个**免费使用的**自动化 CAPTCHA 求解器，与多种 CAPTCHA 类型兼容，并通过 [NopeCHA API](https://developers.nopecha.com/) 由高级深度学习模型提供支持。
+
+#### [oh my wechat](https://github.com/chclt/oh-my-wechat/)
+
+为微信设计的备份阅读器，总体上还原了微信，但经过了无数的重新设计，看起来焕然一新以及，刚刚糊完（不是）做完的微信年度数据报告。
+
 ## 【03】20250113-20250119
 
 #### [fakemail](https://github.com/CH563/fakemail)
