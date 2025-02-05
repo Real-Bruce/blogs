@@ -1,5 +1,49 @@
 # article
 
+## 【05】20250127-20250202
+
+#### [From reading 40 books to reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
+
+作者在文章中介绍了自己从每年40本书到0本书的改变过程，其中的观点大致是这样的：读书能帮助我们获得观察世界的新视角和能力，单纯的累计数量不会让我们变得更好，只会得到很多从来没实践过的理论，读书真正的作用在于将学到的理论方法运用到自己的生活中，。
+
+回想自己痴迷于将数量作为阅读的指标大概和作者的想法是一样的，期待找到一种能彻底改变思想和行为的方法，可现实总是读了很多书，接收了各种新奇的观点。但是没有实践过哪怕一条，生活自然和没读书一样，反而增加了自己的傲慢，总是随口的甩出各种概念方法，但总是人云亦云的重复着，没有自己的思考。
+
+所以作者的想法我觉得很有借鉴的意义，在浩瀚的书籍里选择自己感兴趣的主题，不需要很多。但是要深入的阅读实践这些理论，在实践理论的过程中，你会发现自己切实的发生了变化。不断的在各个领域里读书，实践书本的理论才是更好的成长方式，而不是只身投入所有知识内。
+
+**摘抄的原文**：
+
+I now realize why I was obsessed with reading. I was caught up in this cycle of an endless search for knowledge. I believed that there was always something missing. An ingredient that, once found, will totally transform my life.
+
+> 我现在明白了我为什么痴迷于阅读。我陷入了这个无休止地寻找知识的循环中。我相信总会缺少一些东西。一种一旦找到的成分，将彻底改变我的生活
+
+Doing something ordinary for an unordinarily long period of time.
+
+> 在非常长的时间内做一些普通的事情。
+
+Figure out the type of river I want to dip my toes in – i.e., find a topic I want to master and read materials related to this topic – and then figure out ways to implement what I’ve learned into my life.
+
+> 弄清楚我想涉足的河流类型——即找到一个我想掌握的主题并阅读与该主题相关的材料——然后想办法将我学到的知识应用到我的生活中。
+
+I pick a topic, find materials – not only books – on the decided topic, and I study them. By studying them, I don’t mean reading them _only_ once. But going through them multiple times while taking notes and while trying to find ways to integrate the information gathered in my relationships, business, and daily routine in general.
+
+> 我选择一个主题，找到关于确定主题的材料——不仅仅是书籍——然后我研究它们。我所说的研究它们，并不是说_只读_一遍。但是在做笔记并试图找到整合在我的人际关系、业务和日常生活中收集到的信息的方法时，要多次浏览它们
+
+The core concept here is to not move towards another topic until I feel confident that I’ve done enough updates in my life and/or business with the _current_ topic.
+
+> 这里的核心概念是，在我确信我已经在生活和/或业务中对_当前_主题进行了足够的更新之前，不要转向另一个主题。
+
+You tell yourself, “I need to read _just one more book_ to start a business. I’m still not skilled enough on the topic.” However, after reading the book you supposedly have left, you’re introduced to some other unfamiliar concepts and this repeats the cycle – always preparing, never actually doing.
+
+> 你告诉自己，“我_只需要再读一本书_就可以创业。我对这个话题仍然不够熟练。然而，在读完你本应留下的书之后，你被介绍到其他一些不熟悉的概念，这重复着循环——总是在准备，从来没有真正做。
+
+Instead of taking action, you hoard even more information without applying anything you’ve learned.
+
+> 您没有采取行动，而是囤积了更多信息，而没有应用您学到的任何内容。
+
+As I currently focus on one topic at a time, I realize how nuanced my understanding becomes. I feel more confident in my knowledge of what I’m studying, and I start to see how the information can be implemented in my life. All things that weren’t previously available, simply because I was switching to new topics almost non-stop.
+
+> 当我目前一次专注于一个主题时，我意识到我的理解变得多么微妙。我对自己所学内容的知识更有信心，我开始了解如何在我的生活中实施这些信息。所有以前没有的东西，仅仅是因为我几乎不停地切换到新主题。
+
 ## 【04】20250120-20250126
 
 #### [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)

@@ -1,5 +1,15 @@
 # website
 
+## 【05】20250127-20250202
+
+#### [selfboot](https://gallery.selfboot.cn/zh/algorithms)
+
+这个网站能展示常见算法的可交互动画，让你更好的理解算法。
+
+#### [English News In Levels](https://englishnewsinlevels.com/)
+
+对每一条新闻都有适合不同英语能力等级的内容，适合帮助学习英语。
+
 ## 【04】20250120-20250126
 
 #### [国际流星雨协会](https://www.imo.net/)

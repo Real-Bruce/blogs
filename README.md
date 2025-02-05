@@ -15,6 +15,7 @@
 #### [website](./archives/website.md): interesting website or web tools
 
 ### 📰weekly: Records the resources collected each week
+#### 20250127-20250202 [Vol.031 From reading 40 books to reading 0](./weekly/Vol031.md)
 
 #### 20250120-20250126 [Vol.030 Everything Must Be Paid for Twice](./weekly/Vol030.md)
 
