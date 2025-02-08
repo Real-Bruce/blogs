@@ -16,7 +16,7 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20250203-20250209 [Vol.032](./weekly/Vol032.md)
+#### 20250203-20250209 [Vol.032 AI is Creating a Generation of Illiterate Programmers](./weekly/Vol032.md)
 
 #### 20250127-20250202 [Vol.031 From reading 40 books to reading 0](./weekly/Vol031.md)
 

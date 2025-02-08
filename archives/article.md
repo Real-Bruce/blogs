@@ -1,5 +1,25 @@
 # article
 
+## 【06】20250203-20250209
+
+#### [AI is Creating a Generation of Illiterate Programmers](https://nmn.gl/blog/ai-illiterate-programmers)
+
+作者在文章中指出，自己目前越来越依赖AI工具，不再花时间调试程序或查询文档，而是把问题全部抛给AI，因此解决问题也不再学习到任何内容。自己完全变成了AI解决方案的剪切板，完全放弃了深度思考，出现问题只会不断的询问AI。
+
+AI正在创造程序员文盲，不再学习新知识，不花时间调试解决问题，不再进行深度思考。AI并没有让我们编程10倍程序员，反而让我们对AI的依赖增加了10倍。
+摘抄的句子：
+Every time we let AI solve a problem we could’ve solved ourselves, we’re trading long-term understanding for short-term productivity. We’re optimizing for today’s commit at the cost of tomorrow’s ability.  
+
+>每次我们让 AI 解决我们自己本可以解决的问题时，我们都是在用长期理解换取短期生产力。我们正在以牺牲明天的能力为代价来优化今天的提交。
+
+Right now, somewhere, a new programmer is learning to code. They’ll never know the satisfaction of solving problems truly on their own. They’ll never experience the deep understanding that comes from wrestling with a bug for hours.  
+
+>现在，在某个地方，一位新程序员正在学习编码。他们永远不会知道真正靠自己解决问题的满足感。他们永远不会体验到与错误搏斗数小时的深刻理解。
+
+We’re creating a generation of developers who can ask AI the right questions but can’t understand the answers. Every time AI goes down, they’re exposed as increasingly helpless. As of now, [AI isn’t capable enough](https://nmn.gl/blog/ai-midlevel-engineer) to replace programmers fully, but this will only get worse as it improves. The real question isn’t whether AI will replace programmers. It’s whether we’re replacing ourselves.  
+
+>我们正在培养一代开发人员，他们可以向 AI 提出正确的问题，但无法理解答案。每次 AI 出现故障时，他们都会暴露出越来越无助的样子。截至目前，[AI 还不足](https://nmn.gl/blog/ai-midlevel-engineer)以完全取代程序员，但随着它的改进，情况只会变得更糟。真正的问题不是 AI 是否会取代程序员。而是我们是否在取代自己。
+
 ## 【05】20250127-20250202
 
 #### [From reading 40 books to reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
