@@ -2,6 +2,14 @@
 
 ## 【06】20250203-20250209
 
+#### [Find Your Footing After Installing Arch Linux](https://ejmastnak.com/tutorials/arch/about/)
+
+Arch Linux 初学者配置指南，不同于官方的wiki文档，这个文档帮你安装和设置Arch Linux，帮助你快速入门和体验Arch Linux。
+
+#### [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
+
+作者在文章内解释了为什么TCP连接需要进行三次握手，文中引入了矛盾论证的方法，验证为什么少于三次连接不能确保传输稳定，很不错一篇科普文章。
+
 ## 【05】20250127-20250202
 
 过年偷懒了。。。
