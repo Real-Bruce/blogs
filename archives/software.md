@@ -1,5 +1,15 @@
 # software
 
+## 【07】20250210-20250217
+
+#### [timeshift](https://github.com/linuxmint/timeshift)
+
+Linux上的时间机器类似于MacOS的时间机器，通过定期拍摄文件系统的增量快照来保护您的系统。这些快照可以在以后恢复，以撤消对系统的所有更改。
+
+#### [bruno](https://github.com/usebruno/bruno)
+
+开源的api调试客户端，类似于postman，但是将所有的api数据仅保留在本地文件内，不会上传云端保护你的api安全，可以使用git等版本管理工具进行api管理。
+
 ## 【06】20250203-20250209
 
 #### [DualQRCode](https://github.com/zacharyreese/DualQRCode)

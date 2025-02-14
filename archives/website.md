@@ -1,5 +1,15 @@
 # website
 
+## 【07】20250210-20250217
+
+#### [wikitok](https://wikitok.cc/)
+
+仿照tiktok风格制作的 wiki 百科查看网站，每次滚动鼠标出现一个新的wiki知识，很有意思的一种交互方式。
+
+#### [How to make money](https://www.appeconomyinsights.com/)
+
+特斯拉、微软、台积电、Meta、苹果、谷歌最新财报拆解，如何赚钱和花钱的，来源于 App Economy Insights，挺值得一看。
+
 ## 【06】20250203-20250209
 
 #### [古诗连词](https://poetrystrands.com/)
