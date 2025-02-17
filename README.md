@@ -16,6 +16,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250217-20250223 [Vol.034 50 years of travel tips](./weekly/Vol034.md)
+
 #### 20250210-20250216 [Vol.033](./weekly/Vol033.md)
 
 #### 20250203-20250209 [Vol.032 AI is Creating a Generation of Illiterate Programmers](./weekly/Vol032.md)
