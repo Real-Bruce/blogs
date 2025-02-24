@@ -14,6 +14,8 @@
 
 #### [website](./archives/website.md): interesting website or web tools
 
+#### [template](./archives/template.md): blogs template
+
 ### 📰weekly: Records the resources collected each week
 
 #### 20250217-20250223 [Vol.034 50 years of travel tips](./weekly/Vol034.md)
