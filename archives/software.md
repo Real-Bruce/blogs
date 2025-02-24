@@ -1,6 +1,20 @@
 # software
 
-## 【07】20250210-20250217
+## 【08】20250217-20250223
+
+#### [PeerAuth](https://github.com/ksze/PeerAuth)
+
+基于密码验证器实现的可以让任何两个人之间可以设置一个基于时间的独特一次性密码（TOTP），这样在两人远程视频或者打电话的时候，则可以要求提供密码验证器内的6位密码，如果两人的密码是一致的，则可以证明对方是真人。
+
+#### [gtrash](https://github.com/umlx5h/gtrash)
+
+Linux 和 Mac 系统的被删除文件的垃圾桶，可以在终端里面还原文件。
+
+#### [botgroup.chat](https://github.com/maojindao55/botgroup.chat)
+
+一个基于 React和 Cloudflare Pages(免费一键部署) 的多人 AI 聊天应用，支持多个 AI 角色同时参与对话，提供类似群聊的交互体验。体验地址：[https://botgroup.chat](https://botgroup.chat/)
+
+## 【07】20250210-20250216
 
 #### [timeshift](https://github.com/linuxmint/timeshift)
 

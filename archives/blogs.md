@@ -1,6 +1,16 @@
 # blogs
 
-## 【07】20250210-20250217
+## 【08】20250217-20250223
+
+#### [办一场婚礼大概要花多少钱](https://coala.top/archives/%E5%8A%9E%E4%B8%80%E5%9C%BA%E5%A9%9A%E7%A4%BC%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E9%92%B1%E6%88%91%E6%9D%A5%E5%BC%80%E6%BA%90%E6%88%91%E7%9A%84%E7%BB%93%E5%A9%9A%E8%AE%A1%E5%88%92#%E8%B4%B9%E7%94%A8%E6%B8%85%E5%8D%95)
+
+作者开源的办婚礼价格，包含婚纱照、酒店、请客、烟酒糖茶的各种价格，提供了很多参考，看完以后感觉好贵。 `-_-` 
+
+#### [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN)
+
+这是一个中文的 AI/LLM 大模型入门项目，项目将从简单的 API 调用入手，带你逐步深入大模型的世界。在此过程中，你将掌握 **AI 视频摘要**、**LLM 微调**和 **AI 图像生成**等技能。
+
+## 【07】20250210-20250216
 
 #### [quant-wiki](https://github.com/LLMQuant/quant-wiki)
 
