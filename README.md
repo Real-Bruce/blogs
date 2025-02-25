@@ -14,6 +14,8 @@
 
 #### [website](./archives/website.md): interesting website or web tools
 
+#### [template](./archives/template.md): blogs template
+
 ### 📰weekly: Records the resources collected each week
 
 #### 20250224-20250302 [Vol.035](./weekly/Vol035.md)
