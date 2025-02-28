@@ -1,5 +1,19 @@
 # software
 ## 【09】20250224-20250302
+#### [pandas ai](https://github.com/sinaptik-ai/pandas-ai)
+
+PandaAI 是一个 Python 平台，可以轻松地用自然语言向数据提问。它可以帮助非技术用户以更自然的方式与他们的数据进行交互，并帮助技术用户在处理数据时节省时间和精力。
+
+#### [siri ultra](https://github.com/fatwang2/siri-ultra)
+
+Siri Ultra 是一个能在 iPhone 上使用的 AI 聊天快捷指令，无需下载任何 App，即可体验到最新的大模型。
+
+#### [link to image](https://github.com/wind-liang/link-to-image)
+
+简单易用的链接转二维码图片生成器。输入链接后，会自动生成一张包含二维码、网站标题和简介的图片。
+
+在线访问地址：[https://qr.windliang.wang/](https://qr.windliang.wang/)
+
 
 ## 【08】20250217-20250223
 

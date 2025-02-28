@@ -1,5 +1,14 @@
 # blogs
+
 ## 【09】20250224-20250302
+
+#### [AI Myth book](https://github.com/Acmesec/theAIMythbook)
+
+涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
+
+#### [自顶向下方式深度解读 DeepSeek-R1](https://bruceyuan.com/post/deepseek-r1-paper-reading-notes.html)
+
+一篇解读DeepSeek深度思考模式的文章，很值得读一读，相关的文章还有这篇[Understanding Reasoning LLMs](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)也很推荐。
 
 ## 【08】20250217-20250223
 
