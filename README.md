@@ -18,7 +18,7 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20250224-20250302 [Vol.035](./weekly/Vol035.md)
+#### 20250224-20250302 [Vol.035 my kid english learning](./weekly/Vol035.md)
 
 #### 20250217-20250223 [Vol.034 50 years of travel tips](./weekly/Vol034.md)
 
