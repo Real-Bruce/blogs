@@ -1,5 +1,15 @@
 # blogs
 
+## 【10】20250303-20250309
+
+#### [预测技术在美团弹性伸缩场景的探索与应用](https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html)
+
+如题，美团技术团队的博客都挺不错的，推荐关注他们的博客：[美团技术团队](https://tech.meituan.com/)
+
+#### [GPU编程视频](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
+
+可视化的 GPU 编程视频，帮你入门 GPU 编程和 LLM。
+
 ## 【09】20250224-20250302
 
 #### [AI Myth book](https://github.com/Acmesec/theAIMythbook)
