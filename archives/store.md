@@ -12,6 +12,22 @@
 
 ## 🚀网站&工具
 
+#### [macos defaults](https://macos-defaults.com/)
+
+网站提供了非常多用来设置 macOS 的脚本。
+
+#### [dockhunt](https://www.dockhunt.com/)
+
+把自己 Mac 电脑底部的 Dock 栏共享在这个网站上，可以点击一个 app 查看使用这个 app 的人还在使用什么别的 app。
+
+#### [ps ittools](https://ps.ittools.cc/editor/)
+
+免费的在线版PS网站。
+
+#### [langeek](https://dictionary.langeek.co/)
+
+辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。
+
 #### [mistral ocr](https://mistral.ai/news/mistral-ocr)
 
 号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
