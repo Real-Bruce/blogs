@@ -1,5 +1,27 @@
 # website
 
+## 【11】20250310-20250316
+
+#### [Chemical Industry Sites Directory](https://chemsiteshub.com/sites/)
+
+全球化学工业网站目录，包含了各种和化学工业相关的网站信息。
+
+#### [mcp servers](https://mcp.so/servers)
+
+MCP （Anthropic 开发的开源协议，可让 AI 安全地与各种数据源连接）特别火，这个网站收录了上千个 MCP 服务信息，关于[MCP协议简介](https://www.anthropic.com/news/model-context-protocol)，少数派也有一篇相关的[文章](https://sspai.com/prime/story/mcp-tutorial)
+
+## 【10】20250303-20250309
+
+#### [VisActor](https://www.figma.com/community/file/1471713433455637603)
+
+字节开源的Figma图标库，AI图标的设计很精美。
+
+#### [fofa](https://fofa.info/)
+
+`FOFA` 是白帽汇推出的一款网络空间搜索引擎,它通过进行网络空间测绘,能够帮助研究人员或者企业迅速进行网络资产匹配,例如进行漏洞影响范围分析、应用分布统计、应用流行度等。
+
+检索到的内容主要是服务器，数据库，某个网站管理后台，路由器，交换机，公共ip的打印机，网络摄像头，门禁系统，Web服务 ……
+
 ## 【09】20250224-20250302
 
 #### [min mail](https://minmail.app/cn)

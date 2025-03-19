@@ -1,5 +1,37 @@
 # software
+
+## 【11】20250310-20250316
+
+#### [MTranServer](https://github.com/xxnuo/MTranServer)
+
+一个超低资源消耗超快的离线翻译服务器，仅需 1G 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译。翻译质量与 Google 翻译相当。
+
+#### [Xiaomi BootLoader Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire)
+
+小米解锁 BL 的题库，目前来看解锁BL越来越难了，很多厂商甚至直接不开放解锁权限了，曾经为发烧而生的小米，现在的做法也确实让人心寒。
+
+#### [meeting minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
+
+AI 驱动的会议助手，可捕获实时会议音频、实时转录并生成摘要，同时确保用户隐私。非常适合希望专注于讨论，同时自动捕获和组织会议内容的团队，而无需外部服务器或复杂的基础设施。
+
+## 【10】20250303-20250309
+
+#### [AstrBot](https://github.com/Soulter/AstrBot)
+
+AstrBot 是一个松耦合、异步、支持多消息平台部署、具有易用的插件系统和完善的大语言模型（LLM）接入功能的聊天机器人及开发框架。
+
+#### [glance](https://github.com/glanceapp/glance)
+
+这个开源的自助托管的仪表板 Glance，可以将所有你的信息源放在一个地方来查看，如 RSS、Hacker News、天气预报、YouTube、股票价格、Docker 容器状态、自定义组件，将各类信息all in one，打造自己专属的仪表盘。
+
+#### [new svg viewer](https://github.com/liujuntao123/new-svg-viewer)
+
+一个界面清爽，功能齐全的 SVG 预览网站
+
+网站地址：[https://new-svg-viewer.19921014.xyz/](https://new-svg-viewer.19921014.xyz/)
+
 ## 【09】20250224-20250302
+
 #### [pandas ai](https://github.com/sinaptik-ai/pandas-ai)
 
 PandaAI 是一个 Python 平台，可以轻松地用自然语言向数据提问。它可以帮助非技术用户以更自然的方式与他们的数据进行交互，并帮助技术用户在处理数据时节省时间和精力。
@@ -13,7 +45,6 @@ Siri Ultra 是一个能在 iPhone 上使用的 AI 聊天快捷指令，无需下
 简单易用的链接转二维码图片生成器。输入链接后，会自动生成一张包含二维码、网站标题和简介的图片。
 
 在线访问地址：[https://qr.windliang.wang/](https://qr.windliang.wang/)
-
 
 ## 【08】20250217-20250223
 

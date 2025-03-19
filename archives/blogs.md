@@ -1,5 +1,25 @@
 # blogs
 
+## 【11】20250310-20250316
+
+#### [注释是你的朋友](https://taxodium.ink/valuing-comments.html)
+
+作者收集了一些关于注释的文章，也谈到了他对注释的理解。里面的文章列表非常值得一读。
+
+#### [国际化指南](https://www.tonpixel.cn/blog/%E5%9B%BD%E9%99%85%E5%8C%96%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97)
+
+《国际化设计指南》作者在文章中指出在不同场景在做国际化多语言，以及本地化开发需要注意的点，整理的很全面，很推荐阅读。
+
+## 【10】20250303-20250309
+
+#### [预测技术在美团弹性伸缩场景的探索与应用](https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html)
+
+如题，美团技术团队的博客都挺不错的，推荐关注他们的博客：[美团技术团队](https://tech.meituan.com/)
+
+#### [GPU编程视频](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
+
+可视化的 GPU 编程视频，帮你入门 GPU 编程和 LLM。
+
 ## 【09】20250224-20250302
 
 #### [AI Myth book](https://github.com/Acmesec/theAIMythbook)

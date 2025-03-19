@@ -1,5 +1,57 @@
 # article
 
+## 【11】20250310-20250316
+
+作者在文中提出了一个很有意思的观点，当简单的事情增加两个0，那么就需要思考更多的问题，以往的所有经验都会失效。因此，如果你想变得更厉害那最好的办法就是勇敢的向前，放弃以往的所有经验，重新成为新手。
+
+摘抄的句子：
+
+Your tools/methods can usually scale by one order-of-magnitude; adding two zeroes forces you to rethink everything.
+
+> 您的工具/方法通常可以缩放一个数量级;添加两个 0 会迫使您重新考虑一切。
+
+Each 10x jump pushes knowledge/resources to logical limits, but a 100x jump disrupts all dimensions of your problem domain.
+
+> 每一次 10 次跳跃都会将知识/资源推向逻辑极限，但 100 次跳跃会破坏问题域的所有维度。
+
+Every two zeroes, your best-kept secrets-to-success become your stinkiest instincts. To move forward, forsake your favorite skills/tools/methods/talents. Exceed yourself; become a novice again, again and again.
+
+> 每隔两个 0，你最保守的成功秘诀就会成为你最臭的直觉。要向前迈进，请放弃你最喜欢的技能/工具/方法/才能。超越自我;一次又一次地成为新手
+
+## 【10】20250303-20250309
+
+#### [如果没有人读博客，为什么要写呢？](https://andysblog.uk/why-blog-if-nobody-reads-it/)
+
+原文地址失效了，下面的内容我是在阮老师的博客里找到的，类似的讨论还有这一篇博客：[blogging in the age of ai](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
+
+让我们坦率一点吧，你写了一篇博客，根本就没有人读。
+
+至少，没有你想要的那么多读者。你把自己的想法倾注在文章，精心构思每个句子，选择合适的图片----然后什么反响也没有，没有点赞，没有分享，没有互动。
+
+那么写博客的意义何在？
+
+首先，关于写博客，有两个误解。一个是只要我写出了好文章，读者自然就会来。不，他们不会来，网上有几十亿篇博客，好像浩浩荡荡的飓风一样，你的博客只是风里的一片叶子，谁会注意呢。
+
+另一个误解是如果没有人阅读，写作就是浪费时间。
+
+博客有自己隐藏的价值。你写博客不是为了别人的掌声，而是因为你自己的需要。
+
+博客使人头脑清晰。它帮你理清思绪，锐化视角。当你写作时，你会思考得更好。当你思考得更好时，你会做出更好的成果。
+
+**博客的目标读者，其实不是互联网人群，而是未来的你**，你的文章会让你看到自己思想的演变。
+
+此外，未来也许有一天，某个真正需要你文章的人，会找到它。一篇有深度的文章比一篇病毒式传播的文章，影响力更持久。
+
+写博客有点像街头摄影。你手拿相机，漫步在城市中。你看到一个场景----一个充满光、影、人性的瞬间，就拍下了它。
+
+没人关心你拍到了什么。但这不是你摄影的原因，**你摄影是因为你看到了一些东西**。
+
+写博客也一样。**你写博客是因为你在思考，因为你在观察，因为你希望把它放在某个地方**。
+
+如果有人读了，那就更好了。如果没有，工作还是完成了。
+
+这才是真正的重点。
+
 ## 【09】20250224-20250302
 
 #### [my kid english learning](https://danieljia.com/posts/my-kid-english-learning/)
