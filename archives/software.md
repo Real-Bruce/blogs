@@ -1,5 +1,15 @@
 # software
 
+## 【12】20250317-20250323
+
+#### [Telegram Files](https://github.com/jarvis2f/telegram-files)
+
+开源的 Telegram 文件下载器，支持多频道、多账户同时下载。
+
+#### [obsidian cloud sync](https://github.com/ai-bytedance/obsidian-cloud-sync)
+
+Obsidian 插件，支持将笔记自动同步到多种云盘服务，提供端到端加密保护，让您的笔记既安全又便捷，目前支持的云盘包括：百度云盘、阿里云盘、坚果云、OneDrive、iCloud。
+
 ## 【11】20250310-20250316
 
 #### [MTranServer](https://github.com/xxnuo/MTranServer)

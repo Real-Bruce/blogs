@@ -1,5 +1,15 @@
 # website
 
+## 【12】20250317-20250323
+
+#### [search the arxiv](https://searchthearxiv.com/)
+
+基于 AI，使用自然语言搜索 arXiv 论文，关于arXiv的介绍 [arXiv wiki](https://en.wikipedia.org/wiki/ArXiv)官网在这里：[arxiv](https://arxiv.org/)
+
+#### [web design museum](https://www.webdesignmuseum.org/)
+
+Web设计博物馆，网站收录了自1991年以来的各种经典和有代表性的网页design案例。可以亲眼见证各大网站不同年代的网页设计，了解它们的历史和特点。
+
 ## 【11】20250310-20250316
 
 #### [Chemical Industry Sites Directory](https://chemsiteshub.com/sites/)

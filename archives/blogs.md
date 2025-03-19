@@ -1,5 +1,15 @@
 # blogs
 
+## 【12】20250317-20250323
+
+#### [elements of ai](https://course.elementsofai.com/)
+
+关于AI的公开课，帮你了解AI相关的知识。
+
+#### [best-virtual-credit-card](https://topstip.com/best-virtual-credit-card/)
+
+这个海外虚拟信用卡开卡平台推荐 Top10 虚拟数字银行卡汇总整理得挺全的，建议使用的时候选择综合能力更好的，同时不建议大额充值，只是解决自己海外支付的燃眉之急。
+
 ## 【11】20250310-20250316
 
 #### [注释是你的朋友](https://taxodium.ink/valuing-comments.html)

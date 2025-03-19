@@ -18,6 +18,10 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250317-20250323 [Vol.038 new series underrated soft skills](./weekly/Vol038.md)
+
+#### 20250310-20250316 [Vol.037 next two zero](./weekly/Vol037.md)
+
 #### 20250303-30350309 [Vol.036 如果没人读博客为什么要写呢？](./weekly/Vol036.md)
 
 #### 20250224-20250302 [Vol.035 my kid english learning](./weekly/Vol035.md)

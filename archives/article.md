@@ -1,6 +1,34 @@
 # article
 
+## 【12】20250317-20250323
+
+#### [new series underrated soft skills](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)
+
+文中提到了工程师需要培养的软技能，作者指出魅力是很重要的一点，因为作为人类工程师，大部分时间还是需要和人沟通交流的，硬实力也就是专业技能固然重要，但是软实力也就是和人交往的能力也是很重要的，作者提到了几点培养魅力的方式。
+
+其中一些观点很有启发，下面是我摘抄的一些内容：
+you must keep one thing in mind:Charisma is all about how you make others feel
+>你必须记住一件事：魅力就是你让别人怎么感觉
+
+We tend to perceive people as charismatic only when they can connect with us meaningfully Humans are naturally wired for connection. We intuitively know whether we feel connected to someone or whether an interaction feels meaningful or not.
+>只有当人们能够与我们建立有意义的联系时，我们才会认为他们是有魅力的人类天生就喜欢联系。我们凭直觉知道我们是否觉得自己与某人有联系，或者互动是否有意义。
+
+**If you want to build charisma, start by establishing more meaningful connections**. This means being present and paying attention to other people:  
+>**如果您想建立魅力，请先建立更有意义的联系**。这意味着在场并关注其他人：
+
+- **Focus your attention on the other person.**
+- **Forget about yourself and your dilemmas for a second.**
+- **Develop a curiosity for what the other person is saying.**
+- **Connect by being vulnerable.**
+
+>**将注意力集中在对方身上。**
+>**暂时忘记你自己和你的困境。**
+>**培养对对方所说的话的好奇心。**
+>**通过脆弱来建立联系。**
+
 ## 【11】20250310-20250316
+
+#### [next two zero](https://taylor.town/next-two-zeroes)
 
 作者在文中提出了一个很有意思的观点，当简单的事情增加两个0，那么就需要思考更多的问题，以往的所有经验都会失效。因此，如果你想变得更厉害那最好的办法就是勇敢的向前，放弃以往的所有经验，重新成为新手。
 
