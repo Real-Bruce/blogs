@@ -2,6 +2,20 @@
 
 ## 🛸开源项目
 
+#### [markpdfdown](https://github.com/jorben/markpdfdown/blob/master/README_zh.md)
+PDF转markdown的开源工具
+#### [lazyeat](https://github.com/maplelost/lazyeat)
+
+开源的windows桌面应用，通过对摄像头比划手势来操控电脑，很适合吃饭的时候看视频使用。
+
+#### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
+
+一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
+
+#### [file pizza](https://github.com/kern/filepizza)
+
+浏览器中的点对点文件传输开源项目。
+
 #### [university information](https://github.com/CollegesChat/university-information/)
 
 这个开源项目是一个收集全国各高校的生活细节的问题，通过问卷的方式收集归档展示，也可以访问网站查看，[大学生活质量指北](https://colleges.chat/)。
