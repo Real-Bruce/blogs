@@ -18,6 +18,14 @@ Maybe a smarter, more naturally gifted person can be sporadically brilliant, and
 
 ## 🛸开源项目
 
+#### [social media copilot](https://github.com/iszhouhua/social-media-copilot)
+
+社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
+
+#### [local deep researcher](https://github.com/langchain-ai/local-deep-researcher)
+
+Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ollama](https://ollama.com/search) 或 [LMStudio](https://lmstudio.ai/) 托管的任何LLM助手。给它一个主题，它将生成一个 Web 搜索查询，收集 Web 搜索结果，总结 Web 搜索结果，反思摘要以检查知识差距，生成新的搜索查询以解决差距，并重复用户定义的循环数。它将为用户提供最终的 Markdown 摘要，其中包含用于生成摘要的所有来源。
+
 #### [markpdfdown](https://github.com/jorben/markpdfdown/blob/master/README_zh.md)
 
 MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI模型，能够将PDF文档准确转换为结构清晰的Markdown格式，保留原始文档的排版、表格、公式等复杂元素。
@@ -43,6 +51,17 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 一个完全静态的搜索库，不需要安装任何组件，只需要简单的配置就能帮你的博客、文档网站添加上搜索功能。
 
 ## 🚀网站&工具
+
+#### [vectorcraftr](https://vectorcraftr.com/)
+开源的插画网站，很活泼也很有趣，给你的网站添加一点活泼的感觉
+
+#### [smithery](https://smithery.ai/)
+
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力。
+
+#### [go to library](https://go-to-library.sk/#useful_link_tab)
+
+zlibray官方入口
 
 #### [macos defaults](https://macos-defaults.com/)
 
