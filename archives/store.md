@@ -53,7 +53,8 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 ## 🚀网站&工具
 
 #### [vectorcraftr](https://vectorcraftr.com/)
-开源的插画网站，很活泼也很有趣，给你的网站添加一点活泼的感觉
+
+开源的插画网站，很活泼也很有趣，给你的网站添加一点活泼的味道。
 
 #### [smithery](https://smithery.ai/)
 
