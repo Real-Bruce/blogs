@@ -18,6 +18,14 @@ Maybe a smarter, more naturally gifted person can be sporadically brilliant, and
 
 ## 🛸开源项目
 
+#### [prompt optimizer](https://github.com/linshenkx/prompt-optimizer)
+
+提示词优化项目，帮你完善你的提示词，让AI输出更加符合你需求的内容。支持web应用和浏览器插件的形式使用。
+
+#### [langmanus](https://github.com/langmanus/langmanus)
+
+Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以完美运行，抢不到Manus的邀请码，可以尝试一下这个项目。
+
 #### [social media copilot](https://github.com/iszhouhua/social-media-copilot)
 
 社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
