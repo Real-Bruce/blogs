@@ -16,6 +16,10 @@ Stamina is one of the most universally useful traits you can develop — it’s 
 Maybe a smarter, more naturally gifted person can be sporadically brilliant, and solve a tough problem way faster than you. But you, with your staying power, can more capably and reliably solve the 100 problems that follow.  
 >也许一个更聪明、更有天赋的人可以偶尔聪明，并且比你更快地解决棘手的问题。但是，凭借您的持久力，您可以更有能力、更可靠地解决接下来的 100 个问题。
 
+#### [谈谈我是如何高效率的工作，高效率的 Get Things Done 和让团队高效率运转](https://v2ex.com/t/887733#)
+
+作者在文中提出的一个观点我很受用：Facebook 的 Zuck 常说他的法则是高于 25 分钟的任务他会分解。我的个人准则则是 20 分钟 任何 item, 如果超过了 20 分钟的需求我会把他们分解成 sub tasks. 这样可以保证我对于这个工作我可以很快开始，而不会有 procrastination.
+
 ## 🛸开源项目
 
 #### [prompt optimizer](https://github.com/linshenkx/prompt-optimizer)
