@@ -60,6 +60,14 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 
 ## 🚀网站&工具
 
+#### [HsckerNews中文版](https://hn.aimaker.dev/)
+
+基于 AI 每小时自动翻译 HackerNews 上的热门内容，帮你快速掌握最新的科技动态。
+
+#### [engoo](https://engoo.com/app/materials/en)
+
+提供适合多种水平英语学习者的课程，包括可以音频朗读并标注分级的每日新闻等功能。
+
 #### [vectorcraftr](https://vectorcraftr.com/)
 
 开源的插画网站，很活泼也很有趣，给你的网站添加一点活泼的味道。
@@ -105,3 +113,4 @@ zlibray官方入口
 #### [《MCP终极指南》](https://guangzhengli.com/blog/zh/model-context-protocol/)
 
 关于MCP的介绍和使用指南，可以帮助初学者理解MCP，同时文中引用了很多相关的文章，很推荐阅读。
+最近又发现一篇关于MCP的文章[](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)，也很不错可以一起阅读。
