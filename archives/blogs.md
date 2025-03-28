@@ -1,5 +1,16 @@
 # blogs
 
+## 【13】20250324-20250330
+
+#### [《MCP终极指南》](https://guangzhengli.com/blog/zh/model-context-protocol/)
+
+关于MCP的介绍和使用指南，可以帮助初学者理解MCP，同时文中引用了很多相关的文章，很推荐阅读。
+最近又发现一篇关于MCP的文章[mcp vs api model context protocol explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)，也很不错可以一起阅读。
+
+#### [Big LLMs weights are a piece of history](https://antirez.com/news/147)
+
+每年都有很多的网页因为各种原因而消失，如果不能及时保存下来就彻底消失了，但是LLM大模型的出现改变了这个情况。如果这些即将消失的网页变成了大模型的训练资料，那么虽然原始网页会消失，但是相关的内容会被大模型记录下来。也就是说大模型实际上提供了一种互联网内容压缩机制，让日益膨胀的互联网数据，变得精简和实用。
+
 ## 【12】20250317-20250323
 
 #### [elements of ai](https://course.elementsofai.com/)

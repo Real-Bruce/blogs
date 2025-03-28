@@ -1,5 +1,23 @@
 # article
 
+## 【13】20250324-20250330
+
+#### [stamina is a quiet advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
+
+作者在文章中写到，耐力是很可贵的能力，他能帮助你走的更远实现更大的目标，也许聪明能让你完成一次任务，但是耐力会让你无数次完成任务。
+
+While stamina is the ability to sustain focused effort despite pain or discomfort, you should also think of it as the ability to stay true to your values and commitments — to hold [fidelity to a worthy purpose](https://kupajo.com/do-the-right-things-quietly/) — especially when it’s hard to do so.  
+>虽然耐力是在痛苦或不适的情况下保持专注努力的能力，但您也应该将其视为忠于自己的价值观和承诺的能力——忠于[有价值的目标](https://kupajo.com/do-the-right-things-quietly/)——尤其是在很难做到的时候。
+
+It’s the ability to chip away at goals despite a lack of visible progress. To hold focus and presence in a world incentivized to distract you. To stay patient. To be on time. To push through difficult material. To follow instructions or proceed without them. To keep an open mind and be willing to renew your perspective.  
+>这是在缺乏明显进步的情况下逐步取得进球的能力。在一个激励分散您注意力的世界中保持专注和存在。保持耐心。准时。通过困难的材料。按照说明作或不执行指示。保持开放的心态并愿意更新您的观点。
+
+Stamina is one of the most universally useful traits you can develop — it’s a more broadly applicable advantage than things that are situationally useful, like strength, intelligence, speed, popularity, motivation, etc.  
+>耐力是您可以培养的最普遍有用的特征之一——它比情境有用的东西（如力量、智力、速度、受欢迎程度、动机等）更广泛适用。
+
+Maybe a smarter, more naturally gifted person can be sporadically brilliant, and solve a tough problem way faster than you. But you, with your staying power, can more capably and reliably solve the 100 problems that follow.  
+>也许一个更聪明、更有天赋的人可以偶尔聪明，并且比你更快地解决棘手的问题。但是，凭借您的持久力，您可以更有能力、更可靠地解决接下来的 100 个问题。
+
 ## 【12】20250317-20250323
 
 #### [new series underrated soft skills](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)

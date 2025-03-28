@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250324-20250330 [Vol.039 stamina is a quiet advantage](./weekly/Vol039.md)
+
 #### 20250317-20250323 [Vol.038 new series underrated soft skills](./weekly/Vol038.md)
 
 #### 20250310-20250316 [Vol.037 next two zero](./weekly/Vol037.md)

@@ -1,5 +1,15 @@
 # software
 
+## 【13】20250324-20250330
+
+#### [university information](https://github.com/CollegesChat/university-information/)
+
+这个开源项目是一个收集全国各高校的生活细节的问题，通过问卷的方式收集归档展示，也可以访问网站查看，[大学生活质量指北](https://colleges.chat/)。
+
+#### [pagefind](https://github.com/cloudcannon/pagefind)
+
+一个完全静态的搜索库，不需要安装任何组件，只需要简单的配置就能帮你的博客、文档网站添加上搜索功能。
+
 ## 【12】20250317-20250323
 
 #### [Telegram Files](https://github.com/jarvis2f/telegram-files)
