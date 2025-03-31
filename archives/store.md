@@ -6,6 +6,10 @@
 
 ## 🛸开源项目
 
+#### [astrowind](https://github.com/onwidget/astrowind)
+
+开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发，基本产品框架都具备了，适合没有设计师的团队，稍加修改就能满足个人或小企业的应用。
+
 #### [wise flow](https://github.com/TeamWiseFlow/wiseflow)
 
 使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！基于Ai的爬虫项目，输入你要获取的信源，选择你感兴趣的主题，AI会自动帮你爬取汇总相关信息。
@@ -55,6 +59,10 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 浏览器中的点对点文件传输开源项目。
 
 ## 🚀网站&工具
+
+#### [fonts zeo seven](https://fonts.zeoseven.com/)
+
+开源免费字体查找网站，提供多种简单的方式帮助你很好嵌入到网站中去，提供 CDN 地址。
 
 #### [huggingface spaces](https://huggingface.co/spaces)
 
