@@ -6,6 +6,14 @@
 
 ## 🛸开源项目
 
+#### [wise flow](https://github.com/TeamWiseFlow/wiseflow)
+
+使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！基于Ai的爬虫项目，输入你要获取的信源，选择你感兴趣的主题，AI会自动帮你爬取汇总相关信息。
+
+#### [neura press](https://github.com/tianyaxiang/neurapress)
+
+NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。
+
 #### [obsidian minote plugin](https://github.com/emac/obsidian-minote-plugin)
 
 Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记](https://i.mi.com/note/h5#/)转换为 Markdown 格式保存到 Obsidian 指定的文件夹中。首次使用，如果笔记数量较多，更新会比较慢，后面再去更新的时候只会增量更新有变化的笔记，一般速度很快。
@@ -47,6 +55,10 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 浏览器中的点对点文件传输开源项目。
 
 ## 🚀网站&工具
+
+#### [huggingface spaces](https://huggingface.co/spaces)
+
+`Hugging Face Spaces` 导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能，帮你找到你感兴趣的LLM项目。
 
 #### [check plug travel adapter](https://remit.ee/tools/check-plug-travel-adapter/)
 
@@ -101,3 +113,7 @@ zlibray官方入口
 号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
 
 ## ⛵资料&博文
+
+#### [building llm applications from scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
+
+该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。
