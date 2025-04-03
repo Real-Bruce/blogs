@@ -18,11 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
-<<<<<<< HEAD
 #### 20250331-20250406 [Vol.040 如何高效工作](./weekly/Vol040.md)
 
-=======
->>>>>>> 6bbc4d0072caefcb6adce05879706cc0fee999a6
 #### 20250324-20250330 [Vol.039 stamina is a quiet advantage](./weekly/Vol039.md)
 
 #### 20250317-20250323 [Vol.038 new series underrated soft skills](./weekly/Vol038.md)

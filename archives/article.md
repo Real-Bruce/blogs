@@ -1,14 +1,11 @@
 # article
 
-<<<<<<< HEAD
 ## 【14】20250331-20250406
 
 #### [谈谈我是如何高效率的工作，高效率的 Get Things Done 和让团队高效率运转](https://v2ex.com/t/887733#)
 
 作者在文中提出的一个观点我很受用：Facebook 的 Zuck 常说他的法则是高于 25 分钟的任务他会分解。我的个人准则则是 20 分钟 任何 item, 如果超过了 20 分钟的需求我会把他们分解成 sub tasks. 这样可以保证我对于这个工作我可以很快开始，而不会有 procrastination.
 
-=======
->>>>>>> 6bbc4d0072caefcb6adce05879706cc0fee999a6
 ## 【13】20250324-20250330
 
 #### [stamina is a quiet advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
