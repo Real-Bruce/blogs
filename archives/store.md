@@ -1,26 +1,18 @@
 ## 📜有价值的文章
 
-#### [stamina is a quiet advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
-
-作者在文章中写到，耐力是很可贵的能力，他能帮助你走的更远实现更大的目标，也许聪明能让你完成一次任务，但是耐力会让你无数次完成任务。
-
-While stamina is the ability to sustain focused effort despite pain or discomfort, you should also think of it as the ability to stay true to your values and commitments — to hold [fidelity to a worthy purpose](https://kupajo.com/do-the-right-things-quietly/) — especially when it’s hard to do so.  
->虽然耐力是在痛苦或不适的情况下保持专注努力的能力，但您也应该将其视为忠于自己的价值观和承诺的能力——忠于[有价值的目标](https://kupajo.com/do-the-right-things-quietly/)——尤其是在很难做到的时候。
-
-It’s the ability to chip away at goals despite a lack of visible progress. To hold focus and presence in a world incentivized to distract you. To stay patient. To be on time. To push through difficult material. To follow instructions or proceed without them. To keep an open mind and be willing to renew your perspective.  
->这是在缺乏明显进步的情况下逐步取得进球的能力。在一个激励分散您注意力的世界中保持专注和存在。保持耐心。准时。通过困难的材料。按照说明作或不执行指示。保持开放的心态并愿意更新您的观点。
-
-Stamina is one of the most universally useful traits you can develop — it’s a more broadly applicable advantage than things that are situationally useful, like strength, intelligence, speed, popularity, motivation, etc.  
->耐力是您可以培养的最普遍有用的特征之一——它比情境有用的东西（如力量、智力、速度、受欢迎程度、动机等）更广泛适用。
-
-Maybe a smarter, more naturally gifted person can be sporadically brilliant, and solve a tough problem way faster than you. But you, with your staying power, can more capably and reliably solve the 100 problems that follow.  
->也许一个更聪明、更有天赋的人可以偶尔聪明，并且比你更快地解决棘手的问题。但是，凭借您的持久力，您可以更有能力、更可靠地解决接下来的 100 个问题。
-
-#### [谈谈我是如何高效率的工作，高效率的 Get Things Done 和让团队高效率运转](https://v2ex.com/t/887733#)
-
-作者在文中提出的一个观点我很受用：Facebook 的 Zuck 常说他的法则是高于 25 分钟的任务他会分解。我的个人准则则是 20 分钟 任何 item, 如果超过了 20 分钟的需求我会把他们分解成 sub tasks. 这样可以保证我对于这个工作我可以很快开始，而不会有 procrastination.
-
 ## 🛸开源项目
+
+#### [astrowind](https://github.com/onwidget/astrowind)
+
+开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发，基本产品框架都具备了，适合没有设计师的团队，稍加修改就能满足个人或小企业的应用。
+
+#### [wise flow](https://github.com/TeamWiseFlow/wiseflow)
+
+使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！基于Ai的爬虫项目，输入你要获取的信源，选择你感兴趣的主题，AI会自动帮你爬取汇总相关信息。
+
+#### [neura press](https://github.com/tianyaxiang/neurapress)
+
+NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。
 
 #### [obsidian minote plugin](https://github.com/emac/obsidian-minote-plugin)
 
@@ -54,23 +46,31 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 
 开源的windows桌面应用，通过对摄像头比划手势来操控电脑，很适合吃饭的时候看视频使用。
 
-#### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
-
-一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
-
-#### [file pizza](https://github.com/kern/filepizza)
-
-浏览器中的点对点文件传输开源项目。
-
-#### [university information](https://github.com/CollegesChat/university-information/)
-
-这个开源项目是一个收集全国各高校的生活细节的问题，通过问卷的方式收集归档展示，也可以访问网站查看，[大学生活质量指北](https://colleges.chat/)。
-
-#### [pagefind](https://github.com/cloudcannon/pagefind)
-
-一个完全静态的搜索库，不需要安装任何组件，只需要简单的配置就能帮你的博客、文档网站添加上搜索功能。
-
 ## 🚀网站&工具
+
+#### [streamlinehq](https://www.streamlinehq.com/)
+
+免费的图标库，提供了近 10 万个免费的 PNG、SVG 图标。
+
+#### [ttsapi](https://ttsapi.site/)
+
+免费的文字转语音网站，支持设置语调。
+
+#### [squish](https://squish.addy.ie/)
+
+图片格式转换压缩工具，支持 AVIF, JPEG, JPEG XL, PNG, WebP 等多种图像格式。
+
+#### [The Pudding](https://pudding.cool/)
+
+这是一个有趣的数据可视化网站，通过图表和故事吧一些复杂的话题讲述清楚
+
+#### [fonts zeo seven](https://fonts.zeoseven.com/)
+
+开源免费字体查找网站，提供多种简单的方式帮助你很好嵌入到网站中去，提供 CDN 地址。
+
+#### [huggingface spaces](https://huggingface.co/spaces)
+
+`Hugging Face Spaces` 导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能，帮你找到你感兴趣的LLM项目。
 
 #### [check plug travel adapter](https://remit.ee/tools/check-plug-travel-adapter/)
 
@@ -116,29 +116,12 @@ zlibray官方入口
 
 免费的在线版PS网站。
 
-#### [langeek](https://dictionary.langeek.co/)
-
-辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。
-
-#### [mistral ocr](https://mistral.ai/news/mistral-ocr)
-
-号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
-
-#### [histography](https://histography.io/)
-
-一个效果很炫酷的时间轴网站，展示了从宇宙大爆炸到近代的各种事件，很有趣的网站。
-
-#### [free for developers](https://free-for.dev/#/)
-
-一个专门为开发者收集整理免费在线工具资源的网站，包括了 SaaS、PaaS、IaaS 等可以免费提供的一些服务，涉及到开发过程中的方方面面，对于前期的产品使用偏免费的服务或许是一种不错的选择。
-
 ## ⛵资料&博文
 
-#### [《MCP终极指南》](https://guangzhengli.com/blog/zh/model-context-protocol/)
+#### [java对象的内存布局](https://www.cnblogs.com/star95/p/17522142.html)
 
-关于MCP的介绍和使用指南，可以帮助初学者理解MCP，同时文中引用了很多相关的文章，很推荐阅读。
-最近又发现一篇关于MCP的文章[mcp vs api model context protocol explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)，也很不错可以一起阅读。
+讲解Java对象内存布局的好文章，博客作者还输出了很多Java相关的博客，强烈推荐关注：[小新成长之路](https://www.cnblogs.com/star95)
 
-#### [Big LLMs weights are a piece of history](https://antirez.com/news/147)
+#### [building llm applications from scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
 
-每年都有很多的网页因为各种原因而消失，如果不能及时保存下来就彻底消失了，但是LLM大模型的出现改变了这个情况。如果这些即将消失的网页变成了大模型的训练资料，那么虽然原始网页会消失，但是相关的内容会被大模型记录下来。也就是说大模型实际上提供了一种互联网内容压缩机制，让日益膨胀的互联网数据，变得精简和实用。
+该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。

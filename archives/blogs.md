@@ -1,5 +1,26 @@
 # blogs
 
+## 【14】20250331-20250406
+
+#### [java对象的内存布局](https://www.cnblogs.com/star95/p/17522142.html)
+
+讲解Java对象内存布局的好文章，博客作者还输出了很多Java相关的博客，强烈推荐关注：[小新成长之路](https://www.cnblogs.com/star95)
+
+#### [building llm applications from scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
+
+该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。
+
+## 【13】20250324-20250330
+
+#### [《MCP终极指南》](https://guangzhengli.com/blog/zh/model-context-protocol/)
+
+关于MCP的介绍和使用指南，可以帮助初学者理解MCP，同时文中引用了很多相关的文章，很推荐阅读。
+最近又发现一篇关于MCP的文章[mcp vs api model context protocol explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)，也很不错可以一起阅读。
+
+#### [Big LLMs weights are a piece of history](https://antirez.com/news/147)
+
+每年都有很多的网页因为各种原因而消失，如果不能及时保存下来就彻底消失了，但是LLM大模型的出现改变了这个情况。如果这些即将消失的网页变成了大模型的训练资料，那么虽然原始网页会消失，但是相关的内容会被大模型记录下来。也就是说大模型实际上提供了一种互联网内容压缩机制，让日益膨胀的互联网数据，变得精简和实用。
+
 ## 【12】20250317-20250323
 
 #### [elements of ai](https://course.elementsofai.com/)

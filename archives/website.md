@@ -1,5 +1,25 @@
 # website
 
+## 【14】20250331-20250406
+
+#### [langeek](https://dictionary.langeek.co/)
+
+辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。
+
+#### [mistral ocr](https://mistral.ai/news/mistral-ocr)
+
+号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
+
+## 【13】20250324-20250330
+
+#### [histography](https://histography.io/)
+
+一个效果很炫酷的时间轴网站，展示了从宇宙大爆炸到近代的各种事件，很有趣的网站。
+
+#### [free for developers](https://free-for.dev/#/)
+
+一个专门为开发者收集整理免费在线工具资源的网站，包括了 SaaS、PaaS、IaaS 等可以免费提供的一些服务，涉及到开发过程中的方方面面，对于前期的产品使用偏免费的服务或许是一种不错的选择。
+
 ## 【12】20250317-20250323
 
 #### [search the arxiv](https://searchthearxiv.com/)

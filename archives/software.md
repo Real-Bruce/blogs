@@ -1,5 +1,25 @@
 # software
 
+## 【14】20250331-20250406
+
+#### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
+
+一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
+
+#### [file pizza](https://github.com/kern/filepizza)
+
+浏览器中的点对点文件传输开源项目。
+
+## 【13】20250324-20250330
+
+#### [university information](https://github.com/CollegesChat/university-information/)
+
+这个开源项目是一个收集全国各高校的生活细节的问题，通过问卷的方式收集归档展示，也可以访问网站查看，[大学生活质量指北](https://colleges.chat/)。
+
+#### [pagefind](https://github.com/cloudcannon/pagefind)
+
+一个完全静态的搜索库，不需要安装任何组件，只需要简单的配置就能帮你的博客、文档网站添加上搜索功能。
+
 ## 【12】20250317-20250323
 
 #### [Telegram Files](https://github.com/jarvis2f/telegram-files)
