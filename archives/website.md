@@ -1,5 +1,6 @@
 # website
 
+<<<<<<< HEAD
 ## 【14】20250331-20250406
 
 #### [langeek](https://dictionary.langeek.co/)
@@ -10,6 +11,8 @@
 
 号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
 
+=======
+>>>>>>> 6bbc4d0072caefcb6adce05879706cc0fee999a6
 ## 【13】20250324-20250330
 
 #### [histography](https://histography.io/)

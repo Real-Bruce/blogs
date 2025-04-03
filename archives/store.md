@@ -1,5 +1,12 @@
 ## 📜有价值的文章
 
+<<<<<<< HEAD
+=======
+#### [谈谈我是如何高效率的工作，高效率的 Get Things Done 和让团队高效率运转](https://v2ex.com/t/887733#)
+
+作者在文中提出的一个观点我很受用：Facebook 的 Zuck 常说他的法则是高于 25 分钟的任务他会分解。我的个人准则则是 20 分钟 任何 item, 如果超过了 20 分钟的需求我会把他们分解成 sub tasks. 这样可以保证我对于这个工作我可以很快开始，而不会有 procrastination.
+
+>>>>>>> 6bbc4d0072caefcb6adce05879706cc0fee999a6
 ## 🛸开源项目
 
 #### [astrowind](https://github.com/onwidget/astrowind)
@@ -46,6 +53,7 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 
 开源的windows桌面应用，通过对摄像头比划手势来操控电脑，很适合吃饭的时候看视频使用。
 
+<<<<<<< HEAD
 ## 🚀网站&工具
 
 #### [streamlinehq](https://www.streamlinehq.com/)
@@ -64,6 +72,18 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 
 这是一个有趣的数据可视化网站，通过图表和故事吧一些复杂的话题讲述清楚
 
+=======
+#### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
+
+一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
+
+#### [file pizza](https://github.com/kern/filepizza)
+
+浏览器中的点对点文件传输开源项目。
+
+## 🚀网站&工具
+
+>>>>>>> 6bbc4d0072caefcb6adce05879706cc0fee999a6
 #### [fonts zeo seven](https://fonts.zeoseven.com/)
 
 开源免费字体查找网站，提供多种简单的方式帮助你很好嵌入到网站中去，提供 CDN 地址。
@@ -116,6 +136,7 @@ zlibray官方入口
 
 免费的在线版PS网站。
 
+<<<<<<< HEAD
 ## ⛵资料&博文
 
 #### [java对象的内存布局](https://www.cnblogs.com/star95/p/17522142.html)
@@ -124,4 +145,18 @@ zlibray官方入口
 
 #### [building llm applications from scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
 
+=======
+#### [langeek](https://dictionary.langeek.co/)
+
+辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。
+
+#### [mistral ocr](https://mistral.ai/news/mistral-ocr)
+
+号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
+
+## ⛵资料&博文
+
+#### [building llm applications from scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
+
+>>>>>>> 6bbc4d0072caefcb6adce05879706cc0fee999a6
 该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。

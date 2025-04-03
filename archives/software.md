@@ -1,5 +1,6 @@
 # software
 
+<<<<<<< HEAD
 ## 【14】20250331-20250406
 
 #### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
@@ -10,6 +11,8 @@
 
 浏览器中的点对点文件传输开源项目。
 
+=======
+>>>>>>> 6bbc4d0072caefcb6adce05879706cc0fee999a6
 ## 【13】20250324-20250330
 
 #### [university information](https://github.com/CollegesChat/university-information/)
