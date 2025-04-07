@@ -1,9 +1,5 @@
 ## 📜有价值的文章
 
-#### [谈谈我是如何高效率的工作，高效率的 Get Things Done 和让团队高效率运转](https://v2ex.com/t/887733#)
-
-作者在文中提出的一个观点我很受用：Facebook 的 Zuck 常说他的法则是高于 25 分钟的任务他会分解。我的个人准则则是 20 分钟 任何 item, 如果超过了 20 分钟的需求我会把他们分解成 sub tasks. 这样可以保证我对于这个工作我可以很快开始，而不会有 procrastination.
-
 ## 🛸开源项目
 
 #### [astrowind](https://github.com/onwidget/astrowind)
@@ -132,12 +128,6 @@ zlibray官方入口
 
 ## ⛵资料&博文
 
-#### [java对象的内存布局](https://www.cnblogs.com/star95/p/17522142.html)
-
-讲解Java对象内存布局的好文章，博客作者还输出了很多Java相关的博客，强烈推荐关注：[小新成长之路](https://www.cnblogs.com/star95)
-
-#### [building llm applications from scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
-
 #### [langeek](https://dictionary.langeek.co/)
 
 辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。
@@ -146,8 +136,6 @@ zlibray官方入口
 
 号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
 
-## ⛵资料&博文
+#### [ai agents for beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
-#### [building llm applications from scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
-
-该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。
+微软发布的新的AI Agent构建课程，包含十堂课程，涵盖构建 AI 代理的基础知识。每节课都涵盖自己的主题，因此请从您喜欢的任何地方开始！
