@@ -1,5 +1,8 @@
 ## 📜有价值的文章
 
+#### [你放不下手机，是因为现在的 APP 越来越像老虎机](https://mp.weixin.qq.com/s/N2D5cxiMFEtUzZsHMNVwVA)
+文章中
+
 ## 🛸开源项目
 
 #### [astrowind](https://github.com/onwidget/astrowind)
