@@ -1,5 +1,24 @@
 ## 📜有价值的文章
 
+#### [the blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
+
+作者在文中鼓励做一写副项目，你在创造的过程中会找到自由和探索的乐趣。
+
+It doesn’t matter _what_ the project is; it matters _that_ it is.  
+>项目是什么并不重要; 重要的是它确实如此。
+
+**Don’t limit your view of creation to things considered creative**—or, for that matter, to things you’ve done before. These days I make apps, but I used to make entirely different things, and got the same pleasure from those.  
+>**不要将你的创作观局限于被认为有创意的事情** ——或者，就此而言，你以前做过的事情。这些天我制作应用程序，但我以前制作完全不同的东西，并从中获得同样的乐趣。
+
+**I think we exist to bring new things into existence**. If you ask me, to the extent there _is_ a meaning of life, that’s it. We exist to create. It lights us up in a way nothing else does, putting something new into our world—and in doing so, fundamentally changing it, in whatever way, however big or small.  
+>**我认为我们的存在是为了带来新事物** 。如果你问我，在某种程度上，生命_的_意义就是这样。我们的存在是为了创造。它以其他任何方式都无法照亮我们，为我们的世界带来新的东西——并在此过程中从根本上改变它，无论方式如何，无论大小
+
+Enjoying the freedom to explore possibilities, and happily follow any compelling whim—that’s the blissful zen of a good side project.  
+>享受探索可能性的自由，并愉快地追随任何引人注目的奇思妙想——这就是一个好的副业的幸福禅意。
+
+You don’t have to listen to any other voices here, except that quiet one inside of you that’s gently urging you to do the thing you know you need to do. You don’t owe it to anyone to choose anything—except yourself, and what you honestly feel.  
+>你不需要在这里听任何其他声音，除了你内心那个安静的声音，它正在温柔地催促你去做你知道你需要做的事情。你不欠任何人选择任何东西——除了你自己，以及你真实的感受。
+
 #### [你放不下手机，是因为现在的 APP 越来越像老虎机](https://mp.weixin.qq.com/s/N2D5cxiMFEtUzZsHMNVwVA)
 
 智能手机和应用程序的普及导致人们越来越上瘾，使用时间大幅增加，带来了心理健康问题和人际关系的忽视。应用设计利用短期反馈循环和用户画像，吸引用户不断使用并消费。尽管一些科技公司意识到这一问题，但因商业利益而选择隐瞒。人们需要认识到数字成瘾的危害，以保护自身心理健康和建立真实人际关系。
@@ -139,6 +158,10 @@ zlibray官方入口
 免费的在线版PS网站。
 
 ## ⛵资料&博文
+
+#### [《中文技术文档的写作规范》](https://github.com/ruanyf/document-style-guide/blob/master/README.md)
+
+阮一峰老师出品，详细讲解了标题、文本、段落、符号、文档、参考链接等写作规范。
 
 #### [langeek](https://dictionary.langeek.co/)
 
