@@ -25,6 +25,16 @@ You don’t have to listen to any other voices here, except that quiet one insid
 
 ## 🛸开源项目
 
+#### [youtube music](https://github.com/th-ch/youtube-music)
+
+一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
+
+该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
+
+- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
+- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
+- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
+
 #### [astrowind](https://github.com/onwidget/astrowind)
 
 开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发，基本产品框架都具备了，适合没有设计师的团队，稍加修改就能满足个人或小企业的应用。
@@ -104,6 +114,8 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 浏览器中的点对点文件传输开源项目。
 
 ## 🚀网站&工具
+#### [tv garden](https://tv.garden/)
+一个可以看全世界电视节目的网站
 
 #### [fonts zeo seven](https://fonts.zeoseven.com/)
 
@@ -158,6 +170,12 @@ zlibray官方入口
 免费的在线版PS网站。
 
 ## ⛵资料&博文
+
+#### [llm cookbook](https://github.com/datawhalechina/llm-cookbook)
+
+本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目。
+
+针对不同内容的特点，我们对共计 11 门吴恩达老师的大模型课程进行了翻译复现，并结合国内学习者的实际情况，对不同课程进行了分级和排序，初学者可以先系统学习我们的必修类课程，掌握入门 LLM 所有方向都需要掌握的基础技能和概念，再选择性地学习我们的选修类课程，在自己感兴趣的方向上不断探索和学习。
 
 #### [《中文技术文档的写作规范》](https://github.com/ruanyf/document-style-guide/blob/master/README.md)
 
