@@ -1,5 +1,13 @@
 ## 📜有价值的文章
 
+#### [why you fail at almost everything you do](https://thedankoe.com/letters/why-you-fail-at-almost-everything-you-do/)
+
+You haven’t failed enough.  
+>你还不够失败。
+
+You gave up too soon, and you didn’t learn how to view failure as the only path to success.  
+>你过早地放弃了，你没有学会如何将失败视为通往成功的唯一途径。
+
 #### [the blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
 
 作者在文中鼓励做一写副项目，你在创造的过程中会找到自由和探索的乐趣。
