@@ -1,5 +1,15 @@
 # blogs
 
+## 【15】20250407-20250413
+
+#### [mistral ocr](https://mistral.ai/news/mistral-ocr)
+
+号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
+
+#### [ai agents for beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
+微软发布的新的AI Agent构建课程，包含十堂课程，涵盖构建 AI 代理的基础知识。每节课都涵盖自己的主题，因此请从您喜欢的任何地方开始！
+
 ## 【14】20250331-20250406
 
 #### [java对象的内存布局](https://www.cnblogs.com/star95/p/17522142.html)

@@ -1,5 +1,15 @@
 # website
 
+## 【15】20250407-20250413
+
+#### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
+
+一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
+
+#### [file pizza](https://github.com/kern/filepizza)
+
+浏览器中的点对点文件传输开源项目。
+
 ## 【14】20250331-20250406
 
 #### [langeek](https://dictionary.langeek.co/)

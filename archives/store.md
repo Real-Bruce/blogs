@@ -44,10 +44,6 @@ Enjoying the freedom to explore possibilities, and happily follow any compelling
 You don’t have to listen to any other voices here, except that quiet one inside of you that’s gently urging you to do the thing you know you need to do. You don’t owe it to anyone to choose anything—except yourself, and what you honestly feel.  
 >你不需要在这里听任何其他声音，除了你内心那个安静的声音，它正在温柔地催促你去做你知道你需要做的事情。你不欠任何人选择任何东西——除了你自己，以及你真实的感受。
 
-#### [你放不下手机，是因为现在的 APP 越来越像老虎机](https://mp.weixin.qq.com/s/N2D5cxiMFEtUzZsHMNVwVA)
-
-智能手机和应用程序的普及导致人们越来越上瘾，使用时间大幅增加，带来了心理健康问题和人际关系的忽视。应用设计利用短期反馈循环和用户画像，吸引用户不断使用并消费。尽管一些科技公司意识到这一问题，但因商业利益而选择隐瞒。人们需要认识到数字成瘾的危害，以保护自身心理健康和建立真实人际关系。
-
 ## 🛸开源项目
 
 #### [youtube music](https://github.com/th-ch/youtube-music)
@@ -96,14 +92,6 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 
 Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ollama](https://ollama.com/search) 或 [LMStudio](https://lmstudio.ai/) 托管的任何LLM助手。给它一个主题，它将生成一个 Web 搜索查询，收集 Web 搜索结果，总结 Web 搜索结果，反思摘要以检查知识差距，生成新的搜索查询以解决差距，并重复用户定义的循环数。它将为用户提供最终的 Markdown 摘要，其中包含用于生成摘要的所有来源。
 
-#### [markpdfdown](https://github.com/jorben/markpdfdown/blob/master/README_zh.md)
-
-MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI模型，能够将PDF文档准确转换为结构清晰的Markdown格式，保留原始文档的排版、表格、公式等复杂元素。
-
-#### [lazyeat](https://github.com/maplelost/lazyeat)
-
-开源的windows桌面应用，通过对摄像头比划手势来操控电脑，很适合吃饭的时候看视频使用。
-
 ## 🚀网站&工具
 
 #### [making software](https://www.makingsoftware.com/)
@@ -129,14 +117,6 @@ MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI�
 #### [The Pudding](https://pudding.cool/)
 
 这是一个有趣的数据可视化网站，通过图表和故事吧一些复杂的话题讲述清楚
-
-#### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
-
-一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
-
-#### [file pizza](https://github.com/kern/filepizza)
-
-浏览器中的点对点文件传输开源项目。
 
 ## 🚀网站&工具
 
@@ -211,11 +191,3 @@ zlibray官方入口
 #### [langeek](https://dictionary.langeek.co/)
 
 辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。
-
-#### [mistral ocr](https://mistral.ai/news/mistral-ocr)
-
-号称最强的OCR识别工具，支持识别数学公式、图表的能力。有网友做了一个免费的[试用网站](https://mistralocr.net/)，可以尝试一下。著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
-
-#### [ai agents for beginners](https://github.com/microsoft/ai-agents-for-beginners)
-
-微软发布的新的AI Agent构建课程，包含十堂课程，涵盖构建 AI 代理的基础知识。每节课都涵盖自己的主题，因此请从您喜欢的任何地方开始！

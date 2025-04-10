@@ -1,5 +1,15 @@
 # software
 
+## 【15】20250407-20250413
+
+#### [markpdfdown](https://github.com/jorben/markpdfdown/blob/master/README_zh.md)
+
+MarkPDFDown 是一款智能PDF转换Markdown工具，通过先进的多模态AI模型，能够将PDF文档准确转换为结构清晰的Markdown格式，保留原始文档的排版、表格、公式等复杂元素。
+
+#### [lazyeat](https://github.com/maplelost/lazyeat)
+
+开源的windows桌面应用，通过对摄像头比划手势来操控电脑，很适合吃饭的时候看视频使用。
+
 ## 【14】20250331-20250406
 
 #### [rust stake holder](https://github.com/giacomo-b/rust-stakeholder)
