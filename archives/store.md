@@ -94,6 +94,10 @@ Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ol
 
 ## 🚀网站&工具
 
+#### [public iptv](https://publiciptv.com/)
+
+各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
+
 #### [making software](https://www.makingsoftware.com/)
 
 通过图文并茂的方式解析日常软件工具的底层原理。内容涵盖触摸屏感应、高斯模糊算法、贝塞尔曲线等 30 + 技术概念，采用 “问题 - 原理 - 应用” 的叙事结构，配合 Figma 手绘插图降低理解门槛。手册定位为 “非技术人员的技术启蒙书
@@ -117,8 +121,6 @@ Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ol
 #### [The Pudding](https://pudding.cool/)
 
 这是一个有趣的数据可视化网站，通过图表和故事吧一些复杂的话题讲述清楚
-
-## 🚀网站&工具
 
 #### [tv garden](https://tv.garden/)
 
@@ -177,6 +179,13 @@ zlibray官方入口
 免费的在线版PS网站。
 
 ## ⛵资料&博文
+
+#### [Table_of_keyboard_shortcuts](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+维基百科上关于键盘快捷键的梳理表，包括各种系统对应的快捷键、文本编辑快捷键、窗口管理快捷键。
+
+#### [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)
+
+在区块链黑暗森林世界里，首先牢记下面这两大安全法则：零信任。简单来说就是保持怀疑，而且是始终保持怀疑。持续验证。你要相信，你就必须有能力去验证你怀疑的点，并把这种能力养成习惯。
 
 #### [llm cookbook](https://github.com/datawhalechina/llm-cookbook)
 
