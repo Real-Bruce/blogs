@@ -99,7 +99,8 @@ Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ol
 ## 🚀网站&工具
 
 #### [404s design](https://www.404s.design/)
-zhe'ge
+
+这个网站收集了各种各样的404页面，很有意思。
 
 #### [public iptv](https://publiciptv.com/)
 
