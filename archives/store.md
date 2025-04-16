@@ -46,6 +46,10 @@ You don’t have to listen to any other voices here, except that quiet one insid
 
 ## 🛸开源项目
 
+#### [wukong minimap](https://github.com/jaskang/wukong-minimap)
+
+黑神话·悟空-内置实时地图，为《黑神话：悟空》设计的小地图插件，提供实时位置追踪和导航功能。
+
 #### [youtube music](https://github.com/th-ch/youtube-music)
 
 一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
@@ -93,6 +97,9 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ollama](https://ollama.com/search) 或 [LMStudio](https://lmstudio.ai/) 托管的任何LLM助手。给它一个主题，它将生成一个 Web 搜索查询，收集 Web 搜索结果，总结 Web 搜索结果，反思摘要以检查知识差距，生成新的搜索查询以解决差距，并重复用户定义的循环数。它将为用户提供最终的 Markdown 摘要，其中包含用于生成摘要的所有来源。
 
 ## 🚀网站&工具
+
+#### [404s design](https://www.404s.design/)
+zhe'ge
 
 #### [public iptv](https://publiciptv.com/)
 
