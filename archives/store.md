@@ -46,6 +46,10 @@ You don’t have to listen to any other voices here, except that quiet one insid
 
 ## 🛸开源项目
 
+#### [HowToCook](https://github.com/Anduin2017/HowToCook)
+
+开源的菜谱，支持本地化部署。
+
 #### [bilive](https://github.com/timerring/bilive)
 
 自动监听并录制B站直播和弹幕（含付费留言、礼物等），根据分辨率转换弹幕、语音识别字幕并渲染进视频，根据弹幕密度切分精彩片段并通过视频理解大模型生成有趣的标题，根据图像生成模型自动生成视频封面，自动投稿视频和切片至B站，兼容无GPU版本，兼容超低配置服务器与主机。
