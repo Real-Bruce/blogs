@@ -46,6 +46,18 @@ You don’t have to listen to any other voices here, except that quiet one insid
 
 ## 🛸开源项目
 
+#### [bilive](https://github.com/timerring/bilive)
+
+自动监听并录制B站直播和弹幕（含付费留言、礼物等），根据分辨率转换弹幕、语音识别字幕并渲染进视频，根据弹幕密度切分精彩片段并通过视频理解大模型生成有趣的标题，根据图像生成模型自动生成视频封面，自动投稿视频和切片至B站，兼容无GPU版本，兼容超低配置服务器与主机。
+
+#### [docker kms](https://github.com/11notes/docker-kms)
+
+是用于永久激活任何版本的 `Windows` 和 `Office` 的 `Docker` 容器服务。
+
+#### [vmaf](https://github.com/Netflix/vmaf)
+
+奈飞开源的感知视频质量评估算法。该软件包包括一个独立的 C 库 `libvmaf` 及其包装 Python 库。Python 库还提供了一组工具，允许用户训练和测试自定义 VMAF 模型。
+
 #### [wukong minimap](https://github.com/jaskang/wukong-minimap)
 
 黑神话·悟空-内置实时地图，为《黑神话：悟空》设计的小地图插件，提供实时位置追踪和导航功能。
@@ -97,6 +109,10 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ollama](https://ollama.com/search) 或 [LMStudio](https://lmstudio.ai/) 托管的任何LLM助手。给它一个主题，它将生成一个 Web 搜索查询，收集 Web 搜索结果，总结 Web 搜索结果，反思摘要以检查知识差距，生成新的搜索查询以解决差距，并重复用户定义的循环数。它将为用户提供最终的 Markdown 摘要，其中包含用于生成摘要的所有来源。
 
 ## 🚀网站&工具
+
+#### [ourmacs](https://ourmacs.com/)
+
+MacOS 软件聚合搜索免费下载网站。
 
 #### [404s design](https://www.404s.design/)
 
