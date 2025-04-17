@@ -114,6 +114,10 @@ Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ol
 
 ## 🚀网站&工具
 
+#### [yibao](https://yibao.233h.com/)
+
+医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
+
 #### [ourmacs](https://ourmacs.com/)
 
 MacOS 软件聚合搜索免费下载网站。
