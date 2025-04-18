@@ -46,6 +46,10 @@ You don’t have to listen to any other voices here, except that quiet one insid
 
 ## 🛸开源项目
 
+#### [vanna](https://github.com/vanna-ai/vanna)
+
+开源的数据库分析 AI，用自然语言向数据库询问，它会自己生成 SQL，并给出运行结果。
+
 #### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
 开源的菜谱，支持本地化部署。
@@ -113,6 +117,10 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ollama](https://ollama.com/search) 或 [LMStudio](https://lmstudio.ai/) 托管的任何LLM助手。给它一个主题，它将生成一个 Web 搜索查询，收集 Web 搜索结果，总结 Web 搜索结果，反思摘要以检查知识差距，生成新的搜索查询以解决差距，并重复用户定义的循环数。它将为用户提供最终的 Markdown 摘要，其中包含用于生成摘要的所有来源。
 
 ## 🚀网站&工具
+
+#### [night train map](https://back-on-track.eu/night-train-map/)
+
+欧洲夜班火车地图，网站设计和交互做的很舒服。
 
 #### [3d viewer](https://3dviewer.net/)
 
@@ -215,6 +223,10 @@ zlibray官方入口
 免费的在线版PS网站。
 
 ## ⛵资料&博文
+
+#### [Market Structure Primer](https://primer.prooftrading.com/introduction/?)
+
+市场结构入门，给新手介绍美国证券市场的结构，如果想参与美股，可以读读
 
 #### [Table_of_keyboard_shortcuts](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
