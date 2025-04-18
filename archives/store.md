@@ -224,6 +224,10 @@ zlibray官方入口
 
 ## ⛵资料&博文
 
+#### [线上故障应急处理](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
+
+作者总结四年多线上事故应急处理的操作和思考，很值得读一读。
+
 #### [Market Structure Primer](https://primer.prooftrading.com/introduction/?)
 
 市场结构入门，给新手介绍美国证券市场的结构，如果想参与美股，可以读读
