@@ -95,6 +95,14 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 
 ## 🚀网站&工具
 
+#### [reversely](https://www.reversely.ai/)
+
+以图搜图的网站，帮你找到图片的原始出处。
+
+#### [pro notes](https://www.pronotes.app/)
+
+增强apple notes 的插件，提供了便捷的格式化工具、Markdown 支持、斜杠命令以及双向链接功能，帮助用户快速编辑和组织笔记。此外，ProNotes 集成了 AI 功能，能够自动补全句子、改善写作、总结内容和修正语法。
+
 #### [ui prompt](https://uiprompt.art/)
 
 该网站收录了各种设计风格和页面类型的 AI 生成界面，每个界面都附带相应的提示词。你只需复制并稍微调整这些提示词，就能用AI生成类似的界面。
