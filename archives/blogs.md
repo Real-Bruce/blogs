@@ -1,5 +1,15 @@
 # blogs
 
+## 【16】20250414-20250420
+
+#### [《中文技术文档的写作规范》](https://github.com/ruanyf/document-style-guide/blob/master/README.md)
+
+阮一峰老师出品，详细讲解了标题、文本、段落、符号、文档、参考链接等写作规范。
+
+#### [langeek](https://dictionary.langeek.co/)
+
+辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。
+
 ## 【15】20250407-20250413
 
 #### [mistral ocr](https://mistral.ai/news/mistral-ocr)
