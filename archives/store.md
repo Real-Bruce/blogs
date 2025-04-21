@@ -95,6 +95,10 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 
 ## 🚀网站&工具
 
+#### [ui prompt](https://uiprompt.art/)
+
+该网站收录了各种设计风格和页面类型的 AI 生成界面，每个界面都附带相应的提示词。你只需复制并稍微调整这些提示词，就能用AI生成类似的界面。
+
 #### [freegmail](https://freegmail.go24.info/)
 
 免费的gmail临时邮箱
@@ -197,7 +201,9 @@ zlibray官方入口
 
 ## ⛵资料&博文
 
-#### 
+#### [给好奇者的 WebRTC](https://webrtcforthecurious.com/zh/)
+
+本书由 WebRTC 实现者创建，旨在与世界分享他们来之不易的知识。 _《给好奇者的 WebRTC》_ 是一本针对那些一直在寻找更多知识的人编写的开源书。本书不止步于抽象层面。
 
 #### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?pli=1)
 
