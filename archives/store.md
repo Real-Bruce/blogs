@@ -25,7 +25,6 @@ You gave up too soon, and you didn’t learn how to view failure as the only pat
 12. 积极调试程序，不要试图猜测运行结果；
 13. 代码简洁明了；
 
-
 ## 🛸开源项目
 
 #### [vanna](https://github.com/vanna-ai/vanna)
@@ -89,8 +88,6 @@ Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记]
 #### [langmanus](https://github.com/langmanus/langmanus)
 
 Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以完美运行，抢不到Manus的邀请码，可以尝试一下这个项目。
-
-
 
 ## 🚀网站&工具
 
@@ -190,8 +187,6 @@ zlibray官方入口
 
 网站提供了非常多用来设置 macOS 的脚本。
 
-
-
 ## ⛵资料&博文
 
 #### [线上故障应急处理](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
@@ -215,4 +210,3 @@ zlibray官方入口
 本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目。
 
 针对不同内容的特点，我们对共计 11 门吴恩达老师的大模型课程进行了翻译复现，并结合国内学习者的实际情况，对不同课程进行了分级和排序，初学者可以先系统学习我们的必修类课程，掌握入门 LLM 所有方向都需要掌握的基础技能和概念，再选择性地学习我们的选修类课程，在自己感兴趣的方向上不断探索和学习。
-
