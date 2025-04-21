@@ -25,24 +25,6 @@ You gave up too soon, and you didn’t learn how to view failure as the only pat
 12. 积极调试程序，不要试图猜测运行结果；
 13. 代码简洁明了；
 
-#### [the blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
-
-作者在文中鼓励做一写副项目，你在创造的过程中会找到自由和探索的乐趣。
-
-It doesn’t matter _what_ the project is; it matters _that_ it is.  
->项目是什么并不重要; 重要的是它确实如此。
-
-**Don’t limit your view of creation to things considered creative**—or, for that matter, to things you’ve done before. These days I make apps, but I used to make entirely different things, and got the same pleasure from those.  
->**不要将你的创作观局限于被认为有创意的事情** ——或者，就此而言，你以前做过的事情。这些天我制作应用程序，但我以前制作完全不同的东西，并从中获得同样的乐趣。
-
-**I think we exist to bring new things into existence**. If you ask me, to the extent there _is_ a meaning of life, that’s it. We exist to create. It lights us up in a way nothing else does, putting something new into our world—and in doing so, fundamentally changing it, in whatever way, however big or small.  
->**我认为我们的存在是为了带来新事物** 。如果你问我，在某种程度上，生命_的_意义就是这样。我们的存在是为了创造。它以其他任何方式都无法照亮我们，为我们的世界带来新的东西——并在此过程中从根本上改变它，无论方式如何，无论大小
-
-Enjoying the freedom to explore possibilities, and happily follow any compelling whim—that’s the blissful zen of a good side project.  
->享受探索可能性的自由，并愉快地追随任何引人注目的奇思妙想——这就是一个好的副业的幸福禅意。
-
-You don’t have to listen to any other voices here, except that quiet one inside of you that’s gently urging you to do the thing you know you need to do. You don’t owe it to anyone to choose anything—except yourself, and what you honestly feel.  
->你不需要在这里听任何其他声音，除了你内心那个安静的声音，它正在温柔地催促你去做你知道你需要做的事情。你不欠任何人选择任何东西——除了你自己，以及你真实的感受。
 
 ## 🛸开源项目
 
@@ -108,13 +90,7 @@ Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记]
 
 Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以完美运行，抢不到Manus的邀请码，可以尝试一下这个项目。
 
-#### [social media copilot](https://github.com/iszhouhua/social-media-copilot)
 
-社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
-
-#### [local deep researcher](https://github.com/langchain-ai/local-deep-researcher)
-
-Local Deep Researcher 是一个完全本地的 Web 研究助手，它使用 [Ollama](https://ollama.com/search) 或 [LMStudio](https://lmstudio.ai/) 托管的任何LLM助手。给它一个主题，它将生成一个 Web 搜索查询，收集 Web 搜索结果，总结 Web 搜索结果，反思摘要以检查知识差距，生成新的搜索查询以解决差距，并重复用户定义的循环数。它将为用户提供最终的 Markdown 摘要，其中包含用于生成摘要的所有来源。
 
 ## 🚀网站&工具
 
@@ -214,13 +190,7 @@ zlibray官方入口
 
 网站提供了非常多用来设置 macOS 的脚本。
 
-#### [dockhunt](https://www.dockhunt.com/)
 
-把自己 Mac 电脑底部的 Dock 栏共享在这个网站上，可以点击一个 app 查看使用这个 app 的人还在使用什么别的 app。
-
-#### [ps ittools](https://ps.ittools.cc/editor/)
-
-免费的在线版PS网站。
 
 ## ⛵资料&博文
 
@@ -246,10 +216,3 @@ zlibray官方入口
 
 针对不同内容的特点，我们对共计 11 门吴恩达老师的大模型课程进行了翻译复现，并结合国内学习者的实际情况，对不同课程进行了分级和排序，初学者可以先系统学习我们的必修类课程，掌握入门 LLM 所有方向都需要掌握的基础技能和概念，再选择性地学习我们的选修类课程，在自己感兴趣的方向上不断探索和学习。
 
-#### [《中文技术文档的写作规范》](https://github.com/ruanyf/document-style-guide/blob/master/README.md)
-
-阮一峰老师出品，详细讲解了标题、文本、段落、符号、文档、参考链接等写作规范。
-
-#### [langeek](https://dictionary.langeek.co/)
-
-辅助英语单词记忆的网站，给每个单词生成插图，辅助记忆单词。

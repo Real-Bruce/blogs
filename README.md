@@ -18,6 +18,10 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250414-20250420 [Vol.042 the blissful zen of a good side project](./weekly/Vol042.md)
+
+#### 20250407-20250413 [Vol.041 你放不下手机，是因为现在的 APP 越来越像老虎机](./weekly/Vol041.md)
+
 #### 20250331-20250406 [Vol.040 如何高效工作](./weekly/Vol040.md)
 
 #### 20250324-20250330 [Vol.039 stamina is a quiet advantage](./weekly/Vol039.md)
