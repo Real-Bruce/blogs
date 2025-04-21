@@ -27,6 +27,10 @@ You gave up too soon, and you didn’t learn how to view failure as the only pat
 
 ## 🛸开源项目
 
+#### [mac Icon Changer](https://github.com/Bengerthelorf/macIconChanger)
+
+IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上的应用程序图标。通过简洁的图形界面和强大的命令行工具，IconChanger 为您提供了完全控制应用图标的能力
+
 #### [vanna](https://github.com/vanna-ai/vanna)
 
 开源的数据库分析 AI，用自然语言向数据库询问，它会自己生成 SQL，并给出运行结果。
@@ -90,6 +94,10 @@ Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记]
 Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以完美运行，抢不到Manus的邀请码，可以尝试一下这个项目。
 
 ## 🚀网站&工具
+
+#### [freegmail](https://freegmail.go24.info/)
+
+免费的gmail临时邮箱
 
 #### [night train map](https://back-on-track.eu/night-train-map/)
 
@@ -188,6 +196,16 @@ zlibray官方入口
 网站提供了非常多用来设置 macOS 的脚本。
 
 ## ⛵资料&博文
+
+#### 
+
+#### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?pli=1)
+
+谷歌开源的提示工程白皮书，总计68页帮你理解提示工程。
+
+#### [CUDA Learn Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)
+
+`Modern CUDA Learn Notes` 的仓库，提供了一个现代的 `CUDA` 学习资源库，包含了 `200+ CUDA` 核心和 100+ 技术博客，涵盖了从基础到高级的 `CUDA` 编程知识，以及如何使用 `PyTorch` 等高级接口进行 `CUDA` 编程的实践。
 
 #### [线上故障应急处理](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
 
