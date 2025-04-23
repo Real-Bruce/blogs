@@ -95,6 +95,22 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 
 ## 🚀网站&工具
 
+#### [中国医院及专科声誉排行榜](https://rank.cn-healthcare.com/)
+
+这个网站提供了全国范围各个医院在多种维度上的排名数据。
+
+#### [drawnix](https://drawnix.com/)
+
+在线白板工具，支持思维导图、涂鸦、流程图等等。
+
+#### [beleef de lente](https://www.vogelbescherming.nl/beleefdelente)
+
+这是一个荷兰的鸟类保护组织的网站，可以实时查看各种鸟的直播。
+
+#### [gravity](http://lab.nationalmedals.org/gravity.php)
+
+在线构建专属你的宇宙，可以模拟重力和引力之间的关系。
+
 #### [reversely](https://www.reversely.ai/)
 
 以图搜图的网站，帮你找到图片的原始出处。
@@ -208,6 +224,10 @@ zlibray官方入口
 网站提供了非常多用来设置 macOS 的脚本。
 
 ## ⛵资料&博文
+
+#### [抖音推荐算法](https://95152.douyin.com/transparency)
+
+抖音公开的视频推荐算法，帮你更好的找到自己感兴趣的东西，而不是被垃圾内容包围。
 
 #### [给好奇者的 WebRTC](https://webrtcforthecurious.com/zh/)
 
