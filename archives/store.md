@@ -95,6 +95,10 @@ Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以�
 
 ## 🚀网站&工具
 
+#### [ooh directory](https://ooh.directory/)
+
+收集各类博客集合的网站，大部分博客都是保持更新的，帮你找到你感兴趣的内容。
+
 #### [中国医院及专科声誉排行榜](https://rank.cn-healthcare.com/)
 
 这个网站提供了全国范围各个医院在多种维度上的排名数据。
