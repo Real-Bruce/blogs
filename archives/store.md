@@ -1,7 +1,7 @@
 ## 📜有价值的文章
 
 #### [are your a creator or a consumer](https://www.andrewlynch.net/blog/are-your-a-creator-or-a-consumer)
-作者在文中提出了一个个观点，你是信息的消费者还是创造者？信息消费者就是不断的阅读获取信息，只做输入没有任何输出，感觉得到了很多但是
+作者在文中提出了一个个观点，你是信息的消费者还是创造者？信息消费者就是不断的阅读获取信息，只做输入没有任何输出，
 #### [why you fail at almost everything you do](https://thedankoe.com/letters/why-you-fail-at-almost-everything-you-do/)
 
 You haven’t failed enough.  
