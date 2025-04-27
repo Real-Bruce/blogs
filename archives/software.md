@@ -1,5 +1,19 @@
 # software
 
+## 【17】20250421-20250427
+
+#### [wxlogin](https://github.com/liyaodev/wxlogin)
+
+这是一个基于 Next.js 开发的微信公众号登录验证系统，通过公众号菜单触发生成验证码，用户在网页端输入验证码完成登录认证。
+
+#### [prompt optimizer](https://github.com/linshenkx/prompt-optimizer)
+
+提示词优化项目，帮你完善你的提示词，让AI输出更加符合你需求的内容。支持web应用和浏览器插件的形式使用。
+
+#### [langmanus](https://github.com/langmanus/langmanus)
+
+Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以完美运行，抢不到Manus的邀请码，可以尝试一下这个项目。
+
 ## 【16】20250414-20250420
 
 #### [social media copilot](https://github.com/iszhouhua/social-media-copilot)

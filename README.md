@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250421-20250427 [Vol.043 best programmers](./weekly/Vol043.md)
+
 #### 20250414-20250420 [Vol.042 the blissful zen of a good side project](./weekly/Vol042.md)
 
 #### 20250407-20250413 [Vol.041 你放不下手机，是因为现在的 APP 越来越像老虎机](./weekly/Vol041.md)

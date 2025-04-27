@@ -1,5 +1,19 @@
 # website
 
+## 【17】20250421-20250427
+
+#### [smithery](https://smithery.ai/)
+
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力。
+
+#### [go to library](https://go-to-library.sk/#useful_link_tab)
+
+zlibray官方入口
+
+#### [macos defaults](https://macos-defaults.com/)
+
+网站提供了非常多用来设置 macOS 的脚本。
+
 ## 【16】20250414-20250420
 
 #### [dockhunt](https://www.dockhunt.com/)

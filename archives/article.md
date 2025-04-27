@@ -1,5 +1,24 @@
 # article
 
+## 【17】20250421-20250427
+
+#### [best programmers](https://endler.dev/2025/best-programmers/)
+
+作者指出的一些优秀程序员的品质：
+1. 喜欢解读了解底层原理；
+2. 阅读报错信息；
+3. 会分解问题；
+4. 勇于尝试新东西；
+5. 喜欢帮助他人；
+6. 喜欢输出博客；
+7. 永不停止学习；
+8. 不在职位高低；
+9. 建立自己的影响力；
+10. 有耐心，不管是计算机还是人；
+11. 不害怕说我不知道，虚心学习；
+12. 积极调试程序，不要试图猜测运行结果；
+13. 代码简洁明了；
+
 ## 【16】20250414-20250420
 
 #### [the blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
