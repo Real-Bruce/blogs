@@ -1,7 +1,17 @@
 ## 📜有价值的文章
 
 #### [are your a creator or a consumer](https://www.andrewlynch.net/blog/are-your-a-creator-or-a-consumer)
-作者在文中提出了一个个观点，你是信息的消费者还是创造者？信息消费者不断的阅读获取信息，只做输入没有任何输出，只是
+
+作者在文中提出了一个个观点，你是信息的消费者还是创造者？信息消费者不断的阅读获取信息，只做输入没有任何输出，就像是商品一样消费完成就结束了，没有产生新的东西。而信息创造者则完全不一样，他们利用信息创造新东西，然后判断自己是否喜欢，继续做下去还是放弃做其他的事情。以下是我摘抄的句子：
+Finding and consuming information is easy. It's interesting. And for someone as curious as me, it's usually pretty exciting too.  
+>查找和使用信息很容易。这很有趣。对于像我这样好奇的人来说，这通常也很令人兴奋。
+
+But it doesn't actually accomplish anything. It's pseudo-work. Intellectual masturbation.  
+>但它实际上并没有完成任何事情。这是伪工作。
+
+It's much more effective to create. To get stuck in and start making things -- websites, golf shots, screenplays, whatever -- and then one of two things will happen. You either realise that you're not that interested in it, or you love it, and go really deep on it. That's worth doing. Mindlessly consuming surface-level information is not.  
+>创造要有效得多。投入其中并开始制作东西 -- 网站、高尔夫镜头、剧本，等等 -- 然后会发生两件事之一。你要么意识到你对它没有那么感兴趣，要么你喜欢它，并真正深入研究它。这是值得的。盲目地消费表面信息不是。
+
 #### [why you fail at almost everything you do](https://thedankoe.com/letters/why-you-fail-at-almost-everything-you-do/)
 
 You haven’t failed enough.  
