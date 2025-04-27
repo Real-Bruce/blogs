@@ -27,6 +27,12 @@ You gave up too soon, and you didn’t learn how to view failure as the only pat
 
 ## 🛸开源项目
 
+#### [](https://github.com/mcp-ecosystem/mcp-gateway)
+
+#### [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
+
+开源的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia。内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。SnowAdmin 为您提供了一站式的后台管理解决方案，无需额外配置，开箱即用。同样是一个快速学习前沿技术的最佳实践。
+
 #### [note gen](https://github.com/codexu/note-gen)
 
 开源的markdown编辑器，支持跨端使用致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
@@ -41,7 +47,7 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 
 #### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-开源的菜谱，支持本地化部署。
+开源的菜谱，支持本地化部署，有网友针对这个仓库做了个MCP服务，地址是这个：[HowToCook mcp](https://github.com/worryzyy/HowToCook-mcp)。
 
 #### [bilive](https://github.com/timerring/bilive)
 
@@ -98,6 +104,10 @@ Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记]
 Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以完美运行，抢不到Manus的邀请码，可以尝试一下这个项目。
 
 ## 🚀网站&工具
+
+#### [best travel translator](https://besttraveltranslator.com/)
+
+出国旅游翻译网站，支持对话翻译和拍照翻译。
 
 #### [ooh directory](https://ooh.directory/)
 
