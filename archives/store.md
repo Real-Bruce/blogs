@@ -27,7 +27,9 @@ You gave up too soon, and you didn’t learn how to view failure as the only pat
 
 ## 🛸开源项目
 
-#### [](https://github.com/mcp-ecosystem/mcp-gateway)
+#### [mcp gateway](https://github.com/mcp-ecosystem/mcp-gateway)
+
+Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动任何代码。
 
 #### [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
 
@@ -104,6 +106,10 @@ Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记]
 Github社区复刻的Manus，项目基本实现了mauns的功能，项目可以完美运行，抢不到Manus的邀请码，可以尝试一下这个项目。
 
 ## 🚀网站&工具
+
+#### [metro line hub](https://www.metrolinehub.com/zh)
+
+这个网站收集了全球各大城市的地铁地图。
 
 #### [best travel translator](https://besttraveltranslator.com/)
 
