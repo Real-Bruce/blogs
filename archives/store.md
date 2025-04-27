@@ -27,6 +27,10 @@ You gave up too soon, and you didn’t learn how to view failure as the only pat
 
 ## 🛸开源项目
 
+#### [note gen](https://github.com/codexu/note-gen)
+
+开源的markdown编辑器，支持跨端使用致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
+
 #### [mac Icon Changer](https://github.com/Bengerthelorf/macIconChanger)
 
 IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上的应用程序图标。通过简洁的图形界面和强大的命令行工具，IconChanger 为您提供了完全控制应用图标的能力
