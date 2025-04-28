@@ -220,6 +220,14 @@ AI 模型翻译字幕文件的免费网站。
 
 ## ⛵资料&博文
 
+#### [get out of my head](https://getoutofmyhead.dev/)
+
+文中介绍了各种 head 是否必要的点，很有用帮你清理掉大多数不必要的请求 head。
+
+#### [Human System Optimization](https://github.com/zijie0/HumanSystemOptimization)
+
+人体系统调节指南，作者在文中介绍了很多保持健康生活的方式，包括睡眠、饮食、运动、学习等各个方面，强烈推荐阅读。
+
 #### [抖音推荐算法](https://95152.douyin.com/transparency)
 
 抖音公开的视频推荐算法，帮你更好的找到自己感兴趣的东西，而不是被垃圾内容包围。
