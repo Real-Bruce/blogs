@@ -220,6 +220,10 @@ AI 模型翻译字幕文件的免费网站。
 
 ## ⛵资料&博文
 
+#### [fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+
+一篇关于充电器和充电协议的文章，介绍了很多充电协议很不错的一篇科普文章。
+
 #### [get out of my head](https://getoutofmyhead.dev/)
 
 文中介绍了各种 head 是否必要的点，很有用帮你清理掉大多数不必要的请求 head。
