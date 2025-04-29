@@ -1,5 +1,19 @@
 # website
 
+## 【18】20250428-20250504
+
+#### [HsckerNews中文版](https://hn.aimaker.dev/)
+
+基于 AI 每小时自动翻译 HackerNews 上的热门内容，帮你快速掌握最新的科技动态。
+
+#### [engoo](https://engoo.com/app/materials/en)
+
+提供适合多种水平英语学习者的课程，包括可以音频朗读并标注分级的每日新闻等功能。
+
+#### [vectorcraftr](https://vectorcraftr.com/)
+
+开源的插画网站，很活泼也很有趣，给你的网站添加一点活泼的味道。
+
 ## 【17】20250421-20250427
 
 #### [smithery](https://smithery.ai/)

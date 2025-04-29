@@ -1,5 +1,19 @@
 # blogs
 
+## 【18】20250428-20250504
+
+#### [线上故障应急处理](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
+
+作者总结四年多线上事故应急处理的操作和思考，很值得读一读。
+
+#### [Market Structure Primer](https://primer.prooftrading.com/introduction/?)
+
+市场结构入门，给新手介绍美国证券市场的结构，如果想参与美股，可以读读
+
+#### [Table_of_keyboard_shortcuts](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+维基百科上关于键盘快捷键的梳理表，包括各种系统对应的快捷键、文本编辑快捷键、窗口管理快捷键。
+
 ## 【17】20250421-20250427
 
 #### [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)

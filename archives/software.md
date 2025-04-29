@@ -1,5 +1,19 @@
 # software
 
+## 【18】20250428-20250504
+
+#### [wise flow](https://github.com/TeamWiseFlow/wiseflow)
+
+使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！基于Ai的爬虫项目，输入你要获取的信源，选择你感兴趣的主题，AI会自动帮你爬取汇总相关信息。
+
+#### [neura press](https://github.com/tianyaxiang/neurapress)
+
+NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。
+
+#### [obsidian minote plugin](https://github.com/emac/obsidian-minote-plugin)
+
+Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记](https://i.mi.com/note/h5#/)转换为 Markdown 格式保存到 Obsidian 指定的文件夹中。首次使用，如果笔记数量较多，更新会比较慢，后面再去更新的时候只会增量更新有变化的笔记，一般速度很快。
+
 ## 【17】20250421-20250427
 
 #### [wxlogin](https://github.com/liyaodev/wxlogin)

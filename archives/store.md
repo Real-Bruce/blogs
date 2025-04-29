@@ -12,14 +12,6 @@ But it doesn't actually accomplish anything. It's pseudo-work. Intellectual mast
 It's much more effective to create. To get stuck in and start making things -- websites, golf shots, screenplays, whatever -- and then one of two things will happen. You either realise that you're not that interested in it, or you love it, and go really deep on it. That's worth doing. Mindlessly consuming surface-level information is not.  
 >创造要有效得多。投入其中并开始制作东西 -- 网站、高尔夫镜头、剧本，等等 -- 然后会发生两件事之一。你要么意识到你对它没有那么感兴趣，要么你喜欢它，并真正深入研究它。这是值得的。盲目地消费表面信息不是。
 
-#### [why you fail at almost everything you do](https://thedankoe.com/letters/why-you-fail-at-almost-everything-you-do/)
-
-You haven’t failed enough.  
->你还不够失败。
-
-You gave up too soon, and you didn’t learn how to view failure as the only path to success.  
->你过早地放弃了，你没有学会如何将失败视为通往成功的唯一途径。
-
 ## 🛸开源项目
 
 #### [mcp gateway](https://github.com/mcp-ecosystem/mcp-gateway)
@@ -75,18 +67,6 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 #### [astrowind](https://github.com/onwidget/astrowind)
 
 开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发，基本产品框架都具备了，适合没有设计师的团队，稍加修改就能满足个人或小企业的应用。
-
-#### [wise flow](https://github.com/TeamWiseFlow/wiseflow)
-
-使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！基于Ai的爬虫项目，输入你要获取的信源，选择你感兴趣的主题，AI会自动帮你爬取汇总相关信息。
-
-#### [neura press](https://github.com/tianyaxiang/neurapress)
-
-NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。
-
-#### [obsidian minote plugin](https://github.com/emac/obsidian-minote-plugin)
-
-Obsidian 小米笔记同步插件是一个社区插件，用来将[小米笔记](https://i.mi.com/note/h5#/)转换为 Markdown 格式保存到 Obsidian 指定的文件夹中。首次使用，如果笔记数量较多，更新会比较慢，后面再去更新的时候只会增量更新有变化的笔记，一般速度很快。
 
 ## 🚀网站&工具
 
@@ -206,18 +186,6 @@ AI 模型翻译字幕文件的免费网站。
 
 收听和订阅博客的网站。
 
-#### [HsckerNews中文版](https://hn.aimaker.dev/)
-
-基于 AI 每小时自动翻译 HackerNews 上的热门内容，帮你快速掌握最新的科技动态。
-
-#### [engoo](https://engoo.com/app/materials/en)
-
-提供适合多种水平英语学习者的课程，包括可以音频朗读并标注分级的每日新闻等功能。
-
-#### [vectorcraftr](https://vectorcraftr.com/)
-
-开源的插画网站，很活泼也很有趣，给你的网站添加一点活泼的味道。
-
 ## ⛵资料&博文
 
 #### [fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
@@ -247,15 +215,3 @@ AI 模型翻译字幕文件的免费网站。
 #### [CUDA Learn Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)
 
 `Modern CUDA Learn Notes` 的仓库，提供了一个现代的 `CUDA` 学习资源库，包含了 `200+ CUDA` 核心和 100+ 技术博客，涵盖了从基础到高级的 `CUDA` 编程知识，以及如何使用 `PyTorch` 等高级接口进行 `CUDA` 编程的实践。
-
-#### [线上故障应急处理](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)
-
-作者总结四年多线上事故应急处理的操作和思考，很值得读一读。
-
-#### [Market Structure Primer](https://primer.prooftrading.com/introduction/?)
-
-市场结构入门，给新手介绍美国证券市场的结构，如果想参与美股，可以读读
-
-#### [Table_of_keyboard_shortcuts](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-维基百科上关于键盘快捷键的梳理表，包括各种系统对应的快捷键、文本编辑快捷键、窗口管理快捷键。

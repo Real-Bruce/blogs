@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250428-20250504 [Vol.044 why you fail at almost everything you do](./weekly/Vol044.md)
+
 #### 20250421-20250427 [Vol.043 best programmers](./weekly/Vol043.md)
 
 #### 20250414-20250420 [Vol.042 the blissful zen of a good side project](./weekly/Vol042.md)

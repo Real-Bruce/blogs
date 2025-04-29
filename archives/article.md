@@ -1,5 +1,15 @@
 # article
 
+## 【18】20250428-20250504
+
+#### [why you fail at almost everything you do](https://thedankoe.com/letters/why-you-fail-at-almost-everything-you-do/)
+
+You haven’t failed enough.  
+>你还不够失败。
+
+You gave up too soon, and you didn’t learn how to view failure as the only path to success.  
+>你过早地放弃了，你没有学会如何将失败视为通往成功的唯一途径。
+
 ## 【17】20250421-20250427
 
 #### [best programmers](https://endler.dev/2025/best-programmers/)
