@@ -90,6 +90,18 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 
 ## 🚀网站&工具
 
+#### [素材SoSo](https://clipso.agilestudio.cn/)
+
+智能素材搜索引擎，帮助快速找到免版权视频和图片素材。
+
+#### [radio cast](https://radiocast.co/)
+
+在地图上探索全球的广播电台。
+
+#### [pingro](https://www.pingro.com/)
+
+智能信息监控工具，可以定时让 AI 来帮你查询一些事情的进展，并通知给你。
+
 #### [etymonline](https://www.etymonline.com/)
 
 在线的词源字典，帮你搞懂某个单词的词源，让单词记忆更深刻。
