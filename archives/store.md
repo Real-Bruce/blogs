@@ -90,6 +90,10 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 
 ## 🚀网站&工具
 
+#### [confluence](https://confluence.org/)
+
+网站目标是访问世界上每一个经纬度为整数的交叉点，并在每个地点拍照记录。
+
 #### [codeimage](https://app.codeimage.dev/)
 
 制作好看的代码截图的网站，提供了多种好看的样式。
@@ -221,6 +225,7 @@ AI 模型翻译字幕文件的免费网站。
 ## ⛵资料&博文
 
 #### [The Art of Problem Solving in Software Engineering How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
+
 本书使用 MySQL 挑战作为案例研究来探索问题分析和解决策略。通过实际示例和富有洞察力的讨论，读者将对逻辑推理、数据结构、算法等有更深入的了解。
 
 #### [fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
