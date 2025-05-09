@@ -26,6 +26,14 @@ It's much more effective to create. To get stuck in and start making things -- w
 
 ## 🛸开源项目
 
+#### [lemon form](https://github.com/bojue/lemon-form)
+
+柠檬表单🍋是一个基于 `Vue3` 和 `Typescript` 开发的表单产品，作为一个**🟢 重前端**产品形态，表单编辑器和表单组件库所有代码完全开源。
+
+#### [Fread](https://github.com/0xZhangKe/Fread)
+
+Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RSS 无缝集成在一个地方。
+
 #### [Bongo Cat](https://github.com/ayangweb/BongoCat)
 
 一只可爱的互动桌面宠物，会模仿你的鼠标键盘操作。
