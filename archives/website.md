@@ -2,6 +2,18 @@
 
 ## 【19】20250505-20250511
 
+#### [check plug travel adapter](https://remit.ee/tools/check-plug-travel-adapter/)
+
+网站能查询世界各地的插头类型和电压。
+
+#### [ai sub translate](https://aisubtranslate.top/)
+
+AI 模型翻译字幕文件的免费网站。
+
+#### [rsspod](https://rsspod.pro/#trend)
+
+收听和订阅博客的网站。
+
 ## 【18】20250428-20250504
 
 #### [HsckerNews中文版](https://hn.aimaker.dev/)

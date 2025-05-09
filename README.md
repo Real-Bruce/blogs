@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250505-20250511 [Vol.045 are your a creator or a consumer](./weekly/Vol045.md)
+
 #### 20250428-20250504 [Vol.044 why you fail at almost everything you do](./weekly/Vol044.md)
 
 #### 20250421-20250427 [Vol.043 best programmers](./weekly/Vol043.md)
