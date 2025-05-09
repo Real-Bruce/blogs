@@ -1,5 +1,19 @@
 # blogs
 
+## 【19】20250505-20250511
+
+#### [给好奇者的 WebRTC](https://webrtcforthecurious.com/zh/)
+
+本书由 WebRTC 实现者创建，旨在与世界分享他们来之不易的知识。 _《给好奇者的 WebRTC》_ 是一本针对那些一直在寻找更多知识的人编写的开源书。本书不止步于抽象层面。
+
+#### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?pli=1)
+
+谷歌开源的提示工程白皮书，总计68页帮你理解提示工程。
+
+#### [CUDA Learn Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)
+
+`Modern CUDA Learn Notes` 的仓库，提供了一个现代的 `CUDA` 学习资源库，包含了 `200+ CUDA` 核心和 100+ 技术博客，涵盖了从基础到高级的 `CUDA` 编程知识，以及如何使用 `PyTorch` 等高级接口进行 `CUDA` 编程的实践。
+
 ## 【18】20250428-20250504
 
 #### [线上故障应急处理](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/)

@@ -1,5 +1,25 @@
 # software
 
+## 【19】20250505-20250511
+
+#### [wukong minimap](https://github.com/jaskang/wukong-minimap)
+
+黑神话·悟空-内置实时地图，为《黑神话：悟空》设计的小地图插件，提供实时位置追踪和导航功能。
+
+#### [youtube music](https://github.com/th-ch/youtube-music)
+
+一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
+
+该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
+
+- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
+- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
+- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
+
+#### [astrowind](https://github.com/onwidget/astrowind)
+
+开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发，基本产品框架都具备了，适合没有设计师的团队，稍加修改就能满足个人或小企业的应用。
+
 ## 【18】20250428-20250504
 
 #### [wise flow](https://github.com/TeamWiseFlow/wiseflow)
