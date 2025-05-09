@@ -260,6 +260,10 @@ AI 模型翻译字幕文件的免费网站。
 
 ## ⛵资料&博文
 
+#### [how i setup new macbooks](https://catalins.tech/how-i-setup-new-macbooks/)
+
+作者介绍了很多macOS 内置的命令行工具，可以快速设置系统，非常适合用来配置新电脑。
+
 #### [The Art of Problem Solving in Software Engineering How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
 
 本书使用 MySQL 挑战作为案例研究来探索问题分析和解决策略。通过实际示例和富有洞察力的讨论，读者将对逻辑推理、数据结构、算法等有更深入的了解。
