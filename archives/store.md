@@ -26,6 +26,10 @@ It's much more effective to create. To get stuck in and start making things -- w
 
 ## 🛸开源项目
 
+#### [Bongo Cat](https://github.com/ayangweb/BongoCat)
+
+一只可爱的互动桌面宠物，会模仿你的鼠标键盘操作。
+
 #### [Motion Ease Tune](https://github.com/BHznJNs/MotionEaseTune)
 
 一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)。
@@ -89,6 +93,10 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发，基本产品框架都具备了，适合没有设计师的团队，稍加修改就能满足个人或小企业的应用。
 
 ## 🚀网站&工具
+
+#### [barcode maker](https://barcode-maker.com/zh)
+
+免费的条形码生成网站，支持批量生成条形码。
 
 #### [素材SoSo](https://clipso.agilestudio.cn/)
 
