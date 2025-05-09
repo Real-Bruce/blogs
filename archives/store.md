@@ -26,6 +26,10 @@ It's much more effective to create. To get stuck in and start making things -- w
 
 ## 🛸开源项目
 
+#### [cool monitor](https://github.com/star7th/coolmonitor)
+
+酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。支持Docker一键快速部署，拥有美观现代的界面设计。
+
 #### [lemon form](https://github.com/bojue/lemon-form)
 
 柠檬表单🍋是一个基于 `Vue3` 和 `Typescript` 开发的表单产品，作为一个**🟢 重前端**产品形态，表单编辑器和表单组件库所有代码完全开源。
@@ -101,6 +105,18 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发，基本产品框架都具备了，适合没有设计师的团队，稍加修改就能满足个人或小企业的应用。
 
 ## 🚀网站&工具
+
+#### [ghibli](https://www.ghibli.jp/works/)
+
+吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
+
+#### [feedme](https://feedme.icu/)
+
+提供多个信息源最新内容的 AI 摘要。
+
+#### [find json path](https://www.findjsonpath.com/zh)
+
+在线的 JSON 工具箱，可以生成 mock 的 JSON 数据，以及可视化选中某个路径。
 
 #### [barcode maker](https://barcode-maker.com/zh)
 
