@@ -1,5 +1,19 @@
 # blogs
 
+## 【20】20250512-20250518
+
+#### [Human System Optimization](https://github.com/zijie0/HumanSystemOptimization)
+
+人体系统调节指南，作者在文中介绍了很多保持健康生活的方式，包括睡眠、饮食、运动、学习等各个方面，强烈推荐阅读。
+
+#### [抖音推荐算法](https://95152.douyin.com/transparency)
+
+抖音公开的视频推荐算法，帮你更好的找到自己感兴趣的东西，而不是被垃圾内容包围。
+
+#### [GPT4o生图风格小全](https://justin3go.com/posts/2025/04/11-gpt-4o-image-generation-guide#%E9%A3%8E%E6%A0%BC)
+
+作者提供了一些GPT4o生成各种风格图片的提示词，包含很多种类，很意思的一篇博文。
+
 ## 【19】20250505-20250511
 
 #### [给好奇者的 WebRTC](https://webrtcforthecurious.com/zh/)

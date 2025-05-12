@@ -1,5 +1,19 @@
 # website
 
+## 【20】20250512-20250518
+
+#### [tv garden](https://tv.garden/)
+
+一个可以看全世界电视节目的网站，很有意思。
+
+#### [fonts zeo seven](https://fonts.zeoseven.com/)
+
+开源免费字体查找网站，提供多种简单的方式帮助你很好嵌入到网站中去，提供 CDN 地址。
+
+#### [huggingface spaces](https://huggingface.co/spaces)
+
+`Hugging Face Spaces` 导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能，帮你找到你感兴趣的LLM项目。
+
 ## 【19】20250505-20250511
 
 #### [check plug travel adapter](https://remit.ee/tools/check-plug-travel-adapter/)
