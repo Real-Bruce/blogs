@@ -14,6 +14,10 @@
 
 ## 🛸开源项目
 
+#### [wewe rss](https://github.com/cooderl/wewe-rss)
+
+微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
+
 #### [AI Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
 
 基于AI大模型, 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
@@ -79,6 +83,10 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 奈飞开源的感知视频质量评估算法。该软件包包括一个独立的 C 库 `libvmaf` 及其包装 Python 库。Python 库还提供了一组工具，允许用户训练和测试自定义 VMAF 模型。
 
 ## 🚀网站&工具
+
+#### [vram calculator](https://apxml.com/tools/vram-calculator)
+
+一个计算 LLM 在不同硬件配置上的 VRAM 占用和最终输出速度的工具。上一期提到过一个 [gguf-parser-go](https://github.com/gpustack/gguf-parser-go)可以用来计算内存占用，而这个更加直观。如果你对其中的原理感兴趣，作者也有一篇[博客](https://apxml.com/posts/how-to-calculate-vram-requirements-for-an-llm)介绍。
 
 #### [朱雀大模型检测](https://matrix.tencent.com/ai-detect/ai_gen)
 
@@ -265,6 +273,10 @@ MacOS 软件聚合搜索免费下载网站。
 `Hugging Face Spaces` 导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能，帮你找到你感兴趣的LLM项目。
 
 ## ⛵资料&博文
+
+#### [房车小白避坑指南](https://sspai.com/post/98824)
+
+如题，很好的一篇文章。
 
 #### [how i setup new macbooks](https://catalins.tech/how-i-setup-new-macbooks/)
 
