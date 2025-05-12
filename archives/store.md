@@ -84,6 +84,10 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 
 ## 🚀网站&工具
 
+#### [menu bar spacing](https://sindresorhus.com/menu-bar-spacing)
+
+这个 Mac 工具 Menu Bar Spacing 比较适合强迫症，用于调节你的菜单栏图标之间的间距。
+
 #### [vram calculator](https://apxml.com/tools/vram-calculator)
 
 一个计算 LLM 在不同硬件配置上的 VRAM 占用和最终输出速度的工具。上一期提到过一个 [gguf-parser-go](https://github.com/gpustack/gguf-parser-go)可以用来计算内存占用，而这个更加直观。如果你对其中的原理感兴趣，作者也有一篇[博客](https://apxml.com/posts/how-to-calculate-vram-requirements-for-an-llm)介绍。
