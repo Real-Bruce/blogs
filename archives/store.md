@@ -14,6 +14,10 @@
 
 ## 🛸开源项目
 
+#### [AI Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
+
+基于AI大模型, 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
+
 #### [cool monitor](https://github.com/star7th/coolmonitor)
 
 酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。支持Docker一键快速部署，拥有美观现代的界面设计。
@@ -77,6 +81,8 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 ## 🚀网站&工具
 
 #### [朱雀大模型检测](https://matrix.tencent.com/ai-detect/ai_gen)
+
+能够快速、准确地识别文本和图片是否由 AI 生成。还有一个[检测小游戏](https://matrix.tencent.com/ai-detect/ai-or-not)，让你判断当前内容是不是AI生成的。
 
 #### [Prompt Sidebar](https://chromewebstore.google.com/detail/prompt-sidebar/cdeldbabgdklajdaibpapkblbmglmlen?authuser=0&hl=zh-CN)
 
