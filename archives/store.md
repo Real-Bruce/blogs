@@ -76,6 +76,16 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 
 ## 🚀网站&工具
 
+#### [朱雀大模型检测](https://matrix.tencent.com/ai-detect/ai_gen)
+
+#### [Prompt Sidebar](https://chromewebstore.google.com/detail/prompt-sidebar/cdeldbabgdklajdaibpapkblbmglmlen?authuser=0&hl=zh-CN)
+
+Prompt Sidebar 是一款强大的 Chrome 浏览器扩展，旨在彻底改变您管理和使用 AI 提示词 (Prompts) 的方式。它不仅仅是一个存储工具，更是一个集创建、智能优化、高效应用于一体的生产力伙伴，让您与 AI 的协作更加流畅和富有成效。
+
+#### [ui live](https://ui.live/)
+
+类似于Dribbble和Figma社区的结合体，设计师可以通过一键复制或直接从 Figma 上传设计元素，包括 UI 模板、组件、示意图、3D 资产和插图等。拿来推广你在Figma社区的付费素材也行。
+
 #### [ghibli](https://www.ghibli.jp/works/)
 
 吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
@@ -273,3 +283,7 @@ MacOS 软件聚合搜索免费下载网站。
 #### [抖音推荐算法](https://95152.douyin.com/transparency)
 
 抖音公开的视频推荐算法，帮你更好的找到自己感兴趣的东西，而不是被垃圾内容包围。
+
+#### [GPT4o生图风格小全](https://justin3go.com/posts/2025/04/11-gpt-4o-image-generation-guide#%E9%A3%8E%E6%A0%BC)
+
+作者提供了一些GPT4o生成各种风格图片的提示词，包含很多种类，很意思的一篇博文。
