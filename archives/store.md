@@ -1,5 +1,8 @@
 ## 📜有价值的文章
 
+#### [internet-forget-after-all](https://idiallo.com/blog/internet-forget-after-all)
+
+
 ## 🛸开源项目
 
 #### [wewe rss](https://github.com/cooderl/wewe-rss)
