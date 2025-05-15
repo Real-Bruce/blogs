@@ -76,6 +76,10 @@ IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上�
 
 ## 🚀网站&工具
 
+#### [han zi writer](https://hanziwriter.org/)
+
+Hanzi Writer 是 javascript 免费开源库，根据汉字书写时按照笔画顺序的特征，可以播放正确笔画顺序的描边动画和练习测试。 支持简体字和繁体字。
+
 #### [ip9](https://www.ip9.com.cn/)
 
 免费查询IP归属地的接口
