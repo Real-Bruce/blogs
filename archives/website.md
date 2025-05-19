@@ -1,5 +1,19 @@
 # website
 
+## 【21】20250509-20250525
+
+#### [ttsapi](https://ttsapi.site/)
+
+免费的文字转语音网站，支持设置语调。
+
+#### [squish](https://squish.addy.ie/)
+
+图片格式转换压缩工具，支持 AVIF, JPEG, JPEG XL, PNG, WebP 等多种图像格式。
+
+#### [The Pudding](https://pudding.cool/)
+
+这是一个有趣的数据可视化网站，通过图表和故事吧一些复杂的话题讲述清楚
+
 ## 【20】20250512-20250518
 
 #### [tv garden](https://tv.garden/)

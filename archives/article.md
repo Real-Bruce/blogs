@@ -1,5 +1,23 @@
 # article
 
+## 【21】20250509-20250525
+
+#### [internet-forget-after-all](https://idiallo.com/blog/internet-forget-after-all)
+
+作者在文中指出了新时代互联网内容面临的阻碍，即内容可能会被遗忘，当询问AI就能马上得到简单的内容摘要时，当答案变得容易获取的时候，人们的好奇心也会随之减弱。虽然某些内容依旧保留在某些不显眼的服务器上，但是当AI不再索引或者搜索引擎不再指向这些内容时，这些内容就是永远的遗失了。所以警惕AI回答你的摘要，多多去探索知识，对世界充满好奇心，下面是一些文章的摘要：
+
+ when answers come prefabricated, curiosity withers. Ask an AI about SOPA, and it might detail the bill’s provisions. But will it mention the developers who coded protest banners, or the millions who rallied online? **Without context, history becomes a footnote.**  
+
+>当答案预先准备好时，好奇心就会枯萎。向 AI 询问 SOPA，它可能会详细说明法案的规定。但它会提到编写抗议横幅的开发者，还是数百万在网上集会的人呢？**没有背景，历史就变成了一个脚注。**
+
+This erosion of memory is compounded by how younger generations experience the internet. For many, platforms like TikTok or Instagram _are_ the internet: walled gardens where content lives or dies by opaque algorithms. Imagine a teenager researching a historical event solely through YouTube Shorts: if a video is removed, the event itself might as well not exist. Like AOL’s curated “web-on-training-wheels” in the 90s, these platforms gatekeep access to the broader world. What’s deleted or suppressed isn’t just invisible; it’s unremembered, even if fragments linger on some forgotten server.  
+
+>这种记忆的侵蚀因年轻一代对互联网的体验而变得更加复杂。对许多人来说，TikTok 或 Instagram 等平台_就是_互联网：内容生死不透明的算法的围墙花园。想象一下，一个青少年仅仅通过 YouTube Shorts 研究一个历史事件：如果一个视频被删除，该事件本身可能就不存在了。就像 AOL 在 90 年代策划的“web-on-training-wheels”一样，这些平台可以通往更广阔的世界。被删除或禁止的内容不仅仅是不可见的;它不会被记住，即使碎片在某个被遗忘的服务器上徘徊。
+
+We built an infinite archive, yet we’re raising a generation conditioned to treat knowledge as disposable, a stream of transient clips and chatbot replies. The internet never forgets, but without stewards to preserve its stories, who will remind us what mattered?  
+
+>我们建立了一个无限的档案，但我们正在培养一代人，他们习惯于将知识视为一次性的，即一连串短暂的剪辑和聊天机器人回复。互联网永远不会忘记，但如果没有管理员来保存它的故事，谁来提醒我们什么是重要的？
+
 ## 【20】20250512-20250518
 
 #### [技术创业者要改正的习惯](https://manateelazycat.github.io/2025/01/22/tech-entrepreneur/)

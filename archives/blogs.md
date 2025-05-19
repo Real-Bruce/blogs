@@ -1,5 +1,19 @@
 # blogs
 
+## 【21】20250509-20250525
+
+#### [The Art of Problem Solving in Software Engineering How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
+
+本书使用 MySQL 挑战作为案例研究来探索问题分析和解决策略。通过实际示例和富有洞察力的讨论，读者将对逻辑推理、数据结构、算法等有更深入的了解。
+
+#### [fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+
+一篇关于充电器和充电协议的文章，介绍了很多充电协议很不错的一篇科普文章。
+
+#### [get out of my head](https://getoutofmyhead.dev/)
+
+文中介绍了各种 head 是否必要的点，很有用帮你清理掉大多数不必要的请求 head。
+
 ## 【20】20250512-20250518
 
 #### [Human System Optimization](https://github.com/zijie0/HumanSystemOptimization)

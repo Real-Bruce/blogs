@@ -1,5 +1,19 @@
 # software
 
+## 【21】20250509-20250525
+
+#### [mac Icon Changer](https://github.com/Bengerthelorf/macIconChanger)
+
+IconChanger 是一个 macOS 应用程序，可以让您轻松自定义 Mac 上的应用程序图标。通过简洁的图形界面和强大的命令行工具，IconChanger 为您提供了完全控制应用图标的能力
+
+#### [vanna](https://github.com/vanna-ai/vanna)
+
+开源的数据库分析 AI，用自然语言向数据库询问，它会自己生成 SQL，并给出运行结果。
+
+#### [HowToCook](https://github.com/Anduin2017/HowToCook)
+
+开源的菜谱，支持本地化部署，有网友针对这个仓库做了个MCP服务，地址是这个：[HowToCook mcp](https://github.com/worryzyy/HowToCook-mcp)。
+
 ## 【20】20250512-20250518
 
 #### [bilive](https://github.com/timerring/bilive)

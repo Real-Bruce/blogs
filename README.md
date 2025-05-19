@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250519-20250525 [Vol.047 internet forget after all](./weekly/Vol047.md)
+
 #### 20250512-20250518 [Vol.046 技术创业者要改正的习惯](./weekly/Vol046.md)
 
 #### 20250505-20250511 [Vol.045 are your a creator or a consumer](./weekly/Vol045.md)
