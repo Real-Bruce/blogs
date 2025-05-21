@@ -56,6 +56,10 @@ Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动�
 
 ## 🚀网站&工具
 
+#### [thiings](https://www.thiings.co/things)
+
+免费的在线3D图标库。
+
 #### [mazanoke](https://mazanoke.com/)
 
 图片在线压缩网站。
