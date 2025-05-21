@@ -56,6 +56,22 @@ Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动�
 
 ## 🚀网站&工具
 
+#### [mazanoke](https://mazanoke.com/)
+
+图片在线压缩网站。
+
+#### [汉典书法](https://sf.zdic.net/)
+
+可以查询行书、楷书、草书等各种书法名家对每个汉字的写法。
+
+#### [The Song Painted Nature](https://news.cgtn.com/event/2023/The-Song-Painted-Nature/index.html)
+
+网站运用了非常丰富的动画效果，展示了中国宋代自然绘画的意境。
+
+#### [maker world](https://makerworld.com/zh)
+
+3D打印模型分享社区。
+
 #### [appstacks](https://appstacks.club/)
 
 专注于探讨应用程序背后故事和技术栈的平台。在这里，你可以深入了解各种应用的起源故事、发展历程以及所使用的技术工具。我们涵盖了广泛的应用类型，包括网络应用、移动应用、人工智能和桌面应用等。不论是独立创作者的创新，还是大型企业的成功案例，你都能在这里找到值得学习的经验
