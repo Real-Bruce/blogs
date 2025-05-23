@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [Open Speedy](https://github.com/game1024/OpenSpeedy)
+
+OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧率限制，提供更流畅丝滑的游戏加速体验。
+
 #### [act](https://github.com/nektos/act)
 
 可以在本地运行 GitHub Actions 的工具，安装后直接读取 .github/workflows/ 里面的文件去执行，相比每次改动去看云端的变化可以提高开发效率。
@@ -55,6 +59,10 @@ Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动�
 开源的markdown编辑器，支持跨端使用致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
 
 ## 🚀网站&工具
+
+#### [next b convert](https://nextbconvert.com/)
+
+免费批量转换图像、音频和文档工具。
 
 #### [thiings](https://www.thiings.co/things)
 
