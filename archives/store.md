@@ -48,6 +48,10 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [通辽宇宙知识库](https://www.tongliaouniverse.cn/)
+
+一个关于世界上那些奇葩小国、硬核狠人与二次元谐音梗的互动知识库，懂得都懂。
+
 #### [next b convert](https://nextbconvert.com/)
 
 免费批量转换图像、音频和文档工具。
