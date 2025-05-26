@@ -1,5 +1,19 @@
 # software
 
+## 【22】20250526-20250530
+
+#### [mcp gateway](https://github.com/mcp-ecosystem/mcp-gateway)
+
+Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动任何代码。
+
+#### [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
+
+开源的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia。内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。SnowAdmin 为您提供了一站式的后台管理解决方案，无需额外配置，开箱即用。同样是一个快速学习前沿技术的最佳实践。
+
+#### [note gen](https://github.com/codexu/note-gen)
+
+开源的markdown编辑器，支持跨端使用致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
+
 ## 【21】20250509-20250525
 
 #### [mac Icon Changer](https://github.com/Bengerthelorf/macIconChanger)

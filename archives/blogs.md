@@ -1,5 +1,19 @@
 # blogs
 
+## 【22】20250526-20250530
+
+#### [卖 AI 图，从开单到金盆洗手](https://sspai.com/post/99156)
+
+作者详细介绍了使用AI生成儿童图书插画的经历，搭建了流水线批量生成和优化图片，并详细分享了很多的AI使用技巧，很好的一篇AI应用落地文章。
+
+#### [房车小白避坑指南](https://sspai.com/post/98824)
+
+如题，很好的一篇文章。
+
+#### [how i setup new macbooks](https://catalins.tech/how-i-setup-new-macbooks/)
+
+作者介绍了很多macOS 内置的命令行工具，可以快速设置系统，非常适合用来配置新电脑。
+
 ## 【21】20250509-20250525
 
 #### [The Art of Problem Solving in Software Engineering How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)

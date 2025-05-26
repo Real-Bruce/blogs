@@ -46,17 +46,7 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 `gitdiagram` 是一个免费、简单、快速的交互式图表生成工具，用于将任何 `GitHub` 仓库的代码结构转换为可视化图表：
 
-#### [mcp gateway](https://github.com/mcp-ecosystem/mcp-gateway)
 
-Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动任何代码。
-
-#### [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
-
-开源的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia。内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。SnowAdmin 为您提供了一站式的后台管理解决方案，无需额外配置，开箱即用。同样是一个快速学习前沿技术的最佳实践。
-
-#### [note gen](https://github.com/codexu/note-gen)
-
-开源的markdown编辑器，支持跨端使用致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
 
 ## 🚀网站&工具
 
@@ -272,17 +262,7 @@ MacOS 软件聚合搜索免费下载网站。
 
 各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
 
-#### [making software](https://www.makingsoftware.com/)
 
-通过图文并茂的方式解析日常软件工具的底层原理。内容涵盖触摸屏感应、高斯模糊算法、贝塞尔曲线等 30 + 技术概念，采用 “问题 - 原理 - 应用” 的叙事结构，配合 Figma 手绘插图降低理解门槛。手册定位为 “非技术人员的技术启蒙书
-
-#### [小熊歌单搬家](https://playlist.victor42.work/)
-
-支持从QQ音乐和网易云导出歌单到其他在线音乐播放平台，同时针对导入限制问题，使用歌单导入切分，歌单临时存放24小时，到期后自动销毁。
-
-#### [streamlinehq](https://www.streamlinehq.com/)
-
-免费的图标库，提供了近 10 万个免费的 PNG、SVG 图标。
 
 ## ⛵资料&博文
 
@@ -290,14 +270,3 @@ MacOS 软件聚合搜索免费下载网站。
 
 很有趣的科普文章，介绍了浏览器默认屏蔽的一些端口，比如当你访问 `http://localhost:6000` 的时候，浏览器就会拦截你的请求。
 
-#### [卖 AI 图，从开单到金盆洗手](https://sspai.com/post/99156)
-
-作者详细介绍了使用AI生成儿童图书插画的经历，搭建了流水线批量生成和优化图片，并详细分享了很多的AI使用技巧，很好的一篇AI应用落地文章。
-
-#### [房车小白避坑指南](https://sspai.com/post/98824)
-
-如题，很好的一篇文章。
-
-#### [how i setup new macbooks](https://catalins.tech/how-i-setup-new-macbooks/)
-
-作者介绍了很多macOS 内置的命令行工具，可以快速设置系统，非常适合用来配置新电脑。
