@@ -46,8 +46,6 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 `gitdiagram` 是一个免费、简单、快速的交互式图表生成工具，用于将任何 `GitHub` 仓库的代码结构转换为可视化图表：
 
-
-
 ## 🚀网站&工具
 
 #### [next b convert](https://nextbconvert.com/)
@@ -262,11 +260,8 @@ MacOS 软件聚合搜索免费下载网站。
 
 各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
 
-
-
 ## ⛵资料&博文
 
 #### [ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
 
 很有趣的科普文章，介绍了浏览器默认屏蔽的一些端口，比如当你访问 `http://localhost:6000` 的时候，浏览器就会拦截你的请求。
-
