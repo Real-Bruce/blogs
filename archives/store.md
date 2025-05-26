@@ -78,6 +78,10 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [pro notes](https://www.pronotes.app/)
+
+让 Mac 的 Notes 支持 markdown 的写法使用以及提供了不少便捷的操作。
+
 #### [single serving sites](https://singleservingsites.cool/)
 
 一个专注展示于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的。
@@ -299,6 +303,10 @@ MacOS 软件聚合搜索免费下载网站。
 各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
 
 ## ⛵资料&博文
+
+#### [Multimodal AND Large Language Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
+
+一个 UIUC 的计算机博士生整理的自己从 24 年到现在在阅读的一些不错观点的多模态和大规模语言模型的论文列表。
 
 #### [ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
 
