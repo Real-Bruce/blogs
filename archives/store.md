@@ -1,6 +1,16 @@
 ## 📜有价值的文章
+#### [三天心动原则](https://blog.solazy.me/20250501/)
+
 
 ## 🛸开源项目
+
+#### [AingDesk](https://github.com/aingdesk/AingDesk)
+
+AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。
+
+#### [dcm](https://github.com/ajnart/dcm)
+
+`DockerComposeMaker` (DCM) 是一个简单但强大的工具，用于帮助用户创建 docker-compose.yml 文件，该项目提供了一个选择和配置容器的平台，使得用户不再需要从文档中复制粘贴，也不需要记住正确的配置选项
 
 #### [Open Speedy](https://github.com/game1024/OpenSpeedy)
 
@@ -47,6 +57,10 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 `gitdiagram` 是一个免费、简单、快速的交互式图表生成工具，用于将任何 `GitHub` 仓库的代码结构转换为可视化图表：
 
 ## 🚀网站&工具
+
+#### [single serving sites](https://singleservingsites.cool/)
+
+一个专注展示于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的。
 
 #### [通辽宇宙知识库](https://www.tongliaouniverse.cn/)
 
