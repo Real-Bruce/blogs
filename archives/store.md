@@ -78,9 +78,14 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [软考达人](https://ruankaodaren.com/exam/#/)
+
+免费的软考高效刷题工具。
+
 #### [quick decide](https://quickdecide.xieyonglin.com/)
 
-电子转盘，输入你的
+电子转盘，输入你的选项，帮助你在多个选项中快速做出决定。
+
 #### [大收藏家](https://apps.apple.com/cn/app/%E5%A4%A7%E6%94%B6%E8%97%8F%E5%AE%B6/id6581482398?uo=4)
 
 这款应用专为收藏爱好者设计。精美的界面配合极简的交互方式，让藏品录入和管理变得轻而易举。用户只需拍照或语音输入，即可快速整理收藏。应用内置的 AI 鉴定功能可帮你发掘藏品背后的故事，多维度统计功能清晰呈现品牌、价格、年份等数据。一键导出精美图集的分享功能，让你轻松将藏品展示到社交媒体和二手平台
@@ -338,6 +343,10 @@ MacOS 软件聚合搜索免费下载网站。
 各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
 
 ## ⛵资料&博文
+
+#### [China Text book](https://github.com/TapXWorld/ChinaTextbook)
+
+国内从小学到大学的各个科目的教材 PDF 版本。
 
 #### [从无人问津到爆单不断，你只差一个AIDA的距离](https://mp.weixin.qq.com/s/oi8U6VfGzHYutBtIR87ywA)
 
