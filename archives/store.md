@@ -1,5 +1,17 @@
 ## 📜有价值的文章
 
+#### [self documenting code](https://lackofimagination.org/2024/10/self-documenting-code/)
+
+编写代码的过程中，经常会看到一个函数内包含了大量功能混杂的方法，如果这段代码还没有注释简直就是地狱，所以作者给出了一些方法，让你代码可以自解释，方便项目后续的开发和维护。建议如下：
+- Using named constants instead of cryptic error codes,  
+    使用命名常量而不是晦涩难懂的错误代码，
+- Extracting complex logic and putting it in its own function,  
+    提取复杂的 logic 并将其放入自己的函数中，
+- Using short-circuit evaluation to make the code flow linear,  
+    使用短路计算使代码流线性化，
+- Introducing type annotations to help with static type checking and real-time coding feedback.  
+    引入类型注释以帮助进行静态类型检查和实时编码反馈
+
 #### [三天心动原则](https://blog.solazy.me/20250501/)
 
 原则的核心是：如果我对一个原本没有采购计划、并非刚需的物件儿突然心动，想要购买，我不会立刻下单，而是给自己 3 天的冷静期。在这 3 天里，如果我每天想起这个物件儿时，依然觉得它很吸引、很需要，那么就可以考虑购买。反过来，如果这 3 天里我对它的热情减退，或者根本没怎么想起它，那就说明这东西可能只是让我一时上头，不值得买。
