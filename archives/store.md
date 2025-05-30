@@ -1,16 +1,38 @@
 ## 📜有价值的文章
 
-#### [self documenting code](https://lackofimagination.org/2024/10/self-documenting-code/)
+#### [reinvent the wheel](https://endler.dev/2025/reinvent-the-wheel/)
 
-编写代码的过程中，经常会看到一个函数内包含了大量功能混杂的方法，如果这段代码还没有注释简直就是地狱，所以作者给出了一些方法，让你代码可以自解释，方便项目后续的开发和维护。建议如下：
-- Using named constants instead of cryptic error codes,  
-    使用命名常量而不是晦涩难懂的错误代码，
-- Extracting complex logic and putting it in its own function,  
-    提取复杂的 logic 并将其放入自己的函数中，
-- Using short-circuit evaluation to make the code flow linear,  
-    使用短路计算使代码流线性化，
-- Introducing type annotations to help with static type checking and real-time coding feedback.  
-    引入类型注释以帮助进行静态类型检查和实时编码反馈
+One of the most harmful pieces of advice is to not reinvent the wheel.  
+> 最有害的建议之一是不要重新发明轮子。
+
+**“What I cannot create, I do not understand”  
+“我无法创造的，我不明白”**
+
+To _really_ understand something on a fundamental level, you have to be able to implement a toy version first. It doesn’t matter if it’s any good; you can throw it away later.  
+>要真正从根本上理解某件事，你必须先能够实现一个玩具版本。它是否有任何好处并不重要;您可以稍后将其丢弃。
+
+There are great reasons to reinvent the wheel:  
+重新发明轮子有充分的理由：
+
+- Build a better wheel (for some definition of better)  
+    建造一个更好的轮子 （对于更好的某些定义）
+- Learn how wheels are made  
+    了解车轮是如何制造的
+- Teach others about wheels  
+    教别人关于轮子的知识
+- Learn about the inventors of wheels  
+    了解车轮的发明者
+- Be able to change wheels or fix them when they break  
+    能够在车轮损坏时更换或修理它们
+- Learn the tools needed to make wheels along the way  
+    在此过程中学习制作车轮所需的工具
+- Learn a tiny slice of what it means to build a larger system (such as a vehicle)  
+    了解构建更大系统（例如车辆）的一小部分含义
+- Help someone in need of a very special wheel. Maybe for a wheelchair?  
+    帮助需要非常特别的轮子的人。也许是为了轮椅？
+
+**Reinvent for insight. Reuse for impact.  
+重塑以获得洞察力。重复使用以产生影响。**
 
 #### [三天心动原则](https://blog.solazy.me/20250501/)
 
@@ -371,6 +393,18 @@ MacOS 软件聚合搜索免费下载网站。
 各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
 
 ## ⛵资料&博文
+
+#### [self documenting code](https://lackofimagination.org/2024/10/self-documenting-code/)
+
+编写代码的过程中，经常会看到一个函数内包含了大量功能混杂的方法，如果这段代码还没有注释简直就是地狱，所以作者给出了一些方法，让你代码可以自解释，方便项目后续的开发和维护。建议如下：
+- Using named constants instead of cryptic error codes,  
+    使用命名常量而不是晦涩难懂的错误代码，
+- Extracting complex logic and putting it in its own function,  
+    提取复杂的 logic 并将其放入自己的函数中，
+- Using short-circuit evaluation to make the code flow linear,  
+    使用短路计算使代码流线性化，
+- Introducing type annotations to help with static type checking and real-time coding feedback.  
+    引入类型注释以帮助进行静态类型检查和实时编码反馈
 
 #### [China Text book](https://github.com/TapXWorld/ChinaTextbook)
 
