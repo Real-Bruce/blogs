@@ -28,6 +28,22 @@
 
 ## 🛸开源项目
 
+#### [Open Derisk](https://github.com/derisk-ai/OpenDerisk)
+
+开源的 AI 运维助手，对线上系统提供 AI管家，与真人协同处理运维问题。
+
+#### [text to svg](https://github.com/JiuRanYa/text-to-svg)
+
+该项目是一个高质量的在线 SVG 字体生成器。它允许您将任何文本转换为 SVG 矢量图形，适用于网页设计、徽标创建、激光雕刻等。
+
+#### [BillionMail](https://github.com/aaPanel/BillionMail)
+
+开源的电子邮件营销平台，帮助企业和个人管理电子邮件营销活动，可以发送新闻通讯、促销邮件、消息。
+
+#### [f2](https://github.com/ayoisaiah/f2)
+
+**F2** 一个命令行的文件批量改名工具，功能较强。
+
 #### [Video Lin go](https://github.com/Huanshere/VideoLingo)
 
 VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音，让全世界的知识能够跨越语言的障碍共享
