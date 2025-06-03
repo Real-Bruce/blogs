@@ -50,6 +50,18 @@ There are great reasons to reinvent the wheel:
 
 ## 🛸开源项目
 
+#### [Vutron Music](https://github.com/stark81/VutronMusic)
+
+高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等
+
+#### [lsix](https://github.com/saxpjexck/lsix)
+
+一个单文件工具，只需单击一下即可激活 JetBrains IDE，无需手动输入激活码。
+
+#### [rybbit](https://github.com/rybbit-io/rybbit)
+
+`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
+
 #### [Open Derisk](https://github.com/derisk-ai/OpenDerisk)
 
 开源的 AI 运维助手，对线上系统提供 AI管家，与真人协同处理运维问题。
@@ -393,6 +405,10 @@ MacOS 软件聚合搜索免费下载网站。
 各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
 
 ## ⛵资料&博文
+
+#### [happy llm](https://github.com/datawhalechina/happy-llm)
+
+项目是一个**系统性的 LLM 学习教程**，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能
 
 #### [self documenting code](https://lackofimagination.org/2024/10/self-documenting-code/)
 
