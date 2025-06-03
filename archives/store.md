@@ -140,6 +140,18 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [AixDownloader](https://aixdownloader.com/zh)
+
+AIX智能下载器可高效实现下载管理，网页图片，视频，音频等内容的嗅探和下载，同时扩展集成多个网站的智能脚本，快速提取你想要的内容。
+
+#### [社媒助手](https://smc.iszhouhua.com/)
+
+小红书、抖音、快手数据采集工具
+
+#### [picbaker](https://www.picbaker.com/)
+
+无论您是使用 ChatGPT、FLUX、Midjourney 还是 DALL-E，PicBaker 都能为您提供丰富的创作支持。用户可以在这里发现、收集和创作各类精彩的提示词，从而简化创作过程，提高工作效率。平台上有许多示例，包括个性化间设计、品牌广告海报、艺术插画等，展示了提示词的多样性和创意潜力。
+
 #### [软考达人](https://ruankaodaren.com/exam/#/)
 
 免费的软考高效刷题工具。
