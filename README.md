@@ -18,7 +18,7 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20250602-20250608 [Vol.049 ](./weekly/Vol049.md)
+#### 20250602-20250608 [Vol.049 三天心动原则](./weekly/Vol049.md)
 
 #### 20250526-20250601 [Vol.048](./weekly/Vol048.md)
 

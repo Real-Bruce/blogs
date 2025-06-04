@@ -1,6 +1,20 @@
 # software
 
-## 【22】20250526-20250530
+## 【23】20250602-20250608
+
+#### [Bongo Cat](https://github.com/ayangweb/BongoCat)
+
+一只可爱的互动桌面宠物，会模仿你的鼠标键盘操作。
+
+#### [Motion Ease Tune](https://github.com/BHznJNs/MotionEaseTune)
+
+一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)。
+
+#### [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+
+`gitdiagram` 是一个免费、简单、快速的交互式图表生成工具，用于将任何 `GitHub` 仓库的代码结构转换为可视化图表。
+
+## 【22】20250526-20250601
 
 #### [mcp gateway](https://github.com/mcp-ecosystem/mcp-gateway)
 

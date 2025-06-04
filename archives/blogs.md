@@ -1,6 +1,16 @@
 # blogs
 
-## 【22】20250526-20250530
+## 【23】20250602-20250608
+
+#### [Multimodal AND Large Language Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
+
+一个 UIUC 的计算机博士生整理的自己从 24 年到现在在阅读的一些不错观点的多模态和大规模语言模型的论文列表。
+
+#### [ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
+
+很有趣的科普文章，介绍了浏览器默认屏蔽的一些端口，比如当你访问 `http://localhost:6000` 的时候，浏览器就会拦截你的请求。
+
+## 【22】20250526-20250601
 
 #### [卖 AI 图，从开单到金盆洗手](https://sspai.com/post/99156)
 

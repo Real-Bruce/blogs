@@ -55,8 +55,6 @@ There are great reasons to reinvent the wheel:
 **Reinvent for insight. Reuse for impact.  
 重塑以获得洞察力。重复使用以产生影响。**
 
-
-
 ## 🛸开源项目
 
 #### [Vutron Music](https://github.com/stark81/VutronMusic)
@@ -134,18 +132,6 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 #### [Fread](https://github.com/0xZhangKe/Fread)
 
 Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RSS 无缝集成在一个地方。
-
-#### [Bongo Cat](https://github.com/ayangweb/BongoCat)
-
-一只可爱的互动桌面宠物，会模仿你的鼠标键盘操作。
-
-#### [Motion Ease Tune](https://github.com/BHznJNs/MotionEaseTune)
-
-一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)。
-
-#### [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
-
-`gitdiagram` 是一个免费、简单、快速的交互式图表生成工具，用于将任何 `GitHub` 仓库的代码结构转换为可视化图表：
 
 ## 🚀网站&工具
 
@@ -413,18 +399,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
 
-#### [ourmacs](https://ourmacs.com/)
-
-MacOS 软件聚合搜索免费下载网站。
-
-#### [404s design](https://www.404s.design/)
-
-这个网站收集了各种各样的404页面，很有意思。
-
-#### [public iptv](https://publiciptv.com/)
-
-各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
-
 ## ⛵资料&博文
 
 #### [一致性哈希算法](https://www.cnblogs.com/ityml/p/14957078.html)
@@ -458,11 +432,3 @@ AIDA 模型是提升产品营销转化的重要工具，分为注意、兴趣、
 #### [设计数据分析 - 拆解](https://mp.weixin.qq.com/s/DsqJocLypBYQH0-gdq0sXQ)
 
 如何有效提取设计相关的数据？本指南从设计视角出发，通过 “拆解 — 埋点 — 分析” 的三大步骤，帮助设计师明确收集哪些数据来验证设计对整体指标的影响。文中介绍了多种数据分析模型，如 OSM、UJM 等，及如何利用它们指导数据收集，确保设计方案的效果可量化。这是每位设计师都值得一读的实用指南！
-
-#### [Multimodal AND Large Language Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
-
-一个 UIUC 的计算机博士生整理的自己从 24 年到现在在阅读的一些不错观点的多模态和大规模语言模型的论文列表。
-
-#### [ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
-
-很有趣的科普文章，介绍了浏览器默认屏蔽的一些端口，比如当你访问 `http://localhost:6000` 的时候，浏览器就会拦截你的请求。

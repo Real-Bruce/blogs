@@ -1,6 +1,20 @@
 # website
 
-## 【22】20250526-20250530
+## 【23】20250602-20250608
+
+#### [ourmacs](https://ourmacs.com/)
+
+MacOS 软件聚合搜索免费下载网站。
+
+#### [404s design](https://www.404s.design/)
+
+这个网站收集了各种各样的404页面，很有意思。
+
+#### [public iptv](https://publiciptv.com/)
+
+各国可用的公共免费 IPTV 频道集合，好比在家里看外国区域的电视节目，点击就可以播放，非常之全。
+
+## 【22】20250526-20250601
 
 #### [making software](https://www.makingsoftware.com/)
 
