@@ -135,6 +135,26 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [wallhaven](https://wallhaven.cc/)
+
+高清壁纸图库，支持多种筛选能力，并提供 4K 超清分辨率。
+
+#### [学生免费资源](https://edu.52it.de/)
+
+收集了各种通过学生认证（一般是 .edu 后缀的邮箱验证）就可以免费领取的资源和服务。
+
+#### [日历生成 Markdown](https://v0-calendar2markdown.vercel.app/)
+
+输入一个日期，生成 Markdown 格式的日历表。
+
+#### [news minimalist](https://www.newsminimalist.com/)
+
+根据新闻的重要性进行打分，可以通过多个维度筛选展示。
+
+#### [orber](https://orber.im/)
+
+数字序列和寻路结合的益智小游戏。
+
 #### [AixDownloader](https://aixdownloader.com/zh)
 
 AIX智能下载器可高效实现下载管理，网页图片，视频，音频等内容的嗅探和下载，同时扩展集成多个网站的智能脚本，快速提取你想要的内容。
