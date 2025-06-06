@@ -135,7 +135,12 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [capwords](https://capwords.app/)
+
+CapWords其实非常简单，用户只要随手拍张照片，App就能自动识别出照片里的物体，然后把它们变成带有英文标签的互动贴纸。以此来帮助用户学习英语。
+
 #### [address gen](https://addressgen.top/zh)
+
 多国身份信息生成器，生成真实的美国人身份信息。
 
 #### [wallhaven](https://wallhaven.cc/)
