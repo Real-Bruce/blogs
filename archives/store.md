@@ -139,6 +139,14 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [中国盲人数字图书馆](http://www.cdlvi.cn)
+
+中国国家图书馆制作的盲人书库，全站使用无障碍技术，有页面工具条，所有内容可以有声播放。
+
+#### [创业大全](https://cy.urongda.com/)
+
+免费的文档资料库，包含互联网+、挑战杯、国创赛、SYB、三创等主流双创赛事。
+
 #### [time is](https://time.is/)
 
 准确的在线时间网站，支持查看多国的时间，类似的网站还有这个：[datetime](https://datetime.app/)
@@ -149,7 +157,7 @@ CapWords其实非常简单，用户只要随手拍张照片，App就能自动识
 
 #### [address gen](https://addressgen.top/zh)
 
-多国身份信息生成器，生成真实的美国人身份信息。
+多国身份信息生成器，生成真实的美国人身份信息。类似的还有这个：[usaddrgen](https://www.usaddrgen.com/zh/)
 
 #### [wallhaven](https://wallhaven.cc/)
 
