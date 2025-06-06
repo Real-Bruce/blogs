@@ -57,6 +57,10 @@ There are great reasons to reinvent the wheel:
 
 ## 🛸开源项目
 
+#### [quarkdown](https://github.com/iamgio/quarkdown)
+
+Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性**的关键概念设计，通过将项目无缝编译成可打印的书籍或交互式演示文稿。所有这些都通过 Markdown 的非常强大的图灵完备扩展实现，确保您的想法自动流入纸中
+
 #### [Vutron Music](https://github.com/stark81/VutronMusic)
 
 高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等
@@ -134,6 +138,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RSS 无缝集成在一个地方。
 
 ## 🚀网站&工具
+
+#### [time is](https://time.is/)
+
+准确的在线时间网站，支持查看多国的时间，类似的网站还有这个：[datetime](https://datetime.app/)
 
 #### [capwords](https://capwords.app/)
 
