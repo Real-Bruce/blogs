@@ -57,6 +57,22 @@ There are great reasons to reinvent the wheel:
 
 ## 🛸开源项目
 
+#### [LLPlayer](https://github.com/umlx5h/LLPlayer)
+
+`LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
+
+#### [note-gen](https://github.com/codexu/note-gen)
+
+NoteGen 是一款跨端的 `Markdown` 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
+
+#### [ClipLink](https://github.com/CooperJiang/ClipLink)
+
+ClipLink 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。
+
+#### [cool monitor](https://github.com/star7th/coolmonitor)
+
+酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计。
+
 #### [quarkdown](https://github.com/iamgio/quarkdown)
 
 Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性**的关键概念设计，通过将项目无缝编译成可打印的书籍或交互式演示文稿。所有这些都通过 Markdown 的非常强大的图灵完备扩展实现，确保您的想法自动流入纸中
@@ -138,6 +154,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RSS 无缝集成在一个地方。
 
 ## 🚀网站&工具
+
+#### [Libre TV](https://github.com/LibreSpark/LibreTV)
+
+一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。还有TV版本：[DTV](https://github.com/laopaoer-wallet/DTV)。
 
 #### [中国盲人数字图书馆](http://www.cdlvi.cn)
 
