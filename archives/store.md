@@ -155,6 +155,14 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [pinsend](https://pinsend.app/)
+
+匿名聊天室，在任何设备上都支持输入聊天码加入。
+
+#### [Q3 Radio](https://www.q-3.eu/)
+
+在线广播聚合平台，汇集全球上万个电台直播，有很多分类。
+
 #### [Libre TV](https://github.com/LibreSpark/LibreTV)
 
 一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。还有TV版本：[DTV](https://github.com/laopaoer-wallet/DTV)。
