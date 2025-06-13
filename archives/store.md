@@ -57,6 +57,14 @@ There are great reasons to reinvent the wheel:
 
 ## 🛸开源项目
 
+#### [container](https://github.com/apple/container)
+
+苹果官方发布的 Mac 电脑运行 Linux 容器的工具。也就是说，Mac 电脑可以不装 Docker，就运行 Docker 容器。
+
+#### [quartz](https://github.com/jackyzha0/quartz)
+
+Markdown 文档的静态站点发布器，适合用作收费服务 Obsidian Publish 的替代品。
+
 #### [LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 `LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
