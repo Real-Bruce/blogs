@@ -155,6 +155,10 @@ Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RS
 
 ## 🚀网站&工具
 
+#### [kuakua](https://kuakua.app/zh-CN)
+
+在线的心理测试平台，可以玩一些心理测的小游戏。
+
 #### [pinsend](https://pinsend.app/)
 
 匿名聊天室，在任何设备上都支持输入聊天码加入。
