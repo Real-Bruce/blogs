@@ -2,6 +2,8 @@
 
 #### [getting past procastination](https://spectrum.ieee.org/getting-past-procastination)
 
+作者在文本提出了一个有趣的观点，并不是因为你想做才开始行动，而是因为行动起来获得反馈才更有动力。很多人总是拖拖拉拉，抱怨自己没有做事的动力。但是，动力恰恰源自行动，只要你开始做一些事情，只要能朝着目标前进，你就会发现动力随之而来。
+
 **Action leads to motivation**, not the other way around.
 >**行动会带来动力** ，而不是相反。
 
