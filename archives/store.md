@@ -1,5 +1,26 @@
 ## 📜有价值的文章
 
+#### [getting past procastination](https://spectrum.ieee.org/getting-past-procastination)
+
+**Action leads to motivation**, not the other way around.
+>**行动会带来动力** ，而不是相反。
+
+For example, if I have a high-priority, complex bug-fixing challenge at work, my approach is to decompose the problem into something much simpler. _Could I simply_ add a log statement that prints the value of a relevant variable? My goal at this point is not to solve the bug, it’s simply to take a tiny step forward.  
+
+>例如，如果我在工作中有一个高优先级、复杂的 bug 修复挑战，我的方法是将问题分解成更简单的东西。 _我是否可以简单地_添加一个 log 语句来打印相关变量的值？我此时的目标不是解决错误，而只是向前迈出一小步。
+
+This creates a powerful [flywheel](https://spectrum.ieee.org/tag/flywheel): you’re productive → you feel good → you’re more productive.  
+
+>这创造了一个强大的[飞轮](https://spectrum.ieee.org/tag/flywheel) ：您的工作效率更高→您感觉良好→工作效率更高。
+
+Unfortunately, many engineers are stuck in the opposite flywheel, a downward spiral of procrastination: you’re unproductive → you feel bad → you’re unproductive.  
+
+>不幸的是，许多工程师被困在相反的飞轮中，这是一个拖延的恶性循环：你没有生产力→你感觉很糟糕→你没有生产力。
+
+The idea that motivation follows naturally from progress lets us lower the activation energy needed to enter the upward spiral. Author and motivational speaker Tony Robbins talks about a related concept that “motion creates emotion.” The actions we take, and even the way we move our body, affect how we feel. Once you realize that you can control your motivation, you can achieve stress-free productivity.  
+
+>动机自然而然地来自进步的想法让我们降低了进入上升螺旋所需的激活能。作家兼励志演说家 Tony Robbins 谈到了一个相关的概念，即“运动产生情感”。我们采取的行动，甚至我们移动身体的方式，都会影响我们的感受。一旦你意识到你可以控制自己的动力，你就可以实现无压力的生产力。
+
 #### [搬家如何帮我理解现代人与消费的关系？](https://www.geedea.pro/posts/%E6%90%AC%E5%AE%B6%E5%A6%82%E4%BD%95%E5%B8%AE%E6%88%91%E7%90%86%E8%A7%A3%E7%8E%B0%E4%BB%A3%E4%BA%BA%E4%B8%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E5%85%B3%E7%B3%BB/)
 
 很发人深省的一篇博文，最近自己也在搬家，忽然发现自己没用的小东西真的很多，每次自己感到无聊焦虑的时候总是想买一些东西，购买前反复对比查看，花上好几天的时间纠结买不买，甚至因此而失眠，现在想想这些大多都是无用的。下单的那一刻这件事就从我的大脑中结束了，随着东西到货后的几天热情完全消退，然后被另一个物品吸引，开启循环。
@@ -162,6 +183,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RSS 无缝集成在一个地方。
 
 ## 🚀网站&工具
+
+#### [jdownloader](https://jdownloader.org/)
+
+源的全平台下载工具，参考[这篇教程](https://www.xda-developers.com/raspberry-pi-downloading-device-entire-network/)，用树莓派搭建下载服务器。
 
 #### [kuakua](https://kuakua.app/zh-CN)
 
