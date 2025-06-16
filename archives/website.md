@@ -1,5 +1,23 @@
 # website
 
+## 【24】20250609-20250615
+
+#### [address gen](https://addressgen.top/zh)
+
+多国身份信息生成器，生成真实的美国人身份信息。类似的还有这个：[usaddrgen](https://www.usaddrgen.com/zh/)
+
+#### [wallhaven](https://wallhaven.cc/)
+
+高清壁纸图库，支持多种筛选能力，并提供 4K 超清分辨率。
+
+#### [学生免费资源](https://edu.52it.de/)
+
+收集了各种通过学生认证（一般是 .edu 后缀的邮箱验证）就可以免费领取的资源和服务。
+
+#### [日历生成 Markdown](https://v0-calendar2markdown.vercel.app/)
+
+输入一个日期，生成 Markdown 格式的日历表。
+
 ## 【23】20250602-20250608
 
 #### [ourmacs](https://ourmacs.com/)

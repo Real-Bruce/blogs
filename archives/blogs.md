@@ -1,5 +1,15 @@
 # blogs
 
+## 【24】20250609-20250615
+
+#### [极致八股文之JVM垃圾回收器G1&ZGC详解](https://mp.weixin.qq.com/s/Ywj3XMws0IIK-kiUllN87Q)
+
+如题，作者详细介绍了G1和ZGC的垃圾回收机制，其中涉及到大量的知识点，强烈推荐反复阅读。
+
+#### [一致性哈希算法](https://www.cnblogs.com/ityml/p/14957078.html)
+
+很好的一篇讲一致性哈希算法的文章，帮助你理解相关的概念。
+
 ## 【23】20250602-20250608
 
 #### [Multimodal AND Large Language Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)

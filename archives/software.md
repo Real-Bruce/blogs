@@ -1,5 +1,23 @@
 # software
 
+## 【24】20250609-20250615
+
+#### [AI Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
+
+基于AI大模型, 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
+
+#### [cool monitor](https://github.com/star7th/coolmonitor)
+
+酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。支持Docker一键快速部署，拥有美观现代的界面设计。
+
+#### [lemon form](https://github.com/bojue/lemon-form)
+
+柠檬表单🍋是一个基于 `Vue3` 和 `Typescript` 开发的表单产品，作为一个**🟢 重前端**产品形态，表单编辑器和表单组件库所有代码完全开源。
+
+#### [Fread](https://github.com/0xZhangKe/Fread)
+
+Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RSS 无缝集成在一个地方。
+
 ## 【23】20250602-20250608
 
 #### [Bongo Cat](https://github.com/ayangweb/BongoCat)

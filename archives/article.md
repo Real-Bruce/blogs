@@ -1,5 +1,41 @@
 # article
 
+## 【24】20250609-20250615
+
+#### [reinvent the wheel](https://endler.dev/2025/reinvent-the-wheel/)
+
+One of the most harmful pieces of advice is to not reinvent the wheel.  
+> 最有害的建议之一是不要重新发明轮子。
+
+**“What I cannot create, I do not understand”  
+“我无法创造的，我不明白”**
+
+To _really_ understand something on a fundamental level, you have to be able to implement a toy version first. It doesn’t matter if it’s any good; you can throw it away later.  
+>要真正从根本上理解某件事，你必须先能够实现一个玩具版本。它是否有任何好处并不重要;您可以稍后将其丢弃。
+
+There are great reasons to reinvent the wheel:  
+重新发明轮子有充分的理由：
+
+- Build a better wheel (for some definition of better)  
+    建造一个更好的轮子 （对于更好的某些定义）
+- Learn how wheels are made  
+    了解车轮是如何制造的
+- Teach others about wheels  
+    教别人关于轮子的知识
+- Learn about the inventors of wheels  
+    了解车轮的发明者
+- Be able to change wheels or fix them when they break  
+    能够在车轮损坏时更换或修理它们
+- Learn the tools needed to make wheels along the way  
+    在此过程中学习制作车轮所需的工具
+- Learn a tiny slice of what it means to build a larger system (such as a vehicle)  
+    了解构建更大系统（例如车辆）的一小部分含义
+- Help someone in need of a very special wheel. Maybe for a wheelchair?  
+    帮助需要非常特别的轮子的人。也许是为了轮椅？
+
+**Reinvent for insight. Reuse for impact.  
+重塑以获得洞察力。重复使用以产生影响。**
+
 ## 【23】20250602-20250608
 
 #### [三天心动原则](https://blog.solazy.me/20250501/)
