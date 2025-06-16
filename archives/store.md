@@ -80,6 +80,22 @@ There are great reasons to reinvent the wheel:
 
 ## 🛸开源项目
 
+#### [quarkdown](https://github.com/iamgio/quarkdown)
+
+Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性**的关键概念设计，通过将项目无缝编译成可打印的书籍或交互式演示文稿。所有这些都通过 Markdown 的非常强大的图灵完备扩展实现，确保您的想法自动流入纸中。
+
+#### [PayQrcode](https://github.com/uxiaohan/PayQrcode)
+
+UA 判断设备类型跳转支付盛行的时代已经过去，PayQrcode 二合一收款码（物理合并版）​ 区别于传统基于设备 UA 判断的「软件识别版」，本方案通过物理图片合并技术，将微信与支付宝收款码融合为单张图片，实现离线场景下的双码兼容识别。
+
+#### [aya](https://github.com/liriliri/aya)
+
+AYA 是一个用于简化对安卓设备操作控制的桌面应用程序，可以看作是 ADB 的图形用户界面。
+
+#### [gkd](https://github.com/gkd-kit/gkd)
+
+基于 [高级选择器](https://gkd.li/guide/selector) + [订阅规则](https://gkd.li/guide/subscription) + [快照审查](https://github.com/gkd-kit/inspect) 的自定义屏幕点击 Android 应用。通过自定义规则，在指定界面，满足指定条件(如屏幕上存在特定文字)时，点击特定的节点或位置或执行其他操作。
+
 #### [container](https://github.com/apple/container)
 
 苹果官方发布的 Mac 电脑运行 Linux 容器的工具。也就是说，Mac 电脑可以不装 Docker，就运行 Docker 容器。
@@ -185,6 +201,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 Fread 是一个去中心化的微博客户端，它将 Mastodon、Bluesky 和 RSS 无缝集成在一个地方。
 
 ## 🚀网站&工具
+
+#### [lucide](https://lucide.dev/)
+
+简单且风格统一的icon图标库。
 
 #### [jdownloader](https://jdownloader.org/)
 
