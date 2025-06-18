@@ -1,5 +1,17 @@
 ## 📜有价值的文章
 
+#### [how to learn anything](https://idiallo.com/blog/how-to-learn-anything)
+
+In a world overflowing with "how-to" guides and expert advice, it's easy to fall into the trap of endless consumption. We binge YouTube tutorials on video editing, devour articles on effective writing, or meticulously study blueprints for building. And while these resources can be helpful, they often miss a critical point: for true beginners, the most potent learning tool isn't a tip, it's repetition.  
+> 在一个充斥着 “作方法” 指南和专家建议的世界里，很容易陷入无休止消费的陷阱。我们狂欢 YouTube 视频编辑教程，如饥似渴地阅读有关有效写作的文章，或仔细研究建筑蓝图。虽然这些资源可能有所帮助，但它们经常错过一个关键点：对于真正的初学者来说，最有效的学习工具不是提示，而是重复。
+
+No amount of advice from a master can replace the foundational understanding gained by simply doing the thing hundreds of times, if necessary. You don't learn to swim by reading a book; you learn by getting in the water. Tips become powerful only when you have the practical experience to contextualize and apply them. Until then, your best bet is to dive in, make mistakes, and discover your own path to mastery.  
+> 如有必要，师傅再多的建议都无法取代通过简单地做数百次事情而获得的基本理解。你不是通过读书来学习游泳的;你通过下水来学习。只有当您拥有将技巧置于情境中并应用它们的实践经验时，它们才会变得强大。在那之前，你最好的办法是潜入，犯错误，并发现自己的精通之路。
+
+For the beginner, the most valuable "how-to" guide is simply to **do the thing a hundred times, or until you figure it out.** Tips are only truly useful once you have the practical experience to understand, adapt, and apply them. So, stop searching for the magic bullet. Start doing.  
+
+> 对于初学者来说，最有价值的 “how-to” 指南就是**简单地做一百次，或者直到你弄清楚为止。** 只有当您拥有理解、调整和应用技巧的实践经验时，技巧才会真正有用。所以，不要再寻找灵丹妙药了。开始行动。
+
 #### [getting past procastination](https://spectrum.ieee.org/getting-past-procastination)
 
 作者在文本提出了一个有趣的观点，并不是因为你想做才开始行动，而是因为行动起来获得反馈才更有动力。很多人总是拖拖拉拉，抱怨自己没有做事的动力。但是，动力恰恰源自行动，只要你开始做一些事情，只要能朝着目标前进，你就会发现动力随之而来。
