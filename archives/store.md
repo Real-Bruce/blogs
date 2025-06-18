@@ -58,6 +58,10 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 ## 🛸开源项目
 
+#### [prompts](https://github.com/samzong/prompts)
+
+免费的开源用户提示管理工具。系统级提示管理工具，不受任何特定应用程序的束缚。
+
 #### [quarkdown](https://github.com/iamgio/quarkdown)
 
 Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性**的关键概念设计，通过将项目无缝编译成可打印的书籍或交互式演示文稿。所有这些都通过 Markdown 的非常强大的图灵完备扩展实现，确保您的想法自动流入纸中。
