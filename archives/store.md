@@ -152,6 +152,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [工资计算器](https://www.xinrenxinshi.com/calculator)
+
+薪人薪事，HR必备的算薪神器，帮你快速计算每月到手工资，不再被hr忽悠。
+
 #### [lucide](https://lucide.dev/)
 
 简单且风格统一的icon图标库。
@@ -465,6 +469,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
 
 ## ⛵资料&博文
+
+#### [docker need to know](https://github.com/zhangguanzhang/docker-need-to-know)
+
+快速讲解docker的一些易错点和基础知识的库，帮你更好的学习docker。还有关于docker网络的学习k8s的资料：[simple container network book](https://github.com/zhangguanzhang/simple-container-network-book)
 
 #### [创业一年后被迫找工作顺利找到](https://www.v2ex.com/t/1139000#reply3)
 
