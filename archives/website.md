@@ -1,5 +1,23 @@
 # website
 
+## 【25】20250616-20250622
+
+#### [jdownloader](https://jdownloader.org/)
+
+源的全平台下载工具，参考[这篇教程](https://www.xda-developers.com/raspberry-pi-downloading-device-entire-network/)，用树莓派搭建下载服务器。
+
+#### [kuakua](https://kuakua.app/zh-CN)
+
+在线的心理测试平台，可以玩一些心理测的小游戏。
+
+#### [pinsend](https://pinsend.app/)
+
+匿名聊天室，在任何设备上都支持输入聊天码加入。
+
+#### [Q3 Radio](https://www.q-3.eu/)
+
+在线广播聚合平台，汇集全球上万个电台直播，有很多分类。
+
 ## 【24】20250609-20250615
 
 #### [address gen](https://addressgen.top/zh)

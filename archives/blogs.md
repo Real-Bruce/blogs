@@ -1,5 +1,24 @@
 # blogs
 
+## 【25】20250616-20250622
+
+#### [happy llm](https://github.com/datawhalechina/happy-llm)
+
+项目是一个**系统性的 LLM 学习教程**，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能
+
+#### [self documenting code](https://lackofimagination.org/2024/10/self-documenting-code/)
+
+编写代码的过程中，经常会看到一个函数内包含了大量功能混杂的方法，如果这段代码还没有注释简直就是地狱，所以作者给出了一些方法，让你代码可以自解释，方便项目后续的开发和维护。建议如下：
+
+- Using named constants instead of cryptic error codes,  
+    使用命名常量而不是晦涩难懂的错误代码，
+- Extracting complex logic and putting it in its own function,  
+    提取复杂的 logic 并将其放入自己的函数中，
+- Using short-circuit evaluation to make the code flow linear,  
+    使用短路计算使代码流线性化，
+- Introducing type annotations to help with static type checking and real-time coding feedback.  
+    引入类型注释以帮助进行静态类型检查和实时编码反馈
+
 ## 【24】20250609-20250615
 
 #### [极致八股文之JVM垃圾回收器G1&ZGC详解](https://mp.weixin.qq.com/s/Ywj3XMws0IIK-kiUllN87Q)

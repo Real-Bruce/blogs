@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250616-20250622 [Vol.051 搬家如何帮我理解现代人与消费的关系](./weekly/Vol051.md)
+
 #### 20250609-20250615 [Vol.050 reinvent the wheel](./weekly/Vol050.md)
 
 #### 20250602-20250608 [Vol.049 三天心动原则](./weekly/Vol049.md)

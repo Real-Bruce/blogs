@@ -1,5 +1,23 @@
 # software
 
+## 【25】20250616-20250622
+
+#### [prompts](https://github.com/samzong/prompts)
+
+免费的开源用户提示管理工具。系统级提示管理工具，不受任何特定应用程序的束缚。
+
+#### [quarkdown](https://github.com/iamgio/quarkdown)
+
+Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性**的关键概念设计，通过将项目无缝编译成可打印的书籍或交互式演示文稿。所有这些都通过 Markdown 的非常强大的图灵完备扩展实现，确保您的想法自动流入纸中。
+
+#### [PayQrcode](https://github.com/uxiaohan/PayQrcode)
+
+UA 判断设备类型跳转支付盛行的时代已经过去，PayQrcode 二合一收款码（物理合并版）​ 区别于传统基于设备 UA 判断的「软件识别版」，本方案通过物理图片合并技术，将微信与支付宝收款码融合为单张图片，实现离线场景下的双码兼容识别。
+
+#### [aya](https://github.com/liriliri/aya)
+
+AYA 是一个用于简化对安卓设备操作控制的桌面应用程序，可以看作是 ADB 的图形用户界面。
+
 ## 【24】20250609-20250615
 
 #### [AI Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
