@@ -58,6 +58,14 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 ## 🛸开源项目
 
+#### [worklenz](https://github.com/Worklenz/worklenz)
+
+Worklenz 是一种旨在帮助组织提高效率的项目管理工具。它为管理项目、任务和团队内的协作提供了全面的解决方案。
+
+#### [vince](https://github.com/vinceanalytics/vince)
+
+Google Analytics 的自托管替代方案。
+
 #### [prompts](https://github.com/samzong/prompts)
 
 免费的开源用户提示管理工具。系统级提示管理工具，不受任何特定应用程序的束缚。
