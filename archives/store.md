@@ -473,6 +473,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [cs paper checklist](https://github.com/yzhao062/cs-paper-checklist)
+
+该清单是一份实用的、有主见的指南，用于对 CS 论文的写作质量、结构和表达方式进行完整性检查，尤其是对于会议（和期刊）提交的论文。虽然有些项目是主观的，但目标是提供具体的提醒并突出常见的陷阱。它是一个动态文档，并将根据反馈继续更新。
+
 #### [docker need to know](https://github.com/zhangguanzhang/docker-need-to-know)
 
 快速讲解docker的一些易错点和基础知识的库，帮你更好的学习docker。还有关于docker网络的学习k8s的资料：[simple container network book](https://github.com/zhangguanzhang/simple-container-network-book)
