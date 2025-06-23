@@ -37,6 +37,18 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 ## 🛸开源项目
 
+#### [Downlodr](https://github.com/Talisik/Downlodr)
+
+Downlodr 是一个功能强大、用户友好的视频下载解决方案，支持多个平台，包括 YouTube、Vimeo、Twitch、Twitter、TikTok 等。Downlodr 为管理您的视频下载、跟踪下载进度以及使用标签和类别组织内容提供了无缝体验。
+
+#### [Ice](https://github.com/jordanbaird/Ice)
+
+Ice 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为可用的最通用的菜单栏工具之一。
+
+#### [xiaomusic](https://github.com/hanxi/xiaomusic)
+
+无限听歌，解放小爱音箱，使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+
 #### [worklenz](https://github.com/Worklenz/worklenz)
 
 Worklenz 是一种旨在帮助组织提高效率的项目管理工具。它为管理项目、任务和团队内的协作提供了全面的解决方案。
@@ -138,6 +150,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [godbolt](https://godbolt.org/)
+
+支持 C++、Rust、Go 等多种语言。用户可以在这里编写代码，并即时查看编译后的汇编输出，帮助理解源代码与机器指令之间的关系。平台提供丰富的功能，如语法高亮、自动编译、代码格式化、编辑器主题定制等，提升了编程体验和效率。无论是学习还是调试，Compiler Explorer 都是程序员的理想工具。
 
 #### [howbr](https://howbr.vercel.app/)
 
