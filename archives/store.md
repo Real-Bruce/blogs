@@ -139,6 +139,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [howbr](https://howbr.vercel.app/)
+
+矩形内外圆角计算工具，帮你设计搭配合理的图形。
+
 #### [watching the world](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)
 
 从世界各地公开的摄像头中，随机选取9个，展示此时此刻世界上的某个角落。
