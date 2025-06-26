@@ -493,6 +493,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [领域驱动设计DDD在B端营销系统的实践](https://tech.meituan.com/2024/05/27/ddd-in-business.html)
+
+美团技术团队发布的关于 DDD架构的实践方案，文章值得一读。
+
 #### [JDK高版本特性总结与ZGC实践](https://tech.meituan.com/2025/06/20/jdk17-zgc.html)
 
 美团技术团队发布的关于JDK 17的文章，介绍了JDK17的一些新特性已经ZGC相关的知识，值得一读。
