@@ -493,6 +493,8 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [](https://github.com/datawhalechina/self-llm)
+
 #### [巧解Docker镜像拉取失败](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
 
 因为国内拉取docker镜像经常失败，更换镜像源和使用公开的镜像仓库还存在不稳定的情况。作者提供了一种很有意思的解决方案，通过 github 的工作流和阿里云私人的镜像仓库完美解决问题，很有意思的一篇文章。
