@@ -37,6 +37,10 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 ## 🛸开源项目
 
+#### [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
+最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
+
 #### [Downlodr](https://github.com/Talisik/Downlodr)
 
 Downlodr 是一个功能强大、用户友好的视频下载解决方案，支持多个平台，包括 YouTube、Vimeo、Twitch、Twitter、TikTok 等。Downlodr 为管理您的视频下载、跟踪下载进度以及使用标签和类别组织内容提供了无缝体验。
