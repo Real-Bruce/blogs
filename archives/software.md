@@ -1,5 +1,23 @@
 # software
 
+## 【26】20250623-20250629
+
+#### [Ice](https://github.com/jordanbaird/Ice)
+
+Ice 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为可用的最通用的菜单栏工具之一。
+
+#### [xiaomusic](https://github.com/hanxi/xiaomusic)
+
+无限听歌，解放小爱音箱，使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+
+#### [worklenz](https://github.com/Worklenz/worklenz)
+
+Worklenz 是一种旨在帮助组织提高效率的项目管理工具。它为管理项目、任务和团队内的协作提供了全面的解决方案。
+
+#### [vince](https://github.com/vinceanalytics/vince)
+
+Google Analytics 的自托管替代方案。
+
 ## 【25】20250616-20250622
 
 #### [prompts](https://github.com/samzong/prompts)

@@ -1,5 +1,15 @@
 # blogs
 
+## 【26】20250623-20250629
+
+#### [领域驱动设计DDD在B端营销系统的实践](https://tech.meituan.com/2024/05/27/ddd-in-business.html)
+
+美团技术团队发布的关于 DDD架构的实践方案，文章值得一读。
+
+#### [JDK高版本特性总结与ZGC实践](https://tech.meituan.com/2025/06/20/jdk17-zgc.html)
+
+美团技术团队发布的关于JDK 17的文章，介绍了JDK17的一些新特性已经ZGC相关的知识，值得一读。
+
 ## 【25】20250616-20250622
 
 #### [happy llm](https://github.com/datawhalechina/happy-llm)

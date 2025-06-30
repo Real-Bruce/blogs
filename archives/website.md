@@ -1,5 +1,23 @@
 # website
 
+## 【26】20250623-20250629
+
+#### [化妆品成分分析](https://china.guidechem.com/datacenter/hzp.html)
+
+提供近100万种化妆品，化学成分数据查询。
+
+#### [star bucks everywhere](https://starbuckseverywhere.net/)
+
+很有意思的一个美国老哥，目标是喝世界上每家公司拥有的星巴克的咖啡，这个网站记录了他去过的每个星巴克咖啡店。
+
+#### [is my blue](https://ismy.blue/)
+
+通过多张蓝绿色图片的判断，帮你找到你的蓝绿色分界线。
+
+#### [pudding](https://pudding.cool/)
+
+很有趣的网站，每个主题都做了很特别的前端交互，比如最近的[和陌生人聊天30分钟](https://pudding.cool/2025/06/hello-stranger/)
+
 ## 【25】20250616-20250622
 
 #### [jdownloader](https://jdownloader.org/)
