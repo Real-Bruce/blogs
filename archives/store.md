@@ -25,6 +25,10 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 ## 🛸开源项目
 
+#### [MTranServer](https://github.com/xxnuo/MTranServer)
+
+一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 300MiB 内存即可运行，无需显卡。
+
 #### [awesome claude code](https://github.com/hesreallyhim/awesome-claude-code)
 
 一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具。
