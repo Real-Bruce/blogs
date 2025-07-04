@@ -27,7 +27,8 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 #### [unregistry](https://github.com/psviderski/unregistry)
 
-将 docker 镜像直接推送到远程服务器，
+将 docker 镜像直接推送到远程服务器，无需经过三方的镜像仓库，直接将本地打包好的docker镜像传输到目标服务器。
+
 #### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 谷歌开源的 AI 编程工具，目前免费额度每分钟可以请求60次，每天1000次请求。
