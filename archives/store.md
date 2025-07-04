@@ -127,6 +127,9 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [免费在线拼图工具](https://img.ops-coffee.cn/)
+免费的在线拼图工具，支持多种拼图方式，还支持标注文字、方框等
+
 #### [classicjoy](https://classicjoy.games/)
 
 可以在线游玩的经典小游戏，数量很多。
