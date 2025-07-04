@@ -25,6 +25,10 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 ## 🛸开源项目
 
+#### [awesome claude code](https://github.com/hesreallyhim/awesome-claude-code)
+
+一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具。
+
 #### [unregistry](https://github.com/psviderski/unregistry)
 
 将 docker 镜像直接推送到远程服务器，无需经过三方的镜像仓库，直接将本地打包好的docker镜像传输到目标服务器。
@@ -134,6 +138,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [fake windows update screen](https://fakewindowsupdatescreen.com/)
+
+模拟系统更新，放下手头工作，安心摸鱼。
 
 #### [免费在线拼图工具](https://img.ops-coffee.cn/)
 
