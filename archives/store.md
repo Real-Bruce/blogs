@@ -25,6 +25,13 @@ The idea that motivation follows naturally from progress lets us lower the activ
 
 ## 🛸开源项目
 
+#### [unregistry](https://github.com/psviderski/unregistry)
+
+将 docker 镜像直接推送到远程服务器，
+#### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+
+谷歌开源的 AI 编程工具，目前免费额度每分钟可以请求60次，每天1000次请求。
+
 #### [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
 最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
@@ -128,6 +135,7 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 ## 🚀网站&工具
 
 #### [免费在线拼图工具](https://img.ops-coffee.cn/)
+
 免费的在线拼图工具，支持多种拼图方式，还支持标注文字、方框等
 
 #### [classicjoy](https://classicjoy.games/)
