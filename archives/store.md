@@ -66,8 +66,6 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 
 开源的电子邮件营销平台，帮助企业和个人管理电子邮件营销活动，可以发送新闻通讯、促销邮件、消息。
 
-
-
 #### [dcm](https://github.com/ajnart/dcm)
 
 `DockerComposeMaker` (DCM) 是一个简单但强大的工具，用于帮助用户创建 docker-compose.yml 文件，该项目提供了一个选择和配置容器的平台，使得用户不再需要从文档中复制粘贴，也不需要记住正确的配置选项
@@ -88,23 +86,23 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
+#### [f2](https://github.com/ayoisaiah/f2)
+
+**F2** 一个命令行的文件批量改名工具，功能较强。
+
+#### [Video Lin go](https://github.com/Huanshere/VideoLingo)
+
+VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音，让全世界的知识能够跨越语言的障碍共享
+
+#### [Money Printer Turbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
+只需提供一个视频 **主题** 或 **关键词** ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
+
+#### [AingDesk](https://github.com/aingdesk/AingDesk)
+
+AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。
+
 ## 🚀网站&工具
-
-#### [fake windows update screen](https://fakewindowsupdatescreen.com/)
-
-模拟系统更新，放下手头工作，安心摸鱼。
-
-#### [免费在线拼图工具](https://img.ops-coffee.cn/)
-
-免费的在线拼图工具，支持多种拼图方式，还支持标注文字、方框等
-
-#### [classicjoy](https://classicjoy.games/)
-
-可以在线游玩的经典小游戏，数量很多。
-
-#### [exifframe](https://exifframe.org/zh/editor)
-
-给照片添加相机品牌水印，支持徕卡、富士、尼康等主流品牌。
 
 #### [godbolt](https://godbolt.org/)
 
@@ -435,8 +433,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [巧解Docker镜像拉取失败](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
 
 因为国内拉取docker镜像经常失败，更换镜像源和使用公开的镜像仓库还存在不稳定的情况。作者提供了一种很有意思的解决方案，通过 github 的工作流和阿里云私人的镜像仓库完美解决问题，很有意思的一篇文章。
-
-      
 
 #### [创业一年后被迫找工作顺利找到](https://www.v2ex.com/t/1139000#reply3)
 

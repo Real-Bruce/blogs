@@ -1,5 +1,23 @@
 # website
 
+## 【27】20250630-20250706
+
+#### [fake windows update screen](https://fakewindowsupdatescreen.com/)
+
+模拟系统更新，放下手头工作，安心摸鱼。
+
+#### [免费在线拼图工具](https://img.ops-coffee.cn/)
+
+免费的在线拼图工具，支持多种拼图方式，还支持标注文字、方框等
+
+#### [classicjoy](https://classicjoy.games/)
+
+可以在线游玩的经典小游戏，数量很多。
+
+#### [exifframe](https://exifframe.org/zh/editor)
+
+给照片添加相机品牌水印，支持徕卡、富士、尼康等主流品牌。
+
 ## 【26】20250623-20250629
 
 #### [化妆品成分分析](https://china.guidechem.com/datacenter/hzp.html)

@@ -1,5 +1,30 @@
 # article
 
+## 【27】20250630-20250706
+
+#### [getting past procastination](https://spectrum.ieee.org/getting-past-procastination)
+
+作者在文本提出了一个有趣的观点，并不是因为你想做才开始行动，而是因为行动起来获得反馈才更有动力。很多人总是拖拖拉拉，抱怨自己没有做事的动力。但是，动力恰恰源自行动，只要你开始做一些事情，只要能朝着目标前进，你就会发现动力随之而来。
+
+**Action leads to motivation**, not the other way around.
+>**行动会带来动力** ，而不是相反。
+
+For example, if I have a high-priority, complex bug-fixing challenge at work, my approach is to decompose the problem into something much simpler. _Could I simply_ add a log statement that prints the value of a relevant variable? My goal at this point is not to solve the bug, it’s simply to take a tiny step forward.  
+
+>例如，如果我在工作中有一个高优先级、复杂的 bug 修复挑战，我的方法是将问题分解成更简单的东西。 _我是否可以简单地_添加一个 log 语句来打印相关变量的值？我此时的目标不是解决错误，而只是向前迈出一小步。
+
+This creates a powerful [flywheel](https://spectrum.ieee.org/tag/flywheel): you’re productive → you feel good → you’re more productive.  
+
+>这创造了一个强大的[飞轮](https://spectrum.ieee.org/tag/flywheel) ：您的工作效率更高→您感觉良好→工作效率更高。
+
+Unfortunately, many engineers are stuck in the opposite flywheel, a downward spiral of procrastination: you’re unproductive → you feel bad → you’re unproductive.  
+
+>不幸的是，许多工程师被困在相反的飞轮中，这是一个拖延的恶性循环：你没有生产力→你感觉很糟糕→你没有生产力。
+
+The idea that motivation follows naturally from progress lets us lower the activation energy needed to enter the upward spiral. Author and motivational speaker Tony Robbins talks about a related concept that “motion creates emotion.” The actions we take, and even the way we move our body, affect how we feel. Once you realize that you can control your motivation, you can achieve stress-free productivity.  
+
+>动机自然而然地来自进步的想法让我们降低了进入上升螺旋所需的激活能。作家兼励志演说家 Tony Robbins 谈到了一个相关的概念，即“运动产生情感”。我们采取的行动，甚至我们移动身体的方式，都会影响我们的感受。一旦你意识到你可以控制自己的动力，你就可以实现无压力的生产力。
+
 ## 【26】20250623-20250629
 
 #### [how to learn anything](https://idiallo.com/blog/how-to-learn-anything)

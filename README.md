@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250630-20250706 [Vol.053 getting past procastination](./weekly/Vol053.md)
+
 #### 20250623-20250629 [Vol.052 how to learn anything](./weekly/Vol052.md)
 
 #### 20250616-20250622 [Vol.051 搬家如何帮我理解现代人与消费的关系](./weekly/Vol051.md)
