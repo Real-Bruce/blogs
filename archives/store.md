@@ -104,6 +104,22 @@ AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享�
 
 ## 🚀网站&工具
 
+#### [popcidian](https://www.popcidian.com/)
+
+网络流行语大全，收录了各种在网络中使用的语句。
+
+#### [互联网黑话大全](https://nujuo8y1qx.feishu.cn/docs/doccnGbXj47lGM1iqHk7L1UyW8p)
+
+收录了超过 3000 条互联网黑话的词典。
+
+#### [daily arXiv ai enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
+
+每日自动使用 AI 总计 arxiv 上的论文，生成中文摘要。
+
+#### [svgco](https://svgco.de/)
+
+图片转 SVG 在线工具，在浏览器内将图片转换为 SVG 矢量图。
+
 #### [godbolt](https://godbolt.org/)
 
 支持 C++、Rust、Go 等多种语言。用户可以在这里编写代码，并即时查看编译后的汇编输出，帮助理解源代码与机器指令之间的关系。平台提供丰富的功能，如语法高亮、自动编译、代码格式化、编辑器主题定制等，提升了编程体验和效率。无论是学习还是调试，Compiler Explorer 都是程序员的理想工具。
