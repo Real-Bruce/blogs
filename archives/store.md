@@ -1,28 +1,5 @@
 ## 📜有价值的文章
 
-#### [getting past procastination](https://spectrum.ieee.org/getting-past-procastination)
-
-作者在文本提出了一个有趣的观点，并不是因为你想做才开始行动，而是因为行动起来获得反馈才更有动力。很多人总是拖拖拉拉，抱怨自己没有做事的动力。但是，动力恰恰源自行动，只要你开始做一些事情，只要能朝着目标前进，你就会发现动力随之而来。
-
-**Action leads to motivation**, not the other way around.
->**行动会带来动力** ，而不是相反。
-
-For example, if I have a high-priority, complex bug-fixing challenge at work, my approach is to decompose the problem into something much simpler. _Could I simply_ add a log statement that prints the value of a relevant variable? My goal at this point is not to solve the bug, it’s simply to take a tiny step forward.  
-
->例如，如果我在工作中有一个高优先级、复杂的 bug 修复挑战，我的方法是将问题分解成更简单的东西。 _我是否可以简单地_添加一个 log 语句来打印相关变量的值？我此时的目标不是解决错误，而只是向前迈出一小步。
-
-This creates a powerful [flywheel](https://spectrum.ieee.org/tag/flywheel): you’re productive → you feel good → you’re more productive.  
-
->这创造了一个强大的[飞轮](https://spectrum.ieee.org/tag/flywheel) ：您的工作效率更高→您感觉良好→工作效率更高。
-
-Unfortunately, many engineers are stuck in the opposite flywheel, a downward spiral of procrastination: you’re unproductive → you feel bad → you’re unproductive.  
-
->不幸的是，许多工程师被困在相反的飞轮中，这是一个拖延的恶性循环：你没有生产力→你感觉很糟糕→你没有生产力。
-
-The idea that motivation follows naturally from progress lets us lower the activation energy needed to enter the upward spiral. Author and motivational speaker Tony Robbins talks about a related concept that “motion creates emotion.” The actions we take, and even the way we move our body, affect how we feel. Once you realize that you can control your motivation, you can achieve stress-free productivity.  
-
->动机自然而然地来自进步的想法让我们降低了进入上升螺旋所需的激活能。作家兼励志演说家 Tony Robbins 谈到了一个相关的概念，即“运动产生情感”。我们采取的行动，甚至我们移动身体的方式，都会影响我们的感受。一旦你意识到你可以控制自己的动力，你就可以实现无压力的生产力。
-
 ## 🛸开源项目
 
 #### [MTranServer](https://github.com/xxnuo/MTranServer)
@@ -48,22 +25,6 @@ The idea that motivation follows naturally from progress lets us lower the activ
 #### [Downlodr](https://github.com/Talisik/Downlodr)
 
 Downlodr 是一个功能强大、用户友好的视频下载解决方案，支持多个平台，包括 YouTube、Vimeo、Twitch、Twitter、TikTok 等。Downlodr 为管理您的视频下载、跟踪下载进度以及使用标签和类别组织内容提供了无缝体验。
-
-#### [gkd](https://github.com/gkd-kit/gkd)
-
-基于 [高级选择器](https://gkd.li/guide/selector) + [订阅规则](https://gkd.li/guide/subscription) + [快照审查](https://github.com/gkd-kit/inspect) 的自定义屏幕点击 Android 应用。通过自定义规则，在指定界面，满足指定条件(如屏幕上存在特定文字)时，点击特定的节点或位置或执行其他操作。
-
-#### [container](https://github.com/apple/container)
-
-苹果官方发布的 Mac 电脑运行 Linux 容器的工具。也就是说，Mac 电脑可以不装 Docker，就运行 Docker 容器。
-
-#### [quartz](https://github.com/jackyzha0/quartz)
-
-Markdown 文档的静态站点发布器，适合用作收费服务 Obsidian Publish 的替代品。
-
-#### [LLPlayer](https://github.com/umlx5h/LLPlayer)
-
-`LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
 
 #### [note-gen](https://github.com/codexu/note-gen)
 
@@ -105,21 +66,7 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 
 开源的电子邮件营销平台，帮助企业和个人管理电子邮件营销活动，可以发送新闻通讯、促销邮件、消息。
 
-#### [f2](https://github.com/ayoisaiah/f2)
 
-**F2** 一个命令行的文件批量改名工具，功能较强。
-
-#### [Video Lin go](https://github.com/Huanshere/VideoLingo)
-
-VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音，让全世界的知识能够跨越语言的障碍共享
-
-#### [Money Printer Turbo](https://github.com/harry0703/MoneyPrinterTurbo)
-
-只需提供一个视频 **主题** 或 **关键词** ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
-
-#### [AingDesk](https://github.com/aingdesk/AingDesk)
-
-AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。
 
 #### [dcm](https://github.com/ajnart/dcm)
 
@@ -489,13 +436,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 因为国内拉取docker镜像经常失败，更换镜像源和使用公开的镜像仓库还存在不稳定的情况。作者提供了一种很有意思的解决方案，通过 github 的工作流和阿里云私人的镜像仓库完美解决问题，很有意思的一篇文章。
 
-#### [cs paper checklist](https://github.com/yzhao062/cs-paper-checklist)
-
-该清单是一份实用的、有主见的指南，用于对 CS 论文的写作质量、结构和表达方式进行完整性检查，尤其是对于会议（和期刊）提交的论文。虽然有些项目是主观的，但目标是提供具体的提醒并突出常见的陷阱。它是一个动态文档，并将根据反馈继续更新。
-
-#### [docker need to know](https://github.com/zhangguanzhang/docker-need-to-know)
-
-快速讲解docker的一些易错点和基础知识的库，帮你更好的学习docker。还有关于docker网络的学习k8s的资料：[simple container network book](https://github.com/zhangguanzhang/simple-container-network-book)
+      
 
 #### [创业一年后被迫找工作顺利找到](https://www.v2ex.com/t/1139000#reply3)
 
