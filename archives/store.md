@@ -120,6 +120,10 @@ AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享�
 
 ## 🚀网站&工具
 
+#### [river runner global](https://river-runner-global.samlearner.com/)
+
+很有趣的一个网站，模拟雨水落下后它最终会流向哪里，点击地图上的任意一个点等待几秒，网站就会绘制出雨水的路径。
+
 #### [chatmemo](https://chatmemo.ai/)
 
 能够自动保存 ChatGPT、DeepSeek、Gemini 等平台的聊天记录，并提供本地存储和智能搜索功能。用户可以轻松将零散的对话整合为一个私密的知识库，同时保护个人隐私。
@@ -465,6 +469,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
 
 ## ⛵资料&博文
+
+#### [btrees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
+
+ B 树和 B+树的工作原理的互动教程，文章提供了很多互动的例子，帮你理解 B 树和 B+ 树， 为什么数据库将它们用于索引，以及为什么使用 UUID 作为主键[可能是一个坏主意](https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql) 。您还将有机会使用我们讨论的数据结构的_交互式_动画。准备好点击按钮。
 
 #### [the prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 
