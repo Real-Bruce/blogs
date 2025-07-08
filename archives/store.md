@@ -450,6 +450,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [the prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
+
+程序员的提示工程实战手册，帮你更好的使用提示词让 AI 为你工作，文中提到了很多使用AI 编程的技巧，还给出了实战的例子。原文是英语的，中文版可以查看这个 [程序员的提示工程实战手册](https://baoyu.io/translations/the-prompt-engineering-playbook-for)
+
 #### [self llm](https://github.com/datawhalechina/self-llm)
 
 本项目是一个围绕开源大模型、针对国内初学者、基于 Linux 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
