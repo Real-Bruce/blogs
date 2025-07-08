@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [drawnix](https://github.com/plait-board/drawnix)
+
+开源的白板工具，支持思维导图、流程图、自由图等，支持私有化部署或者导入到项目内。
+
 #### [MTranServer](https://github.com/xxnuo/MTranServer)
 
 一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 300MiB 内存即可运行，无需显卡。
@@ -103,6 +107,10 @@ VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Ne
 AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。
 
 ## 🚀网站&工具
+
+#### [key check](https://keycheck.dev/)
+
+快捷键查询网站，帮你快速查询常用APP的快捷键，同时也支持查看相同快捷键在不同软件内的功能，很实用的一个网站。
 
 #### [popcidian](https://www.popcidian.com/)
 
