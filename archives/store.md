@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [code server](https://github.com/coder/code-server)
+
+在浏览器内使用VSCode，不需要本地安装，相关的[使用文章](https://www.xda-developers.com/i-self-hosted-this-vs-code-fork/)
+
 #### [drawnix](https://github.com/plait-board/drawnix)
 
 开源的白板工具，支持思维导图、流程图、自由图等，支持私有化部署或者导入到项目内。
