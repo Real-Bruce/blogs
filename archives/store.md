@@ -2,6 +2,9 @@
 
 ## 🛸开源项目
 
+#### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+开源的网络监控应用，帮你分析本机对外jia
+
 #### [code server](https://github.com/coder/code-server)
 
 在浏览器内使用VSCode，不需要本地安装，相关的[使用文章](https://www.xda-developers.com/i-self-hosted-this-vs-code-fork/)
