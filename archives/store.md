@@ -108,6 +108,10 @@ AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享�
 
 ## 🚀网站&工具
 
+#### [chatmemo](https://chatmemo.ai/)
+
+能够自动保存 ChatGPT、DeepSeek、Gemini 等平台的聊天记录，并提供本地存储和智能搜索功能。用户可以轻松将零散的对话整合为一个私密的知识库，同时保护个人隐私。
+
 #### [key check](https://keycheck.dev/)
 
 快捷键查询网站，帮你快速查询常用APP的快捷键，同时也支持查看相同快捷键在不同软件内的功能，很实用的一个网站。
