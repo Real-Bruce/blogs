@@ -2,8 +2,13 @@
 
 ## 🛸开源项目
 
+#### [wr.do](https://github.com/oiov/wr.do)
+
+一个自搭建的域名服务平台，可以基于域名创建子域名、短链接、邮件地址，并提供 API 接口。
+
 #### [sniffnet](https://github.com/GyulyVGC/sniffnet)
-开源的网络监控应用，帮你分析本机对外jia
+
+开源的网络监控工具，帮你分析本机和对外的不同网站交换的流量情况。
 
 #### [code server](https://github.com/coder/code-server)
 
