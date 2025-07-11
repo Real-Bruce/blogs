@@ -120,6 +120,9 @@ AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享�
 
 ## 🚀网站&工具
 
+#### [n8n workflow](https://n8nworkflow.net/zh)
+n8n工作流导航，网站提供了很多n8n工作流
+
 #### [歌易词](https://geciyi.com/zh-cn)
 
 网站收录500W+歌曲歌词信息，帮你找到你想要的歌词。
