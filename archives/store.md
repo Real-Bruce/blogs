@@ -2,7 +2,10 @@
 
 #### [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
 
-作者在文中指出过于野心勃勃可能会让你没办法行动，想法在没落地之前总是完美的，但是当你开始实践的时候，总会发现和现实和期望之间存在巨大的差距
+作者在文中指出过于野心勃勃可能会让你没办法行动，想法在没落地之前总是完美的，但是当你开始实践的时候，总会发现和现实和期望之间存在巨大的差距，你感觉到的差距越来越大以至于你最终因为自己的高期望而放弃了实现目标。自己也常常面对这样的情况，作者给了一些建议：
+
+This is what leads most of us to stop drawing. Not because we lack talent, but because we've developed the ability to judge before we've developed the ability to execute. We become connoisseurs of our own inadequacy.  
+这就是导致我们大多数人停止绘画的原因。不是因为我们缺乏人才，而是因为我们在培养执行能力之前就已经培养了判断能力。我们成为我们自身不足的鉴赏家。
 
 ## 🛸开源项目
 
