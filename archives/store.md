@@ -120,6 +120,10 @@ AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享�
 
 ## 🚀网站&工具
 
+#### [歌易词](https://geciyi.com/zh-cn)
+
+网站收录500W+歌曲歌词信息，帮你找到你想要的歌词。
+
 #### [river runner global](https://river-runner-global.samlearner.com/)
 
 很有趣的一个网站，模拟雨水落下后它最终会流向哪里，点击地图上的任意一个点等待几秒，网站就会绘制出雨水的路径。
