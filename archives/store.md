@@ -1,5 +1,9 @@
 ## 📜有价值的文章
 
+#### [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
+
+作者在文中指出过于野心勃勃可能会让你没办法行动，想法在没落地之前总是完美的，但是当你开始实践的时候，总会发现和现实和期望之间存在巨大的差距
+
 ## 🛸开源项目
 
 #### [wr.do](https://github.com/oiov/wr.do)
