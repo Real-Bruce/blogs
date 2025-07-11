@@ -120,8 +120,13 @@ AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享�
 
 ## 🚀网站&工具
 
+#### [you need 4 colors](https://www.iamsajid.com/colors/)
+
+这个网站提出，页面设计只需要4种颜色：前景色、背景色、强调色和趣味色。你可以在该网站生成这四种颜色的调色板。
+
 #### [n8n workflow](https://n8nworkflow.net/zh)
-n8n工作流导航，网站提供了很多n8n工作流
+
+n8n 工作流导航，网站提供了很多 n8n 工作流。
 
 #### [歌易词](https://geciyi.com/zh-cn)
 
