@@ -2,10 +2,31 @@
 
 #### [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
 
-作者在文中指出过于野心勃勃可能会让你没办法行动，想法在没落地之前总是完美的，但是当你开始实践的时候，总会发现和现实和期望之间存在巨大的差距，你感觉到的差距越来越大以至于你最终因为自己的高期望而放弃了实现目标。自己也常常面对这样的情况，作者给了一些建议：
+作者在文中指出过于野心勃勃可能会让你没办法行动，想法在没落地之前总是完美的，但是当你开始实践的时候，总会发现和现实和期望之间存在巨大的差距，你感觉到的差距越来越大以至于你最终因为自己的高期望而放弃了实现目标。
 
-This is what leads most of us to stop drawing. Not because we lack talent, but because we've developed the ability to judge before we've developed the ability to execute. We become connoisseurs of our own inadequacy.  
-这就是导致我们大多数人停止绘画的原因。不是因为我们缺乏人才，而是因为我们在培养执行能力之前就已经培养了判断能力。我们成为我们自身不足的鉴赏家。
+作者给出的建议就是不要想得太多，先做起来，在实践中思考。刚开始的时候一切可能都糟透了，但是随着你不断的修正，思考最终必然得到好的效果。相反如果你一开始构思了很精巧的模型，但是你的能力却不足以匹配你的思考，便会在自己不断的批评中放弃，反而最终一无所获。
+
+自己也常常面对这样的情况，总是想的很多做的很少，还没开始便在心中设下重重障碍，现在回想起来还不如，直接开始动手做，做的过程中思考修正，总会得到好的结果。下面是我摘录的内容：
+
+we've developed the ability to judge before we've developed the ability to execute. We become connoisseurs of our own inadequacy.  
+
+>我们在培养执行能力之前就已经培养了判断能力。我们成为我们自身不足的鉴赏家。
+
+When you imagine achieving something, the same neural reward circuits fire as when you actually achieve it. This creates what neuroscientists call _"goal substitution"_—your brain begins to treat planning as accomplishing. The planning feels so satisfying because, neurologically, it is satisfying. You're getting a real high from an imaginary achievement.  
+
+>当你想象实现某件事时，与你实际实现它时相同的神经奖励回路会触发。这就产生了神经科学家所说的 _“目标替代”_——你的大脑开始将计划视为完成。这个计划感觉非常令人满意，因为从神经学上讲，它令人满意。你从一个想象中的成就中获得真正的兴奋。
+
+_"Do-Learn."_ Those two words contain a revolution. Not _"learn-then-do,"_ which implies you must earn permission to act. Not _"think-then-execute,"_ which suggests theory should precede practice. But the radical idea that doing _**is**_ learning! That understanding emerges from your hands as much as your head, that wisdom lives in the conversation between intention and reality.
+
+>“_Do-Learn”。_ 这两个词包含一场革命。不是 _“先学后做”，_ 这意味着您必须获得行动许可。而不是 _“思考-后执行-_”，这表明理论应该先于实践。但是，“做_**就是**_学”的激进理念！这种理解既来自你的双手，也来自你的头脑，智慧存在于意图和现实之间的对话中。
+
+Counterintuitively, the path to creating your best work often begins with permission to create your worst.  
+
+>与直觉相反，创作最佳作品的道路通常始于允许创作最差的作品。
+
+When you lower the stakes, you enter into a conversation with reality. Reality has opinions about your work that are often more interesting than your own. Reality shows you what works and what doesn't. Reality introduces you to happy accidents and unexpected directions. Reality is the collaborator you didn't know you needed.
+
+>当你降低赌注时，你就进入了与现实的对话。现实对你的工作的看法往往比你自己的更有趣。现实告诉你什么有效，什么无效。现实会向您介绍快乐的意外和意想不到的方向。现实是您不知道自己需要的合作者。
 
 ## 🛸开源项目
 
