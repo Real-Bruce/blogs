@@ -28,6 +28,10 @@ When you lower the stakes, you enter into a conversation with reality. Reality h
 
 >当你降低赌注时，你就进入了与现实的对话。现实对你的工作的看法往往比你自己的更有趣。现实告诉你什么有效，什么无效。现实会向您介绍快乐的意外和意想不到的方向。现实是您不知道自己需要的合作者。
 
+**the learning never stops requiring the doing.** **The doing never stops requiring learning.**
+
+>学习永不停止，需要付诸实践；而实践也永不停止，需要不断学习。
+
 ## 🛸开源项目
 
 #### [wr.do](https://github.com/oiov/wr.do)
