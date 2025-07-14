@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250707-20250713 [Vol.054 being too ambitious is a clever form of self-sabotage](./weekly/Vol054.md)
+
 #### 20250630-20250706 [Vol.053 getting past procastination](./weekly/Vol053.md)
 
 #### 20250623-20250629 [Vol.052 how to learn anything](./weekly/Vol052.md)

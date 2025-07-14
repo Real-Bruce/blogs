@@ -1,5 +1,23 @@
 # software
 
+## 【28】20250707-20250713
+
+#### [f2](https://github.com/ayoisaiah/f2)
+
+**F2** 一个命令行的文件批量改名工具，功能较强。
+
+#### [Video Lin go](https://github.com/Huanshere/VideoLingo)
+
+VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音，让全世界的知识能够跨越语言的障碍共享
+
+#### [Money Printer Turbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
+只需提供一个视频 **主题** 或 **关键词** ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
+
+#### [AingDesk](https://github.com/aingdesk/AingDesk)
+
+AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。
+
 ## 【27】20250630-20250706
 
 #### [gkd](https://github.com/gkd-kit/gkd)

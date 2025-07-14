@@ -1,37 +1,5 @@
 ## 📜有价值的文章
 
-#### [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
-
-作者在文中指出过于野心勃勃可能会让你没办法行动，想法在没落地之前总是完美的，但是当你开始实践的时候，总会发现和现实和期望之间存在巨大的差距，你感觉到的差距越来越大以至于你最终因为自己的高期望而放弃了实现目标。
-
-作者给出的建议就是不要想得太多，先做起来，在实践中思考。刚开始的时候一切可能都糟透了，但是随着你不断的修正，思考最终必然得到好的效果。相反如果你一开始构思了很精巧的模型，但是你的能力却不足以匹配你的思考，便会在自己不断的批评中放弃，反而最终一无所获。
-
-自己也常常面对这样的情况，总是想的很多做的很少，还没开始便在心中设下重重障碍，现在回想起来还不如，直接开始动手做，做的过程中思考修正，总会得到好的结果。下面是我摘录的内容：
-
-we've developed the ability to judge before we've developed the ability to execute. We become connoisseurs of our own inadequacy.  
-
->我们在培养执行能力之前就已经培养了判断能力。我们成为我们自身不足的鉴赏家。
-
-When you imagine achieving something, the same neural reward circuits fire as when you actually achieve it. This creates what neuroscientists call _"goal substitution"_—your brain begins to treat planning as accomplishing. The planning feels so satisfying because, neurologically, it is satisfying. You're getting a real high from an imaginary achievement.  
-
->当你想象实现某件事时，与你实际实现它时相同的神经奖励回路会触发。这就产生了神经科学家所说的 _“目标替代”_——你的大脑开始将计划视为完成。这个计划感觉非常令人满意，因为从神经学上讲，它令人满意。你从一个想象中的成就中获得真正的兴奋。
-
-_"Do-Learn."_ Those two words contain a revolution. Not _"learn-then-do,"_ which implies you must earn permission to act. Not _"think-then-execute,"_ which suggests theory should precede practice. But the radical idea that doing _**is**_ learning! That understanding emerges from your hands as much as your head, that wisdom lives in the conversation between intention and reality.
-
->“_Do-Learn”。_ 这两个词包含一场革命。不是 _“先学后做”，_ 这意味着您必须获得行动许可。而不是 _“思考-后执行-_”，这表明理论应该先于实践。但是，“做_**就是**_学”的激进理念！这种理解既来自你的双手，也来自你的头脑，智慧存在于意图和现实之间的对话中。
-
-Counterintuitively, the path to creating your best work often begins with permission to create your worst.  
-
->与直觉相反，创作最佳作品的道路通常始于允许创作最差的作品。
-
-When you lower the stakes, you enter into a conversation with reality. Reality has opinions about your work that are often more interesting than your own. Reality shows you what works and what doesn't. Reality introduces you to happy accidents and unexpected directions. Reality is the collaborator you didn't know you needed.
-
->当你降低赌注时，你就进入了与现实的对话。现实对你的工作的看法往往比你自己的更有趣。现实告诉你什么有效，什么无效。现实会向您介绍快乐的意外和意想不到的方向。现实是您不知道自己需要的合作者。
-
-**the learning never stops requiring the doing.** **The doing never stops requiring learning.**
-
->学习永不停止，需要付诸实践；而实践也永不停止，需要不断学习。
-
 ## 🛸开源项目
 
 #### [wr.do](https://github.com/oiov/wr.do)
@@ -133,22 +101,6 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 #### [wewe rss](https://github.com/cooderl/wewe-rss)
 
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
-
-#### [f2](https://github.com/ayoisaiah/f2)
-
-**F2** 一个命令行的文件批量改名工具，功能较强。
-
-#### [Video Lin go](https://github.com/Huanshere/VideoLingo)
-
-VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音，让全世界的知识能够跨越语言的障碍共享
-
-#### [Money Printer Turbo](https://github.com/harry0703/MoneyPrinterTurbo)
-
-只需提供一个视频 **主题** 或 **关键词** ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
-
-#### [AingDesk](https://github.com/aingdesk/AingDesk)
-
-AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。
 
 ## 🚀网站&工具
 
@@ -263,22 +215,6 @@ AIX智能下载器可高效实现下载管理，网页图片，视频，音频�
 #### [软考达人](https://ruankaodaren.com/exam/#/)
 
 免费的软考高效刷题工具。
-
-#### [quick decide](https://quickdecide.xieyonglin.com/)
-
-电子转盘，输入你的选项，帮助你在多个选项中快速做出决定。
-
-#### [大收藏家](https://apps.apple.com/cn/app/%E5%A4%A7%E6%94%B6%E8%97%8F%E5%AE%B6/id6581482398?uo=4)
-
-这款应用专为收藏爱好者设计。精美的界面配合极简的交互方式，让藏品录入和管理变得轻而易举。用户只需拍照或语音输入，即可快速整理收藏。应用内置的 AI 鉴定功能可帮你发掘藏品背后的故事，多维度统计功能清晰呈现品牌、价格、年份等数据。一键导出精美图集的分享功能，让你轻松将藏品展示到社交媒体和二手平台
-
-#### [hidden word](https://hidden-word.top/)
-
-输入原始文本和要隐藏的文字，表面上看不到要隐藏的文字，但隐藏的文字放在HTML代码里。
-
-#### [码都来](https://malai.agent-wiki.cn/)
-
-现在隔几天就有新的AI产品，但都要邀请码。只需填写问卷，平台将根据需求智能分发相应的邀请码，确保资源共享。当然你也可以贡献邀请码，让这个平台能顺利运转下去。
 
 #### [json.visuals.zip](https://json.visuals.zip/)
 
@@ -537,11 +473,3 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [China Text book](https://github.com/TapXWorld/ChinaTextbook)
 
 国内从小学到大学的各个科目的教材 PDF 版本。
-
-#### [从无人问津到爆单不断，你只差一个AIDA的距离](https://mp.weixin.qq.com/s/oi8U6VfGzHYutBtIR87ywA)
-
-AIDA 模型是提升产品营销转化的重要工具，分为注意、兴趣、渴望和行动四个阶段。通过吸引用户注意、激发兴趣、强化欲望，最终促成购买行为。无论是电商产品、营销活动还是功能产品，AIDA 模型都能帮助团队设计出高效的用户体验策略，实现商业目标。了解并应用这一模型，可以有效提升产品的市场表现和用户满意度
-
-#### [设计数据分析 - 拆解](https://mp.weixin.qq.com/s/DsqJocLypBYQH0-gdq0sXQ)
-
-如何有效提取设计相关的数据？本指南从设计视角出发，通过 “拆解 — 埋点 — 分析” 的三大步骤，帮助设计师明确收集哪些数据来验证设计对整体指标的影响。文中介绍了多种数据分析模型，如 OSM、UJM 等，及如何利用它们指导数据收集，确保设计方案的效果可量化。这是每位设计师都值得一读的实用指南！
