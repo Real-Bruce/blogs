@@ -2,8 +2,13 @@
 
 ## 🛸开源项目
 
+#### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+
+开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度;
+
 #### [OpenList](https://github.com/OpenListTeam/OpenList)
 
+`OpenList` 是一款开源的网盘聚合工具，支持多种网盘服务的挂载和管理，并且完全免费。基于原 `Alist` 分支而来，解决了原来有争议的接口，去除了恶意代码，让 `Alist` 回归纯粹。
 
 #### [wr.do](https://github.com/oiov/wr.do)
 
@@ -106,6 +111,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [daily arXiv ai enhanced/](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
+
+每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文。
 
 #### [you need 4 colors](https://www.iamsajid.com/colors/)
 
