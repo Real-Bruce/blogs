@@ -2,6 +2,9 @@
 
 ## 🛸开源项目
 
+#### [OpenList](https://github.com/OpenListTeam/OpenList)
+
+
 #### [wr.do](https://github.com/oiov/wr.do)
 
 一个自搭建的域名服务平台，可以基于域名创建子域名、短链接、邮件地址，并提供 API 接口。
