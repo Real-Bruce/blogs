@@ -112,8 +112,21 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [mac lookup](https://maclookup.app/)
+
+mac 地址查询工具，可以查询各种厂商和网卡的信息。
+
+#### [foss flow](https://stan-smith.github.io/FossFLOW/)
+
+在线绘制 2.5D 的系统架构图，开源且免费。
+
+#### [logo hunter](https://www.uwarp.design/logo-hunter)
+
+搜索下载各种 App 的 Logo 图片。
+
 #### [old maps online](https://www.oldmapsonline.org/)
-拖动时间轴查看各个国家历史上的国土jiang'yu
+
+拖动时间轴查看各个国家历史上各个朝代、王国的国土疆域。
 
 #### [excalidraw](https://excalidraw.com/)
 
