@@ -504,7 +504,12 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [Series of posts on HTTP status codes](https://evertpot.com/http/)
+
+关于 HTTP 状态代码的系列帖子，作者在详细讲解了每个http状态码的含义和功能。
+
 #### [Let's Learn x86-64 Assembly! ](https://gpfault.net/posts/asm-tut-0.txt.html)
+
 面向初学者的汇编语言教程，从内存和寄存器讲起，标题链接是第一讲，后面还有第[二](https://gpfault.net/posts/asm-tut-1.txt.html)、[三](https://gpfault.net/posts/asm-tut-2.txt.html)、[四](https://gpfault.net/posts/asm-tut-3.txt.html)讲。
 
 #### [btrees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
