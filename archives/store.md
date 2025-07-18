@@ -112,6 +112,9 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [any type](https://download.anytype.io/)
+
+
 #### [mac lookup](https://maclookup.app/)
 
 mac 地址查询工具，可以查询各种厂商和网卡的信息。
