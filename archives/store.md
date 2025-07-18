@@ -2,6 +2,14 @@
 
 ## 🛸开源项目
 
+#### [Open Cut](https://github.com/OpenCut-app/OpenCut)
+
+免费开源的剪辑软件，支持web端、移动端和桌面端。
+
+#### [pangolin](https://github.com/fosrl/pangolin)
+
+带有 Web 界面的反向代理服务器，用于从公网访问内网服务，开源的 Cloudflare Tunnerl 替代品。
+
 #### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
 
 开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度;
@@ -112,8 +120,15 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [Tooboo](https://apps.apple.com/cn/app/tooboo-%E5%BE%92%E6%AD%A5%E9%AA%91%E8%A1%8C%E8%B6%8A%E9%87%8E%E8%B7%91%E6%88%B7%E5%A4%96%E8%BD%A8%E8%BF%B9%E5%AF%BC%E8%88%AA/id6736378337)
+
+Tooboo 是专为户外运动（徒步、骑行、越野跑）设计的应用，您可以使用 Tooboo 在 Apple Watch或 iPhone 上进行路线导航。
+
+从两步路 App 或其他地方下载 Gpx 轨迹导入 Tooboo，即刻享受简洁无广告的导航体验。
+
 #### [any type](https://download.anytype.io/)
 
+开源的笔记应用，类似于obsidian支持多平台同步。
 
 #### [mac lookup](https://maclookup.app/)
 
