@@ -510,6 +510,9 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [工程师如何更好的投资](https://tw93.fun/2025-07-17/money.html)
+如题，作者分享了一些适合工程师 
+
 #### [Series of posts on HTTP status codes](https://evertpot.com/http/)
 
 关于 HTTP 状态代码的系列帖子，作者在详细讲解了每个http状态码的含义和功能。
