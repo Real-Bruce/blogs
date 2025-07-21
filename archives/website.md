@@ -1,5 +1,23 @@
 # website
 
+## 【29】20250714-20250720
+
+#### [any type](https://download.anytype.io/)
+
+开源的笔记应用，类似于obsidian支持多平台同步。
+
+#### [mac lookup](https://maclookup.app/)
+
+mac 地址查询工具，可以查询各种厂商和网卡的信息。
+
+#### [foss flow](https://stan-smith.github.io/FossFLOW/)
+
+在线绘制 2.5D 的系统架构图，开源且免费。
+
+#### [logo hunter](https://www.uwarp.design/logo-hunter)
+
+搜索下载各种 App 的 Logo 图片。
+
 ## 【28】20250707-20250713
 
 #### [quick decide](https://quickdecide.xieyonglin.com/)

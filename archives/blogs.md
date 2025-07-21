@@ -1,5 +1,15 @@
 # blogs
 
+## 【29】20250714-20250720
+
+#### [创业一年后被迫找工作顺利找到](https://www.v2ex.com/t/1139000#reply3)
+
+作者分享了自己找工作的经历，很有参考价值。
+
+#### [China Text book](https://github.com/TapXWorld/ChinaTextbook)
+
+国内从小学到大学的各个科目的教材 PDF 版本。
+
 ## 【28】20250707-20250713
 
 #### [从无人问津到爆单不断，你只差一个AIDA的距离](https://mp.weixin.qq.com/s/oi8U6VfGzHYutBtIR87ywA)

@@ -9,8 +9,6 @@ There was something moving about transforming the mundane into meaning, about of
 You don't need a grand life to write. You need presence. Attention. An utter willingness to discern the details of your own life: questions you ask yourself in the quiet moments, conversations that make you ponder, complex feelings you want to untangle. Not everything I post is groundbreaking, but I know it’s honest. That has become enough for me.  
 >你不需要宏伟的生活来写作。你需要存在感。注意力。完全愿意辨别自己生活的细节：你在安静的时刻问自己的问题，让你沉思的对话，你想要解开的复杂感受。并非我发布的所有内容都是开创性的，但我知道它是诚实的。这对我来说已经足够了。
 
-
-
 ## 🛸开源项目
 
 #### [WebCurl](https://github.com/o8oo8o/WebCurl)
@@ -20,8 +18,6 @@ You don't need a grand life to write. You need presence. Attention. An utter wil
 #### [Open Cut](https://github.com/OpenCut-app/OpenCut)
 
 免费开源的剪辑软件，支持web端、移动端和桌面端。
-
-
 
 #### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
@@ -126,8 +122,6 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 Tooboo 是专为户外运动（徒步、骑行、越野跑）设计的应用，您可以使用 Tooboo 在 Apple Watch或 iPhone 上进行路线导航。
 
 从两步路 App 或其他地方下载 Gpx 轨迹导入 Tooboo，即刻享受简洁无广告的导航体验。
-
-
 
 #### [old maps online](https://www.oldmapsonline.org/)
 
@@ -514,11 +508,3 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [巧解Docker镜像拉取失败](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
 
 因为国内拉取docker镜像经常失败，更换镜像源和使用公开的镜像仓库还存在不稳定的情况。作者提供了一种很有意思的解决方案，通过 github 的工作流和阿里云私人的镜像仓库完美解决问题，很有意思的一篇文章。
-
-#### [创业一年后被迫找工作顺利找到](https://www.v2ex.com/t/1139000#reply3)
-
-作者分享了自己找工作的经历，很有参考价值。
-
-#### [China Text book](https://github.com/TapXWorld/ChinaTextbook)
-
-国内从小学到大学的各个科目的教材 PDF 版本。

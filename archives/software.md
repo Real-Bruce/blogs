@@ -1,5 +1,23 @@
 # software
 
+## 【29】20250714-20250720
+
+#### [pangolin](https://github.com/fosrl/pangolin)
+
+带有 Web 界面的反向代理服务器，用于从公网访问内网服务，开源的 Cloudflare Tunnerl 替代品。
+
+#### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+
+开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度;
+
+#### [OpenList](https://github.com/OpenListTeam/OpenList)
+
+`OpenList` 是一款开源的网盘聚合工具，支持多种网盘服务的挂载和管理，并且完全免费。基于原 `Alist` 分支而来，解决了原来有争议的接口，去除了恶意代码，让 `Alist` 回归纯粹。
+
+#### [wr.do](https://github.com/oiov/wr.do)
+
+一个自搭建的域名服务平台，可以基于域名创建子域名、短链接、邮件地址，并提供 API 接口。
+
 ## 【28】20250707-20250713
 
 #### [f2](https://github.com/ayoisaiah/f2)
