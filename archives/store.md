@@ -117,6 +117,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [观猹](https://watcha.cn/)
+
+AI 类应用体验评分网站，网站列举了大量的AI应用，还记录了用户的体验反馈，可以用来当作寻找灵感的平台。
+
 #### [Tooboo](https://apps.apple.com/cn/app/tooboo-%E5%BE%92%E6%AD%A5%E9%AA%91%E8%A1%8C%E8%B6%8A%E9%87%8E%E8%B7%91%E6%88%B7%E5%A4%96%E8%BD%A8%E8%BF%B9%E5%AF%BC%E8%88%AA/id6736378337)
 
 Tooboo 是专为户外运动（徒步、骑行、越野跑）设计的应用，您可以使用 Tooboo 在 Apple Watch或 iPhone 上进行路线导航。
