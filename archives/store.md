@@ -117,11 +117,21 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [划线小游戏](https://www.xiwnn.com/huaxian)
+
+一个在线小游戏，画一条线，让小球可以滚入杯子里。
+
+#### [darebee](https://darebee.com/)
+
+免费的健身资源平台，提供了很多高质量的健身计划和教程。
+
 #### [zoom earth](https://zoom.earth/)
-全球温度
+
+实施显示全球降水、温度、风向和卫星地图数据。
 
 #### [和风天气图标库](https://icons.qweather.com/)
-开源免费的天气 图标库，支持SVG 和 web Font
+
+开源免费的天气 图标库，支持SVG 和 web Font。
 
 #### [观猹](https://watcha.cn/)
 
