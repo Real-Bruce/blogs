@@ -117,6 +117,12 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [zoom earth](https://zoom.earth/)
+全球温度
+
+#### [和风天气图标库](https://icons.qweather.com/)
+开源免费的天气 图标库，支持SVG 和 web Font
+
 #### [观猹](https://watcha.cn/)
 
 AI 类应用体验评分网站，网站列举了大量的AI应用，还记录了用户的体验反馈，可以用来当作寻找灵感的平台。
