@@ -11,6 +11,10 @@ You don't need a grand life to write. You need presence. Attention. An utter wil
 
 ## 🛸开源项目
 
+#### [Subscription Management](https://github.com/huhusmang/Subscription-Management)
+
+订阅管理系统，开源的 web 应用，管理和订阅各类订阅服务的费用和续费，支持多币种。
+
 #### [vRain](https://github.com/shanleiguang/vRain)
 
 中文古籍刻本風格直排電子書製作工具。
@@ -26,6 +30,9 @@ You don't need a grand life to write. You need presence. Attention. An utter wil
 #### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 开源的网络监控工具，帮你分析本机和对外的不同网站交换的流量情况。
+
+#### [lumma](https://github.com/geosmart/lumma)
+Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记，最终生成 md 文件，
 
 #### [code server](https://github.com/coder/code-server)
 
