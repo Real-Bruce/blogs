@@ -11,6 +11,10 @@ You don't need a grand life to write. You need presence. Attention. An utter wil
 
 ## 🛸开源项目
 
+#### [vRain](https://github.com/shanleiguang/vRain)
+
+中文古籍刻本風格直排電子書製作工具。
+
 #### [WebCurl](https://github.com/o8oo8o/WebCurl)
 
 极简网页版API调试工具，仅又两个文件构成，代码简洁功能强大，支持多种请求方式。
@@ -116,6 +120,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [oss rebuild](https://oss-rebuild.dev/)
+
+谷歌本周推出的一项服务，用来验证网上的 NPM、PyPI、Rust 的软件包，是否跟源码构建出来的完全一样，保证软件供应链安全。
 
 #### [划线小游戏](https://www.xiwnn.com/huaxian)
 
