@@ -11,6 +11,10 @@ You don't need a grand life to write. You need presence. Attention. An utter wil
 
 ## 🛸开源项目
 
+#### [Gmeek](https://github.com/Meekdai/Gmeek)
+
+一个博客框架，超轻量级个人博客模板。完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
+
 #### [css exercises](https://github.com/TheOdinProject/css-exercises)
 
 CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案。
