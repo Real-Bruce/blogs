@@ -1,5 +1,15 @@
 # blogs
 
+## 【30】20250721-20250727
+
+#### [Let's Learn x86-64 Assembly!](https://gpfault.net/posts/asm-tut-0.txt.html)
+
+面向初学者的汇编语言教程，从内存和寄存器讲起，标题链接是第一讲，后面还有第[二](https://gpfault.net/posts/asm-tut-1.txt.html)、[三](https://gpfault.net/posts/asm-tut-2.txt.html)、[四](https://gpfault.net/posts/asm-tut-3.txt.html)讲。
+
+#### [btrees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
+
+B 树和 B+树的工作原理的互动教程，文章提供了很多互动的例子，帮你理解 B 树和 B+ 树， 为什么数据库将它们用于索引，以及为什么使用 UUID 作为主键[可能是一个坏主意](https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql) 。您还将有机会使用我们讨论的数据结构的_交互式_动画。准备好点击按钮。
+
 ## 【29】20250714-20250720
 
 #### [创业一年后被迫找工作顺利找到](https://www.v2ex.com/t/1139000#reply3)

@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250721-20250727 [Vol.056 you don't need a grand life to blog](./weekly/Vol056.md)
+
 #### 20250714-20250720 [Vol.055 告别深夜的不甘心](./weekly/Vol055.md)
 
 #### 20250707-20250713 [Vol.054 being too ambitious is a clever form of self-sabotage](./weekly/Vol054.md)

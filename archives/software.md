@@ -1,5 +1,23 @@
 # software
 
+## 【30】20250721-20250727
+
+#### [code server](https://github.com/coder/code-server)
+
+在浏览器内使用VSCode，不需要本地安装，相关的[使用文章](https://www.xda-developers.com/i-self-hosted-this-vs-code-fork/)
+
+#### [drawnix](https://github.com/plait-board/drawnix)
+
+开源的白板工具，支持思维导图、流程图、自由图等，支持私有化部署或者导入到项目内。
+
+#### [MTranServer](https://github.com/xxnuo/MTranServer)
+
+一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 300MiB 内存即可运行，无需显卡。
+
+#### [awesome claude code](https://github.com/hesreallyhim/awesome-claude-code)
+
+一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具。
+
 ## 【29】20250714-20250720
 
 #### [pangolin](https://github.com/fosrl/pangolin)

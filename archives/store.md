@@ -1,14 +1,5 @@
 ## 📜有价值的文章
 
-#### [you don't need a grand life to blog](https://tala.bearblog.dev/you-dont-need-a-grand-life-to-blog-new/)
-
-你不需要用宏大的主题来体现博客的深度，博客是用来记录日常生活的，记录你生活中的细节，日常的思考，并不宏大但是对于写作来说就足够有意义。
-There was something moving about transforming the mundane into meaning, about offering a perspective that felt ordinary, only to realize it carries more weight to you than you expected. These small snippets I captured from my life meant something to me, and that was enough to make me want to share. Over time, I wrote with less resistance and more rhythm. I started showing up, even in days I felt like I had nothing to say. In turn, I became more attentive to my own life. The details I once overlooked became worth writing about.  
->将平凡转化为意义，提供一种感觉平凡的视角，却意识到它对你的分量比你预期的要大，这让人感动。我从生活中捕捉到的这些小片段对我来说意义重大，这足以让我想分享。随着时间的推移，我写作的阻力更小，节奏更强。我开始出现，即使在几天我觉得我无话可说。反过来，我变得更加关注自己的生活。我曾经忽视的细节变得值得一写。
-
-You don't need a grand life to write. You need presence. Attention. An utter willingness to discern the details of your own life: questions you ask yourself in the quiet moments, conversations that make you ponder, complex feelings you want to untangle. Not everything I post is groundbreaking, but I know it’s honest. That has become enough for me.  
->你不需要宏伟的生活来写作。你需要存在感。注意力。完全愿意辨别自己生活的细节：你在安静的时刻问自己的问题，让你沉思的对话，你想要解开的复杂感受。并非我发布的所有内容都是开创性的，但我知道它是诚实的。这对我来说已经足够了。
-
 ## 🛸开源项目
 
 #### [AI Gist](https://github.com/yarin-zhang/AI-Gist)
@@ -46,22 +37,6 @@ CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案�
 #### [lumma](https://github.com/geosmart/lumma)
 
 Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记，最终生成 md 文件且支持同步。
-
-#### [code server](https://github.com/coder/code-server)
-
-在浏览器内使用VSCode，不需要本地安装，相关的[使用文章](https://www.xda-developers.com/i-self-hosted-this-vs-code-fork/)
-
-#### [drawnix](https://github.com/plait-board/drawnix)
-
-开源的白板工具，支持思维导图、流程图、自由图等，支持私有化部署或者导入到项目内。
-
-#### [MTranServer](https://github.com/xxnuo/MTranServer)
-
-一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 300MiB 内存即可运行，无需显卡。
-
-#### [awesome claude code](https://github.com/hesreallyhim/awesome-claude-code)
-
-一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具。
 
 #### [unregistry](https://github.com/psviderski/unregistry)
 
@@ -144,22 +119,6 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 #### [oss rebuild](https://oss-rebuild.dev/)
 
 谷歌本周推出的一项服务，用来验证网上的 NPM、PyPI、Rust 的软件包，是否跟源码构建出来的完全一样，保证软件供应链安全。
-
-#### [划线小游戏](https://www.xiwnn.com/huaxian)
-
-一个在线小游戏，画一条线，让小球可以滚入杯子里。
-
-#### [darebee](https://darebee.com/)
-
-免费的健身资源平台，提供了很多高质量的健身计划和教程。
-
-#### [zoom earth](https://zoom.earth/)
-
-实施显示全球降水、温度、风向和卫星地图数据。
-
-#### [和风天气图标库](https://icons.qweather.com/)
-
-开源免费的天气 图标库，支持SVG 和 web Font。
 
 #### [观猹](https://watcha.cn/)
 
@@ -540,14 +499,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [Series of posts on HTTP status codes](https://evertpot.com/http/)
 
 关于 HTTP 状态代码的系列帖子，作者在详细讲解了每个http状态码的含义和功能。
-
-#### [Let's Learn x86-64 Assembly! ](https://gpfault.net/posts/asm-tut-0.txt.html)
-
-面向初学者的汇编语言教程，从内存和寄存器讲起，标题链接是第一讲，后面还有第[二](https://gpfault.net/posts/asm-tut-1.txt.html)、[三](https://gpfault.net/posts/asm-tut-2.txt.html)、[四](https://gpfault.net/posts/asm-tut-3.txt.html)讲。
-
-#### [btrees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
-
- B 树和 B+树的工作原理的互动教程，文章提供了很多互动的例子，帮你理解 B 树和 B+ 树， 为什么数据库将它们用于索引，以及为什么使用 UUID 作为主键[可能是一个坏主意](https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql) 。您还将有机会使用我们讨论的数据结构的_交互式_动画。准备好点击按钮。
 
 #### [the prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 

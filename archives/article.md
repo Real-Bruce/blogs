@@ -1,5 +1,18 @@
 # article
 
+## 【30】20250721-20250727
+
+#### [you don't need a grand life to blog](https://tala.bearblog.dev/you-dont-need-a-grand-life-to-blog-new/)
+
+你不需要用宏大的主题来体现博客的深度，博客是用来记录日常生活的，记录你生活中的细节，日常的思考，并不宏大但是对于写作来说就足够有意义。  
+There was something moving about transforming the mundane into meaning, about offering a perspective that felt ordinary, only to realize it carries more weight to you than you expected. These small snippets I captured from my life meant something to me, and that was enough to make me want to share. Over time, I wrote with less resistance and more rhythm. I started showing up, even in days I felt like I had nothing to say. In turn, I became more attentive to my own life. The details I once overlooked became worth writing about.
+
+> 将平凡转化为意义，提供一种感觉平凡的视角，却意识到它对你的分量比你预期的要大，这让人感动。我从生活中捕捉到的这些小片段对我来说意义重大，这足以让我想分享。随着时间的推移，我写作的阻力更小，节奏更强。我开始出现，即使在几天我觉得我无话可说。反过来，我变得更加关注自己的生活。我曾经忽视的细节变得值得一写。
+
+You don't need a grand life to write. You need presence. Attention. An utter willingness to discern the details of your own life: questions you ask yourself in the quiet moments, conversations that make you ponder, complex feelings you want to untangle. Not everything I post is groundbreaking, but I know it’s honest. That has become enough for me.
+
+> 你不需要宏伟的生活来写作。你需要存在感。注意力。完全愿意辨别自己生活的细节：你在安静的时刻问自己的问题，让你沉思的对话，你想要解开的复杂感受。并非我发布的所有内容都是开创性的，但我知道它是诚实的。这对我来说已经足够了。
+
 ## 【29】20250714-20250720
 
 #### [告别深夜的「不甘心」](https://blog.solazy.me/20250710/)
