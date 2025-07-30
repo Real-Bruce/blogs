@@ -134,7 +134,7 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 #### [zread](https://zread.ai/)
 
- AI 解读一个 Github 仓库，还通过分析最近的仓库活动生成热议内容。
+ AI 解读一个 Github 仓库，通过分析最近的仓库活动生成热议内容。
 
 #### [waterprint](https://i.cafa.edu.cn/waterprint/ch/chwnl/)
 
