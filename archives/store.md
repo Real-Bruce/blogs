@@ -1,8 +1,20 @@
 ## 📜有价值的文章
 
 #### [no matter what](https://endler.dev/2024/no-matter-what/)
-作者在文中提到小时候家里的一条规矩，每天晚上 6 点吃晚饭，无论发生什么事情。事实上无论如何做某件事，不仅仅是你要坚持这件事，而是要放弃牺牲其他的事情去做这件事。当开始做这件事的时候会觉得是负担是束缚，但当你不断的重复做这件事，这件事就会变成一个超强习惯，还会带动别的
 
+作者在文中提到小时候家里的一条规矩，每天晚上 6 点吃晚饭，无论发生什么事情。事实上无论如何做某件事，不仅仅是你要坚持这件事，而是要放弃牺牲其他的事情去做这件事。当开始做这件事的时候会觉得是负担是束缚，但当你不断的重复做这件事，这件事就会变成一个超强习惯，还会带动连锁反应。所以找到一件每天没有任何理由要去做的事情，不要想各种困难就坚持做好，习惯的飞轮会转起来的。
+
+There’s a nice thing that happens when you have such a golden rule: it has ripple effects. Since we had dinner together every evening, we would always have time to talk about the day. Problems would be uncovered earlier. We would know about each other’s appointments for the next day. It provided structure throughout the rest of the day. It put things into perspective. It grounded us.  
+>当你有这样的黄金法则时，就会发生一件好事：它会产生连锁反应。由于我们每天晚上都一起吃晚饭，所以我们总有时间谈论这一天。问题会更早地被发现。我们会知道彼此第二天的约会。它在一天的剩余时间里提供了结构。它正确看待了事情。它让我们脚踏实地。
+
+It’s a simple rule with little room for interpretation. However, it’s not easy: there are times when you have to drop something else to make dinner at 6 work. That’s when the rule counts the most! That’s what makes or breaks it.  
+>这是一个简单的规则，几乎没有解释的余地。然而，这并不容易：有时你必须放弃其他东西才能在 6 点工作时做晚餐。这时规则才是最重要的！这就是成就或毁掉它的原因。
+
+Yes, such rules “sound” stupid, but there’s a deeper, almost stoic realization to it: Life is complicated and will throw obstacles in your way. But if you really want to make progress, you have to find a way. If nothing else helps, make up a stupid rule; and the harder you struggle, the more specific the rule should be.  
+>是的，这样的规则“听起来”很愚蠢，但它有一个更深层次的、近乎坚忍的认识：生活是复杂的，会给你的前进道路带来障碍。但要想真正进步，就得想办法。如果没有其他帮助，就制定一个愚蠢的规则;而且你越努力，规则就应该越具体。
+
+“No matter what” rules aren’t habits, at least not in the beginning. They can, however, turn into super strong habits with time.  
+>“无论如何”的规则都不是习惯，至少在一开始不是。然而，随着时间的推移，它们会变成超级强烈的习惯。
 
 ## 🛸开源项目
 
