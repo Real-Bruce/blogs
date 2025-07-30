@@ -132,6 +132,14 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [zread](https://zread.ai/)
+
+ AI 解读一个 Github 仓库，还通过分析最近的仓库活动生成热议内容。
+
+#### [waterprint](https://i.cafa.edu.cn/waterprint/ch/chwnl/)
+
+中国水印木刻网，在线展示了很多水印木刻作品。
+
 #### [oss rebuild](https://oss-rebuild.dev/)
 
 谷歌本周推出的一项服务，用来验证网上的 NPM、PyPI、Rust 的软件包，是否跟源码构建出来的完全一样，保证软件供应链安全。
