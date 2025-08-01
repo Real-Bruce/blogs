@@ -18,6 +18,10 @@ Yes, such rules “sound” stupid, but there’s a deeper, almost stoic realiza
 
 ## 🛸开源项目
 
+#### [Monkey Code](https://github.com/chaitin/MonkeyCode)
+
+MonkeyCode 充分考虑了隐私和安全，支持**完全私有化和离线使用**，在帮助你快速完成代码编写，提高开发效率的同时，还支持对 AI 编程行为进行严格审计和管控。
+
 #### [AI Gist](https://github.com/yarin-zhang/AI-Gist)
 
 一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
