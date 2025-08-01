@@ -18,6 +18,10 @@ Yes, such rules “sound” stupid, but there’s a deeper, almost stoic realiza
 
 ## 🛸开源项目
 
+#### [resume Police](https://github.com/itMrBoy/resumePolice)
+
+AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很有趣的一个项目，项目还公开了他的提示词。
+
 #### [musix](https://github.com/coolcode/musix)
 
 使用 Rust 构建的基于终端的 MP3 音乐播放器
@@ -147,6 +151,14 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [text well](https://www.text-well.com/zh/app)
+
+免费在线 AI 工具，用于修改润色文章。
+
+#### [belin doc](https://belindoc.com/zh)
+
+免费的翻译站点，让 AI 翻译文档，可以保留格式，支持 PDF/PPTX/EPUB/DOCX 等多种文件。
 
 #### [zread](https://zread.ai/)
 
