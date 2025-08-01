@@ -18,6 +18,18 @@ Yes, such rules “sound” stupid, but there’s a deeper, almost stoic realiza
 
 ## 🛸开源项目
 
+#### [musix](https://github.com/coolcode/musix)
+
+使用 Rust 构建的基于终端的 MP3 音乐播放器
+
+#### [websocket devtools](https://github.com/law-chain-hot/websocket-devtools)
+
+WebSocket调试工具，提供实时监控、消息模拟和流量拦截功能。
+
+#### [ether sync](https://github.com/ethersync/ethersync)
+
+一个同步服务器，使用者安装后，再选择它的编辑器插件（NeoVim/VScode/Web），就可以实现编辑器同步。
+
 #### [Monkey Code](https://github.com/chaitin/MonkeyCode)
 
 MonkeyCode 充分考虑了隐私和安全，支持**完全私有化和离线使用**，在帮助你快速完成代码编写，提高开发效率的同时，还支持对 AI 编程行为进行严格审计和管控。
