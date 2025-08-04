@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20250728-20250803 [Vol.057 no matter what](./weekly/Vol057.md)
+
 #### 20250721-20250727 [Vol.056 you don't need a grand life to blog](./weekly/Vol056.md)
 
 #### 20250714-20250720 [Vol.055 告别深夜的不甘心](./weekly/Vol055.md)

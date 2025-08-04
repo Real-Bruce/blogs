@@ -1,5 +1,15 @@
 # blogs
 
+## 【31】20250728-20250803
+
+#### [Series of posts on HTTP status codes](https://evertpot.com/http/)
+
+关于 HTTP 状态代码的系列帖子，作者在详细讲解了每个http状态码的含义和功能。
+
+#### [the prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
+
+程序员的提示工程实战手册，帮你更好的使用提示词让 AI 为你工作，文中提到了很多使用AI 编程的技巧，还给出了实战的例子。原文是英语的，中文版可以查看这个 [程序员的提示工程实战手册](https://baoyu.io/translations/the-prompt-engineering-playbook-for)
+
 ## 【30】20250721-20250727
 
 #### [Let's Learn x86-64 Assembly!](https://gpfault.net/posts/asm-tut-0.txt.html)

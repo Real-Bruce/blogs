@@ -1,5 +1,23 @@
 # website
 
+## 【31】20250728-20250803
+
+#### [zread](https://zread.ai/)
+
+ AI 解读一个 Github 仓库，通过分析最近的仓库活动生成热议内容。
+
+#### [waterprint](https://i.cafa.edu.cn/waterprint/ch/chwnl/)
+
+中国水印木刻网，在线展示了很多水印木刻作品。
+
+#### [oss rebuild](https://oss-rebuild.dev/)
+
+谷歌本周推出的一项服务，用来验证网上的 NPM、PyPI、Rust 的软件包，是否跟源码构建出来的完全一样，保证软件供应链安全。
+
+#### [观猹](https://watcha.cn/)
+
+AI 类应用体验评分网站，网站列举了大量的AI应用，还记录了用户的体验反馈，可以用来当作寻找灵感的平台。
+
 ## 【30】20250721-20250727
 
 #### [划线小游戏](https://www.xiwnn.com/huaxian)
