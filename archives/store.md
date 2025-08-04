@@ -156,6 +156,9 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [kigen](https://kigen.design/color)
+配色生成器，快速生成相近配色
+
 #### [text well](https://www.text-well.com/zh/app)
 
 免费在线 AI 工具，用于修改润色文章。
