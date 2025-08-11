@@ -30,21 +30,7 @@ CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案�
 
 订阅管理系统，开源的 web 应用，管理和订阅各类订阅服务的费用和续费，支持多币种。
 
-#### [vRain](https://github.com/shanleiguang/vRain)
 
-中文古籍刻本風格直排電子書製作工具。
-
-#### [WebCurl](https://github.com/o8oo8o/WebCurl)
-
-极简网页版API调试工具，仅又两个文件构成，代码简洁功能强大，支持多种请求方式。
-
-#### [Open Cut](https://github.com/OpenCut-app/OpenCut)
-
-免费开源的剪辑软件，支持web端、移动端和桌面端。
-
-#### [sniffnet](https://github.com/GyulyVGC/sniffnet)
-
-开源的网络监控工具，帮你分析本机和对外的不同网站交换的流量情况。
 
 #### [lumma](https://github.com/geosmart/lumma)
 
@@ -150,21 +136,7 @@ Tooboo 是专为户外运动（徒步、骑行、越野跑）设计的应用，�
 
 拖动时间轴查看各个国家历史上各个朝代、王国的国土疆域。
 
-#### [excalidraw](https://excalidraw.com/)
 
-在线画板工具，支持多种画图方式。
-
-#### [daily arXiv ai enhanced/](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
-
-每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文。
-
-#### [you need 4 colors](https://www.iamsajid.com/colors/)
-
-这个网站提出，页面设计只需要4种颜色：前景色、背景色、强调色和趣味色。你可以在该网站生成这四种颜色的调色板。
-
-#### [n8n workflow](https://n8nworkflow.net/zh)
-
-n8n 工作流导航，网站提供了很多 n8n 工作流。
 
 #### [歌易词](https://geciyi.com/zh-cn)
 
@@ -504,13 +476,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
-#### [InnoDB 二级索引 B+ 树的 Key 是什么？](http://mysql.taobao.org/monthly/2025/07/02/)
 
-阿里数据库内核月报7月份的文章，深入源码解读InnoDB的二级索引的结构。
-
-#### [happy llm](https://datawhalechina.github.io/happy-llm/#/)
-
-一个**系统性的 LLM 学习教程**，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。
 
 #### [年轻的朋友们不要太心急](https://sspai.com/post/101302)
 
