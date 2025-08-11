@@ -1,5 +1,22 @@
 # website
 
+### 【32】20250804-20250810
+#### [excalidraw](https://excalidraw.com/)
+
+在线画板工具，支持多种画图方式。
+
+#### [daily arXiv ai enhanced/](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
+
+每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文。
+
+#### [you need 4 colors](https://www.iamsajid.com/colors/)
+
+这个网站提出，页面设计只需要4种颜色：前景色、背景色、强调色和趣味色。你可以在该网站生成这四种颜色的调色板。
+
+#### [n8n workflow](https://n8nworkflow.net/zh)
+
+n8n 工作流导航，网站提供了很多 n8n 工作流。
+
 ## 【31】20250728-20250803
 
 #### [zread](https://zread.ai/)

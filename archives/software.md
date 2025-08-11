@@ -1,5 +1,23 @@
 # software
 
+### 【32】20250804-20250810
+
+#### [vRain](https://github.com/shanleiguang/vRain)
+
+中文古籍刻本風格直排電子書製作工具。
+
+#### [WebCurl](https://github.com/o8oo8o/WebCurl)
+
+极简网页版API调试工具，仅又两个文件构成，代码简洁功能强大，支持多种请求方式。
+
+#### [Open Cut](https://github.com/OpenCut-app/OpenCut)
+
+免费开源的剪辑软件，支持web端、移动端和桌面端。
+
+#### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+
+开源的网络监控工具，帮你分析本机和对外的不同网站交换的流量情况。
+
 ## 【31】20250728-20250803
 
 #### [websocket devtools](https://github.com/law-chain-hot/websocket-devtools)

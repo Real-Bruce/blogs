@@ -1,5 +1,9 @@
 # article
 
+### 【32】20250804-20250810
+
+本周偷懒了，sorry
+
 ## 【31】20250728-20250803
 
 #### [no matter what](https://endler.dev/2024/no-matter-what/)

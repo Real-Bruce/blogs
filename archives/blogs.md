@@ -1,5 +1,15 @@
 # blogs
 
+### 【32】20250804-20250810
+
+#### [InnoDB 二级索引 B+ 树的 Key 是什么？](http://mysql.taobao.org/monthly/2025/07/02/)
+
+阿里数据库内核月报7月份的文章，深入源码解读InnoDB的二级索引的结构。
+
+#### [happy llm](https://datawhalechina.github.io/happy-llm/#/)
+
+一个**系统性的 LLM 学习教程**，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。
+
 ## 【31】20250728-20250803
 
 #### [Series of posts on HTTP status codes](https://evertpot.com/http/)
