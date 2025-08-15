@@ -2,6 +2,18 @@
 
 ## 🛸开源项目
 
+#### [pansou](https://github.com/fish2018/pansou)
+
+PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。
+
+#### [packetd](https://github.com/packetd/packetd)
+
+查看网络数据包的命令行工具，支持解析多种网络协议，可以查看数据包来回的完整对话。
+
+#### [Termix](https://github.com/LukeGus/Termix)
+
+Termix 是一个开源、永久免费、自托管的一体化服务器管理平台。它提供了一个基于 Web 的解决方案，用于通过单一、直观的界面管理您的服务器和基础设施。Termix 提供 SSH 终端访问、SSH 隧道功能和远程文件配置编辑，还有更多工具即将推出。
+
 #### [copyparty](https://github.com/9001/copyparty)
 
 将几乎任何设备变成文件服务器，使用任何网络浏览器可以恢复上传/下载，支持https、webdav、ftp等多种协议。
@@ -119,6 +131,9 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [canarytokens](https://canarytokens.org/nest/)
+蜜罐服务器，能模拟各类url、dns，如果
 
 #### [kigen](https://kigen.design/color)
 
