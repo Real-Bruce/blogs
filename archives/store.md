@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [snippai](https://github.com/xyTom/snippai)
+
+AI驱动的跨平台截图OCR工具，支持提取文字、公式、表格，甚至帮你分析截图的代码。
+
 #### [pansou](https://github.com/fish2018/pansou)
 
 PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。
@@ -495,6 +499,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
 
 ## ⛵资料&博文
+
+#### [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+
+linux 服务器防护指南。
 
 #### [Google经典编程竞赛题](https://www.longluo.me/blog/google-code-jam-2008-round-1a-problem-c-numbers/)
 
