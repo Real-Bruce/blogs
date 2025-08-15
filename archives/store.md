@@ -2,6 +2,14 @@
 
 ## 🛸开源项目
 
+#### [copyparty](https://github.com/9001/copyparty)
+
+将几乎任何设备变成文件服务器，使用任何网络浏览器可以恢复上传/下载，支持https、webdav、ftp等多种协议。
+
+#### [tinyauth](https://github.com/steveiliop56/tinyauth)
+
+简易但功能齐全的身份认证方案，支持密码和OAuth验证登录。
+
 #### [scira](https://github.com/zaidmukaddam/scira)
 
 开源版本的 Perplexity + DeepSearch 工具，支持一键部署
@@ -471,6 +479,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
 
 ## ⛵资料&博文
+
+#### [Google经典编程竞赛题](https://www.longluo.me/blog/google-code-jam-2008-round-1a-problem-c-numbers/)
+
+一道变成数学题，看完感觉自己数学知识忘得差不多了。。。
 
 #### [change gitignore](https://rgbcu.be/blog/gitignore/)
 
