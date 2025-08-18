@@ -1,5 +1,9 @@
 ## 📜有价值的文章
 
+#### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+
+todo
+
 ## 🛸开源项目
 
 #### [snippai](https://github.com/xyTom/snippai)
