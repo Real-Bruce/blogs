@@ -512,6 +512,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [一个半月高强度 Claude Code 使用后感受](https://onevcat.com/2025/08/claude-code/)
+很有深度的一篇博文，讲了很多 Claude 的使用技巧
+
+
 #### [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 linux 服务器防护指南。
