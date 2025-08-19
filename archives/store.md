@@ -144,6 +144,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [gaccode](https://gaccode.store/)
+
+Claude Code 代理镜像站服务平台，专门为中国用户提供稳定、高性价比的 Claude Code API 访问服务。作为官方授权的代理商，GACCode 解决了用户直接访问 Claude Code 时遇到的各种困难和问题。
+
 #### [mono cards](https://mono.cards/zh)
 
 物言卡片，用于制作卡片类的场景，比如链接、音乐、截图、代码，要发小红书的内容都可以，比较简洁。
@@ -515,6 +519,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
 
 ## ⛵资料&博文
+
+#### [huggingface](https://huggingface.co/learn)
+
+`HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
 
 #### [一个半月高强度 Claude Code 使用后感受](https://onevcat.com/2025/08/claude-code/)
 
