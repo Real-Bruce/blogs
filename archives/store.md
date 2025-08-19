@@ -6,6 +6,10 @@ todo
 
 ## 🛸开源项目
 
+#### [abogen](https://github.com/denizsafak/abogen)
+
+文本转语音工具，支持将epub、pdf或者文本转换为带字幕的高质量音频。
+
 #### [snippai](https://github.com/xyTom/snippai)
 
 AI驱动的跨平台截图OCR工具，支持提取文字、公式、表格，甚至帮你分析截图的代码。
