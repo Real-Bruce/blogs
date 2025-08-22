@@ -144,6 +144,9 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 
 ## 🚀网站&工具
 
+#### [send keeps](https://www.sendkeeps.com/)
+电子明信片，上传图片并添加文字或音频，网站会生成一个二维码，将二维码发送给你的朋友，就能看到你精心准备的
+
 #### [gaccode](https://gaccode.store/)
 
 Claude Code 代理镜像站服务平台，专门为中国用户提供稳定、高性价比的 Claude Code API 访问服务。作为官方授权的代理商，GACCode 解决了用户直接访问 Claude Code 时遇到的各种困难和问题。
