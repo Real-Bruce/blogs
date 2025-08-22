@@ -525,6 +525,8 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [JS生成迷宫的算法](https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes)
 
+作者给出了一种生成迷宫的算法，并用JS实现了算法，很有意思的一篇文章。
+
 #### [huggingface](https://huggingface.co/learn)
 
 `HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
