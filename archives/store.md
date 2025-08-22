@@ -13,6 +13,7 @@ todo
 #### [snippai](https://github.com/xyTom/snippai)
 
 AI驱动的跨平台截图OCR工具，支持提取文字、公式、表格，甚至帮你分析截图的代码。
+
 #### [pansou](https://github.com/fish2018/pansou)
 
 PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。
@@ -144,6 +145,7 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 ## 🚀网站&工具
 
 #### [send keeps](https://www.sendkeeps.com/)
+
 电子明信片，上传图片并添加文字或音频，网站会生成一个二维码，将二维码发送给你的朋友，就能看到你精心准备的
 
 #### [gaccode](https://gaccode.store/)
@@ -527,7 +529,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/)
 
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
-
 
 ## ⛵资料&博文
 
