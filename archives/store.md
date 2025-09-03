@@ -6,22 +6,6 @@ todo
 
 ## 🛸开源项目
 
-#### [abogen](https://github.com/denizsafak/abogen)
-
-文本转语音工具，支持将epub、pdf或者文本转换为带字幕的高质量音频。
-
-#### [snippai](https://github.com/xyTom/snippai)
-
-AI驱动的跨平台截图OCR工具，支持提取文字、公式、表格，甚至帮你分析截图的代码。
-
-#### [pansou](https://github.com/fish2018/pansou)
-
-PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。
-
-#### [packetd](https://github.com/packetd/packetd)
-
-查看网络数据包的命令行工具，支持解析多种网络协议，可以查看数据包来回的完整对话。
-
 #### [Termix](https://github.com/LukeGus/Termix)
 
 Termix 是一个开源、永久免费、自托管的一体化服务器管理平台。它提供了一个基于 Web 的解决方案，用于通过单一、直观的界面管理您的服务器和基础设施。Termix 提供 SSH 终端访问、SSH 隧道功能和远程文件配置编辑，还有更多工具即将推出。
@@ -143,22 +127,6 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
-
-#### [send keeps](https://www.sendkeeps.com/)
-
-电子明信片，上传图片并添加文字或音频，网站会生成一个二维码，将二维码发送给你的朋友，就能看到你精心准备的
-
-#### [gaccode](https://gaccode.store/)
-
-Claude Code 代理镜像站服务平台，专门为中国用户提供稳定、高性价比的 Claude Code API 访问服务。作为官方授权的代理商，GACCode 解决了用户直接访问 Claude Code 时遇到的各种困难和问题。
-
-#### [mono cards](https://mono.cards/zh)
-
-物言卡片，用于制作卡片类的场景，比如链接、音乐、截图、代码，要发小红书的内容都可以，比较简洁。
-
-#### [60s API](https://docs.60s-api.viki.moe/)
-
-60s API 是一系列 **高质量、开源、可靠、全球 CDN 加速** 的开放 API 集合，包括日更资讯、榜单、翻译、百科、热搜这种常用工具接口的开放能力，也可以自己部署。
 
 #### [canarytokens](https://canarytokens.org/nest/)
 
@@ -531,14 +499,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
-
-#### [业务无线电考试题库](https://github.com/AlliotTech/ham-exam-web)
-
-基于官方最新题库构建的在线模拟与练习的 Web 应用。
-
-#### [JS生成迷宫的算法](https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes)
-
-作者给出了一种生成迷宫的算法，并用JS实现了算法，很有意思的一篇文章。
 
 #### [huggingface](https://huggingface.co/learn)
 
