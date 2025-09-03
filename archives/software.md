@@ -1,5 +1,23 @@
 # software
 
+### 【35】20250825-20250831
+
+#### [abogen](https://github.com/denizsafak/abogen)
+
+文本转语音工具，支持将epub、pdf或者文本转换为带字幕的高质量音频。
+
+#### [snippai](https://github.com/xyTom/snippai)
+
+AI驱动的跨平台截图OCR工具，支持提取文字、公式、表格，甚至帮你分析截图的代码。
+
+#### [pansou](https://github.com/fish2018/pansou)
+
+PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。
+
+#### [packetd](https://github.com/packetd/packetd)
+
+查看网络数据包的命令行工具，支持解析多种网络协议，可以查看数据包来回的完整对话。
+
 ### 【32】20250804-20250810
 
 #### [vRain](https://github.com/shanleiguang/vRain)

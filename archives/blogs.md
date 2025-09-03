@@ -1,5 +1,15 @@
 # blogs
 
+### 【35】20250825-20250831
+
+#### [业务无线电考试题库](https://github.com/AlliotTech/ham-exam-web)
+
+基于官方最新题库构建的在线模拟与练习的 Web 应用。
+
+#### [JS生成迷宫的算法](https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes)
+
+作者给出了一种生成迷宫的算法，并用JS实现了算法，很有意思的一篇文章。
+
 ### 【32】20250804-20250810
 
 #### [InnoDB 二级索引 B+ 树的 Key 是什么？](http://mysql.taobao.org/monthly/2025/07/02/)

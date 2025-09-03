@@ -1,6 +1,25 @@
 # website
 
+### 【35】20250825-20250831
+
+#### [send keeps](https://www.sendkeeps.com/)
+
+电子明信片，上传图片并添加文字或音频，网站会生成一个二维码，将二维码发送给你的朋友，就能看到你精心准备的
+
+#### [gaccode](https://gaccode.store/)
+
+Claude Code 代理镜像站服务平台，专门为中国用户提供稳定、高性价比的 Claude Code API 访问服务。作为官方授权的代理商，GACCode 解决了用户直接访问 Claude Code 时遇到的各种困难和问题。
+
+#### [mono cards](https://mono.cards/zh)
+
+物言卡片，用于制作卡片类的场景，比如链接、音乐、截图、代码，要发小红书的内容都可以，比较简洁。
+
+#### [60s API](https://docs.60s-api.viki.moe/)
+
+60s API 是一系列 **高质量、开源、可靠、全球 CDN 加速** 的开放 API 集合，包括日更资讯、榜单、翻译、百科、热搜这种常用工具接口的开放能力，也可以自己部署。
+
 ### 【32】20250804-20250810
+
 #### [excalidraw](https://excalidraw.com/)
 
 在线画板工具，支持多种画图方式。
