@@ -6,6 +6,18 @@ todo
 
 ## 🛸开源项目
 
+#### [xiaohongshu mcp](https://github.com/xpzouying/xiaohongshu-mcp)
+
+小红书MCP 服务器，可以通过 AI 在小红书发帖、获取推荐列表、搜索内容。
+
+#### [counterscale](https://github.com/benvinegar/counterscale)
+
+基于 Cloudflare Worker 的网站访问统计工具。
+
+#### [PicSharp](https://github.com/AkiraBit/PicSharp)
+
+图片文件压缩的开源桌面软件，跨平台，底层使用 Rust 语言编写。
+
 #### [Termix](https://github.com/LukeGus/Termix)
 
 Termix 是一个开源、永久免费、自托管的一体化服务器管理平台。它提供了一个基于 Web 的解决方案，用于通过单一、直观的界面管理您的服务器和基础设施。Termix 提供 SSH 终端访问、SSH 隧道功能和远程文件配置编辑，还有更多工具即将推出。
@@ -127,6 +139,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [nuclear player](https://nuclearplayer.com/)
+
+跨平台的音乐播放器，免费无广告。
 
 #### [canarytokens](https://canarytokens.org/nest/)
 
