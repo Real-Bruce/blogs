@@ -141,7 +141,8 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 ## 🚀网站&工具
 
 #### [css zen garden](https://csszengarden.com/)
-CSSzhan
+
+CSS禅意花园，网站展示了很多有趣的网站设计。
 
 #### [nuclear player](https://nuclearplayer.com/)
 
