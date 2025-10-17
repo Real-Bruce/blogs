@@ -6,6 +6,14 @@ todo
 
 ## 🛸开源项目
 
+#### [nanochat](https://github.com/karpathy/nanochat)
+
+著名 AI 科学家安德烈·卡帕斯（Andrej Karpathy）本周推出的 AI 教学模型，演示 ChatGPT 的原理。你只需花费100美元租用 GPU 训练，就能自己训练出一个类似于 GPT-2 生成能力的可用模型。
+
+#### [term everything](https://github.com/mmulet/term.everything)
+
+很有趣的项目，在终端里运行窗口程序，甚至可以看视频。
+
 #### [xiaohongshu mcp](https://github.com/xpzouying/xiaohongshu-mcp)
 
 小红书MCP 服务器，可以通过 AI 在小红书发帖、获取推荐列表、搜索内容。
