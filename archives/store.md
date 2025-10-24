@@ -6,22 +6,6 @@ todo
 
 ## 🛸开源项目
 
-#### [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
-
-这个仓库收集了各种流行网站（Airbnb, Amazon, Instagram, Netflix, TikTok 等）的开源克隆，已经超过100多个网站。
-
-#### [015](https://github.com/keven1024/015)
-
-自托管临时文件共享平台。
-
-#### [openzl](https://github.com/facebook/openzl)
-
-meta公司推出的压缩工具，适合压缩机构化数据，如数据库，压缩比例更高，速度更快。
-
-#### [nanochat](https://github.com/karpathy/nanochat)
-
-著名 AI 科学家安德烈·卡帕斯（Andrej Karpathy）本周推出的 AI 教学模型，演示 ChatGPT 的原理。你只需花费100美元租用 GPU 训练，就能自己训练出一个类似于 GPT-2 生成能力的可用模型。
-
 #### [term everything](https://github.com/mmulet/term.everything)
 
 很有趣的项目，在终端里运行窗口程序，甚至可以看视频。
@@ -159,22 +143,6 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
-
-#### [isbn-visualization](https://phiresky.github.io/isbn-visualization/?)
-
-世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架。
-
-#### [end less wiki](https://www.endlesswiki.com/wiki/main_page)
-
-AI生成的百科，会根据使用者查询的内容自动生成百科知识。
-
-#### [free ai image](https://freeaiimage.net/zh/)
-
-免费的文生图网站，支持最多免费生成8张图像。
-
-#### [git assistant.](https://gitassistant.pages.dev/)
-
-IntelliJ IDEA 插件，基于 Git 日志提供可视化分析，并可以使用 AI 生成提交信息。
 
 #### [css zen garden](https://csszengarden.com/)
 
@@ -555,14 +523,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
-
-#### [隐形字符病毒](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
-
-将病毒隐藏在 Unicode 规范中不产生任何视觉输出的特殊字符内，开发人员在审计代码的时候无法发现病毒，当恶意代码被合并到主程序内后，便会发动攻击。
-
-#### [截图不可见注入攻击](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/)
-
-针对采用截图获取页面信息的AI浏览器的注入攻击，再屏幕内嵌入人眼不可见但能被大模型识别的文本，进行模型注入攻击。
 
 #### [Burrows-Wheeler Transform 算法](https://sandbox.bio/concepts/bwt)
 
