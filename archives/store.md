@@ -6,9 +6,14 @@ todo
 
 ## 🛸开源项目
 
+#### [015](https://github.com/keven1024/015)
+
+自托管临时文件共享平台。
+
 #### [openzl](https://github.com/facebook/openzl)
 
 meta公司推出的压缩工具，适合压缩机构化数据，如数据库，压缩比例更高，速度更快。
+
 #### [nanochat](https://github.com/karpathy/nanochat)
 
 著名 AI 科学家安德烈·卡帕斯（Andrej Karpathy）本周推出的 AI 教学模型，演示 ChatGPT 的原理。你只需花费100美元租用 GPU 训练，就能自己训练出一个类似于 GPT-2 生成能力的可用模型。
@@ -150,6 +155,10 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
+
+#### [free ai image](https://freeaiimage.net/zh/)
+
+免费的文生图网站，支持最多免费生成8张图像。
 
 #### [git assistant.](https://gitassistant.pages.dev/)
 
