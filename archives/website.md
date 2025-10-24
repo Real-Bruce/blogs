@@ -2,6 +2,21 @@
 
 ### 【43】20251020-20251026
 
+#### [isbn-visualization](https://phiresky.github.io/isbn-visualization/?)
+
+世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架。
+
+#### [end less wiki](https://www.endlesswiki.com/wiki/main_page)
+
+AI生成的百科，会根据使用者查询的内容自动生成百科知识。
+
+#### [free ai image](https://freeaiimage.net/zh/)
+
+免费的文生图网站，支持最多免费生成8张图像。
+
+#### [git assistant.](https://gitassistant.pages.dev/)
+
+IntelliJ IDEA 插件，基于 Git 日志提供可视化分析，并可以使用 AI 生成提交信息。
 
 ### 【35】20250825-20250831
 

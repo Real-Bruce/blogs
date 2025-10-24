@@ -1,6 +1,22 @@
 # software
+
 ### 【43】20251020-20251026
 
+#### [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+
+这个仓库收集了各种流行网站（Airbnb, Amazon, Instagram, Netflix, TikTok 等）的开源克隆，已经超过100多个网站。
+
+#### [015](https://github.com/keven1024/015)
+
+自托管临时文件共享平台。
+
+#### [openzl](https://github.com/facebook/openzl)
+
+meta公司推出的压缩工具，适合压缩机构化数据，如数据库，压缩比例更高，速度更快。
+
+#### [nanochat](https://github.com/karpathy/nanochat)
+
+著名 AI 科学家安德烈·卡帕斯（Andrej Karpathy）本周推出的 AI 教学模型，演示 ChatGPT 的原理。你只需花费100美元租用 GPU 训练，就能自己训练出一个类似于 GPT-2 生成能力的可用模型。。
 
 ### 【35】20250825-20250831
 

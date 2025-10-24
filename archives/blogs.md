@@ -1,6 +1,14 @@
 # blogs
+
 ### 【43】20251020-20251026
 
+#### [隐形字符病毒](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
+
+将病毒隐藏在 Unicode 规范中不产生任何视觉输出的特殊字符内，开发人员在审计代码的时候无法发现病毒，当恶意代码被合并到主程序内后，便会发动攻击。
+
+#### [截图不可见注入攻击](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/)
+
+针对采用截图获取页面信息的AI浏览器的注入攻击，再屏幕内嵌入人眼不可见但能被大模型识别的文本，进行模型注入攻击。
 
 ### 【35】20250825-20250831
 
