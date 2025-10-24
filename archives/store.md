@@ -532,6 +532,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [截图不可见注入攻击](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/)
+
+针对采用截图获取页面信息的AI浏览器的注入攻击，再屏幕内嵌入人眼不可见但能被大模型识别的文本，进行模型注入攻击。
+
+#### [Burrows-Wheeler Transform 算法](https://sandbox.bio/concepts/bwt)
+
+关于 Burrows-Wheeler Transform 算法的介绍文章，核心操作是将字符顺序打乱，并将相同的字母排列在一起，并且打乱后的字符还支持逆运算，将字符串还原，很适合用来做压缩操作。
+
 #### [Nginx自动申请TLS证书](https://sconts.com/post/nginx-native-acme-support/)
 
 操作教程，写得比较清楚，怎么让 nginx 服务器自己去申请 HTTPS 证书。
