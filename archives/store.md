@@ -6,6 +6,9 @@ todo
 
 ## 🛸开源项目
 
+#### [openzl](https://github.com/facebook/openzl)
+
+meta公司推出的压缩工具，适合压缩机构化数据，如数据库，压缩比例更高，速度更快。
 #### [nanochat](https://github.com/karpathy/nanochat)
 
 著名 AI 科学家安德烈·卡帕斯（Andrej Karpathy）本周推出的 AI 教学模型，演示 ChatGPT 的原理。你只需花费100美元租用 GPU 训练，就能自己训练出一个类似于 GPT-2 生成能力的可用模型。
@@ -531,6 +534,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
+
+#### [隐形字符病毒](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
+
+将病毒隐藏在 Unicode 规范中不产生任何视觉输出的特殊字符内，开发人员在审计代码的时候无法发现病毒，当恶意代码被合并到主程序内后，便会发动攻击。
 
 #### [截图不可见注入攻击](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/)
 
