@@ -1,5 +1,9 @@
 ## 📜有价值的文章
 
+#### [llm brain rot](https://llm-brain-rot.github.io/)
+
+垃圾内容训练LLM导致LLM脑残，待补充
+
 #### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
 todo
