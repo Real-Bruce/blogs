@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20251020-20251016 [Vol.060](./weekly/vol060.md)
+
 #### 20250825-20250831 [Vol.059](./weekly/Vol059.md)
 
 #### 20250804-20250810 [Vol.058 nothing](./weekly/Vol058.md)
