@@ -1,30 +1,10 @@
 ## 📜有价值的文章
 
-#### [llm brain rot](https://llm-brain-rot.github.io/)
-
-垃圾内容训练LLM导致LLM脑残，待补充
-
 #### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
 todo
 
 ## 🛸开源项目
-
-#### [term everything](https://github.com/mmulet/term.everything)
-
-很有趣的项目，在终端里运行窗口程序，甚至可以看视频。
-
-#### [xiaohongshu mcp](https://github.com/xpzouying/xiaohongshu-mcp)
-
-小红书MCP 服务器，可以通过 AI 在小红书发帖、获取推荐列表、搜索内容。
-
-#### [counterscale](https://github.com/benvinegar/counterscale)
-
-基于 Cloudflare Worker 的网站访问统计工具。
-
-#### [PicSharp](https://github.com/AkiraBit/PicSharp)
-
-图片文件压缩的开源桌面软件，跨平台，底层使用 Rust 语言编写。
 
 #### [Termix](https://github.com/LukeGus/Termix)
 
@@ -147,22 +127,6 @@ OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧
 微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
-
-#### [css zen garden](https://csszengarden.com/)
-
-CSS禅意花园，网站展示了很多有趣的网站设计。
-
-#### [nuclear player](https://nuclearplayer.com/)
-
-跨平台的音乐播放器，免费无广告。
-
-#### [canarytokens](https://canarytokens.org/nest/)
-
-蜜罐服务器，能模拟各类url、dns、数据库、密码等，如果虚拟资源受到攻击会立即通知你。
-
-#### [kigen](https://kigen.design/color)
-
-配色生成器，快速生成合适的配色。
 
 #### [text well](https://www.text-well.com/zh/app)
 
@@ -527,14 +491,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
-
-#### [Burrows-Wheeler Transform 算法](https://sandbox.bio/concepts/bwt)
-
-关于 Burrows-Wheeler Transform 算法的介绍文章，核心操作是将字符顺序打乱，并将相同的字母排列在一起，并且打乱后的字符还支持逆运算，将字符串还原，很适合用来做压缩操作。
-
-#### [Nginx自动申请TLS证书](https://sconts.com/post/nginx-native-acme-support/)
-
-操作教程，写得比较清楚，怎么让 nginx 服务器自己去申请 HTTPS 证书。
 
 #### [tiny llm](https://skyzh.github.io/tiny-llm/)
 
