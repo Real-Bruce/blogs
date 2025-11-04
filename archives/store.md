@@ -4,6 +4,10 @@
 
 todo
 
+#### [21-facts-about-throwing-good-parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+
+21条让派对变得有趣的建议
+
 ## 🛸开源项目
 
 #### [Termix](https://github.com/LukeGus/Termix)
