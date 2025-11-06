@@ -1,5 +1,23 @@
 # software
 
+### 【44】20251027-20251102
+
+#### [term everything](https://github.com/mmulet/term.everything)
+
+很有趣的项目，在终端里运行窗口程序，甚至可以看视频。
+
+#### [xiaohongshu mcp](https://github.com/xpzouying/xiaohongshu-mcp)
+
+小红书MCP 服务器，可以通过 AI 在小红书发帖、获取推荐列表、搜索内容。
+
+#### [counterscale](https://github.com/benvinegar/counterscale)
+
+基于 Cloudflare Worker 的网站访问统计工具。
+
+#### [PicSharp](https://github.com/AkiraBit/PicSharp)
+
+图片文件压缩的开源桌面软件，跨平台，底层使用 Rust 语言编写。
+
 ### 【43】20251020-20251026
 
 #### [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)

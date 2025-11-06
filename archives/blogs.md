@@ -1,5 +1,15 @@
 # blogs
 
+### 【44】20251027-20251102
+
+#### [Burrows-Wheeler Transform 算法](https://sandbox.bio/concepts/bwt)
+
+关于 Burrows-Wheeler Transform 算法的介绍文章，核心操作是将字符顺序打乱，并将相同的字母排列在一起，并且打乱后的字符还支持逆运算，将字符串还原，很适合用来做压缩操作。
+
+#### [Nginx自动申请TLS证书](https://sconts.com/post/nginx-native-acme-support/)
+
+操作教程，写得比较清楚，怎么让 nginx 服务器自己去申请 HTTPS 证书。
+
 ### 【43】20251020-20251026
 
 #### [隐形字符病毒](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)

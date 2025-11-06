@@ -1,5 +1,23 @@
 # website
 
+### 【44】20251027-20251102
+
+#### [css zen garden](https://csszengarden.com/)
+
+CSS禅意花园，网站展示了很多有趣的网站设计。
+
+#### [nuclear player](https://nuclearplayer.com/)
+
+跨平台的音乐播放器，免费无广告。
+
+#### [canarytokens](https://canarytokens.org/nest/)
+
+蜜罐服务器，能模拟各类url、dns、数据库、密码等，如果虚拟资源受到攻击会立即通知你。
+
+#### [kigen](https://kigen.design/color)
+
+配色生成器，快速生成合适的配色。
+
 ### 【43】20251020-20251026
 
 #### [isbn-visualization](https://phiresky.github.io/isbn-visualization/?)

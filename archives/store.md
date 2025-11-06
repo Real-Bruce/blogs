@@ -20,9 +20,6 @@ To leave a group conversation, just slowly step back and then step away. Don't d
 Throughout the party, prioritize introducing people to each other and hosting the people who are new or shy, even at the cost of getting less time hanging out with your best friends yourself. Parties are a public service, and the guests will (hopefully) pay you back for this by inviting you to parties of their own.  
 > 在整个聚会中，优先介绍彼此并接待新来的或害羞的人，即使以减少自己与最好的朋友出去玩的时间为代价。派对是一项公共服务，客人（希望）通过邀请您参加他们自己的派对来回报您。
 
-
-
-
 ## 🛸开源项目
 
 #### [Termix](https://github.com/LukeGus/Termix)
