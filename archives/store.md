@@ -22,6 +22,9 @@ Throughout the party, prioritize introducing people to each other and hosting th
 
 ## 🛸开源项目
 
+#### [Texo](https://github.com/alephpi/Texo)
+
+
 #### [Termix](https://github.com/LukeGus/Termix)
 
 Termix 是一个开源、永久免费、自托管的一体化服务器管理平台。它提供了一个基于 Web 的解决方案，用于通过单一、直观的界面管理您的服务器和基础设施。Termix 提供 SSH 终端访问、SSH 隧道功能和远程文件配置编辑，还有更多工具即将推出。
