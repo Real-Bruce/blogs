@@ -1,5 +1,23 @@
 # website
 
+### 【45】20251103-20251109
+
+#### [pro notes](https://www.pronotes.app/)
+
+让 Mac 的 Notes 支持 markdown 的写法使用以及提供了不少便捷的操作。
+
+#### [single serving sites](https://singleservingsites.cool/)
+
+一个专注展示于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的。
+
+#### [通辽宇宙知识库](https://www.tongliaouniverse.cn/)
+
+一个关于世界上那些奇葩小国、硬核狠人与二次元谐音梗的互动知识库，懂得都懂。
+
+#### [next b convert](https://nextbconvert.com/)
+
+免费批量转换图像、音频和文档工具。
+
 ### 【44】20251027-20251102
 
 #### [css zen garden](https://csszengarden.com/)

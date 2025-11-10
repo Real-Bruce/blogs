@@ -4,8 +4,6 @@
 
 todo
 
-
-
 ## 🛸开源项目
 
 #### [paper-burner-x](https://github.com/Feather-2/paper-burner-x)
@@ -135,22 +133,6 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 #### [dcm](https://github.com/ajnart/dcm)
 
 `DockerComposeMaker` (DCM) 是一个简单但强大的工具，用于帮助用户创建 docker-compose.yml 文件，该项目提供了一个选择和配置容器的平台，使得用户不再需要从文档中复制粘贴，也不需要记住正确的配置选项
-
-#### [Open Speedy](https://github.com/game1024/OpenSpeedy)
-
-OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧率限制，提供更流畅丝滑的游戏加速体验。
-
-#### [act](https://github.com/nektos/act)
-
-可以在本地运行 GitHub Actions 的工具，安装后直接读取 .github/workflows/ 里面的文件去执行，相比每次改动去看云端的变化可以提高开发效率。
-
-#### [void](https://github.com/voideditor/void)
-
-开源版本的类 Cursor AI 代码编辑器，交互和 Cursor 挺像，可以使用任何模型，数据自己控制，也是 Fork 的 VS Code，配置可以无缝迁移。
-
-#### [wewe rss](https://github.com/cooderl/wewe-rss)
-
-微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
 
 ## 🚀网站&工具
 
@@ -295,22 +277,6 @@ AIX智能下载器可高效实现下载管理，网页图片，视频，音频�
 #### [cta gallery](https://www.cta.gallery/)
 
 CTA 行动召唤按钮（Call To Action），是网页、广告、电子邮件、App 等界面中用于引导用户采取特定行动的指示性文字按钮。这个网站汇集了网络上最优秀的号召性用语（CTA）设计灵感。这里有丰富多样的 CTA 样式，涵盖按钮、下载、订阅等多种形式，帮助用户寻找创意并提升转化率。
-
-#### [pro notes](https://www.pronotes.app/)
-
-让 Mac 的 Notes 支持 markdown 的写法使用以及提供了不少便捷的操作。
-
-#### [single serving sites](https://singleservingsites.cool/)
-
-一个专注展示于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的。
-
-#### [通辽宇宙知识库](https://www.tongliaouniverse.cn/)
-
-一个关于世界上那些奇葩小国、硬核狠人与二次元谐音梗的互动知识库，懂得都懂。
-
-#### [next b convert](https://nextbconvert.com/)
-
-免费批量转换图像、音频和文档工具。
 
 #### [thiings](https://www.thiings.co/things)
 
@@ -562,14 +528,3 @@ linux 服务器防护指南。
 
 作者用 n8n 搭建了一个监控 reddit 论坛商业机会的工作流，实现自动筛选有价值的帖子，通过 AI 进行多维度分析，最终汇总形成表格，帮你发现新的商业机会。
 
-#### [工程师如何更好的投资](https://tw93.fun/2025-07-17/money.html)
-
-如题，作者分享了一些适合工程师的投资方法。
-
-#### [self llm](https://github.com/datawhalechina/self-llm)
-
-本项目是一个围绕开源大模型、针对国内初学者、基于 Linux 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
-
-#### [巧解Docker镜像拉取失败](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
-
-因为国内拉取docker镜像经常失败，更换镜像源和使用公开的镜像仓库还存在不稳定的情况。作者提供了一种很有意思的解决方案，通过 github 的工作流和阿里云私人的镜像仓库完美解决问题，很有意思的一篇文章。

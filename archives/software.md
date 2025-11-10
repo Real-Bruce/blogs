@@ -1,5 +1,23 @@
 # software
 
+### 【45】20251103-20251109
+
+#### [Open Speedy](https://github.com/game1024/OpenSpeedy)
+
+OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧率限制，提供更流畅丝滑的游戏加速体验。
+
+#### [act](https://github.com/nektos/act)
+
+可以在本地运行 GitHub Actions 的工具，安装后直接读取 .github/workflows/ 里面的文件去执行，相比每次改动去看云端的变化可以提高开发效率。
+
+#### [void](https://github.com/voideditor/void)
+
+开源版本的类 Cursor AI 代码编辑器，交互和 Cursor 挺像，可以使用任何模型，数据自己控制，也是 Fork 的 VS Code，配置可以无缝迁移。
+
+#### [wewe rss](https://github.com/cooderl/wewe-rss)
+
+微信公众号转 RSS，可以私有化部署，走的微信读书的方式，应该是目前最好用的公众号转 RSS 方式了。
+
 ### 【44】20251027-20251102
 
 #### [term everything](https://github.com/mmulet/term.everything)
