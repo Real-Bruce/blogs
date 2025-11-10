@@ -23,7 +23,7 @@ Throughout the party, prioritize introducing people to each other and hosting th
 ## 🛸开源项目
 
 #### [Texo](https://github.com/alephpi/Texo)
-
+开源的数学公式 OCR 引擎，通过前端加载模型，将数学公式的截图转成 LaTex 语法，[在线试用](https://texocr.netlify.app/ocr)。
 
 #### [Termix](https://github.com/LukeGus/Termix)
 
