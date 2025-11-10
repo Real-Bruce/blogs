@@ -22,6 +22,14 @@ Throughout the party, prioritize introducing people to each other and hosting th
 
 ## 🛸开源项目
 
+#### [Vibe Voice Fusion](https://github.com/zhao-kun/VibeVoiceFusion)
+
+开源 Web 应用，生成多说话人的合成语音，具备声音克隆功能。
+
+#### [smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)
+
+手绘程序 Excalidraw 的 AI 版，使用自然语言让 AI 生成手绘风格的示意图，[在线试用](https://smart-excalidraw.aizhi.site/)。
+
 #### [qiluo_admin](https://github.com/chelunfu/qiluo_admin)
 
 Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。
