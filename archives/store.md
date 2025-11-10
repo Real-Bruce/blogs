@@ -22,7 +22,16 @@ Throughout the party, prioritize introducing people to each other and hosting th
 
 ## 🛸开源项目
 
+#### [qiluo_admin](https://github.com/chelunfu/qiluo_admin)
+
+Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。
+
+#### [GreenWall](https://github.com/zmrlft/GreenWall)
+
+这个工具可以在 GitHub 提交日历上绘出指定的图形。
+
 #### [Texo](https://github.com/alephpi/Texo)
+
 开源的数学公式 OCR 引擎，通过前端加载模型，将数学公式的截图转成 LaTex 语法，[在线试用](https://texocr.netlify.app/ocr)。
 
 #### [Termix](https://github.com/LukeGus/Termix)
