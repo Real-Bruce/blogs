@@ -4,23 +4,13 @@
 
 todo
 
-#### [21-facts-about-throwing-good-parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
 
-21条让派对变得有趣的建议，里面的很多建议都很实用，比如：
-
-Prioritize your ease of being over any other consideration: parties are like babies, if you’re stressed while holding them they’ll get stressed too. Every other decision is downstream of your serenity: e.g. it's better to have mediocre pizza from a happy host than fabulous hors d'oeuvres from a frazzled one.  
-> 优先考虑你的轻松程度：聚会就像婴儿一样，如果你在抱着他们时感到压力，他们也会感到压力。所有其他决定都是你平静的下游：例如，从快乐的主人那里吃平庸的披萨比从疲惫的主人那里吃美味的开胃小菜要好。
-
-Create as much circulation at your party as you can. People circulate more when standing than when sitting, so try to encourage standing for those who can e.g. by having high-top tables, or taking away chairs from around tables, or leaving shelves and counter-tops open for people to rest their plates and drinks.  
-> 在聚会上创造尽可能多的流通。人们站着时比坐着时的流动更多，所以尽量鼓励那些可以站着的人，例如，摆放高顶桌子，或者把桌子周围的椅子拿走，或者让架子和台面敞开，让人们休息他们的盘子和饮料。
-
-To leave a group conversation, just slowly step back and then step away. Don't draw attention to your leaving or you’ll be pulled back in. It feels mildly weird to do this but it’s worth it.  
-> 要离开群组对话，只需慢慢后退，然后离开。不要引起人们对你离开的注意，否则你会被拉回来。这样做感觉有点奇怪，但这是值得的。
-
-Throughout the party, prioritize introducing people to each other and hosting the people who are new or shy, even at the cost of getting less time hanging out with your best friends yourself. Parties are a public service, and the guests will (hopefully) pay you back for this by inviting you to parties of their own.  
-> 在整个聚会中，优先介绍彼此并接待新来的或害羞的人，即使以减少自己与最好的朋友出去玩的时间为代价。派对是一项公共服务，客人（希望）通过邀请您参加他们自己的派对来回报您。
 
 ## 🛸开源项目
+
+#### [paper-burner-x](https://github.com/Feather-2/paper-burner-x)
+
+开源的 Web 服务，使用 AI 处理文献，提供文档翻译、智能对话、高效阅读。
 
 #### [Vibe Voice Fusion](https://github.com/zhao-kun/VibeVoiceFusion)
 
