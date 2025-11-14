@@ -6,6 +6,7 @@ todo
 
 #### [your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
 
+作者在文中提出了一个观点，数据模型决定了你的产品，他认为数据结构决定了产品的形态，改变数据模型就变成了一个新产品。比如：photoshop和Figma，前者以图片为数据模型，所有的编辑操作都是围绕单个图片展开的
 
 ## 🛸开源项目
 
