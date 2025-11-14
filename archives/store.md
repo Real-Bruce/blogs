@@ -4,6 +4,9 @@
 
 todo
 
+#### [your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
+
+
 ## 🛸开源项目
 
 #### [Mole](https://github.com/tw93/Mole)
