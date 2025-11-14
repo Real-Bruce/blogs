@@ -6,6 +6,10 @@ todo
 
 ## 🛸开源项目
 
+#### [Mole](https://github.com/tw93/Mole)
+
+MAC空间清理工具，能深度扫描缓存文件，彻底卸载应用程序及残留，目前项目处在中期阶段。
+
 #### [paper-burner-x](https://github.com/Feather-2/paper-burner-x)
 
 开源的 Web 服务，使用 AI 处理文献，提供文档翻译、智能对话、高效阅读。
@@ -483,6 +487,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
+
+#### [富途投资干货合集](https://news.futunn.com/news-topics/127/investment-practical-information-collection)
+
+富途投资干货合集，偏价值投资的一些思路。
 
 #### [tiny llm](https://skyzh.github.io/tiny-llm/)
 
