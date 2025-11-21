@@ -142,7 +142,9 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 
 ## 🚀网站&工具
 
-#### [](https://codewiki.google/)
+#### [codewiki](https://codewiki.google/)
+
+谷歌新发布的服务，使用 Gemini 模型为代码库生成文档。
 
 #### [voronoiapp](https://www.voronoiapp.com/)
 
@@ -479,6 +481,16 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
+
+#### [learn you someerlang](https://learnyousomeerlang.com/content)
+
+#### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+
+开源的英文电子书，介绍强化学习的基础数学知识。
+
+#### [random tastemaker](https://random.tastemaker.design/)
+
+网站给出一系列方法，测试某种随机数生成器是否足够随机，所有测试方法都有详细易懂的解释，可以用来学习统计学。
 
 #### [liquid glass css svg](https://kube.io/blog/liquid-glass-css-svg/)
 
