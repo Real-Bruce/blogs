@@ -4,7 +4,21 @@
 
 todo
 
+#### [Vibe Coding时代的面试](https://mp.weixin.qq.com/s/roURrNNBJ2J5ZqdFuU1tkA)
+
 ## 🛸开源项目
+
+#### [git pr ai](https://github.com/leochiu-a/git-pr-ai)
+
+一个命令行工具，跟 JIRA 配套，可以直接从 JIRA Ticket 生成 Git 分支，并带有 AI 功能。
+
+#### [crossdesk](https://github.com/kunkundi/crossdesk)
+
+开源的远程桌面连接软件，跨平台，支持硬件加速和 Web 访问。
+
+#### [readdig](https://github.com/readdig/readdig)
+
+开源的RSS和播客阅读器。
 
 #### [davia](https://github.com/davialabs/davia)
 
@@ -127,6 +141,8 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 `Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
 
 ## 🚀网站&工具
+
+#### [](https://codewiki.google/)
 
 #### [voronoiapp](https://www.voronoiapp.com/)
 
