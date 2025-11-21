@@ -482,7 +482,9 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
-#### [learn you someerlang](https://learnyousomeerlang.com/content)
+#### [learn you some erlang](https://learnyousomeerlang.com/content)
+
+Erlang 是一种函数式语言，适合分布式、高可用环境。这个网站是面向初学者的英文教程。
 
 #### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
