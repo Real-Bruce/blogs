@@ -1,5 +1,19 @@
 # blogs
 
+### 【46】20251110-20251116
+
+#### [富途投资干货合集](https://news.futunn.com/news-topics/127/investment-practical-information-collection)
+
+富途投资干货合集，偏价值投资的一些思路。
+
+#### [tiny llm](https://skyzh.github.io/tiny-llm/)
+
+开源电子书，介绍大模型基础知识，教你怎么打造一个微型大模型（以 Qwen 大模型为例）
+
+#### [fair queue](https://densumesh.dev/blog/fair-queue/)
+
+作者介绍了传统队列FIFO算法的局限性，当某个客户传入大量消息进入队列后会导致其他用户消息被迫等待，作者引入了一种公平队列的方式解决问题。公平队列的基本原理就是每个客户的专用队列和轮询的调度程序，轮询调度程序从每个专用队列内获取消息进行处理，这样能保证每个客户的消息都能被公平的调度，而不会出现消息少的客户被长时间搁置。
+
 ### 【45】20251103-20251109
 
 #### [工程师如何更好的投资](https://tw93.fun/2025-07-17/money.html)

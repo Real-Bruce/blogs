@@ -1,5 +1,13 @@
 # article
 
+### 【46】20251110-20251116
+
+#### [your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
+
+作者在文中提出了一个观点，数据模型决定了你的产品，他认为数据结构决定了产品的形态，改变数据模型就变成了一个新产品。比如：photoshop和Figma两者都是图片编辑软件但是设计模型却完全不同，前者以图片为数据模型，所有的编辑操作都是围绕单个图片展开的，而Figma的数据模型是工作区，单个工作区内可以存放多个图片，而且支持多人协作。
+
+因此作者建议，如果你的产品和其他产品雷同，不如改变产品的数据模型，或许就会变成全新的产品。
+
 ### 【45】20251103-20251109
 
 #### [21-facts-about-throwing-good-parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)

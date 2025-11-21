@@ -1,5 +1,23 @@
 # website
 
+### 【46】20251110-20251116
+
+#### [软考达人](https://ruankaodaren.com/exam/#/)
+
+免费的软考高效刷题工具。
+
+#### [json.visuals.zip](https://json.visuals.zip/)
+
+为了让AI生成图片的时候更一致更稳定，有网友把提示词用JSON格式来描述，内含风格、元素、光影、颜色等等不同维度的字段。这个网站提供45种不同风格的JSON格式的视觉风格提示词模板。
+
+#### [free svg icons](https://freesvgicons.com/)
+
+来自多个开放源代码图标库，超过 25 万个开源 SVG 图标，涵盖科技、生活、商业、社交、医疗等 100+ 细分领域。
+
+#### [h1gallery](https://h1gallery.com/)
+
+全球优质营销标题合集，涵盖科技、设计、金融、生活等多个领域。类似“标题版的 Pinterest”，为市场营销人员、文案创作者、创业者提供 高转化率标题参考，帮助快速激发创意。
+
 ### 【45】20251103-20251109
 
 #### [pro notes](https://www.pronotes.app/)

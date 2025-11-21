@@ -4,12 +4,6 @@
 
 todo
 
-#### [your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
-
-作者在文中提出了一个观点，数据模型决定了你的产品，他认为数据结构决定了产品的形态，改变数据模型就变成了一个新产品。比如：photoshop和Figma两者都是图片编辑软件但是设计模型却完全不同，前者以图片为数据模型，所有的编辑操作都是围绕单个图片展开的，而Figma的数据模型是工作区，单个工作区内可以存放多个图片，而且支持多人协作。
-
-因此作者建议，如果你的产品和其他产品雷同，不如改变产品的数据模型，或许就会变成全新的产品。
-
 ## 🛸开源项目
 
 #### [davia](https://github.com/davialabs/davia)
@@ -131,22 +125,6 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 #### [rybbit](https://github.com/rybbit-io/rybbit)
 
 `Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
-
-#### [Open Derisk](https://github.com/derisk-ai/OpenDerisk)
-
-开源的 AI 运维助手，对线上系统提供 AI管家，与真人协同处理运维问题。
-
-#### [text to svg](https://github.com/JiuRanYa/text-to-svg)
-
-该项目是一个高质量的在线 SVG 字体生成器。它允许您将任何文本转换为 SVG 矢量图形，适用于网页设计、徽标创建、激光雕刻等。
-
-#### [BillionMail](https://github.com/aaPanel/BillionMail)
-
-开源的电子邮件营销平台，帮助企业和个人管理电子邮件营销活动，可以发送新闻通讯、促销邮件、消息。
-
-#### [dcm](https://github.com/ajnart/dcm)
-
-`DockerComposeMaker` (DCM) 是一个简单但强大的工具，用于帮助用户创建 docker-compose.yml 文件，该项目提供了一个选择和配置容器的平台，使得用户不再需要从文档中复制粘贴，也不需要记住正确的配置选项
 
 ## 🚀网站&工具
 
@@ -271,22 +249,6 @@ AIX智能下载器可高效实现下载管理，网页图片，视频，音频�
 #### [picbaker](https://www.picbaker.com/)
 
 无论您是使用 ChatGPT、FLUX、Midjourney 还是 DALL-E，PicBaker 都能为您提供丰富的创作支持。用户可以在这里发现、收集和创作各类精彩的提示词，从而简化创作过程，提高工作效率。平台上有许多示例，包括个性化间设计、品牌广告海报、艺术插画等，展示了提示词的多样性和创意潜力。
-
-#### [软考达人](https://ruankaodaren.com/exam/#/)
-
-免费的软考高效刷题工具。
-
-#### [json.visuals.zip](https://json.visuals.zip/)
-
-为了让AI生成图片的时候更一致更稳定，有网友把提示词用JSON格式来描述，内含风格、元素、光影、颜色等等不同维度的字段。这个网站提供45种不同风格的JSON格式的视觉风格提示词模板。
-
-#### [free svg icons](https://freesvgicons.com/)
-
-来自多个开放源代码图标库，超过 25 万个开源 SVG 图标，涵盖科技、生活、商业、社交、医疗等 100+ 细分领域。
-
-#### [h1gallery](https://h1gallery.com/)
-
-全球优质营销标题合集，涵盖科技、设计、金融、生活等多个领域。类似“标题版的 Pinterest”，为市场营销人员、文案创作者、创业者提供 高转化率标题参考，帮助快速激发创意。
 
 #### [supahero](https://www.supahero.io/)
 
@@ -501,18 +463,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
-
-#### [富途投资干货合集](https://news.futunn.com/news-topics/127/investment-practical-information-collection)
-
-富途投资干货合集，偏价值投资的一些思路。
-
-#### [tiny llm](https://skyzh.github.io/tiny-llm/)
-
-开源电子书，介绍大模型基础知识，教你怎么打造一个微型大模型（以 Qwen 大模型为例）
-
-#### [fair queue](https://densumesh.dev/blog/fair-queue/)
-
-作者介绍了传统队列FIFO算法的局限性，当某个客户传入大量消息进入队列后会导致其他用户消息被迫等待，作者引入了一种公平队列的方式解决问题。公平队列的基本原理就是每个客户的专用队列和轮询的调度程序，轮询调度程序从每个专用队列内获取消息进行处理，这样能保证每个客户的消息都能被公平的调度，而不会出现消息少的客户被长时间搁置。
 
 #### [liquid glass css svg](https://kube.io/blog/liquid-glass-css-svg/)
 
