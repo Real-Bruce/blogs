@@ -8,6 +8,10 @@ todo
 
 ## 🛸开源项目
 
+#### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
+
+一个 Chrome 扩展，让你在 Google AI Studio 和 Gemini 官网快速插入热门提示词
+
 #### [git pr ai](https://github.com/leochiu-a/git-pr-ai)
 
 一个命令行工具，跟 JIRA 配套，可以直接从 JIRA Ticket 生成 Git 分支，并带有 AI 功能。
