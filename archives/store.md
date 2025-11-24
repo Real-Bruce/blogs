@@ -2,7 +2,7 @@
 
 #### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
-文章论述验证的不对称性的观点
+文章通过示例讲述了验证的不对称性，有一些问题验证是简单的比如数独和填字游戏，验证规则是很简单的但是想要满足规则就要做很多的时间来解决问题。而有一些问题验证比解决问题更
 
 #### [Vibe Coding时代的面试](https://mp.weixin.qq.com/s/roURrNNBJ2J5ZqdFuU1tkA)
 
