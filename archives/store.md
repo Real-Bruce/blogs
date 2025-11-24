@@ -2,7 +2,7 @@
 
 #### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
-todo
+文章论述验证的不对称性的观点
 
 #### [Vibe Coding时代的面试](https://mp.weixin.qq.com/s/roURrNNBJ2J5ZqdFuU1tkA)
 
@@ -145,6 +145,18 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 `Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
 
 ## 🚀网站&工具
+
+#### [rankings](https://openrouter.ai/rankings)
+
+AI使用量排名网站，可以帮你了解目前个人和企业使用最广泛的大模型的情况，对于大模型投资和使用很有参考价值。
+
+#### [poly market](https://polymarket.com/)
+
+一家预测市场的竞猜网站，用户可以就未来实际事件，如政治选举、体育比赛、经济指标等参与买卖下注，通过市场价格反映出人群对这些事件发生概率的估计。信息汇聚能力非常强，而且交互方式挺有意思，可以当作当前热点的人的态度分析的工具使用。
+
+#### [quive rquant](https://www.quiverquant.com/)
+
+Quiver Quantitative 投资工具很有意思，可以跟踪美国国会成员的投资交易，因为他们有规定会需要在 45 天内披露自己的交易，可以帮助我们从传统财报之外获取投资方向。
 
 #### [codewiki](https://codewiki.google/)
 
