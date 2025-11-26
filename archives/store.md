@@ -170,6 +170,14 @@ Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性*
 
 ## 🚀网站&工具
 
+#### [日本鸟类百科全书](https://www.suntory.co.jp/eco/birds/encyclopedia/)
+
+收录了 200 多种日本野生鸟类的描述、鸣叫声、照片和插图。
+
+#### [古登堡计划](https://www.gutenberg.org/)
+
+收录了 75000 + 已经处于公共版权领域（已过版权保护期限）的书籍。
+
 #### [rankings](https://openrouter.ai/rankings)
 
 AI使用量排名网站，可以帮你了解目前个人和企业使用最广泛的大模型的情况，对于大模型投资和使用很有参考价值。
