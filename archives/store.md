@@ -1,5 +1,10 @@
 ## 📜有价值的文章
 
+#### [a-unified-theory-of-ego-empathy-and-humility-at-work/](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
+
+下篇：[my-working-principles-for-managing-ego-empathy-and-humility](https://matthogg.fyi/my-working-principles-for-managing-ego-empathy-and-humility/)
+// todo 2025/11/25 待完整阅读并整理
+
 #### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
 文章通过示例讲述了验证的不对称性，有一些问题验证是简单的比如数独和填字游戏，验证规则是很简单的但是想要满足规则就要做很多的时间来解决问题。而有一些问题验证比解决问题需要更多的时间，比如驳斥论文中提出的某个观点。
