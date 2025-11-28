@@ -1,5 +1,23 @@
 # software
 
+### 【47】20251117-20251123
+
+#### [quarkdown](https://github.com/iamgio/quarkdown)
+
+Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性**的关键概念设计，通过将项目无缝编译成可打印的书籍或交互式演示文稿。所有这些都通过 Markdown 的非常强大的图灵完备扩展实现，确保您的想法自动流入纸中
+
+#### [Vutron Music](https://github.com/stark81/VutronMusic)
+
+高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等
+
+#### [lsix](https://github.com/saxpjexck/lsix)
+
+一个单文件工具，只需单击一下即可激活 JetBrains IDE，无需手动输入激活码。
+
+#### [rybbit](https://github.com/rybbit-io/rybbit)
+
+`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验。
+
 ### 【46】20251110-20251116
 
 #### [Open Derisk](https://github.com/derisk-ai/OpenDerisk)

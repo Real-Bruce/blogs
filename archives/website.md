@@ -1,5 +1,25 @@
 # website
 
+### 【47】20251117-20251123
+
+#### [belin doc](https://belindoc.com/zh)
+
+免费的翻译站点，让 AI 翻译文档，可以保留格式，支持 PDF/PPTX/EPUB/DOCX 等多种文件。
+
+#### [Tooboo](https://apps.apple.com/cn/app/tooboo-%E5%BE%92%E6%AD%A5%E9%AA%91%E8%A1%8C%E8%B6%8A%E9%87%8E%E8%B7%91%E6%88%B7%E5%A4%96%E8%BD%A8%E8%BF%B9%E5%AF%BC%E8%88%AA/id6736378337)
+
+Tooboo 是专为户外运动（徒步、骑行、越野跑）设计的应用，您可以使用 Tooboo 在 Apple Watch或 iPhone 上进行路线导航。
+
+从两步路 App 或其他地方下载 Gpx 轨迹导入 Tooboo，即刻享受简洁无广告的导航体验。
+
+#### [old maps online](https://www.oldmapsonline.org/)
+
+拖动时间轴查看各个国家历史上各个朝代、王国的国土疆域。
+
+#### [歌易词](https://geciyi.com/zh-cn)
+
+网站收录500W+歌曲歌词信息，帮你找到你想要的歌词。
+
 ### 【46】20251110-20251116
 
 #### [软考达人](https://ruankaodaren.com/exam/#/)

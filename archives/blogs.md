@@ -1,5 +1,15 @@
 # blogs
 
+### 【47】20251117-20251123
+
+#### [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+
+linux 服务器防护指南。
+
+#### [Google经典编程竞赛题](https://www.longluo.me/blog/google-code-jam-2008-round-1a-problem-c-numbers/)
+
+一道变成数学题，看完感觉自己数学知识忘得差不多了。。。
+
 ### 【46】20251110-20251116
 
 #### [富途投资干货合集](https://news.futunn.com/news-topics/127/investment-practical-information-collection)

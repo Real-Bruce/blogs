@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20251117-20251123 [Vol.064 asymmetry of verification and verifiers law](./weekly/Vol064.md)
+
 #### 20251110-20251116 [Vol.063 your data model is your destiny](./weekly/Vol063.md)
 
 #### 20251103-20251109 [Vol.062 21 facts about throwing good parties](./weekly/Vol062.md)

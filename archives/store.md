@@ -5,29 +5,6 @@
 下篇：[my-working-principles-for-managing-ego-empathy-and-humility](https://matthogg.fyi/my-working-principles-for-managing-ego-empathy-and-humility/)
 // todo 2025/11/25 待完整阅读并整理
 
-#### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
-
-文章通过示例讲述了验证的不对称性，有一些问题验证是简单的比如数独和填字游戏，验证规则是很简单的但是想要满足规则就要做很多的时间来解决问题。而有一些问题验证比解决问题需要更多的时间，比如驳斥论文中提出的某个观点。
-认识到验证的不对称性能帮助我们改进验证过程，通过提前的相关研究来改善不对称性，这点在 AI 训练中很关键，AI 擅长解决容易验证的问题。
-
-More specifically, the ability to train AI to solve a task is proportional to whether the task has the following properties:  
-更具体地说，训练AI解决问题的能力与任务是否具备以下属性成正比：
-
-Objective truth: everyone agrees what good solutions are  
-> 客观事实：大家都同意什么是好的解决方案
- 
-Fast to verify: any given solution can be verified in a few seconds  
->快速验证：任何给定的解都可以在几秒钟内验证
- 
-Scalable to verify: many solutions can be verified simultaneously  
->可扩展验证：多个解决方案可以同时验证
-
-Low noise: verification is as tightly correlated to the solution quality as possible  
->低噪声：验证尽可能与解质量紧密相关
-
-Continuous reward: it’s easy to rank the goodness of many solutions for a single problem  
->持续奖励：很容易对单个问题进行多种解决方案的优劣进行排名
-
 #### [Vibe Coding时代的面试](https://mp.weixin.qq.com/s/roURrNNBJ2J5ZqdFuU1tkA)
 
 ## 🛸开源项目
@@ -152,22 +129,6 @@ ClipLink 是一个功能强大的跨平台剪贴板内容同步工具，允许�
 
 酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计。
 
-#### [quarkdown](https://github.com/iamgio/quarkdown)
-
-Quarkdown 是一种基于 Markdown 的现代排版系统，围绕**多功能性**的关键概念设计，通过将项目无缝编译成可打印的书籍或交互式演示文稿。所有这些都通过 Markdown 的非常强大的图灵完备扩展实现，确保您的想法自动流入纸中
-
-#### [Vutron Music](https://github.com/stark81/VutronMusic)
-
-高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等
-
-#### [lsix](https://github.com/saxpjexck/lsix)
-
-一个单文件工具，只需单击一下即可激活 JetBrains IDE，无需手动输入激活码。
-
-#### [rybbit](https://github.com/rybbit-io/rybbit)
-
-`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
-
 ## 🚀网站&工具
 
 #### [日本鸟类百科全书](https://www.suntory.co.jp/eco/birds/encyclopedia/)
@@ -201,24 +162,6 @@ Quiver Quantitative 投资工具很有意思，可以跟踪美国国会成员的
 #### [text well](https://www.text-well.com/zh/app)
 
 免费在线 AI 工具，用于修改润色文章。
-
-#### [belin doc](https://belindoc.com/zh)
-
-免费的翻译站点，让 AI 翻译文档，可以保留格式，支持 PDF/PPTX/EPUB/DOCX 等多种文件。
-
-#### [Tooboo](https://apps.apple.com/cn/app/tooboo-%E5%BE%92%E6%AD%A5%E9%AA%91%E8%A1%8C%E8%B6%8A%E9%87%8E%E8%B7%91%E6%88%B7%E5%A4%96%E8%BD%A8%E8%BF%B9%E5%AF%BC%E8%88%AA/id6736378337)
-
-Tooboo 是专为户外运动（徒步、骑行、越野跑）设计的应用，您可以使用 Tooboo 在 Apple Watch或 iPhone 上进行路线导航。
-
-从两步路 App 或其他地方下载 Gpx 轨迹导入 Tooboo，即刻享受简洁无广告的导航体验。
-
-#### [old maps online](https://www.oldmapsonline.org/)
-
-拖动时间轴查看各个国家历史上各个朝代、王国的国土疆域。
-
-#### [歌易词](https://geciyi.com/zh-cn)
-
-网站收录500W+歌曲歌词信息，帮你找到你想要的歌词。
 
 #### [river runner global](https://river-runner-global.samlearner.com/)
 
@@ -553,14 +496,6 @@ Erlang 是一种函数式语言，适合分布式、高可用环境。这个网�
 #### [一个半月高强度 Claude Code 使用后感受](https://onevcat.com/2025/08/claude-code/)
 
 很有深度的一篇博文，讲了很多 Claude 的使用技巧，最让人值得思考的是这句话：在 vibe coding 时代，千万别让工具把自己逼死。技术是为人服务的，不是相反；工作是让人有机会追寻和思考自我的，而不是让自己迷失。保持这份清醒，可能比掌握任何具体的技巧都更重要。
-
-#### [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-
-linux 服务器防护指南。
-
-#### [Google经典编程竞赛题](https://www.longluo.me/blog/google-code-jam-2008-round-1a-problem-c-numbers/)
-
-一道变成数学题，看完感觉自己数学知识忘得差不多了。。。
 
 #### [change gitignore](https://rgbcu.be/blog/gitignore/)
 

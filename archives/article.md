@@ -1,5 +1,30 @@
 # article
 
+### 【47】20251117-20251123
+
+#### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+
+文章通过示例讲述了验证的不对称性，有一些问题验证是简单的比如数独和填字游戏，验证规则是很简单的但是想要满足规则就要做很多的时间来解决问题。而有一些问题验证比解决问题需要更多的时间，比如驳斥论文中提出的某个观点。
+认识到验证的不对称性能帮助我们改进验证过程，通过提前的相关研究来改善不对称性，这点在 AI 训练中很关键，AI 擅长解决容易验证的问题。
+
+More specifically, the ability to train AI to solve a task is proportional to whether the task has the following properties:  
+更具体地说，训练AI解决问题的能力与任务是否具备以下属性成正比：
+
+Objective truth: everyone agrees what good solutions are  
+> 客观事实：大家都同意什么是好的解决方案
+ 
+Fast to verify: any given solution can be verified in a few seconds  
+>快速验证：任何给定的解都可以在几秒钟内验证
+ 
+Scalable to verify: many solutions can be verified simultaneously  
+>可扩展验证：多个解决方案可以同时验证
+
+Low noise: verification is as tightly correlated to the solution quality as possible  
+>低噪声：验证尽可能与解质量紧密相关
+
+Continuous reward: it’s easy to rank the goodness of many solutions for a single problem  
+>持续奖励：很容易对单个问题进行多种解决方案的优劣进行排名
+
 ### 【46】20251110-20251116
 
 #### [your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)
