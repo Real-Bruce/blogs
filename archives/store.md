@@ -9,6 +9,14 @@
 
 ## 🛸开源项目
 
+#### [nodebbs](https://github.com/aiprojecthub/nodebbs)
+
+一个基于 Turborepo 单体仓库架构构建的现代化、高性能论坛平台。
+
+#### [2025-blog-public](https://github.com/YYsuni/2025-blog-public)
+
+一个基于 Next.js 的静态博客网站模版。
+
 #### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
 
 一个 Chrome 扩展，让你在 Google AI Studio 和 Gemini 官网快速插入热门提示词
