@@ -9,6 +9,14 @@
 
 ## 🛸开源项目
 
+#### [nano banana pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
+
+这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。
+
+#### [seekdb](https://github.com/oceanbase/seekdb)
+
+OceanBase 团队推出的一款开源 AI 数据库，支持向量计算，兼容 MySQL。
+
 #### [nodebbs](https://github.com/aiprojecthub/nodebbs)
 
 一个基于 Turborepo 单体仓库架构构建的现代化、高性能论坛平台。
@@ -480,6 +488,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
+
+#### [dive into langgraph](https://www.luochang.ink/dive-into-langgraph)
+
+LangGraph 是一个开源 Agent 开发框架，本教程是基于 Jupyter Notebook 的可交互教程，介绍这个框架的具体实践。
 
 #### [building a simple search engine that actually works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 
