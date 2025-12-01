@@ -489,6 +489,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [Building an AI-native engineering team](https://cdn.openai.com/business-guides-and-resources/building-an-ai-native-engineering-team.pdf)
+
+openAI官方推出的构建AI技术背景的工程师团队指南，里面提到了很多有趣有用的建议。
+
+#### [cloudflare 故障复盘报告](https://blog.cloudflare.com/zh-cn/18-november-2025-outage/)
+
+cloudflare官方复盘的故障报告，详细介绍了故障发生的原因和处理方式，很值得查看。
+
 #### [dive into langgraph](https://www.luochang.ink/dive-into-langgraph)
 
 LangGraph 是一个开源 Agent 开发框架，本教程是基于 Jupyter Notebook 的可交互教程，介绍这个框架的具体实践。
