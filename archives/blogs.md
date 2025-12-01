@@ -1,5 +1,19 @@
 # blogs
+
 ### 【48】20251124-20251130
+
+#### [固态硬盘不能长期断电](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
+
+消费级的固态硬盘（SSD）在断电状态下，超过一年就会丢失数据。
+
+#### [为什么数据库采用B树](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
+
+一篇科普文章，介绍为什么 B 树比二叉树更适合数据库。
+
+#### [learn you some erlang](https://learnyousomeerlang.com/content)
+
+Erlang 是一种函数式语言，适合分布式、高可用环境。这个网站是面向初学者的英文教程。
+
 ### 【47】20251117-20251123
 
 #### [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)

@@ -1,5 +1,23 @@
 # software
+
 ### 【48】20251124-20251130
+
+#### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
+
+一个 Chrome 扩展，让你在 Google AI Studio 和 Gemini 官网快速插入热门提示词
+
+#### [git pr ai](https://github.com/leochiu-a/git-pr-ai)
+
+一个命令行工具，跟 JIRA 配套，可以直接从 JIRA Ticket 生成 Git 分支，并带有 AI 功能。
+
+#### [crossdesk](https://github.com/kunkundi/crossdesk)
+
+开源的远程桌面连接软件，跨平台，支持硬件加速和 Web 访问。
+
+#### [readdig](https://github.com/readdig/readdig)
+
+开源的RSS和播客阅读器。
+
 ### 【47】20251117-20251123
 
 #### [quarkdown](https://github.com/iamgio/quarkdown)

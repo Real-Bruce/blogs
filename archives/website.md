@@ -2,6 +2,21 @@
 
 ### 【48】20251124-20251130
 
+#### [codewiki](https://codewiki.google/)
+
+谷歌新发布的服务，使用 Gemini 模型为代码库生成文档。
+
+#### [voronoiapp](https://www.voronoiapp.com/)
+
+在线可视化图像，将各种数据进行可视化展示，很有趣的一个网站。
+
+#### [text well](https://www.text-well.com/zh/app)
+
+免费在线 AI 工具，用于修改润色文章。
+
+#### [river runner global](https://river-runner-global.samlearner.com/)
+
+很有趣的一个网站，模拟雨水落下后它最终会流向哪里，点击地图上的任意一个点等待几秒，网站就会绘制出雨水的路径。
 
 ### 【47】20251117-20251123
 
