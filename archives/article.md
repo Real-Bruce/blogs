@@ -1,5 +1,9 @@
 # article
 
+### 【48】20251124-20251130
+
+本周没有看文章`-_-`
+
 ### 【47】20251117-20251123
 
 #### [asymmetry of verification and verifiers law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)

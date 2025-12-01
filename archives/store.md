@@ -1,5 +1,9 @@
 ## 📜有价值的文章
 
+#### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
+
+AI Coding 的技术问题
+
 #### [a-unified-theory-of-ego-empathy-and-humility-at-work/](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
 
 下篇：[my-working-principles-for-managing-ego-empathy-and-humility](https://matthogg.fyi/my-working-principles-for-managing-ego-empathy-and-humility/)
@@ -24,22 +28,6 @@ OceanBase 团队推出的一款开源 AI 数据库，支持向量计算，兼容
 #### [2025-blog-public](https://github.com/YYsuni/2025-blog-public)
 
 一个基于 Next.js 的静态博客网站模版。
-
-#### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
-
-一个 Chrome 扩展，让你在 Google AI Studio 和 Gemini 官网快速插入热门提示词
-
-#### [git pr ai](https://github.com/leochiu-a/git-pr-ai)
-
-一个命令行工具，跟 JIRA 配套，可以直接从 JIRA Ticket 生成 Git 分支，并带有 AI 功能。
-
-#### [crossdesk](https://github.com/kunkundi/crossdesk)
-
-开源的远程桌面连接软件，跨平台，支持硬件加速和 Web 访问。
-
-#### [readdig](https://github.com/readdig/readdig)
-
-开源的RSS和播客阅读器。
 
 #### [davia](https://github.com/davialabs/davia)
 
@@ -166,22 +154,6 @@ AI使用量排名网站，可以帮你了解目前个人和企业使用最广泛
 #### [quive rquant](https://www.quiverquant.com/)
 
 Quiver Quantitative 投资工具很有意思，可以跟踪美国国会成员的投资交易，因为他们有规定会需要在 45 天内披露自己的交易，可以帮助我们从传统财报之外获取投资方向。
-
-#### [codewiki](https://codewiki.google/)
-
-谷歌新发布的服务，使用 Gemini 模型为代码库生成文档。
-
-#### [voronoiapp](https://www.voronoiapp.com/)
-
-在线可视化图像，将各种数据进行可视化展示，很有趣的一个网站。
-
-#### [text well](https://www.text-well.com/zh/app)
-
-免费在线 AI 工具，用于修改润色文章。
-
-#### [river runner global](https://river-runner-global.samlearner.com/)
-
-很有趣的一个网站，模拟雨水落下后它最终会流向哪里，点击地图上的任意一个点等待几秒，网站就会绘制出雨水的路径。
 
 #### [chatmemo](https://chatmemo.ai/)
 
@@ -504,18 +476,6 @@ LangGraph 是一个开源 Agent 开发框架，本教程是基于 Jupyter Notebo
 #### [building a simple search engine that actually works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 
 本文介绍搜索引擎的原理，如何自己动手写一个简单的搜索引擎。
-
-#### [固态硬盘不能长期断电](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
-
-消费级的固态硬盘（SSD）在断电状态下，超过一年就会丢失数据。
-
-#### [为什么数据库采用B树](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
-
-一篇科普文章，介绍为什么 B 树比二叉树更适合数据库。
-
-#### [learn you some erlang](https://learnyousomeerlang.com/content)
-
-Erlang 是一种函数式语言，适合分布式、高可用环境。这个网站是面向初学者的英文教程。
 
 #### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
