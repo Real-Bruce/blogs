@@ -135,6 +135,14 @@ ClipLink 是一个功能强大的跨平台剪贴板内容同步工具，允许�
 
 ## 🚀网站&工具
 
+#### [CCL 语料检索系统](http://ccl.pku.edu.cn:8080/ccl_corpus/)
+
+北大制作的一个汉语语料库，可以用于对现代汉语中的语言现象进行分析、研究。
+
+#### [forty](https://forty.news/)
+
+展示四十年前的本周信息，很有意思。
+
 #### [日本鸟类百科全书](https://www.suntory.co.jp/eco/birds/encyclopedia/)
 
 收录了 200 多种日本野生鸟类的描述、鸣叫声、照片和插图。
