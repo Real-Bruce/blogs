@@ -469,6 +469,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
+
+一篇很有意思的科普文章，质疑关于在太空创建数据中心的合理性，太空数据中心建设的成本和需要克服的困难远大于在地面建设的成本，比如
+
 #### [Building an AI-native engineering team](https://cdn.openai.com/business-guides-and-resources/building-an-ai-native-engineering-team.pdf)
 
 openAI官方推出的构建AI技术背景的工程师团队指南，里面提到了很多有趣有用的建议。
