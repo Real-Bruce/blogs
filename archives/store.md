@@ -13,6 +13,14 @@ AI Coding 的技术问题
 
 ## 🛸开源项目
 
+#### [code996](https://github.com/hellodigua/code996)
+
+code996 是一个分析工具，它可以统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。
+
+#### [webhooker](https://github.com/TokenRollAI/webhooker)
+
+一个 Webhook 的转发网关，比如把 Slack 消息转发到飞书和钉钉。
+
 #### [nano banana pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
 
 这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。
