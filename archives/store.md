@@ -1,5 +1,18 @@
 ## 📜有价值的文章
 
+#### [were losing our voice to llms](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
+
+社交媒体成为了我们对大语言模型时代正在失去的珍贵事物的提醒：**独特的声音**。
+
+Your voice is an asset. Not just what you want to say, but how you say it.  
+>你的声音是个资产。不仅是你想说什么，而是你怎么说。
+
+Your voice is unique. It is formed from your lifetime of lived experiences. No one's voice will be exactly like yours.  
+>你的声音很独特。它是由你一生的经历形成的。没有人的声音会完全像你。
+
+Your voice becomes recognizable. Over many posts it becomes something people subconsciously connect with, recognize, trust, and look forward to.  
+>你的声音变得清晰可辨。在许多帖子中，它成为人们潜意识中产生共鸣、认可、信任和期待的东西。
+
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
 AI Coding 的技术问题
@@ -12,6 +25,14 @@ AI Coding 的技术问题
 #### [Vibe Coding时代的面试](https://mp.weixin.qq.com/s/roURrNNBJ2J5ZqdFuU1tkA)
 
 ## 🛸开源项目
+
+#### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
+
+开源的浏览器插件，收集 Nano Banana 模型的热门提示词，方便复用。
+
+#### [clipsketch ai](https://github.com/RanFeng/clipsketch-ai)
+
+可以解析 Bilibili 和小红书的视频链接，让你能够帧级精准地标记精彩瞬间。通过集成 Google Gemini 最新的多模态大模型，它能将这些瞬间一键转化为精美的手绘风格故事板，并自动撰写适配社交媒体（如小红书）的爆款文案。
 
 #### [code996](https://github.com/hellodigua/code996)
 
