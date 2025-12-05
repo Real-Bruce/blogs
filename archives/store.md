@@ -469,6 +469,16 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [writing a good claude md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+
+一篇介绍怎样书写高效的 claude.md 文件的文章，文中提出的几点建议如下：
+1. `CLAUDE.md`是用来将Claude引入你的代码库。它应该定义你项目**的“为什么**”、“**是什么**”和 **“怎样做”**。
+2. **少（指令）即是多。** 虽然你不应该省略必要的指令，但应尽可能少地包含文件中的指令。
+3. 保持`CLAUDE.md`内容**简洁且普遍适用**。
+4. 使用**渐进披露**——不要告诉Claude你可能想让它知道的所有信息。相反，要告诉它_如何找到_重要信息，这样它才能找到并使用这些信息，但只在需要时使用，以避免你的上下文窗口或指令数量膨胀。
+5. Claude 不是 linter。使用 linter 和代码格式化器，必要时使用[钩子](https://code.claude.com/docs/en/hooks)和[斜杠命令](https://code.claude.com/docs/en/slash-commands)等其他功能。
+6. **`CLAUDE.md`是薄弱点**，避免自动生成。应该仔细设计其内容以获得最佳效果。
+
 #### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 
 一篇很有意思的科普文章，质疑关于在太空创建数据中心的合理性，太空数据中心建设的成本和需要克服的困难远大于在地面建设的成本，比如
