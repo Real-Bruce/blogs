@@ -26,6 +26,14 @@ AI Coding 的技术问题
 
 ## 🛸开源项目
 
+#### [gemini cli tips](https://github.com/addyosmani/gemini-cli-tips)
+
+本指南涵盖了 ~ 30 条有效使用 Gemini CLI 进行代理编码的专业技巧。
+
+#### [next ai draw io](https://github.com/DayuanJiang/next-ai-draw-io)
+
+集成了AI功能的Next.js网页应用，与draw.io图表无缝结合。通过自然语言命令和AI辅助可视化来创建、修改和增强图表。
+
 #### [mission center](https://gitlab.com/mission-center-devs/mission-center)
 
 Linux 的资源管理器，图形化实时显示本机的资源占用情况。
@@ -171,8 +179,6 @@ ClipLink 是一个功能强大的跨平台剪贴板内容同步工具，允许�
 酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计。
 
 ## 🚀网站&工具
-
-#### [](https://tunnl.gg/)
 
 #### [producthunt](https://www.producthunt.com/)
 
