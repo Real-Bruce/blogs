@@ -514,6 +514,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [2025香港手机卡&银行卡攻略](https://ai.feishu.cn/docx/XVvodQcJuoLRZ2xNU6PcXdbBn1e)
+
+香港手机卡开卡攻略，很实用的文章。
+
 #### [agentic design patterns](https://github.com/ginobefun/agentic-design-patterns-cn)
 
 本项目是对 Antonio Gulli 所著《Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems》的**中英文对照翻译**。该书是一部全面的技术指南，涵盖了现代人工智能系统中智能体 (Agent) 设计的核心概念和实践方法。
