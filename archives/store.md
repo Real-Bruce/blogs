@@ -26,6 +26,10 @@ AI Coding 的技术问题
 
 ## 🛸开源项目
 
+#### [mission center](https://gitlab.com/mission-center-devs/mission-center)
+
+Linuxtu
+
 #### [Open Auto GLM](https://github.com/zai-org/Open-AutoGLM)
 
 它能够以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务，实现AI。
@@ -517,6 +521,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
+
+#### [conventional branch](https://conventional-branch.github.io/zh/)
+
+Git 分支命名规范，建议命名为`feature/`、`bugfix/`、`hotfix/`、`release/`、`chore/`等几类。
 
 #### [2025香港手机卡&银行卡攻略](https://ai.feishu.cn/docx/XVvodQcJuoLRZ2xNU6PcXdbBn1e)
 
