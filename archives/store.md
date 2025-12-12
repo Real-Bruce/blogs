@@ -26,6 +26,10 @@ AI Coding 的技术问题
 
 ## 🛸开源项目
 
+#### [Open Auto GLM](https://github.com/zai-org/Open-AutoGLM)
+
+它能够以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务，实现AI。
+
 #### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
 
 开源的浏览器插件，收集 Nano Banana 模型的热门提示词，方便复用。
