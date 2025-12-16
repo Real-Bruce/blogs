@@ -13,6 +13,10 @@ AI Coding 的技术问题，涉及到很多有用的调试技巧。
 
 ## 🛸开源项目
 
+#### [ten framework](https://github.com/TEN-framework/ten-framework)
+
+TEN 是一个面向语音对话 AI 代理的开源框架。私有化部署后，可以作为私人对话小助手，对话延迟很低，问答丝滑，支持打断。
+
 #### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
 
 开源的浏览器插件，收集 Nano Banana 模型的热门提示词，方便复用。
@@ -134,6 +138,8 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
 
 ## 🚀网站&工具
+
+#### []()
 
 #### [CCL 语料检索系统](http://ccl.pku.edu.cn:8080/ccl_corpus/)
 
