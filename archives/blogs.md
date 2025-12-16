@@ -1,5 +1,15 @@
 # blogs
 
+### 【49】20251201-20251207
+
+#### [conventional branch](https://conventional-branch.github.io/zh/)
+
+Git 分支命名规范，建议命名为`feature/`、`bugfix/`、`hotfix/`、`release/`、`chore/`等几类。
+
+#### [2025香港手机卡&银行卡攻略](https://ai.feishu.cn/docx/XVvodQcJuoLRZ2xNU6PcXdbBn1e)
+
+香港手机卡开卡攻略，很实用的文章。
+
 ### 【48】20251124-20251130
 
 #### [固态硬盘不能长期断电](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)

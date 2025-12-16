@@ -18,6 +18,10 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20251208-20251214 [Vol.067 why speed matters](./weekly/Vol067.md)
+
+#### 20251201-20251207 [Vol.066 were losing our voice to llms](./weekly/Vol066.md)
+
 #### 20251124-20251130 [Vol.065](./weekly/Vol065.md)
 
 #### 20251117-20251123 [Vol.064 asymmetry of verification and verifiers law](./weekly/Vol064.md)

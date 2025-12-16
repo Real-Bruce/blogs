@@ -1,30 +1,5 @@
 ## 📜有价值的文章
 
-#### [why speed matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
-
-作者在文章中提出一个观点，人应该快速行动起来，更快的行动更多的犯错才会积累更多的经验，也就会学到更多的东西。
-
- A common mistake is to spend a lot of time—too much time—on a component of your project that does not matter. I once spent a lot of time building a podcast-like version of a course… only to find out later that students had no interest in the podcast format.  
->一个常见错误是花太多时间——甚至过多时间——在项目中一个无关紧要的部分上。我曾经花了很多时间制作一个类似播客的课程......后来才发现学生们对播客格式毫无兴趣。
-
- You learn by making mistakes. The faster you make mistakes, the faster you learn.  
->你通过犯错来学习。你犯错越快，学得越快。
-
- Your work degrades, becomes less relevant with time. And if you work slowly, you will be more likely to stick with your slightly obsolete work. You know that professor who spent seven years preparing lecture notes twenty years ago? He is not going to throw them away and start again, as that would be a new seven-year project. So he will keep teaching using aging lecture notes until he retires and someone finally updates the course.  
->你的工作会随着时间退化，变得不那么重要。如果你慢慢来，你更可能坚持做那些略显过时的工作。你知道那位二十年前花了七年时间准备讲义的教授吗？他不会扔掉笔记重新开始，因为那将是一个新的七年项目。所以他会一直用陈旧的讲义教学，直到退休，有人最终更新课程。
-
-#### [were losing our voice to llms](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
-
-社交媒体成为了我们对大语言模型时代正在失去的珍贵事物的提醒：**独特的声音**。
-
-Your voice is an asset. Not just what you want to say, but how you say it.  
->你的声音是个资产。不仅是你想说什么，而是你怎么说。
-
-Your voice is unique. It is formed from your lifetime of lived experiences. No one's voice will be exactly like yours.  
->你的声音很独特。它是由你一生的经历形成的。没有人的声音会完全像你。
-
-Your voice becomes recognizable. Over many posts it becomes something people subconsciously connect with, recognize, trust, and look forward to.  
->你的声音变得清晰可辨。在许多帖子中，它成为人们潜意识中产生共鸣、认可、信任和期待的东西。
 
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
@@ -38,22 +13,6 @@ AI Coding 的技术问题
 #### [Vibe Coding时代的面试](https://mp.weixin.qq.com/s/roURrNNBJ2J5ZqdFuU1tkA)
 
 ## 🛸开源项目
-
-#### [gemini cli tips](https://github.com/addyosmani/gemini-cli-tips)
-
-本指南涵盖了 ~ 30 条有效使用 Gemini CLI 进行代理编码的专业技巧。
-
-#### [next ai draw io](https://github.com/DayuanJiang/next-ai-draw-io)
-
-集成了AI功能的Next.js网页应用，与draw.io图表无缝结合。通过自然语言命令和AI辅助可视化来创建、修改和增强图表。
-
-#### [mission center](https://gitlab.com/mission-center-devs/mission-center)
-
-Linux 的资源管理器，图形化实时显示本机的资源占用情况。
-
-#### [Open Auto GLM](https://github.com/zai-org/Open-AutoGLM)
-
-它能够以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务，实现AI。
 
 #### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
 
@@ -175,39 +134,9 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
 
-#### [Downlodr](https://github.com/Talisik/Downlodr)
 
-Downlodr 是一个功能强大、用户友好的视频下载解决方案，支持多个平台，包括 YouTube、Vimeo、Twitch、Twitter、TikTok 等。Downlodr 为管理您的视频下载、跟踪下载进度以及使用标签和类别组织内容提供了无缝体验。
-
-#### [note-gen](https://github.com/codexu/note-gen)
-
-NoteGen 是一款跨端的 `Markdown` 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
-
-#### [ClipLink](https://github.com/CooperJiang/ClipLink)
-
-ClipLink 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。
-
-#### [cool monitor](https://github.com/star7th/coolmonitor)
-
-酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计。
 
 ## 🚀网站&工具
-
-#### [producthunt](https://www.producthunt.com/)
-
-发布和发现新科技产品的平台，能找到很多好玩的新产品，也可以发布自己的产品到上面增加曝光。
-
-#### [kerno](https://www.kerno.io)
-
-Kerno 帮你告别手动编写和维护后端测试。它在你的开发环境中自动化端到端集成测试，理解代码库，生成有意义的测试，快速搭建环境并执行。即时提供审计报告，及早发现问题，在提交代码前验证更改。用它及时捕捉破坏性更改，增强测试覆盖率。
-
-#### [tunemymusic](https://www.tunemymusic.com/zh-CN/transfer)
-
-歌单迁移网站，首先去 [https://music.unmeta.cn](https://music.unmeta.cn/) 把歌单地址转化成文本格式。然后去 [https://tunemymusic.com/zh-CN/transfer](https://tunemymusic.com/zh-CN/transfer) 选择任意文本模式，复制刚刚的歌单文本转化成歌单格式列表，点击转化选择 Apple Music，然后登录后，点击转化，你将看到一首首歌到了你的 Music。
-
-#### [100 losts pecies](https://www.100lostspecies.com/)
-
-展示100种已经灭绝的生物，网站的交互和展示方式很有新意，图片也很漂亮，TW93老师给了
 
 #### [CCL 语料检索系统](http://ccl.pku.edu.cn:8080/ccl_corpus/)
 
@@ -525,45 +454,11 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 欧洲夜班火车地图，网站设计和交互做的很舒服。
 
-#### [3d viewer](https://3dviewer.net/)
 
-可以在线查看3D文件的网站。
-
-#### [yibao](https://yibao.233h.com/)
-
-医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
-
-#### [在线硬件测试平台](https://volumeshader.org/zh)
-
-网页测试各种硬件（GPU、屏幕、网络、摄像头、声音、鼠标、键盘）。
-
-#### [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/)
-
-中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
 
 ## ⛵资料&博文
 
-#### [conventional branch](https://conventional-branch.github.io/zh/)
 
-Git 分支命名规范，建议命名为`feature/`、`bugfix/`、`hotfix/`、`release/`、`chore/`等几类。
-
-#### [2025香港手机卡&银行卡攻略](https://ai.feishu.cn/docx/XVvodQcJuoLRZ2xNU6PcXdbBn1e)
-
-香港手机卡开卡攻略，很实用的文章。
-
-#### [agentic design patterns](https://github.com/ginobefun/agentic-design-patterns-cn)
-
-本项目是对 Antonio Gulli 所著《Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems》的**中英文对照翻译**。该书是一部全面的技术指南，涵盖了现代人工智能系统中智能体 (Agent) 设计的核心概念和实践方法。
-
-#### [writing a good claude md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
-
-一篇介绍怎样书写高效的 claude.md 文件的文章，文中提出的几点建议如下：
-1. `CLAUDE.md`是用来将Claude引入你的代码库。它应该定义你项目**的“为什么**”、“**是什么**”和 **“怎样做”**。
-2. **少（指令）即是多。** 虽然你不应该省略必要的指令，但应尽可能少地包含文件中的指令。
-3. 保持`CLAUDE.md`内容**简洁且普遍适用**。
-4. 使用**渐进披露**——不要告诉Claude你可能想让它知道的所有信息。相反，要告诉它_如何找到_重要信息，这样它才能找到并使用这些信息，但只在需要时使用，以避免你的上下文窗口或指令数量膨胀。
-5. Claude 不是 linter。使用 linter 和代码格式化器，必要时使用[钩子](https://code.claude.com/docs/en/hooks)和[斜杠命令](https://code.claude.com/docs/en/slash-commands)等其他功能。
-6. **`CLAUDE.md`是薄弱点**，避免自动生成。应该仔细设计其内容以获得最佳效果。
 
 #### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 

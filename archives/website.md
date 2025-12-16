@@ -1,4 +1,22 @@
 # website
+### []
+### 【49】20251201-20251207
+
+#### [gemini cli tips](https://github.com/addyosmani/gemini-cli-tips)
+
+本指南涵盖了 ~ 30 条有效使用 Gemini CLI 进行代理编码的专业技巧。
+
+#### [next ai draw io](https://github.com/DayuanJiang/next-ai-draw-io)
+
+集成了AI功能的Next.js网页应用，与draw.io图表无缝结合。通过自然语言命令和AI辅助可视化来创建、修改和增强图表。
+
+#### [mission center](https://gitlab.com/mission-center-devs/mission-center)
+
+Linux 的资源管理器，图形化实时显示本机的资源占用情况。
+
+#### [Open Auto GLM](https://github.com/zai-org/Open-AutoGLM)
+
+它能够以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务，实现AI。
 
 ### 【48】20251124-20251130
 

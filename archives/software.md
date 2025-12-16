@@ -1,5 +1,23 @@
 # software
 
+### 【49】20251201-20251207
+
+#### [producthunt](https://www.producthunt.com/)
+
+发布和发现新科技产品的平台，能找到很多好玩的新产品，也可以发布自己的产品到上面增加曝光。
+
+#### [kerno](https://www.kerno.io)
+
+Kerno 帮你告别手动编写和维护后端测试。它在你的开发环境中自动化端到端集成测试，理解代码库，生成有意义的测试，快速搭建环境并执行。即时提供审计报告，及早发现问题，在提交代码前验证更改。用它及时捕捉破坏性更改，增强测试覆盖率。
+
+#### [tunemymusic](https://www.tunemymusic.com/zh-CN/transfer)
+
+歌单迁移网站，首先去 [https://music.unmeta.cn](https://music.unmeta.cn/) 把歌单地址转化成文本格式。然后去 [https://tunemymusic.com/zh-CN/transfer](https://tunemymusic.com/zh-CN/transfer) 选择任意文本模式，复制刚刚的歌单文本转化成歌单格式列表，点击转化选择 Apple Music，然后登录后，点击转化，你将看到一首首歌到了你的 Music。
+
+#### [100 losts pecies](https://www.100lostspecies.com/)
+
+展示100种已经灭绝的生物，网站的交互和展示方式很有新意，图片也很漂亮。
+
 ### 【48】20251124-20251130
 
 #### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)

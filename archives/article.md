@@ -1,5 +1,20 @@
 # article
 
+### 【49】20251201-20251207
+
+#### [were losing our voice to llms](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
+
+社交媒体成为了我们对大语言模型时代正在失去的珍贵事物的提醒：**独特的声音**。
+
+Your voice is an asset. Not just what you want to say, but how you say it.  
+>你的声音是个资产。不仅是你想说什么，而是你怎么说。
+
+Your voice is unique. It is formed from your lifetime of lived experiences. No one's voice will be exactly like yours.  
+>你的声音很独特。它是由你一生的经历形成的。没有人的声音会完全像你。
+
+Your voice becomes recognizable. Over many posts it becomes something people subconsciously connect with, recognize, trust, and look forward to.  
+>你的声音变得清晰可辨。在许多帖子中，它成为人们潜意识中产生共鸣、认可、信任和期待的东西。
+
 ### 【48】20251124-20251130
 
 本周没有看文章`-_-`
