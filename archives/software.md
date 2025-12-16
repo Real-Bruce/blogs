@@ -1,5 +1,23 @@
 # software
 
+### 【50】20251208-20251214
+
+#### [Downlodr](https://github.com/Talisik/Downlodr)
+
+Downlodr 是一个功能强大、用户友好的视频下载解决方案，支持多个平台，包括 YouTube、Vimeo、Twitch、Twitter、TikTok 等。Downlodr 为管理您的视频下载、跟踪下载进度以及使用标签和类别组织内容提供了无缝体验。
+
+#### [note-gen](https://github.com/codexu/note-gen)
+
+NoteGen 是一款跨端的 `Markdown` 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。
+
+#### [ClipLink](https://github.com/CooperJiang/ClipLink)
+
+ClipLink 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。
+
+#### [cool monitor](https://github.com/star7th/coolmonitor)
+
+酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计。
+
 ### 【49】20251201-20251207
 
 #### [producthunt](https://www.producthunt.com/)

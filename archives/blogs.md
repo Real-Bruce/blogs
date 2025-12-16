@@ -1,5 +1,22 @@
 # blogs
 
+### 【50】20251208-20251214
+
+#### [agentic design patterns](https://github.com/ginobefun/agentic-design-patterns-cn)
+
+本项目是对 Antonio Gulli 所著《Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems》的**中英文对照翻译**。该书是一部全面的技术指南，涵盖了现代人工智能系统中智能体 (Agent) 设计的核心概念和实践方法。
+
+#### [writing a good claude md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+
+一篇介绍怎样书写高效的 claude.md 文件的文章，文中提出的几点建议如下：
+
+1. `CLAUDE.md`是用来将Claude引入你的代码库。它应该定义你项目**的“为什么**”、“**是什么**”和 **“怎样做”**。
+2. **少（指令）即是多。** 虽然你不应该省略必要的指令，但应尽可能少地包含文件中的指令。
+3. 保持`CLAUDE.md`内容**简洁且普遍适用**。
+4. 使用**渐进披露**——不要告诉Claude你可能想让它知道的所有信息。相反，要告诉它_如何找到_重要信息，这样它才能找到并使用这些信息，但只在需要时使用，以避免你的上下文窗口或指令数量膨胀。
+5. Claude 不是 linter。使用 linter 和代码格式化器，必要时使用[钩子](https://code.claude.com/docs/en/hooks)和[斜杠命令](https://code.claude.com/docs/en/slash-commands)等其他功能。
+6. **`CLAUDE.md`是薄弱点**，避免自动生成。应该仔细设计其内容以获得最佳效果。
+
 ### 【49】20251201-20251207
 
 #### [conventional branch](https://conventional-branch.github.io/zh/)

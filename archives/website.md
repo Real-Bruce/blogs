@@ -1,5 +1,23 @@
 # website
-### []
+
+### 【50】20251208-20251214
+
+#### [3d viewer](https://3dviewer.net/)
+
+可以在线查看3D文件的网站。
+
+#### [yibao](https://yibao.233h.com/)
+
+医保政策导航是一个专注于提供全国医疗保险政策查询服务的平台。致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
+
+#### [在线硬件测试平台](https://volumeshader.org/zh)
+
+网页测试各种硬件（GPU、屏幕、网络、摄像头、声音、鼠标、键盘）。
+
+#### [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/)
+
+中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。
+
 ### 【49】20251201-20251207
 
 #### [gemini cli tips](https://github.com/addyosmani/gemini-cli-tips)

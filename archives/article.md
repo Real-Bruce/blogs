@@ -1,5 +1,23 @@
 # article
 
+### 【50】20251208-20251214
+
+#### [why speed matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
+
+作者在文章中提出一个观点，人应该快速行动起来，更快的行动更多的犯错才会积累更多的经验，也就会学到更多的东西。
+
+A common mistake is to spend a lot of time—too much time—on a component of your project that does not matter. I once spent a lot of time building a podcast-like version of a course… only to find out later that students had no interest in the podcast format.
+
+> 一个常见错误是花太多时间——甚至过多时间——在项目中一个无关紧要的部分上。我曾经花了很多时间制作一个类似播客的课程......后来才发现学生们对播客格式毫无兴趣。
+
+You learn by making mistakes. The faster you make mistakes, the faster you learn.
+
+> 你通过犯错来学习。你犯错越快，学得越快。
+
+Your work degrades, becomes less relevant with time. And if you work slowly, you will be more likely to stick with your slightly obsolete work. You know that professor who spent seven years preparing lecture notes twenty years ago? He is not going to throw them away and start again, as that would be a new seven-year project. So he will keep teaching using aging lecture notes until he retires and someone finally updates the course.
+
+> 你的工作会随着时间退化，变得不那么重要。如果你慢慢来，你更可能坚持做那些略显过时的工作。你知道那位二十年前花了七年时间准备讲义的教授吗？他不会扔掉笔记重新开始，因为那将是一个新的七年项目。所以他会一直用陈旧的讲义教学，直到退休，有人最终更新课程。
+
 ### 【49】20251201-20251207
 
 #### [were losing our voice to llms](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)

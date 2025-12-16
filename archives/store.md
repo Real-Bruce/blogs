@@ -1,6 +1,5 @@
 ## 📜有价值的文章
 
-
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
 AI Coding 的技术问题
@@ -133,8 +132,6 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 #### [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
 最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
-
-
 
 ## 🚀网站&工具
 
@@ -454,11 +451,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 欧洲夜班火车地图，网站设计和交互做的很舒服。
 
-
-
 ## ⛵资料&博文
-
-
 
 #### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 
