@@ -2,7 +2,7 @@
 
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
-AI Coding 的技术问题
+AI Coding 的技术问题，涉及到很多有用的调试技巧。
 
 #### [a-unified-theory-of-ego-empathy-and-humility-at-work/](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
 
