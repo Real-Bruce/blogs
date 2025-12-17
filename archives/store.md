@@ -139,6 +139,26 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [web design museum](https://www.webdesignmuseum.org/all-websites)
+
+web界面博物馆，可以根据年份、类型等浏览数千个网站在几十年前（最早到 1991 年）的界面设计。
+
+#### [pairckle](https://pairckle.jakeo.dev/)
+
+要对比、排列多个选项时，可以一一列举这些选项，这个工具会每次展示其中的两项让你选择胜出的一方，通过多轮选择，最后就可以得到所有选项的排名。
+
+#### [awwwards](https://www.awwwards.com/)
+
+收集了很多包含炫酷动画设计的网站，交互和设计都很有意思，可以按类别、颜色、风格等进行筛选浏览。
+
+#### [size of life](https://neal.fun/size-of-life/)
+
+对比自然界各种生物的大小，从微小的细菌到庞大的蓝鲸。
+
+#### [masters of photography](https://www.masters-of-photography.com/)
+
+网站收集了历史上几十位伟大摄影师的多幅摄影作品，旨在颂扬摄影的艺术、技法和历史。
+
 #### [TIME’s Top 100 Photos of 2025](https://time.com/7336112/top-100-photos-2025/)
 
 TIME’s Top 100 Photos of 2025，时代周刊评选的年度照片。
