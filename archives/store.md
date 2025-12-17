@@ -139,7 +139,9 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
-#### []()
+#### [TIME’s Top 100 Photos of 2025](https://time.com/7336112/top-100-photos-2025/)
+
+TIME’s Top 100 Photos of 2025，时代周刊评选的年度照片。
 
 #### [CCL 语料检索系统](http://ccl.pku.edu.cn:8080/ccl_corpus/)
 
