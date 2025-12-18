@@ -1,5 +1,9 @@
 ## 📜有价值的文章
 
+#### [thin desires are eating your life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
+
+作者在文中提出了很有思考的观点，浅薄的欲望正在吞噬你的生命。欲望可以分为浅薄欲望和长期欲望，浅薄的欲望实现不会改变你，长期的欲望会改变你。当下的时代我们所有浅薄的欲望都能得到满足，但是这些浅薄的欲望满足后并没有带来什么改变，渴望看手机通知的那个人和五分钟后看完通知的人没有任何变化。作者也给出了解决方法，那就是靠弥漫白哦
+
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
 AI Coding 的技术问题，涉及到很多有用的调试技巧。
