@@ -49,6 +49,14 @@ AI Coding 的技术问题，涉及到很多有用的调试技巧。
 
 ## 🛸开源项目
 
+#### [easyimg](https://github.com/chaos-zhu/easyimg)
+
+简单易用的个人图床系统，基于 Nuxt.js 构建
+
+#### [WeMD](https://github.com/tenngoxars/WeMD)
+
+**更优雅的 Markdown 公众号排版工具**，告别复杂工具。Markdown 写作，一键复制到公众号，专为公众号创作者设计的**本地优先**编辑器。
+
 #### [ten framework](https://github.com/TEN-framework/ten-framework)
 
 TEN 是一个面向语音对话 AI 代理的开源框架。私有化部署后，可以作为私人对话小助手，对话延迟很低，问答丝滑，支持打断。
@@ -518,7 +526,8 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 ## ⛵资料&博文
 
 #### [when tokenization becomes token](https://www.paradedb.com/blog/when-tokenization-becomes-token)
-一篇介绍搜索引擎将查询文本转换成标准词元的
+
+一篇介绍搜索引擎将查询文本转换成标准词元的文章，很通俗易懂推荐阅读。
 
 #### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 
