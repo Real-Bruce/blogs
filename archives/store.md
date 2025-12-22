@@ -217,6 +217,10 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [wiki百科2025年](https://zh.wikipedia.org/wiki/2025%E5%B9%B4)
+
+wiki百科收录的2025年全球发生的各类事件，看看有没有你印象深刻的事件。
+
 #### [朱雀AI检测助手](https://matrix.tencent.com/ai-detect/)
 
 支持在线检测AI生成内容的网站，对中文场景的识很好，很有趣的一个小工具。
