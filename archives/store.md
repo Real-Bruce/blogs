@@ -2,7 +2,10 @@
 
 #### [how social media shortens your life](https://www.gurwinder.blog/p/how-social-media-shortens-your-life)
 
-一篇讲社交媒体危害的文章，分析了社交媒体让人上瘾的原因，也指出了社交媒体的对人的危害，作者最后还给出了建议，非常值得深入阅读的文章，自己也摘录了很多内容，希望与君共勉。
+一篇讲社交媒体危害的文章，分析了社交媒体让人上瘾的原因，也指出了社交媒体的对人的危害，作者最后还给出了建议，非常值得深入阅读的文章。
+
+自己在这一点上很有体会，有的时候总会刷各类社交媒体刷到忘记时间，刷的脑子空空，甚至被迫停止时还会出现严重的截断反应，很多次都意识到这类问题但是从没有解决。然而最近开始看纸质书的时候，忽然发现自己的原来jie'bu
+自己也摘录了很多内容，希望与君共勉。
 
 ##### I. THE NORMALISATION OF AMNESIA
 
@@ -76,7 +79,11 @@ This moment is the youngest you’ll ever be. It’s a moment your future-selves
 
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
-AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是
+AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是使用问题，而是理解债务，AI生成的代码对于后续的维护人员来讲存在巨大的理解问题。虽然开始的时候AI帮你快速构建了代码，甚至你可以不关系代码实现，但是后续的维护时不得不花费更多的时间去理解代码，甚至需要反向理解系统逻辑。
+
+而作者给出的解决方法建议如下：
+1. 和AI花费时间规划项目，而不是直接给出提示并接受代码；
+2. 引入代码审查，避免各类逻辑错误，并让工程师理解代码逻辑和架构；
 
 #### [a-unified-theory-of-ego-empathy-and-humility-at-work/](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
 
