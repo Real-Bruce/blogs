@@ -2,6 +2,8 @@
 
 #### [how social media shortens your life](https://www.gurwinder.blog/p/how-social-media-shortens-your-life)
 
+一篇讲社交媒体危害的文章，分析了社交媒体让人上瘾的原因，也指出了社交媒体的对人的危害，作者最后还给出了建议，非常值得深入阅读的文章，自己也摘录了很多内容，希望与君共勉。
+
 ##### I. THE NORMALISATION OF AMNESIA
 
 Social media platforms have been stealing our time using a sneaky trick: they’ve been speeding up our sense of time — effectively shortening our lives — so we think we had less than we did, and don’t notice some of it was pilfered.
@@ -53,15 +55,28 @@ For instance, when faced with a choice of experiences, choose the option that’
 >例如，当面临经历选择时，选择最有可能带来好故事的选项。多读书，而不是刷社交媒体。去冒险，而不是呆在家里。你经历的故事越多，记忆就越丰富。
 
 Be deliberate not just in your experiences, but also your actions. Make a habit of resisting habit, choose a life of choices. Continually question why you’re doing things, and stop when you don’t have a good answer. Instead of instinctively checking your phone every five minutes, only pull it out when you have a clear idea what you want to see, otherwise keep it in your pocket. The more you avoid living on autopilot, the more of life you’ll remember.  
-不仅要在经历上有意识，也要在行动上有意识。养成抗拒习惯的习惯，选择选择的生活。不断质疑自己为什么要做这些事，当你没有好答案时就停止。不要每五分钟本能地查看手机，只有在你清楚想看什么时才拿出来，否则就放在口袋里。你越是避免活在自动驾驶中，就越会记得更多生活。
+>不仅要在经历上有意识，也要在行动上有意识。养成抗拒习惯的习惯，选择选择的生活。不断质疑自己为什么要做这些事，当你没有好答案时就停止。不要每五分钟本能地查看手机，只有在你清楚想看什么时才拿出来，否则就放在口袋里。你越是避免活在自动驾驶中，就越会记得更多生活。
 
+To make life feel longer, choose experiences that are novel over familiar, intentional over habitual, narrative over disjointed, and emotional over neutral.  
+>为了让生命感觉更长，选择新颖而非熟悉的体验，有意为之而非习惯性的体验，叙事性的而非支离破碎的体验，情感性的而非中性的。
+
+##### V. REMEMBERING TO REMEMBER
+
+Modern research is starting to confirm what the ancients had long known; that reminding yourself that you’ll die doesn’t typically increase anxiety for the future (it might [actually](https://www.researchgate.net/publication/353452316_Memento_mori_Effects_of_mortality_awareness_on_attitudes_toward_dying_and_death_and_meaning_in_life) [reduce](https://www.researchgate.net/publication/328763634_Memento_Mori_The_development_and_validation_of_the_Death_Reflection_Scale) it), but it does [increase](https://www.tandfonline.com/doi/full/10.1080/17439760.2011.558848) [appreciation](https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/Reflecting-on-death-Priorities-for-living-well-1.pdf) [for](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1477479/full) [the](https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2230549) [present](https://www.sciencedaily.com/releases/2012/04/120419102516.htm). Without remembering our own impermanence, we’re liable to live as if we’d never die, and hence, die as if we’d never lived.  
+>现代研究开始证实古人早已知道的事实：提醒自己你会死，通常不会增加对未来的焦虑（实际上 [](https://www.researchgate.net/publication/353452316_Memento_mori_Effects_of_mortality_awareness_on_attitudes_toward_dying_and_death_and_meaning_in_life)可能会[减轻](https://www.researchgate.net/publication/328763634_Memento_Mori_The_development_and_validation_of_the_Death_Reflection_Scale)），但会[增加](https://www.tandfonline.com/doi/full/10.1080/17439760.2011.558848) 对 [当下](https://www.sciencedaily.com/releases/2012/04/120419102516.htm)的[感激](https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/Reflecting-on-death-Priorities-for-living-well-1.pdf) [感](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1477479/full)激[](https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2230549)。如果不记得自己的无常，我们很容易活得仿佛永远不会死去，因此也会像从未活过一样死去。
+
+The key to maintaining a memorable life is to fill your feeds, and life, with these right-angle turns.  
+>保持难忘生活的关键是用这些直角转折来填满你的信息流和生活。
+
+Life is short and anxious for those who forget the past, neglect the present, and fear the future.
+>那些忘记过去、忽视现在、害怕未来的人，生命短暂而焦虑。
 
 This moment is the youngest you’ll ever be. It’s a moment your future-selves will wish they could have back. Don’t waste it scrolling through posts you won’t even remember tomorrow.  
 >这一刻是你这辈子最年轻的时候。这是你未来的自己会希望能找回的时刻。别浪费时间刷那些明天都记不起来的帖子。
 
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
-AI Coding 的技术问题，涉及到很多有用的调试技巧。
+AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是
 
 #### [a-unified-theory-of-ego-empathy-and-humility-at-work/](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
 
