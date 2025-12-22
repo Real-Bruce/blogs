@@ -18,6 +18,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 20251215-20251221 [Vol.068 thin desires are eating your life](./weekly/Vol068.md)
+
 #### 20251208-20251214 [Vol.067 why speed matters](./weekly/Vol067.md)
 
 #### 20251201-20251207 [Vol.066 were losing our voice to llms](./weekly/Vol066.md)

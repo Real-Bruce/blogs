@@ -1,5 +1,23 @@
 # software
 
+### 【51】20251215-20251221
+
+#### [easyimg](https://github.com/chaos-zhu/easyimg)
+
+简单易用的个人图床系统，基于 Nuxt.js 构建
+
+#### [WeMD](https://github.com/tenngoxars/WeMD)
+
+**更优雅的 Markdown 公众号排版工具**，告别复杂工具。Markdown 写作，一键复制到公众号，专为公众号创作者设计的**本地优先**编辑器。
+
+#### [clipsketch ai](https://github.com/RanFeng/clipsketch-ai)
+
+可以解析 Bilibili 和小红书的视频链接，让你能够帧级精准地标记精彩瞬间。通过集成 Google Gemini 最新的多模态大模型，它能将这些瞬间一键转化为精美的手绘风格故事板，并自动撰写适配社交媒体（如小红书）的爆款文案。
+
+#### [code996](https://github.com/hellodigua/code996)
+
+code996 是一个分析工具，它可以统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。
+
 ### 【50】20251208-20251214
 
 #### [Downlodr](https://github.com/Talisik/Downlodr)

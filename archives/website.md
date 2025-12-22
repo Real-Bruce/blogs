@@ -1,5 +1,23 @@
 # website
 
+### 【51】20251215-20251221
+
+#### [masters of photography](https://www.masters-of-photography.com/)
+
+网站收集了历史上几十位伟大摄影师的多幅摄影作品，旨在颂扬摄影的艺术、技法和历史。
+
+#### [TIME’s Top 100 Photos of 2025](https://time.com/7336112/top-100-photos-2025/)
+
+TIME’s Top 100 Photos of 2025，时代周刊评选的年度照片。
+
+#### [古登堡计划](https://www.gutenberg.org/)
+
+收录了 75000 + 已经处于公共版权领域（已过版权保护期限）的书籍。
+
+#### [rankings](https://openrouter.ai/rankings)
+
+AI使用量排名网站，可以帮你了解目前个人和企业使用最广泛的大模型的情况，对于大模型投资和使用很有参考价值。
+
 ### 【50】20251208-20251214
 
 #### [3d viewer](https://3dviewer.net/)

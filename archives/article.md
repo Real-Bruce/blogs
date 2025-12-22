@@ -1,5 +1,53 @@
 # article
 
+### 【51】20251215-20251221
+
+#### [thin desires are eating your life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
+
+作者在文中提出了很有思考的观点，浅薄的欲望正在吞噬你的生命。欲望可以分为浅薄欲望和长期欲望，浅薄的欲望实现不会改变你，长期的欲望会改变你。当下的时代我们所有浅薄的欲望都能得到满足，但是这些浅薄的欲望满足后并没有带来什么改变，渴望看手机通知的那个人和五分钟后看完通知的人没有任何变化。
+
+作者也给出了解决方法，那就是**烤面包！写一封信** 当你花费一下午的时间做一些无法更快完成的东西，在这个过程中你会恢复一些耐心，借以对抗目前实时想争夺你注意力的各类事务。
+
+The defining experience of our age seems to be hunger. 
+
+> 我们这个时代最具代表性的体验似乎是饥饿。
+
+We are living with a near-universal thin desire: wanting something that cannot actually be gotten, that we can't define, from a source that has no interest in providing it.
+
+> 我们生活在一种几乎普遍的薄弱欲望中：想要某种实际上无法获得、无法定义的东西，来自一个对提供它毫无兴趣的来源。
+
+A thick desire is one that changes you in the process of pursuing it.
+
+> 强烈的欲望是在追求它的过程中改变你的。
+
+A thin desire is one that doesn't.
+
+> 薄弱的欲望就是不愿的。
+
+The business model of most consumer technology is to identify some thick desire, find the part of it that produces a neurological reward, and then deliver that reward without the rest of the package.
+
+> 大多数消费类技术的商业模式是识别某种浓重的欲望，找到产生神经奖励的部分，然后在没有其他部分的情况下交付该奖励。
+
+You'll spend an afternoon doing something that cannot be made faster, producing something that you could have bought for four dollars, and in the process you'll recover some capacity for patience that the attention economy has been methodically stripping away.
+
+> 你会花一个下午做一些无法更快完成的东西，做出你本可以用四美元买到的东西，在这个过程中，你会恢复一些耐心，而注意力经济已经有条不紊地剥夺了它。
+
+You're creating a communication that exists outside the logic of engagement metrics, a small artifact that refuses to be optimized.
+
+> 你创造的是一种存在于参与度指标逻辑之外的沟通，一个拒绝被优化的小瑕疵。
+
+The person who bakes bread isn't trying to fix the world. They're not making any attempt to either dent or undent the universe.
+
+> 烤面包的人并不是想改变世界。他们没有试图破坏或摧毁宇宙。
+
+They're trying to spend a Sunday afternoon in a way that doesn't leave them feeling emptied out.
+
+> 他们试图以一种不会感到空虚的方式度过一个周日下午。
+
+They're remembering, one loaf at a time, what it feels like to want something that's actually worth wanting.
+
+> 他们一次只记住一条面包，想要真正值得渴望的东西是什么感觉
+
 ### 【50】20251208-20251214
 
 #### [why speed matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)

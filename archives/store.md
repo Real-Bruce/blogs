@@ -1,41 +1,5 @@
 ## 📜有价值的文章
 
-#### [thin desires are eating your life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
-
-作者在文中提出了很有思考的观点，浅薄的欲望正在吞噬你的生命。欲望可以分为浅薄欲望和长期欲望，浅薄的欲望实现不会改变你，长期的欲望会改变你。当下的时代我们所有浅薄的欲望都能得到满足，但是这些浅薄的欲望满足后并没有带来什么改变，渴望看手机通知的那个人和五分钟后看完通知的人没有任何变化。
-
-作者也给出了解决方法，那就是**烤面包！写一封信** 当你花费一下午的时间做一些无法更快完成的东西，在这个过程中你会恢复一些耐心，借以对抗目前实时想争夺你注意力的各类事务。
-
-The defining experience of our age seems to be hunger.   
->我们这个时代最具代表性的体验似乎是饥饿。
-
-We are living with a near-universal thin desire: wanting something that cannot actually be gotten, that we can't define, from a source that has no interest in providing it.  
->我们生活在一种几乎普遍的薄弱欲望中：想要某种实际上无法获得、无法定义的东西，来自一个对提供它毫无兴趣的来源。
-
-A thick desire is one that changes you in the process of pursuing it.  
->强烈的欲望是在追求它的过程中改变你的。
-
-A thin desire is one that doesn't.  
->薄弱的欲望就是不愿的。
-
-The business model of most consumer technology is to identify some thick desire, find the part of it that produces a neurological reward, and then deliver that reward without the rest of the package.  
->大多数消费类技术的商业模式是识别某种浓重的欲望，找到产生神经奖励的部分，然后在没有其他部分的情况下交付该奖励。
-
-You'll spend an afternoon doing something that cannot be made faster, producing something that you could have bought for four dollars, and in the process you'll recover some capacity for patience that the attention economy has been methodically stripping away.  
->你会花一个下午做一些无法更快完成的东西，做出你本可以用四美元买到的东西，在这个过程中，你会恢复一些耐心，而注意力经济已经有条不紊地剥夺了它。
-
-You're creating a communication that exists outside the logic of engagement metrics, a small artifact that refuses to be optimized.  
->你创造的是一种存在于参与度指标逻辑之外的沟通，一个拒绝被优化的小瑕疵。
-
-The person who bakes bread isn't trying to fix the world. They're not making any attempt to either dent or undent the universe.  
->烤面包的人并不是想改变世界。他们没有试图破坏或摧毁宇宙。
-
-They're trying to spend a Sunday afternoon in a way that doesn't leave them feeling emptied out.  
->他们试图以一种不会感到空虚的方式度过一个周日下午。
-
-They're remembering, one loaf at a time, what it feels like to want something that's actually worth wanting.  
->他们一次只记住一条面包，想要真正值得渴望的东西是什么感觉。
-
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
 AI Coding 的技术问题，涉及到很多有用的调试技巧。
@@ -57,14 +21,6 @@ AI Coding 的技术问题，涉及到很多有用的调试技巧。
 
 这是一个基于 golang 开发的微信测试公众号模板消息推送服务。它提供了一个简单的 API 接口，让您可以轻松地通过 HTTP 请求将消息推送到指定的微信用户。
 
-#### [easyimg](https://github.com/chaos-zhu/easyimg)
-
-简单易用的个人图床系统，基于 Nuxt.js 构建
-
-#### [WeMD](https://github.com/tenngoxars/WeMD)
-
-**更优雅的 Markdown 公众号排版工具**，告别复杂工具。Markdown 写作，一键复制到公众号，专为公众号创作者设计的**本地优先**编辑器。
-
 #### [ten framework](https://github.com/TEN-framework/ten-framework)
 
 TEN 是一个面向语音对话 AI 代理的开源框架。私有化部署后，可以作为私人对话小助手，对话延迟很低，问答丝滑，支持打断。
@@ -72,14 +28,6 @@ TEN 是一个面向语音对话 AI 代理的开源框架。私有化部署后，
 #### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
 
 开源的浏览器插件，收集 Nano Banana 模型的热门提示词，方便复用。
-
-#### [clipsketch ai](https://github.com/RanFeng/clipsketch-ai)
-
-可以解析 Bilibili 和小红书的视频链接，让你能够帧级精准地标记精彩瞬间。通过集成 Google Gemini 最新的多模态大模型，它能将这些瞬间一键转化为精美的手绘风格故事板，并自动撰写适配社交媒体（如小红书）的爆款文案。
-
-#### [code996](https://github.com/hellodigua/code996)
-
-code996 是一个分析工具，它可以统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。
 
 #### [webhooker](https://github.com/TokenRollAI/webhooker)
 
@@ -215,14 +163,6 @@ web界面博物馆，可以根据年份、类型等浏览数千个网站在几�
 
 对比自然界各种生物的大小，从微小的细菌到庞大的蓝鲸。
 
-#### [masters of photography](https://www.masters-of-photography.com/)
-
-网站收集了历史上几十位伟大摄影师的多幅摄影作品，旨在颂扬摄影的艺术、技法和历史。
-
-#### [TIME’s Top 100 Photos of 2025](https://time.com/7336112/top-100-photos-2025/)
-
-TIME’s Top 100 Photos of 2025，时代周刊评选的年度照片。
-
 #### [CCL 语料检索系统](http://ccl.pku.edu.cn:8080/ccl_corpus/)
 
 北大制作的一个汉语语料库，可以用于对现代汉语中的语言现象进行分析、研究。
@@ -234,14 +174,6 @@ TIME’s Top 100 Photos of 2025，时代周刊评选的年度照片。
 #### [日本鸟类百科全书](https://www.suntory.co.jp/eco/birds/encyclopedia/)
 
 收录了 200 多种日本野生鸟类的描述、鸣叫声、照片和插图。
-
-#### [古登堡计划](https://www.gutenberg.org/)
-
-收录了 75000 + 已经处于公共版权领域（已过版权保护期限）的书籍。
-
-#### [rankings](https://openrouter.ai/rankings)
-
-AI使用量排名网站，可以帮你了解目前个人和企业使用最广泛的大模型的情况，对于大模型投资和使用很有参考价值。
 
 #### [poly market](https://polymarket.com/)
 
@@ -543,7 +475,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips)
 
-
+作者给出了使用 Gemini Cli 的一些小技巧，很有趣能帮你更好的使用AI。
 
 #### [A system to organise your life](https://johnnydecimal.com/)
 
@@ -560,14 +492,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [Building an AI-native engineering team](https://cdn.openai.com/business-guides-and-resources/building-an-ai-native-engineering-team.pdf)
 
 openAI官方推出的构建AI技术背景的工程师团队指南，里面提到了很多有趣有用的建议。
-
-#### [cloudflare 故障复盘报告](https://blog.cloudflare.com/zh-cn/18-november-2025-outage/)
-
-cloudflare官方复盘的故障报告，详细介绍了故障发生的原因和处理方式，很值得查看。
-
-#### [dive into langgraph](https://www.luochang.ink/dive-into-langgraph)
-
-LangGraph 是一个开源 Agent 开发框架，本教程是基于 Jupyter Notebook 的可交互教程，介绍这个框架的具体实践。
 
 #### [building a simple search engine that actually works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 

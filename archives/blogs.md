@@ -1,5 +1,15 @@
 # blogs
 
+### 【51】20251215-20251221
+
+#### [cloudflare 故障复盘报告](https://blog.cloudflare.com/zh-cn/18-november-2025-outage/)
+
+cloudflare官方复盘的故障报告，详细介绍了故障发生的原因和处理方式，很值得查看。
+
+#### [dive into langgraph](https://www.luochang.ink/dive-into-langgraph)
+
+LangGraph 是一个开源 Agent 开发框架，本教程是基于 Jupyter Notebook 的可交互教程，介绍这个框架的具体实践。
+
 ### 【50】20251208-20251214
 
 #### [agentic design patterns](https://github.com/ginobefun/agentic-design-patterns-cn)
