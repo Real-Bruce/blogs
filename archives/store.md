@@ -1,5 +1,29 @@
 ## 📜有价值的文章
 
+#### [how social media shortens your life](https://www.gurwinder.blog/p/how-social-media-shortens-your-life)
+
+Social media platforms have been stealing our time using a sneaky trick: they’ve been speeding up our sense of time — effectively shortening our lives — so we think we had less than we did, and don’t notice some of it was pilfered.
+>社交媒体平台用一个狡猾的手段偷走了我们的时间：它们加快了我们的时间感知——实际上缩短了我们的寿命——让我们以为自己拥有的时间比实际更少，却没注意到其中有些时间被偷走了。
+
+our sense of retrospective time is determined by awareness of the past: in other words, by memory. The more we remember of a certain period, the longer that period feels, and the slower time seems to have passed.
+>我们对回顾时间的感知则由对过去的觉知决定：换句话说，就是记忆。我们越记得某个时期，那个时期就越长，时间似乎也越慢。
+
+Now, a sinister thing about social media is that it speeds up your time both in the moment and in retrospect. It does this by simultaneously impairing your awareness of the present and your memory of the past.  
+>社交媒体有个阴险的地方，就是它让你在当下和事后回头都加快了你的时间。它通过同时削弱你对当下的意识和对过去的记忆来实现这一点。
+
+_Gruen effect_: the moment when a shopper loses track of what they entered the store for, and begins aimlessly wandering and impulse-buying.
+>_格鲁恩效应_：购物者失去进店目的，开始漫无目的地游荡和冲动购物的瞬间。
+
+A key component of Friedman’s mazes was for pathways to have as few right-angle turns as possible. This is because sharp bends jolt pedestrians into awareness, since a decision must now be made to change direction. And when someone has to decide where to go, they’re liable to think about the time and whether they should in fact be heading for the exit. Thus, Friedman advocated for curvilinear paths that had no discernible corners, beginnings, or ends, and could thus be perpetually navigated on autopilot.  
+>弗里德曼迷宫的一个关键组成部分是让路径尽可能少有直角转弯。这是因为急弯会让行人意识到，因为必须决定改变方向。当有人必须决定去哪里时，他们往往会考虑时间，以及是否真的应该朝出口走去。因此，弗里德曼主张曲线路径，没有明显的拐角、起点或终点，可以自动导航。
+
+Now here’s the issue: your social media feed resists emplotment because it’s the opposite of a story. It’s a chronological maze. It has no beginning, middle, or end, and each post is unrelated to the next, so that scrolling is like trying to read a book in a windstorm, the pages constantly flapping, abruptly switching the current scene with an unrelated one, so you can never connect the dots into a coherent and memorable narrative.  
+问题来了：你的社交媒体动态抗拒被填满，因为它与故事相反。这就像一个按时间顺序排列的迷宫。它没有开头、中间或结尾，每篇文章都与下一篇毫无关联，所以滚动就像在风暴中读书，书页不断翻动，突然将当前场景与无关场景切换，永远无法将线索串联成连贯且令人难忘的叙事。
+
+
+This moment is the youngest you’ll ever be. It’s a moment your future-selves will wish they could have back. Don’t waste it scrolling through posts you won’t even remember tomorrow.  
+>这一刻是你这辈子最年轻的时候。这是你未来的自己会希望能找回的时刻。别浪费时间刷那些明天都记不起来的帖子。
+
 #### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
 
 AI Coding 的技术问题，涉及到很多有用的调试技巧。
@@ -8,8 +32,6 @@ AI Coding 的技术问题，涉及到很多有用的调试技巧。
 
 下篇：[my-working-principles-for-managing-ego-empathy-and-humility](https://matthogg.fyi/my-working-principles-for-managing-ego-empathy-and-humility/)
 // todo 2025/11/25 待完整阅读并整理
-
-#### [Vibe Coding时代的面试](https://mp.weixin.qq.com/s/roURrNNBJ2J5ZqdFuU1tkA)
 
 ## 🛸开源项目
 
