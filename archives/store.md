@@ -95,6 +95,10 @@ AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是�
 
 历史学LLM，仅提供截止到某个时间节点的数据作为模型的训练资料，不会出现后人的评价总结类内容，几乎可以实现和历史上的人对话的效果。比如最新开放的模型 _Ranke-4B-1913_ 训练资料的时间节点被设置在1913年以前，这个模型不认识希特勒，对很多现在习以为常的话题所持有的意见也是完全相反的。
 这类的AI训练模型提供了一个非常有意思的视角，或许我们能通过对模型添加特定时间节点的时间锁，实现和过去的人对话，个人觉得可以为历史学研究提供很多有意思的内容。
+#### [BiliNote](https://github.com/JefferyHcool/BiliNote)
+
+BiliNote 是一个开源的 AI 视频笔记助手，支持通过哔哩哔哩、YouTube、抖音等视频链接，自动提取内容并生成结构清晰、重点明确的 Markdown 格式笔记。支持插入截图、原片跳转等功能。
+
 #### [DeepAudit](https://github.com/lintsinghua/DeepAudit)
 
 **DeepAudit** 是一个基于 **Multi-Agent 协作架构**的下一代代码安全审计平台。它不仅仅是一个静态扫描工具，而是模拟安全专家的思维模式，通过多个智能体（**Orchestrator**, **Recon**, **Analysis**, **Verification**）的自主协作，实现对代码的深度理解、漏洞挖掘和 **自动化沙箱 PoC 验证**。
@@ -220,6 +224,10 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
 
 ## 🚀网站&工具
+
+#### [PaperStudio](https://github.com/jingguanzhang/PaperStudio)
+
+**PaperStudio** 是一个基于 Web 的轻量级信笺纸、稿纸设计工具。它允许用户通过简单的拖拽和配置，设计出符合传统书写习惯或现代商务风格的信纸，并支持导出为 PDF 或直接打印。
 
 #### [wiki百科2025年](https://zh.wikipedia.org/wiki/2025%E5%B9%B4)
 
