@@ -191,6 +191,14 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [朱雀AI检测助手](https://matrix.tencent.com/ai-detect/)
+
+支持在线检测AI生成内容的网站，对中文场景的识很好，很有趣的一个小工具。
+
+#### [components](https://cursify.vercel.app/components)
+
+网站提供了很多鼠标跟随动画，可以考虑加入到自己的网站里。
+
 #### [web design museum](https://www.webdesignmuseum.org/all-websites)
 
 web界面博物馆，可以根据年份、类型等浏览数千个网站在几十年前（最早到 1991 年）的界面设计。
@@ -532,6 +540,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 欧洲夜班火车地图，网站设计和交互做的很舒服。
 
 ## ⛵资料&博文
+
+#### [gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips)
+
+
+
+#### [A system to organise your life](https://johnnydecimal.com/)
+
+博主在文中提出了一种很有趣的整理资料的方式，采用「编号 + 索引」方式来组织你所有资料/事项的系统，利用总索引创建合适的空间，然后将所有的东西分门别类的放好，这样每个资料都有了自己的唯一编号，非常适合做自己资料的管理。
 
 #### [when tokenization becomes token](https://www.paradedb.com/blog/when-tokenization-becomes-token)
 
