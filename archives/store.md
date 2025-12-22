@@ -49,6 +49,14 @@ AI Coding 的技术问题，涉及到很多有用的调试技巧。
 
 ## 🛸开源项目
 
+#### [DeepAudit](https://github.com/lintsinghua/DeepAudit)
+
+**DeepAudit** 是一个基于 **Multi-Agent 协作架构**的下一代代码安全审计平台。它不仅仅是一个静态扫描工具，而是模拟安全专家的思维模式，通过多个智能体（**Orchestrator**, **Recon**, **Analysis**, **Verification**）的自主协作，实现对代码的深度理解、漏洞挖掘和 **自动化沙箱 PoC 验证**。
+
+#### [go wxpush](https://github.com/hezhizheng/go-wxpush)
+
+这是一个基于 golang 开发的微信测试公众号模板消息推送服务。它提供了一个简单的 API 接口，让您可以轻松地通过 HTTP 请求将消息推送到指定的微信用户。
+
 #### [easyimg](https://github.com/chaos-zhu/easyimg)
 
 简单易用的个人图床系统，基于 Nuxt.js 构建
