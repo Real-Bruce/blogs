@@ -201,6 +201,10 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [font emtech](https://font.emtech.cc/)
+
+emfont 是一款免费、简单易用的CJK webfont（网页中文字体）服务， 让你只需在网站内加上两行JavaScript，并在元素上套用class，就能立即套用丰富的字型。不论是形象网站、作品集，还是博客，都能大幅提升视觉质感。
+
 #### [storyset](https://storyset.com/)
 
 适合免费定制的插图，支持自定义色彩，非常适合作为插入PPT、落地页等。
