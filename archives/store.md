@@ -91,6 +91,9 @@ AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是�
 
 ## 🛸开源项目
 
+#### [CodexBar](https://github.com/steipete/CodexBar)
+
+mac
 #### [history-llms](https://github.com/DGoettlich/history-llms)
 
 历史学LLM，仅提供截止到某个时间节点的数据作为模型的训练资料，不会出现后人的评价总结类内容，几乎可以实现和历史上的人对话的效果。比如最新开放的模型 _Ranke-4B-1913_ 训练资料的时间节点被设置在1913年以前，这个模型不认识希特勒，对很多现在习以为常的话题所持有的意见也是完全相反的。
@@ -225,6 +228,10 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
 
 ## 🚀网站&工具
+
+#### [storyset](https://storyset.com/)
+
+适合免费定制的插图，支持自定义色彩，非常适合作为插入PPT、落地页等。
 
 #### [PaperStudio](https://github.com/jingguanzhang/PaperStudio)
 
