@@ -76,19 +76,6 @@ Life is short and anxious for those who forget the past, neglect the present, an
 This moment is the youngest you’ll ever be. It’s a moment your future-selves will wish they could have back. Don’t waste it scrolling through posts you won’t even remember tomorrow.  
 >这一刻是你这辈子最年轻的时候。这是你未来的自己会希望能找回的时刻。别浪费时间刷那些明天都记不起来的帖子。
 
-#### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
-
-AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是使用问题，而是理解债务，AI生成的代码对于后续的维护人员来讲存在巨大的理解问题。虽然开始的时候AI帮你快速构建了代码，甚至你可以不关系代码实现，但是后续的维护时不得不花费更多的时间去理解代码，甚至需要反向理解系统逻辑。
-
-而作者给出的解决方法建议如下：
-1. 和AI花费时间规划项目，而不是直接给出提示并接受代码；
-2. 引入代码审查，避免各类逻辑错误，并让工程师理解代码逻辑和架构；
-
-#### [a-unified-theory-of-ego-empathy-and-humility-at-work/](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
-
-下篇：[my-working-principles-for-managing-ego-empathy-and-humility](https://matthogg.fyi/my-working-principles-for-managing-ego-empathy-and-humility/)
-// todo 2025/11/25 待完整阅读并整理
-
 ## 🛸开源项目
 
 #### [CodexBar](https://github.com/steipete/CodexBar)
@@ -107,22 +94,6 @@ BiliNote 是一个开源的 AI 视频笔记助手，支持通过哔哩哔哩、Y
 #### [DeepAudit](https://github.com/lintsinghua/DeepAudit)
 
 **DeepAudit** 是一个基于 **Multi-Agent 协作架构**的下一代代码安全审计平台。它不仅仅是一个静态扫描工具，而是模拟安全专家的思维模式，通过多个智能体（**Orchestrator**, **Recon**, **Analysis**, **Verification**）的自主协作，实现对代码的深度理解、漏洞挖掘和 **自动化沙箱 PoC 验证**。
-
-#### [go wxpush](https://github.com/hezhizheng/go-wxpush)
-
-这是一个基于 golang 开发的微信测试公众号模板消息推送服务。它提供了一个简单的 API 接口，让您可以轻松地通过 HTTP 请求将消息推送到指定的微信用户。
-
-#### [ten framework](https://github.com/TEN-framework/ten-framework)
-
-TEN 是一个面向语音对话 AI 代理的开源框架。私有化部署后，可以作为私人对话小助手，对话延迟很低，问答丝滑，支持打断。
-
-#### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
-
-开源的浏览器插件，收集 Nano Banana 模型的热门提示词，方便复用。
-
-#### [webhooker](https://github.com/TokenRollAI/webhooker)
-
-一个 Webhook 的转发网关，比如把 Slack 消息转发到飞书和钉钉。
 
 #### [nano banana pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
 
@@ -257,22 +228,6 @@ web界面博物馆，可以根据年份、类型等浏览数千个网站在几�
 #### [pairckle](https://pairckle.jakeo.dev/)
 
 要对比、排列多个选项时，可以一一列举这些选项，这个工具会每次展示其中的两项让你选择胜出的一方，通过多轮选择，最后就可以得到所有选项的排名。
-
-#### [awwwards](https://www.awwwards.com/)
-
-收集了很多包含炫酷动画设计的网站，交互和设计都很有意思，可以按类别、颜色、风格等进行筛选浏览。
-
-#### [size of life](https://neal.fun/size-of-life/)
-
-对比自然界各种生物的大小，从微小的细菌到庞大的蓝鲸。
-
-#### [CCL 语料检索系统](http://ccl.pku.edu.cn:8080/ccl_corpus/)
-
-北大制作的一个汉语语料库，可以用于对现代汉语中的语言现象进行分析、研究。
-
-#### [forty](https://forty.news/)
-
-展示四十年前的本周信息，很有意思。
 
 #### [日本鸟类百科全书](https://www.suntory.co.jp/eco/birds/encyclopedia/)
 
@@ -590,15 +545,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 
-一篇很有意思的科普文章，质疑关于在太空创建数据中心的合理性，太空数据中心建设的成本和需要克服的困难远大于在地面建设的成本，比如
-
-#### [Building an AI-native engineering team](https://cdn.openai.com/business-guides-and-resources/building-an-ai-native-engineering-team.pdf)
-
-openAI官方推出的构建AI技术背景的工程师团队指南，里面提到了很多有趣有用的建议。
-
-#### [building a simple search engine that actually works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
-
-本文介绍搜索引擎的原理，如何自己动手写一个简单的搜索引擎。
+一篇很有意思的科普文章，质疑关于在太空创建数据中心的合理性，太空数据中心建设的成本和需要克服的困难远大于在地面建设的成本，比如需要更大面积的散热、数据传输的时间延迟等。
 
 #### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
