@@ -1,5 +1,15 @@
 # blogs
 
+### 【52】20251222-20251228
+
+#### [Building an AI-native engineering team](https://cdn.openai.com/business-guides-and-resources/building-an-ai-native-engineering-team.pdf)
+
+openAI官方推出的构建AI技术背景的工程师团队指南，里面提到了很多有趣有用的建议。
+
+#### [building a simple search engine that actually works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
+
+本文介绍搜索引擎的原理，如何自己动手写一个简单的搜索引擎。
+
 ### 【51】20251215-20251221
 
 #### [cloudflare 故障复盘报告](https://blog.cloudflare.com/zh-cn/18-november-2025-outage/)

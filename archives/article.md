@@ -1,5 +1,15 @@
 # article
 
+### 【52】20251222-20251228
+
+#### [the real problem with ai coding](https://www.cubic.dev/blog/the-real-problem-with-ai-coding)
+
+AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是使用问题，而是理解债务，AI生成的代码对于后续的维护人员来讲存在巨大的理解问题。虽然开始的时候AI帮你快速构建了代码，甚至你可以不关心代码实现，但是后续的维护时不得不花费更多的时间去理解代码，甚至需要反向理解系统逻辑。
+
+而作者给出的解决方法建议如下：
+1. 和AI花费时间规划项目，而不是直接给出提示并接受代码；
+2. 引入代码审查，避免各类逻辑错误，并让工程师理解代码逻辑和架构；
+
 ### 【51】20251215-20251221
 
 #### [thin desires are eating your life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)

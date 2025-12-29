@@ -1,5 +1,23 @@
 # website
 
+### 【52】20251222-20251228
+
+#### [awwwards](https://www.awwwards.com/)
+
+收集了很多包含炫酷动画设计的网站，交互和设计都很有意思，可以按类别、颜色、风格等进行筛选浏览。
+
+#### [size of life](https://neal.fun/size-of-life/)
+
+对比自然界各种生物的大小，从微小的细菌到庞大的蓝鲸。
+
+#### [CCL 语料检索系统](http://ccl.pku.edu.cn:8080/ccl_corpus/)
+
+北大制作的一个汉语语料库，可以用于对现代汉语中的语言现象进行分析、研究。
+
+#### [forty](https://forty.news/)
+
+展示四十年前的本周信息，很有意思。
+
 ### 【51】20251215-20251221
 
 #### [masters of photography](https://www.masters-of-photography.com/)

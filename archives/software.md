@@ -1,5 +1,23 @@
 # software
 
+### 【52】20251222-20251228
+
+#### [go wxpush](https://github.com/hezhizheng/go-wxpush)
+
+这是一个基于 golang 开发的微信测试公众号模板消息推送服务。它提供了一个简单的 API 接口，让您可以轻松地通过 HTTP 请求将消息推送到指定的微信用户。
+
+#### [ten framework](https://github.com/TEN-framework/ten-framework)
+
+TEN 是一个面向语音对话 AI 代理的开源框架。私有化部署后，可以作为私人对话小助手，对话延迟很低，问答丝滑，支持打断。
+
+#### [banana prompt quicker](https://github.com/glidea/banana-prompt-quicker)
+
+开源的浏览器插件，收集 Nano Banana 模型的热门提示词，方便复用。
+
+#### [webhooker](https://github.com/TokenRollAI/webhooker)
+
+一个 Webhook 的转发网关，比如把 Slack 消息转发到飞书和钉钉。
+
 ### 【51】20251215-20251221
 
 #### [easyimg](https://github.com/chaos-zhu/easyimg)
