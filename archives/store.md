@@ -93,7 +93,8 @@ AI Coding 的技术问题，文中指出AI生成代码最关键的问题不是�
 
 #### [CodexBar](https://github.com/steipete/CodexBar)
 
-mac
+mac系统的状态栏小工具，展示常用LLM的对话token量及使用情况。
+
 #### [history-llms](https://github.com/DGoettlich/history-llms)
 
 历史学LLM，仅提供截止到某个时间节点的数据作为模型的训练资料，不会出现后人的评价总结类内容，几乎可以实现和历史上的人对话的效果。比如最新开放的模型 _Ranke-4B-1913_ 训练资料的时间节点被设置在1913年以前，这个模型不认识希特勒，对很多现在习以为常的话题所持有的意见也是完全相反的。
