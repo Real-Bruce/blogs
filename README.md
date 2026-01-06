@@ -3,6 +3,7 @@
 ### 🌏history blogs
 
 #### [2024 blogs archives](./2024/README2024.md)
+
 #### [2025 blogs arachives](./2025/README2025.md)
 
 ### 📌archives: Sort the collected resources
@@ -19,4 +20,4 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20251229-20260104 [Vol.070 the real problem with ai coding](./weekly/Vol-070.md)
+#### 20251229-20260104 [Vol.070 how social media shortens your life](./weekly/Vol070.md)
