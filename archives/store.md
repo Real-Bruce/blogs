@@ -426,6 +426,9 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [cloudflare 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
+**Cloudflare 的 2025 年互联网年度回顾**
+
 #### [Agentic Design Patterns](https://adp.xindoo.xyz/)
 
 《Agentic Design Patterns》探讨了构建智能 AI Agent 系统的核心设计模式，包括：
