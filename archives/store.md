@@ -426,6 +426,15 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [Agentic Design Patterns](https://adp.xindoo.xyz/)
+
+《Agentic Design Patterns》探讨了构建智能 AI Agent 系统的核心设计模式，包括：
+
+- 提示链、路由、并行化等基础模式
+- 反思、工具使用、规划等进阶模式
+- 多智能体协作、记忆管理、知识检索等高级模式
+- 安全防护、评估监控等实践模式
+
 #### [when tokenization becomes token](https://www.paradedb.com/blog/when-tokenization-becomes-token)
 
 一篇介绍搜索引擎将查询文本转换成标准词元的文章，很通俗易懂推荐阅读。
