@@ -108,6 +108,10 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [itshover](https://www.itshover.com/icons)
+
+有趣的图标网站，鼠标悬浮上去的时候图表会动一下。
+
 #### [朱雀AI检测助手](https://matrix.tencent.com/ai-detect/)
 
 支持在线检测AI生成内容的网站，对中文场景的识很好，很有趣的一个小工具。
