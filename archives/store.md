@@ -427,7 +427,9 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 ## ⛵资料&博文
 
 #### [cloudflare 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
-**Cloudflare 的 2025 年互联网年度回顾**
+
+Cloudflare 的 2025 年互联网年度回顾，很有意思的一份报告。
+// todo 20260106 待完整阅读
 
 #### [Agentic Design Patterns](https://adp.xindoo.xyz/)
 
