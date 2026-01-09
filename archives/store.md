@@ -116,9 +116,13 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [design/prompts](https://www.designprompts.dev/)
+
+提供各种网页设计风格的 AI 提示词
+
 #### [complexity explorables](https://complexity-explorables.org/)
 
-复杂性探索，## 一组关于生物学、物理学、数学、社会科学、流行病学、生态学及其他领域的复杂系统互动式可探索性解释合集.....
+复杂性探索，一组关于生物学、物理学、数学、社会科学、流行病学、生态学及其他领域的复杂系统互动式可探索性解释合集.....
 
 #### [Visual Paradigm Online](https://online.visual-paradigm.com/cn/diagrams/templates/floor-plan/)
 
