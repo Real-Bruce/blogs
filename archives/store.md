@@ -116,6 +116,10 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [emulatorgamer](https://emulatorgamer.com/)
+
+各种老游戏机的经典游戏，通过模拟器免费在线游玩。
+
 #### [itshover](https://www.itshover.com/icons)
 
 有趣的图标网站，鼠标悬浮上去的时候图表会动一下。
