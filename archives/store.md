@@ -2,6 +2,14 @@
 
 ## 🛸开源项目
 
+#### [zedis](https://github.com/vicanso/zedis)
+
+使用 **Rust** 🦀 和 **GPUI** ⚡️ 构建的高性能、GPU 加速的 Redis 客户端。
+
+#### [keyStats](https://github.com/debugtheworldbot/keyStats)
+
+macos小工具，统计键盘敲击次数。
+
 #### [nano banana pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
 
 这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。
@@ -429,6 +437,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 欧洲夜班火车地图，网站设计和交互做的很舒服。
 
 ## ⛵资料&博文
+
+#### [http caching refresher](https://danburzo.ro/http-caching-refresher/)
+
+HTTP 缓存机制的一个总体介绍，梳理浏览器缓存的处理逻辑。
 
 #### [cloudflare 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
 
