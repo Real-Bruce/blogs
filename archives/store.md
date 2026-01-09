@@ -116,6 +116,14 @@ Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记
 
 ## 🚀网站&工具
 
+#### [complexity explorables](https://complexity-explorables.org/)
+
+复杂性探索，## 一组关于生物学、物理学、数学、社会科学、流行病学、生态学及其他领域的复杂系统互动式可探索性解释合集.....
+
+#### [Visual Paradigm Online](https://online.visual-paradigm.com/cn/diagrams/templates/floor-plan/)
+
+通过这个工具可以在线绘制各种平面图，比如房屋、宴会的布局，无需登录。
+
 #### [emulatorgamer](https://emulatorgamer.com/)
 
 各种老游戏机的经典游戏，通过模拟器免费在线游玩。
