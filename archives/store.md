@@ -98,23 +98,13 @@ CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案�
 
 订阅管理系统，开源的 web 应用，管理和订阅各类订阅服务的费用和续费，支持多币种。
 
-#### [lumma](https://github.com/geosmart/lumma)
 
-Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记，最终生成 md 文件且支持同步。
-
-#### [unregistry](https://github.com/psviderski/unregistry)
-
-将 docker 镜像直接推送到远程服务器，无需经过三方的镜像仓库，直接将本地打包好的docker镜像传输到目标服务器。
-
-#### [gemini-cli](https://github.com/google-gemini/gemini-cli)
-
-谷歌开源的 AI 编程工具，目前免费额度每分钟可以请求60次，每天1000次请求。
-
-#### [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-
-最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
 
 ## 🚀网站&工具
+
+#### [web check](https://web-check.xyz/)
+
+输入需要查询的网址，一个界面显示所有关于网页的信息。
 
 #### [design/prompts](https://www.designprompts.dev/)
 
@@ -332,21 +322,7 @@ Hanzi Writer 是 javascript 免费开源库，根据汉字书写时按照笔画�
 
 Prompt Sidebar 是一款强大的 Chrome 浏览器扩展，旨在彻底改变您管理和使用 AI 提示词 (Prompts) 的方式。它不仅仅是一个存储工具，更是一个集创建、智能优化、高效应用于一体的生产力伙伴，让您与 AI 的协作更加流畅和富有成效。
 
-#### [ui live](https://ui.live/)
 
-类似于Dribbble和Figma社区的结合体，设计师可以通过一键复制或直接从 Figma 上传设计元素，包括 UI 模板、组件、示意图、3D 资产和插图等。拿来推广你在Figma社区的付费素材也行。
-
-#### [ghibli](https://www.ghibli.jp/works/)
-
-吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
-
-#### [feedme](https://feedme.icu/)
-
-提供多个信息源最新内容的 AI 摘要。
-
-#### [find json path](https://www.findjsonpath.com/zh)
-
-在线的 JSON 工具箱，可以生成 mock 的 JSON 数据，以及可视化选中某个路径。
 
 #### [barcode maker](https://barcode-maker.com/zh)
 
@@ -484,13 +460,7 @@ Cloudflare 的 2025 年互联网年度回顾，很有意思的一份报告。
 
 开源的英文电子书，介绍强化学习的基础数学知识。
 
-#### [random tastemaker](https://random.tastemaker.design/)
 
-网站给出一系列方法，测试某种随机数生成器是否足够随机，所有测试方法都有详细易懂的解释，可以用来学习统计学。
-
-#### [liquid glass css svg](https://kube.io/blog/liquid-glass-css-svg/)
-
-作者使用CSS和SVG实现了苹果的液态玻璃效果，最终的效果很惊艳。
 
 #### [huggingface](https://huggingface.co/learn)
 
