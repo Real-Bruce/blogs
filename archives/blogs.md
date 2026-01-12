@@ -1,5 +1,15 @@
 # blogs
+
 ## 【02】20260105 - 20260111
+
+#### [random tastemaker](https://random.tastemaker.design/)
+
+网站给出一系列方法，测试某种随机数生成器是否足够随机，所有测试方法都有详细易懂的解释，可以用来学习统计学。
+
+#### [liquid glass css svg](https://kube.io/blog/liquid-glass-css-svg/)
+
+作者使用CSS和SVG实现了苹果的液态玻璃效果，最终的效果很惊艳。
+
 ## 【01】20251228 - 20260104
 
 #### [gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips)

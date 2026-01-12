@@ -2,6 +2,22 @@
 
 ## 【02】20260105 - 20260111
 
+#### [lumma](https://github.com/geosmart/lumma)
+
+Flutter构建的移动端日记应用，可以通过 AI 对话的方式写日记，最终生成 md 文件且支持同步。
+
+#### [unregistry](https://github.com/psviderski/unregistry)
+
+将 docker 镜像直接推送到远程服务器，无需经过三方的镜像仓库，直接将本地打包好的docker镜像传输到目标服务器。
+
+#### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+
+谷歌开源的 AI 编程工具，目前免费额度每分钟可以请求60次，每天1000次请求。
+
+#### [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
+最强大和模块化的可视化 AI 引擎和应用程序，ComfyUI 允许您使用基于图形/节点/流程图的界面设计和执行高级稳定的扩散管道。适用于 Windows、Linux 和 macOS
+
 ## 【01】20251228 - 20260104
 
 #### [CodexBar](https://github.com/steipete/CodexBar)

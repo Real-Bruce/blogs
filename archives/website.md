@@ -2,6 +2,22 @@
 
 ## 【02】20260105 - 20260111
 
+#### [ui live](https://ui.live/)
+
+类似于Dribbble和Figma社区的结合体，设计师可以通过一键复制或直接从 Figma 上传设计元素，包括 UI 模板、组件、示意图、3D 资产和插图等。拿来推广你在Figma社区的付费素材也行。
+
+#### [ghibli](https://www.ghibli.jp/works/)
+
+吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
+
+#### [feedme](https://feedme.icu/)
+
+提供多个信息源最新内容的 AI 摘要。
+
+#### [find json path](https://www.findjsonpath.com/zh)
+
+在线的 JSON 工具箱，可以生成 mock 的 JSON 数据，以及可视化选中某个路径。
+
 ## 【01】20251228 - 20260104
 
 #### [font emtech](https://font.emtech.cc/)
