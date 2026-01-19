@@ -1,5 +1,23 @@
 # software
+
 ## 【03】20260112 - 20260119
+
+#### [musix](https://github.com/coolcode/musix)
+
+使用 Rust 构建的基于终端的 MP3 音乐播放器
+
+#### [Gmeek](https://github.com/Meekdai/Gmeek)
+
+一个博客框架，超轻量级个人博客模板。完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
+
+#### [css exercises](https://github.com/TheOdinProject/css-exercises)
+
+CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案。
+
+#### [Subscription Management](https://github.com/huhusmang/Subscription-Management)
+
+订阅管理系统，开源的 web 应用，管理和订阅各类订阅服务的费用和续费，支持多币种。
+
 ## 【02】20260105 - 20260111
 
 #### [lumma](https://github.com/geosmart/lumma)

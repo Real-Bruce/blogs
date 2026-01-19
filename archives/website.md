@@ -2,6 +2,21 @@
 
 ## 【03】20260112 - 20260119
 
+#### [daily arXiv ai enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
+
+每日自动使用 AI 总计 arxiv 上的论文，生成中文摘要。
+
+#### [svgco](https://svgco.de/)
+
+图片转 SVG 在线工具，在浏览器内将图片转换为 SVG 矢量图。
+
+#### [godbolt](https://godbolt.org/)
+
+支持 C++、Rust、Go 等多种语言。用户可以在这里编写代码，并即时查看编译后的汇编输出，帮助理解源代码与机器指令之间的关系。平台提供丰富的功能，如语法高亮、自动编译、代码格式化、编辑器主题定制等，提升了编程体验和效率。无论是学习还是调试，Compiler Explorer 都是程序员的理想工具。
+
+#### [howbr](https://howbr.vercel.app/)
+
+矩形内外圆角计算工具，帮你设计搭配合理的图形。
 
 ## 【02】20260105 - 20260111
 
