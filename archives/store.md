@@ -98,8 +98,6 @@ CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案�
 
 订阅管理系统，开源的 web 应用，管理和订阅各类订阅服务的费用和续费，支持多币种。
 
-
-
 ## 🚀网站&工具
 
 #### [web check](https://web-check.xyz/)
@@ -322,8 +320,6 @@ Hanzi Writer 是 javascript 免费开源库，根据汉字书写时按照笔画�
 
 Prompt Sidebar 是一款强大的 Chrome 浏览器扩展，旨在彻底改变您管理和使用 AI 提示词 (Prompts) 的方式。它不仅仅是一个存储工具，更是一个集创建、智能优化、高效应用于一体的生产力伙伴，让您与 AI 的协作更加流畅和富有成效。
 
-
-
 #### [barcode maker](https://barcode-maker.com/zh)
 
 免费的条形码生成网站，支持批量生成条形码。
@@ -459,8 +455,6 @@ Cloudflare 的 2025 年互联网年度回顾，很有意思的一份报告。
 #### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
 开源的英文电子书，介绍强化学习的基础数学知识。
-
-
 
 #### [huggingface](https://huggingface.co/learn)
 
