@@ -2,6 +2,20 @@
 
 ## 🛸开源项目
 
+#### [Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree)
+
+**DeepTime Mammalia** 是一个运行于现代浏览器端的交互式数据可视化作品。不同于枯燥的教科书图表，本项目利用 WebGL 和 CSS3D 技术，试图重构我们对“演化时间”的感知。
+
+项目基于最新的 **Mammal Diversity Database (MDD) v2.3** 分类系统，将从二叠纪末期的合弓纲祖先到现代哺乳动物的 **167 个科**、**上千个演化节点**，通过双螺旋画廊与动态演化树的形式呈现。
+
+#### [cc-switch](https://github.com/farion1231/cc-switch)
+
+跨平台桌面应用，一键切换 Claude Code / Codex / Gemini CLI 的底层模型，以及完成其他的管理设置。
+
+#### [nginxpulse](https://github.com/likaia/nginxpulse)
+
+轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
+
 #### [tailspin](https://github.com/bensadeh/tailspin)
 
 tailspin 使用正则去扫内容，把时间戳、数字、严重级别等关键信息自动上色，不要求日志遵循固定格式。基本不用配配置，也不用折腾，换不同项目的日志文件或管道流都能直接用。
