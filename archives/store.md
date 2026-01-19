@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [tailspin](https://github.com/bensadeh/tailspin)
+
+tailspin 使用正则去扫内容，把时间戳、数字、严重级别等关键信息自动上色，不要求日志遵循固定格式。基本不用配配置，也不用折腾，换不同项目的日志文件或管道流都能直接用。
+
 #### [zedis](https://github.com/vicanso/zedis)
 
 使用 **Rust** 🦀 和 **GPUI** ⚡️ 构建的高性能、GPU 加速的 Redis 客户端。
@@ -82,22 +86,6 @@ Termix 是一个开源、永久免费、自托管的一体化服务器管理平�
 
 AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很有趣的一个项目，项目还公开了他的提示词。
 
-#### [musix](https://github.com/coolcode/musix)
-
-使用 Rust 构建的基于终端的 MP3 音乐播放器
-
-#### [Gmeek](https://github.com/Meekdai/Gmeek)
-
-一个博客框架，超轻量级个人博客模板。完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
-
-#### [css exercises](https://github.com/TheOdinProject/css-exercises)
-
-CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案。
-
-#### [Subscription Management](https://github.com/huhusmang/Subscription-Management)
-
-订阅管理系统，开源的 web 应用，管理和订阅各类订阅服务的费用和续费，支持多币种。
-
 ## 🚀网站&工具
 
 #### [web check](https://web-check.xyz/)
@@ -167,22 +155,6 @@ Quiver Quantitative 投资工具很有意思，可以跟踪美国国会成员的
 #### [互联网黑话大全](https://nujuo8y1qx.feishu.cn/docs/doccnGbXj47lGM1iqHk7L1UyW8p)
 
 收录了超过 3000 条互联网黑话的词典。
-
-#### [daily arXiv ai enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
-
-每日自动使用 AI 总计 arxiv 上的论文，生成中文摘要。
-
-#### [svgco](https://svgco.de/)
-
-图片转 SVG 在线工具，在浏览器内将图片转换为 SVG 矢量图。
-
-#### [godbolt](https://godbolt.org/)
-
-支持 C++、Rust、Go 等多种语言。用户可以在这里编写代码，并即时查看编译后的汇编输出，帮助理解源代码与机器指令之间的关系。平台提供丰富的功能，如语法高亮、自动编译、代码格式化、编辑器主题定制等，提升了编程体验和效率。无论是学习还是调试，Compiler Explorer 都是程序员的理想工具。
-
-#### [howbr](https://howbr.vercel.app/)
-
-矩形内外圆角计算工具，帮你设计搭配合理的图形。
 
 #### [watching the world](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)
 
@@ -426,6 +398,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [一小时之内了解金融和投资的知识](https://www.youtube.com/watch?v=WEDIj9JBTC8)
+
+这个视频很适合投资小白，来源 Pershing Square 资本管理公司 CEO William Ackman，虽然是 13 年前的分享，但是很有价值，他用柠檬水生意把金融和投资讲得很简单易懂，很多结论放到今天依然成立。
+
 #### [http caching refresher](https://danburzo.ro/http-caching-refresher/)
 
 HTTP 缓存机制的一个总体介绍，梳理浏览器缓存的处理逻辑。
@@ -466,17 +442,5 @@ Cloudflare 的 2025 年互联网年度回顾，很有意思的一份报告。
 
 #### [change gitignore](https://rgbcu.be/blog/gitignore/)
 
-作者提供两人一个很有意思的思路，将 `.gitignore` 的规则更改为白名单模式，默认不允许任何文件提交，仅能提交符合条件的文件，很有趣的一个思路。
-
-#### [年轻的朋友们不要太心急](https://sspai.com/post/101302)
-
-作者分享了关于自己的三件事，讨论关于耐心的话题，关于时间、关于试错、关于长期主义，很有价值的文章，值得深入阅读。
-
-#### [new colors](https://dynomight.net/colors/)
-
-一篇关于眼睛感受颜色的科普文章，作者介绍了眼睛上三种视锥细胞感受器，当两种感受器同时被激发时，会看到第三种颜色，作者还制作了一些小动画让你能看到这中神奇的现象。
-
-#### [用n8n搭建「Reddit商机雷达」](https://mp.weixin.qq.com/s/x1irNmUH45HTmgpBkTuSzw)
-
-作者用 n8n 搭建了一个监控 reddit 论坛商业机会的工作流，实现自动筛选有价值的帖子，通过 AI 进行多维度分析，最终汇总形成表格，帮你发现新的商业机会。
+作者提供了一个很有意思的思路，将 `.gitignore` 的规则更改为白名单模式，默认不允许任何文件提交，仅能提交符合条件的文件，很有趣的一个思路。
 
