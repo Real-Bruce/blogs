@@ -2,6 +2,16 @@
 
 ## 🛸开源项目
 
+#### [pure genealogy](https://github.com/yunfengsa/pure-genealogy)
+
+一个基于 Next.js 15 和 Supabase 构建的现代化、全中文家族族谱管理系统。
+
+#### [building sunlight simulator](https://github.com/SeanWong17/building-sunlight-simulator)
+
+**Building Sunlight Simulator** 是一套基于 Web 技术的楼盘规划与采光模拟工具。
+
+它允许用户直接在浏览器中通过规划图（JPG/PNG）绘制建筑轮廓，生成 3D 场景，并结合地理纬度和太阳轨迹算法，对目标建筑进行精确的日照遮挡分析。项目纯前端实现，无后端依赖，支持离线使用。
+
 #### [Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree)
 
 **DeepTime Mammalia** 是一个运行于现代浏览器端的交互式数据可视化作品。不同于枯燥的教科书图表，本项目利用 WebGL 和 CSS3D 技术，试图重构我们对“演化时间”的感知。
