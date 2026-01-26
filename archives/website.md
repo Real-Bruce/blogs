@@ -1,6 +1,24 @@
 # website
 
-## 【03】20260112 - 20260119
+## 【04】2026019 - 20260125
+
+#### [emulatorgamer](https://emulatorgamer.com/)
+
+各种老游戏机的经典游戏，通过模拟器免费在线游玩。
+
+#### [itshover](https://www.itshover.com/icons)
+
+有趣的图标网站，鼠标悬浮上去的时候图表会动一下。
+
+#### [朱雀AI检测助手](https://matrix.tencent.com/ai-detect/)
+
+支持在线检测AI生成内容的网站，对中文场景的识很好，很有趣的一个小工具。
+
+#### [components](https://cursify.vercel.app/components)
+
+网站提供了很多鼠标跟随动画，可以考虑加入到自己的网站里。
+
+## 【03】20260112 - 20260118
 
 #### [daily arXiv ai enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
 
