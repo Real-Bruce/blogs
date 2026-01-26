@@ -2,6 +2,14 @@
 
 ## 🛸开源项目
 
+#### [toad](https://github.com/batrachianai/toad)
+
+统一 AI 界面的终端 Toad ，借助 ACP 协议，编码代理在一个漂亮的终端界面下无缝运行。
+
+#### [MemOS](https://github.com/MemTensor/MemOS)
+
+**MemOS** 是一个面向大型语言模型（LLM）和人工智能代理的内存作系统，统一了**存储/检索/管理**，实现**了长期记忆**的上下文**感知和个性化**交互，内置了知识库、**多模态**、**工具存储**器和**企业级**优化功能。
+
 #### [pure genealogy](https://github.com/yunfengsa/pure-genealogy)
 
 一个基于 Next.js 15 和 Supabase 构建的现代化、全中文家族族谱管理系统。
