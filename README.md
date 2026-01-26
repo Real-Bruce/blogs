@@ -20,8 +20,9 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 20260112-2026-118 [Vol.072](./weekly/vol072.md)
+#### 2026/01/19 - 2026/01/25 [Vol.073 终其一生，我们都在与自己的惰性对抗](./weekly/Vol073.md)
+#### 2026/01/12 - 2026/01/18 [Vol.072](./weekly/Vol072.md)
 
-#### 20260105-20260111 [Vol.071](./weekly/Vol071.md)
+#### 2026/01/05 - 2026/01/11 [Vol.071](./weekly/Vol071.md)
 
-#### 20251229-20260104 [Vol.070 how social media shortens your life](./weekly/Vol070.md)
+#### 2025/12/29 - 2026/01/04 [Vol.070 how social media shortens your life](./weekly/Vol070.md)
