@@ -108,6 +108,10 @@ AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很
 
 ## 🚀网站&工具
 
+#### [YouArt](https://youart.ai/zh/home)
+
+AI对话自动化构建文生图工作流，自动生成处理节点，支持各个节点手动调节，帮你快速生成适合宣传的图片或视频。会员支付费用也很合理，并且支持微信支付。
+
 #### [cubic bezier](https://cubic-bezier.com/)
 
 可视化编辑和预览贝塞尔曲线动画的工具。
