@@ -108,6 +108,10 @@ AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很
 
 ## 🚀网站&工具
 
+#### [skills](https://skills.sh/)
+
+Vercel 公司开发的人工智能代理可重用技能集合网站。
+
 #### [cubic bezier](https://cubic-bezier.com/)
 
 可视化编辑和预览贝塞尔曲线动画的工具。
