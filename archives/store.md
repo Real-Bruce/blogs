@@ -1,5 +1,11 @@
 ## 📜有价值的文章
 
+#### [they lied to you building software is really hard](https://blog.nordcraft.com/they-lied-to-you-building-software-is-really-hard)
+
+The reality is that if your goal is to become a software developer, relying on these tools early on often ends up slowing you down. You get the illusion of progress early on, but the flat learning curve just means that it will take much longer to learn all the things you need.  When you eventually face a problem that the tool cannot solve for you, you will be back at where you started having to learn everything from scratch.  
+现实是，如果你的目标是成为软件开发者，过早依赖这些工具往往会拖慢你的速度。你一开始会有进步的错觉，但平坦的学习曲线意味着你学完所有需要的东西会花更长时间。 当你最终遇到工具无法帮你解决的问题时，你又回到了必须从零开始学习一切的状态。
+
+
 ## 🛸开源项目
 
 #### [Deck](https://github.com/yuzeguitarist/Deck)
@@ -115,6 +121,10 @@ AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很
 #### [Future Style Periodic Table](https://seanwong17.github.io/Future-Style-Periodic-Table/)
 
 开源的可视化元素周期表，会展示核外电子排布。
+
+#### [fontsniff](https://fontsniff.com/zh/font-identification)
+
+ 上传文本图片，自动识别使用了什么字体。
 
 #### [skills](https://skills.sh/)
 
