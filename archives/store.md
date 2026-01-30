@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [Deck](https://github.com/yuzeguitarist/Deck)
+
+macOS 剪贴板管理的开源桌面应用，支持 Touch ID 保护和端到端加密。
+
 #### [pomo](https://github.com/Bahaaio/pomo)
 
 使用 Bubble Tea 构建的终端番茄时钟很好玩的项目。
@@ -107,6 +111,10 @@ Termix 是一个开源、永久免费、自托管的一体化服务器管理平�
 AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很有趣的一个项目，项目还公开了他的提示词。
 
 ## 🚀网站&工具
+
+#### [Future Style Periodic Table](https://seanwong17.github.io/Future-Style-Periodic-Table/)
+
+开源的可视化元素周期表，会展示核外电子排布。
 
 #### [skills](https://skills.sh/)
 
@@ -417,6 +425,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 欧洲夜班火车地图，网站设计和交互做的很舒服。
 
 ## ⛵资料&博文
+
+#### [claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
+
+Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总长约1小时
 
 #### [一小时之内了解金融和投资的知识](https://www.youtube.com/watch?v=WEDIj9JBTC8)
 
