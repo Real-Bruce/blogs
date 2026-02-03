@@ -1,5 +1,27 @@
 # article
 
+## 【05】20260126 - 20260201
+
+#### [they lied to you building software is really hard](https://blog.nordcraft.com/they-lied-to-you-building-software-is-really-hard)
+
+一篇关于开发工程师学习的内容，讲到目前AI编程工具让代码开发变的更简单，但是频繁使用AI生成代码，会导致开发工程师自身的能力下降。那些让你头疼痛苦的学习过程让你对知识的理解更深刻，那些你学过的可能已经过时的代码让你后面的学习速度变得更快，所以：“投资你自己！”做哪些困难的事情，一定会有收获的。类似的文章还有这一篇：[I tried coding with ai i became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
+下面是我摘抄的内容：
+
+The reality is that if your goal is to become a software developer, relying on these tools early on often ends up slowing you down. You get the illusion of progress early on, but the flat learning curve just means that it will take much longer to learn all the things you need.  When you eventually face a problem that the tool cannot solve for you, you will be back at where you started having to learn everything from scratch.  
+>现实是，如果你的目标是成为软件开发者，过早依赖这些工具往往会拖慢你的速度。你一开始会有进步的错觉，但平坦的学习曲线意味着你学完所有需要的东西会花更长时间。 当你最终遇到工具无法帮你解决的问题时，你又回到了必须从零开始学习一切的状态。
+
+The great thing about a steep learning curve is that you progress a lot faster.  
+>陡峭的学习曲线的好处是你进步得更快。
+
+The true value of a software engineer is in our ability to analyze problems as well as design and implement creative solutions. To get good at these skills you need to understand not just the tools at your disposal but also the technologies you are building on top of. If you don’t understand how an application works then you have no chance of fixing its bugs and issues.   
+>软件工程师的真正价值在于我们分析问题的能力，以及设计和实施创造性解决方案的能力。要掌握这些技能，你不仅需要了解手头的工具，还要了解你所构建的技术。如果你不了解应用的工作原理，就没有修复它的bug和问题的机会。
+
+Invest in yourself.   
+>投资于自己。 
+
+Your skills and experience as a developer have value. The harder it is to acquire a set of skills the more valuable they tend to be. Even though some of the things you will pick up along the way will become outdated, the experience you gained while using them will stay with you. Each language or technology you use makes the next one a little easier to learn.  
+>你作为开发者的技能和经验是有价值的。一套技能越难掌握，它们通常就越有价值。即使你在过程中学到的一些东西会变得过时，但你通过使用它们获得的经验会一直伴随你。你使用的每种语言或技术都会让下一种语言更容易学习。
+
 ## 【04】2026019 - 20260125
 
 #### [终其一生，我们都在与自己的惰性对抗](https://blog.solazy.me/20260122/)

@@ -20,7 +20,10 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/01/26 - 2026/02/01 [Vol.074 they lied to you building software is really hard](./weekly/Vol074.md)
+
 #### 2026/01/19 - 2026/01/25 [Vol.073 终其一生，我们都在与自己的惰性对抗](./weekly/Vol073.md)
+
 #### 2026/01/12 - 2026/01/18 [Vol.072](./weekly/Vol072.md)
 
 #### 2026/01/05 - 2026/01/11 [Vol.071](./weekly/Vol071.md)

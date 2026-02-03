@@ -1,5 +1,15 @@
 # blogs
 
+## 【05】20260126 - 20260201
+
+#### [一个半月高强度 Claude Code 使用后感受](https://onevcat.com/2025/08/claude-code/)
+
+很有深度的一篇博文，讲了很多 Claude 的使用技巧，最让人值得思考的是这句话：在 vibe coding 时代，千万别让工具把自己逼死。技术是为人服务的，不是相反；工作是让人有机会追寻和思考自我的，而不是让自己迷失。保持这份清醒，可能比掌握任何具体的技巧都更重要。
+
+#### [change gitignore](https://rgbcu.be/blog/gitignore/)
+
+作者提供了一个很有意思的思路，将 `.gitignore` 的规则更改为白名单模式，默认不允许任何文件提交，仅能提交符合条件的文件，很有趣的一个思路。
+
 ## 【04】2026019 - 20260125
 
 #### [Agentic Design Patterns](https://adp.xindoo.xyz/)

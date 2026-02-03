@@ -1,5 +1,23 @@
 # website
 
+## 【05】20260126 - 20260201
+
+#### [skill smp](https://skillsmp.com/search)
+
+网站收录了七万多个智能体的技能。
+
+#### [zone less](https://zoneless.tools/)
+
+可以添加全球多个城市的时间放在一个时间轴上，可以看到不同城市的昼夜变化的对应时区的时间。
+
+#### [web check](https://web-check.xyz/)
+
+输入需要查询的网址，一个界面显示所有关于网页的信息。
+
+#### [design/prompts](https://www.designprompts.dev/)
+
+提供各种网页设计风格的 AI 提示词
+
 ## 【04】2026019 - 20260125
 
 #### [emulatorgamer](https://emulatorgamer.com/)

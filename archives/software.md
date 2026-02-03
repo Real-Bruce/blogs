@@ -1,5 +1,23 @@
 # software
 
+## 【05】20260126 - 20260201
+
+#### [tinyauth](https://github.com/steveiliop56/tinyauth)
+
+简易但功能齐全的身份认证方案，支持密码和OAuth验证登录。
+
+#### [scira](https://github.com/zaidmukaddam/scira)
+
+开源版本的 Perplexity + DeepSearch 工具，支持一键部署
+
+#### [pipeak](https://github.com/prehisle/pipeak)
+
+开源项目，通过科学的学习路径和智能练习系统，快速掌握 LaTeX 数学公式编写技巧。
+
+#### [resume Police](https://github.com/itMrBoy/resumePolice)
+
+AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很有趣的一个项目，项目还公开了他的提示词。
+
 ## 【04】2026019 - 20260125
 
 #### [cc-switch](https://github.com/farion1231/cc-switch)
