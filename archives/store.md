@@ -132,6 +132,10 @@ AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很
 
 ## 🚀网站&工具
 
+#### [noteslide](https://codia.ai/noteslide)
+
+使用 Codia AI Vision 将 NotebookLM PDF 或图片幻灯片转换为可完全编辑的主题演讲或 PowerPoint 演示文稿。
+
 #### [Future Style Periodic Table](https://seanwong17.github.io/Future-Style-Periodic-Table/)
 
 开源的可视化元素周期表，会展示核外电子排布。
@@ -143,6 +147,7 @@ AI 开发平台 [Dify](https://dify.ai/) 的插件，让 AI 修改简历，很
 #### [skills](https://skills.sh/)
 
 Vercel 公司开发的人工智能代理可重用技能集合网站。
+
 #### [YouArt](https://youart.ai/zh/home)
 
 AI对话自动化构建文生图工作流，自动生成处理节点，支持各个节点手动调节，帮你快速生成适合宣传的图片或视频。会员支付费用也很合理，并且支持微信支付。
