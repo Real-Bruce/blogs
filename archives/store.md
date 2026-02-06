@@ -2,6 +2,22 @@
 
 ## 🛸开源项目
 
+#### [obsidian-copy-to-mp](https://github.com/Spute/obsidian-copy-to-mp)
+
+Obsidian 的开源插件，一键将 Obsidian 笔记复制为微信公众号的格式。
+
+#### [wincron](https://github.com/ame-yu/wincron)
+
+开源的 Windows 桌面应用，用来设置和管理计划任务（cron）。
+
+#### [zerobrew](https://github.com/lucasgelfond/zerobrew)
+
+homebrew 的替代品，号称可以将软件包的安装速度提高到5倍以上。
+
+#### [cpx](https://github.com/11happy/cpx)
+
+Linux 基础命令 cp 的增强版，拷贝文件时带进度条，支持并发拷贝和断点续传
+
 #### [Deck](https://github.com/yuzeguitarist/Deck)
 
 macOS 剪贴板管理的开源桌面应用，支持 Touch ID 保护和端到端加密。
@@ -95,6 +111,10 @@ Termix 是一个开源、永久免费、自托管的一体化服务器管理平�
 将几乎任何设备变成文件服务器，使用任何网络浏览器可以恢复上传/下载，支持https、webdav、ftp等多种协议。
 
 ## 🚀网站&工具
+
+#### [video compressors](https://videocompressors.com/zh)
+
+纯前端的视频压缩，直接调用 GPU 进行硬件加速。
 
 #### [noteslide](https://codia.ai/noteslide)
 
