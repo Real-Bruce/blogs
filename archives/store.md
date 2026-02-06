@@ -2,6 +2,14 @@
 
 ## 🛸开源项目
 
+#### [ai-credit](https://github.com/debugtheworldbot/ai-credit)
+
+一个命令行工具，用于追踪和分析AI编码助手在你的代码库（macOS/Linux/Windows）中的贡献。支持 **Claude Code**、**Codex CLI**、**Cursor**、**Gemini CLI** 和 **Opencode**。
+
+#### [OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)
+
+AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封装，加入了飞书、钉钉、企业微信、QQ 等主流中国 IM 插件。
+
 #### [obsidian-copy-to-mp](https://github.com/Spute/obsidian-copy-to-mp)
 
 Obsidian 的开源插件，一键将 Obsidian 笔记复制为微信公众号的格式。
@@ -111,6 +119,10 @@ Termix 是一个开源、永久免费、自托管的一体化服务器管理平�
 将几乎任何设备变成文件服务器，使用任何网络浏览器可以恢复上传/下载，支持https、webdav、ftp等多种协议。
 
 ## 🚀网站&工具
+
+#### [antirender](https://antirender.com/)
+
+这个网站可以把效果图改在冬季的阴雨天，从而显示建筑的真实样貌。
 
 #### [video compressors](https://videocompressors.com/zh)
 
