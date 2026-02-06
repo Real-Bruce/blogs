@@ -1,5 +1,9 @@
 ## 📜有价值的文章
 
+#### [your job isnt disappearing its shrinking](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+
+
+
 ## 🛸开源项目
 
 #### [ai-credit](https://github.com/debugtheworldbot/ai-credit)
