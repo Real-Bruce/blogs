@@ -5,17 +5,23 @@
 The problem isn’t that the robots are coming. **It’s that you don’t know what you’re supposed to be good at anymore.**
 >问题不在于机器人会来。 **而是你已经不知道自己应该擅长什么了。**
 
-You’ve learned to use the shovel better, but the backhoe is coming anyway.
->你学会了更好地用铲子，但挖掘机迟早会来。
+The meta-skill is this: **learning to spot what becomes possible when a constraint disappears**, then building your value around that new possibility.  
+>元技能是：**学会识别约束消失后可能发生的事**，然后围绕这个新可能性构建你的价值。
 
+You’re not going to solve this by being better at your current job. That job is dissolving under you in real time.  
+>你不会通过在当前工作上变得更好来解决这个问题。这份工作正在你眼前实时消散。
 
-**Agent capabilities are compounding at 6-12 month cycles.** Human adaptation through traditional systems operates on 2-5 year cycles.
->**代理能力以6至12个月周期积累。** 人类通过传统系统适应的周期为2-5年。
+You’re not going to solve it by learning the tools better. The tools will get easier to use without you.  
+>你不会通过更好地学习工具来解决这个问题。没有你，这些工具会变得更容易使用。
 
-**Nobody could define what higher-value work actually looked like in practice**. Nobody could describe the new role. So they defaulted to the only thing they could measure: cost reduction.
+You’re not going to solve it by going deeper into your specialty. That specialty is being automated.  
+>你不会通过深入你的专业领域来解决这个问题。这个专业正在自动化。
 
->**没人能定义高价值工作在实际中到底是什么样**子。没人能描述这个新角色。所以他们默认只能用唯一能衡量的指标：成本降低。
+What works is this: **become the person who spots what just became possible and builds your value around that new capabilit**y. Use agents to remove constraints that previously limited what you could do. Become the orchestrator of scale that didn’t exist before.  
+>有效的方法是：**成为那个发现刚刚可能实现的东西，并围绕这个新能力y构建价值的人**。利用代理消除之前限制你行动的限制。成为以前不存在的规模协调者。
 
+This isn’t a permanent solution. In three to five years, you’ll need to do it again. **The meta-skill is learning to continuously spot the next evolution and position yourself at the edge of what’s newly possible**.  
+>这不是永久的解决方案。三到五年后，你还得再做一次。**元技能是学会不断发现下一个进化，并将自己定位在新可能的边缘**。
 
 
 
