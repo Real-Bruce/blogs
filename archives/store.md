@@ -2,6 +2,21 @@
 
 #### [your job isnt disappearing its shrinking](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
 
+The problem isn’t that the robots are coming. **It’s that you don’t know what you’re supposed to be good at anymore.**
+>问题不在于机器人会来。 **而是你已经不知道自己应该擅长什么了。**
+
+You’ve learned to use the shovel better, but the backhoe is coming anyway.
+>你学会了更好地用铲子，但挖掘机迟早会来。
+
+
+**Agent capabilities are compounding at 6-12 month cycles.** Human adaptation through traditional systems operates on 2-5 year cycles.
+>**代理能力以6至12个月周期积累。** 人类通过传统系统适应的周期为2-5年。
+
+**Nobody could define what higher-value work actually looked like in practice**. Nobody could describe the new role. So they defaulted to the only thing they could measure: cost reduction.
+
+>**没人能定义高价值工作在实际中到底是什么样**子。没人能描述这个新角色。所以他们默认只能用唯一能衡量的指标：成本降低。
+
+
 
 
 ## 🛸开源项目
