@@ -23,7 +23,17 @@ What works is this: **become the person who spots what just became possible and
 This isn’t a permanent solution. In three to five years, you’ll need to do it again. **The meta-skill is learning to continuously spot the next evolution and position yourself at the edge of what’s newly possible**.  
 >这不是永久的解决方案。三到五年后，你还得再做一次。**元技能是学会不断发现下一个进化，并将自己定位在新可能的边缘**。
 
+This will separate people who were genuinely strategic from people who were just thorough. There’s no way around that. The system that rewarded thoroughness is breaking down. The new system rewards the ability to see what constraints just disappeared and build something new in that space.  
+>这会区分真正有策略的人和单纯细致的人。这是无法回避的。奖励细致调查的体系正在崩溃。新系统奖励那些看到哪些限制刚刚消失，并在该领域构建新事物的能力。
 
+You still have time. But not much. The speed mismatch between agent capability and human adaptation is real. The companies won’t save you because they’re optimized for short-term cost reduction, not long-term workforce transformation. The educational system won’t save you because it’s too slow.  
+>你还有时间。但不多。智能体能力与人类适应速度之间的速度不匹配是真实存在的。这些公司不会帮你省钱，因为它们更注重短期成本降低，而不是长期的劳动力转型。教育系统救不了你，因为它太慢了。
+
+You have to save yourself. And the way you do that is by stopping trying to defend your current role and starting to build the role that didn’t exist six months ago.  
+>你得救自己。而做到这一点的方法，就是停止为现有角色辩护，开始建立六个月前还不存在的职位。
+
+Monday morning will keep coming. The question is whether you’re still wondering what you’re supposed to be good at, or whether you’ve already built the answer.  
+>周一早晨还会继续。问题是你是否还在想自己应该擅长什么，还是已经找到了答案。
 
 ## 🛸开源项目
 
