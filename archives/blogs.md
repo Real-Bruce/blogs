@@ -1,5 +1,15 @@
 # blogs
 
+## 【06】20260202 - 20260208
+
+#### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+
+开源的英文电子书，介绍强化学习的基础数学知识。
+
+#### [huggingface](https://huggingface.co/learn)
+
+`HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
+
 ## 【05】20260126 - 20260201
 
 #### [一个半月高强度 Claude Code 使用后感受](https://onevcat.com/2025/08/claude-code/)

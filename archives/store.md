@@ -1,40 +1,5 @@
 ## 📜有价值的文章
 
-#### [your job isnt disappearing its shrinking](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
-
-The problem isn’t that the robots are coming. **It’s that you don’t know what you’re supposed to be good at anymore.**
->问题不在于机器人会来。 **而是你已经不知道自己应该擅长什么了。**
-
-The meta-skill is this: **learning to spot what becomes possible when a constraint disappears**, then building your value around that new possibility.  
->元技能是：**学会识别约束消失后可能发生的事**，然后围绕这个新可能性构建你的价值。
-
-You’re not going to solve this by being better at your current job. That job is dissolving under you in real time.  
->你不会通过在当前工作上变得更好来解决这个问题。这份工作正在你眼前实时消散。
-
-You’re not going to solve it by learning the tools better. The tools will get easier to use without you.  
->你不会通过更好地学习工具来解决这个问题。没有你，这些工具会变得更容易使用。
-
-You’re not going to solve it by going deeper into your specialty. That specialty is being automated.  
->你不会通过深入你的专业领域来解决这个问题。这个专业正在自动化。
-
-What works is this: **become the person who spots what just became possible and builds your value around that new capabilit**y. Use agents to remove constraints that previously limited what you could do. Become the orchestrator of scale that didn’t exist before.  
->有效的方法是：**成为那个发现刚刚可能实现的东西，并围绕这个新能力y构建价值的人**。利用代理消除之前限制你行动的限制。成为以前不存在的规模协调者。
-
-This isn’t a permanent solution. In three to five years, you’ll need to do it again. **The meta-skill is learning to continuously spot the next evolution and position yourself at the edge of what’s newly possible**.  
->这不是永久的解决方案。三到五年后，你还得再做一次。**元技能是学会不断发现下一个进化，并将自己定位在新可能的边缘**。
-
-This will separate people who were genuinely strategic from people who were just thorough. There’s no way around that. The system that rewarded thoroughness is breaking down. The new system rewards the ability to see what constraints just disappeared and build something new in that space.  
->这会区分真正有策略的人和单纯细致的人。这是无法回避的。奖励细致调查的体系正在崩溃。新系统奖励那些看到哪些限制刚刚消失，并在该领域构建新事物的能力。
-
-You still have time. But not much. The speed mismatch between agent capability and human adaptation is real. The companies won’t save you because they’re optimized for short-term cost reduction, not long-term workforce transformation. The educational system won’t save you because it’s too slow.  
->你还有时间。但不多。智能体能力与人类适应速度之间的速度不匹配是真实存在的。这些公司不会帮你省钱，因为它们更注重短期成本降低，而不是长期的劳动力转型。教育系统救不了你，因为它太慢了。
-
-You have to save yourself. And the way you do that is by stopping trying to defend your current role and starting to build the role that didn’t exist six months ago.  
->你得救自己。而做到这一点的方法，就是停止为现有角色辩护，开始建立六个月前还不存在的职位。
-
-Monday morning will keep coming. The question is whether you’re still wondering what you’re supposed to be good at, or whether you’ve already built the answer.  
->周一早晨还会继续。问题是你是否还在想自己应该擅长什么，还是已经找到了答案。
-
 ## 🛸开源项目
 
 #### [ai-credit](https://github.com/debugtheworldbot/ai-credit)
@@ -136,22 +101,6 @@ MAC空间清理工具，能深度扫描缓存文件，彻底卸载应用程序�
 #### [qiluo_admin](https://github.com/chelunfu/qiluo_admin)
 
 Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。
-
-#### [GreenWall](https://github.com/zmrlft/GreenWall)
-
-这个工具可以在 GitHub 提交日历上绘出指定的图形。
-
-#### [Texo](https://github.com/alephpi/Texo)
-
-开源的数学公式 OCR 引擎，通过前端加载模型，将数学公式的截图转成 LaTex 语法，[在线试用](https://texocr.netlify.app/ocr)。
-
-#### [Termix](https://github.com/LukeGus/Termix)
-
-Termix 是一个开源、永久免费、自托管的一体化服务器管理平台。它提供了一个基于 Web 的解决方案，用于通过单一、直观的界面管理您的服务器和基础设施。Termix 提供 SSH 终端访问、SSH 隧道功能和远程文件配置编辑，还有更多工具即将推出。
-
-#### [copyparty](https://github.com/9001/copyparty)
-
-将几乎任何设备变成文件服务器，使用任何网络浏览器可以恢复上传/下载，支持https、webdav、ftp等多种协议。
 
 ## 🚀网站&工具
 
@@ -455,22 +404,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 以图搜图的网站，帮你找到图片的原始出处。
 
-#### [pro notes](https://www.pronotes.app/)
-
-增强apple notes 的插件，提供了便捷的格式化工具、Markdown 支持、斜杠命令以及双向链接功能，帮助用户快速编辑和组织笔记。此外，ProNotes 集成了 AI 功能，能够自动补全句子、改善写作、总结内容和修正语法。
-
-#### [ui prompt](https://uiprompt.art/)
-
-该网站收录了各种设计风格和页面类型的 AI 生成界面，每个界面都附带相应的提示词。你只需复制并稍微调整这些提示词，就能用AI生成类似的界面。
-
-#### [freegmail](https://freegmail.go24.info/)
-
-免费的gmail临时邮箱
-
-#### [night train map](https://back-on-track.eu/night-train-map/)
-
-欧洲夜班火车地图，网站设计和交互做的很舒服。
-
 ## ⛵资料&博文
 
 #### [claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
@@ -494,10 +427,3 @@ Cloudflare 的 2025 年互联网年度回顾，很有意思的一份报告。
 
 一篇很有意思的科普文章，质疑关于在太空创建数据中心的合理性，太空数据中心建设的成本和需要克服的困难远大于在地面建设的成本，比如需要更大面积的散热、数据传输的时间延迟等。
 
-#### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-
-开源的英文电子书，介绍强化学习的基础数学知识。
-
-#### [huggingface](https://huggingface.co/learn)
-
-`HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。

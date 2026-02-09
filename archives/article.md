@@ -1,5 +1,42 @@
 # article
 
+## 【06】20260202 - 20260208
+
+#### [your job isnt disappearing its shrinking](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+
+The problem isn’t that the robots are coming. **It’s that you don’t know what you’re supposed to be good at anymore.**
+>问题不在于机器人会来。 **而是你已经不知道自己应该擅长什么了。**
+
+The meta-skill is this: **learning to spot what becomes possible when a constraint disappears**, then building your value around that new possibility.  
+>元技能是：**学会识别约束消失后可能发生的事**，然后围绕这个新可能性构建你的价值。
+
+You’re not going to solve this by being better at your current job. That job is dissolving under you in real time.  
+>你不会通过在当前工作上变得更好来解决这个问题。这份工作正在你眼前实时消散。
+
+You’re not going to solve it by learning the tools better. The tools will get easier to use without you.  
+>你不会通过更好地学习工具来解决这个问题。没有你，这些工具会变得更容易使用。
+
+You’re not going to solve it by going deeper into your specialty. That specialty is being automated.  
+>你不会通过深入你的专业领域来解决这个问题。这个专业正在自动化。
+
+What works is this: **become the person who spots what just became possible and builds your value around that new capabilit**y. Use agents to remove constraints that previously limited what you could do. Become the orchestrator of scale that didn’t exist before.  
+>有效的方法是：**成为那个发现刚刚可能实现的东西，并围绕这个新能力y构建价值的人**。利用代理消除之前限制你行动的限制。成为以前不存在的规模协调者。
+
+This isn’t a permanent solution. In three to five years, you’ll need to do it again. **The meta-skill is learning to continuously spot the next evolution and position yourself at the edge of what’s newly possible**.  
+>这不是永久的解决方案。三到五年后，你还得再做一次。**元技能是学会不断发现下一个进化，并将自己定位在新可能的边缘**。
+
+This will separate people who were genuinely strategic from people who were just thorough. There’s no way around that. The system that rewarded thoroughness is breaking down. The new system rewards the ability to see what constraints just disappeared and build something new in that space.  
+>这会区分真正有策略的人和单纯细致的人。这是无法回避的。奖励细致调查的体系正在崩溃。新系统奖励那些看到哪些限制刚刚消失，并在该领域构建新事物的能力。
+
+You still have time. But not much. The speed mismatch between agent capability and human adaptation is real. The companies won’t save you because they’re optimized for short-term cost reduction, not long-term workforce transformation. The educational system won’t save you because it’s too slow.  
+>你还有时间。但不多。智能体能力与人类适应速度之间的速度不匹配是真实存在的。这些公司不会帮你省钱，因为它们更注重短期成本降低，而不是长期的劳动力转型。教育系统救不了你，因为它太慢了。
+
+You have to save yourself. And the way you do that is by stopping trying to defend your current role and starting to build the role that didn’t exist six months ago.  
+>你得救自己。而做到这一点的方法，就是停止为现有角色辩护，开始建立六个月前还不存在的职位。
+
+Monday morning will keep coming. The question is whether you’re still wondering what you’re supposed to be good at, or whether you’ve already built the answer.  
+>周一早晨还会继续。问题是你是否还在想自己应该擅长什么，还是已经找到了答案。
+
 ## 【05】20260126 - 20260201
 
 #### [they lied to you building software is really hard](https://blog.nordcraft.com/they-lied-to-you-building-software-is-really-hard)
