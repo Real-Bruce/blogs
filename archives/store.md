@@ -104,6 +104,10 @@ Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。
 
 ## 🚀网站&工具
 
+#### [seeking blue.](https://seekingblue.org/)
+
+把数十万篇百科文章映射到 3D 地球模型上，可以很直观地看到和某个地点相关的百科内容。
+
 #### [world monitor](https://world-monitor.com/)
 
 以地图的形式展示当前世界正在发送的热点事件。
