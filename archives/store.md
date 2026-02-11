@@ -104,6 +104,18 @@ Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。
 
 ## 🚀网站&工具
 
+#### [world monitor](https://world-monitor.com/)
+
+以地图的形式展示当前世界正在发送的热点事件。
+
+#### [indo european explorer](https://indo-european-explorer.com/)
+
+可视化英语、西班牙语、印地语和 400 多种语言在 6000 年时间中是如何发展的。
+
+#### [map genie](https://mapgenie.io/)
+
+收集了各种游戏地图，还可以进行标注和分享。
+
 #### [antirender](https://antirender.com/)
 
 这个网站可以把效果图改在冬季的阴雨天，从而显示建筑的真实样貌。
