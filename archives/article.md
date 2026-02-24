@@ -1,5 +1,9 @@
 # article
 
+## 【07 08】20260209 - 20260222
+
+春节放假啦！
+
 ## 【06】20260202 - 20260208
 
 #### [your job isnt disappearing its shrinking](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)

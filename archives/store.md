@@ -98,8 +98,6 @@ OceanBase 团队推出的一款开源 AI 数据库，支持向量计算，兼容
 
 一个基于 Next.js 的静态博客网站模版。
 
-
-
 ## 🚀网站&工具
 
 #### [open trace](https://opentrace.app/)
@@ -185,8 +183,6 @@ Quiver Quantitative 投资工具很有意思，可以跟踪美国国会成员的
 #### [chatmemo](https://chatmemo.ai/)
 
 能够自动保存 ChatGPT、DeepSeek、Gemini 等平台的聊天记录，并提供本地存储和智能搜索功能。用户可以轻松将零散的对话整合为一个私密的知识库，同时保护个人隐私。
-
-
 
 #### [工资计算器](https://www.xinrenxinshi.com/calculator)
 
@@ -406,12 +402,8 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总长约1小时
 
-
-
 #### [cloudflare 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
 
 Cloudflare 的 2025 年互联网年度回顾，很有意思的一份报告。
 // todo 20260106 待完整阅读
-
-
 

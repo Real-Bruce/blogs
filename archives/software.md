@@ -1,5 +1,31 @@
 # software
 
+## 【07 08】20260209 - 20260222
+
+#### [davia](https://github.com/davialabs/davia)
+
+Davia 是一个**开源工具**，可为您的本地代码库生成**交互式内部文档**。将其指向项目路径，它会在本地写入文档文件，其中包含**交互式可视化**和**可编辑的白板**，您可以在**类似 Notion 的平台**或本地的 **IDE** 中编辑这些文件。
+
+#### [Mole](https://github.com/tw93/Mole)
+
+MAC空间清理工具，能深度扫描缓存文件，彻底卸载应用程序及残留，目前项目处在中期阶段。
+
+#### [paper-burner-x](https://github.com/Feather-2/paper-burner-x)
+
+开源的 Web 服务，使用 AI 处理文献，提供文档翻译、智能对话、高效阅读。
+
+#### [Vibe Voice Fusion](https://github.com/zhao-kun/VibeVoiceFusion)
+
+开源 Web 应用，生成多说话人的合成语音，具备声音克隆功能。
+
+#### [smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)
+
+手绘程序 Excalidraw 的 AI 版，使用自然语言让 AI 生成手绘风格的示意图，[在线试用](https://smart-excalidraw.aizhi.site/)。
+
+#### [qiluo_admin](https://github.com/chelunfu/qiluo_admin)
+
+Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。
+
 ## 【06】20260202 - 20260208
 
 #### [GreenWall](https://github.com/zmrlft/GreenWall)

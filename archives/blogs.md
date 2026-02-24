@@ -1,5 +1,19 @@
 # blogs
 
+## 【07 08】20260209 - 20260222
+
+#### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
+
+一篇很有意思的科普文章，质疑关于在太空创建数据中心的合理性，太空数据中心建设的成本和需要克服的困难远大于在地面建设的成本，比如需要更大面积的散热、数据传输的时间延迟等。
+
+#### [一小时之内了解金融和投资的知识](https://www.youtube.com/watch?v=WEDIj9JBTC8)
+
+这个视频很适合投资小白，来源 Pershing Square 资本管理公司 CEO William Ackman，虽然是 13 年前的分享，但是很有价值，他用柠檬水生意把金融和投资讲得很简单易懂，很多结论放到今天依然成立。
+
+#### [http caching refresher](https://danburzo.ro/http-caching-refresher/)
+
+HTTP 缓存机制的一个总体介绍，梳理浏览器缓存的处理逻辑。
+
 ## 【06】20260202 - 20260208
 
 #### [Book Mathematical Foundation of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
