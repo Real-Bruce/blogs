@@ -26,6 +26,10 @@
 
 ## 🛸开源项目
 
+#### [JadeAI](https://github.com/twwch/JadeAI)
+
+基于 Next.js 的智能简历生成器，支持拖拽编辑、实时 AI 优化、50 套专业模板打造简历。
+
 #### [beautiful mermaid](https://github.com/lukilabs/beautiful-mermaid)
 
 非常漂亮的 Mermaid 渲染器，很干净舒服，专为 AI 时代设计，来自 Craft 团队。
@@ -123,6 +127,14 @@ OceanBase 团队推出的一款开源 AI 数据库，支持向量计算，兼容
 一个基于 Next.js 的静态博客网站模版。
 
 ## 🚀网站&工具
+
+#### [Horizon](https://thysrael.github.io/Horizon/)
+
+ Python 项目，从自定义的多个信息源收集新闻，进行筛选和摘要，生成一份日报。
+
+#### [openapi to skills](https://neutree.ai/projects/openapi-to-skills)
+
+将大型的 OpenAPI 文档转为按需加载的 Skills 结构，用来精确执行某个接口，以及减少 Token 消耗和幻觉。
 
 #### [open trace](https://opentrace.app/)
 
@@ -421,6 +433,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 以图搜图的网站，帮你找到图片的原始出处。
 
 ## ⛵资料&博文
+
+#### [Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)
+
+包含10个完整章节的 Claude Code 中文教程仓库。
 
 #### [claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
 
