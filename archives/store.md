@@ -26,6 +26,10 @@
 
 ## 🛸开源项目
 
+#### [wereadexporter](https://github.com/onyas/weread-exporter)
+
+将微信读书的划线、笔记和书评导出为 Markdown 文件。
+
 #### [JadeAI](https://github.com/twwch/JadeAI)
 
 基于 Next.js 的智能简历生成器，支持拖拽编辑、实时 AI 优化、50 套专业模板打造简历。
