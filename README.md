@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/02/23 - 2026/03/01[Vol.077 ](./weekly/)
+
 #### 2026/02/09 - 2026/02/22 [Vol.076 春节假期](./weekly/Vol076.md)
 
 #### 2026/02/02 - 2026/02/08 [Vol.075 your job isn't disappearing its shrinking](./weekly/Vol075.md)
