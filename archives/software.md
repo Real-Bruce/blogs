@@ -1,5 +1,23 @@
 # software
 
+## 【09】20260223 - 20260301
+
+#### [nano banana pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
+
+这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。
+
+#### [seekdb](https://github.com/oceanbase/seekdb)
+
+OceanBase 团队推出的一款开源 AI 数据库，支持向量计算，兼容 MySQL。
+
+#### [nodebbs](https://github.com/aiprojecthub/nodebbs)
+
+一个基于 Turborepo 单体仓库架构构建的现代化、高性能论坛平台。
+
+#### [2025-blog-public](https://github.com/YYsuni/2025-blog-public)
+
+一个基于 Next.js 的静态博客网站模版。
+
 ## 【07 08】20260209 - 20260222
 
 #### [davia](https://github.com/davialabs/davia)

@@ -1,5 +1,11 @@
 # blogs
 
+## 【09】20260223 - 20260301
+
+#### [claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
+
+Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总长约1小时。
+
 ## 【07 08】20260209 - 20260222
 
 #### [datacenters in space are a terrible horrible no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
