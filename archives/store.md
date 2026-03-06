@@ -38,6 +38,22 @@ The key idea here is that coding agents mean we only ever need to figure out a u
 
 ## 🛸开源项目
 
+#### [magic resume](https://github.com/JOYCEQL/magic-resume)
+
+Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 TanStack Start 和 Motion 构建，支持实时预览和自定义主题。
+
+#### [skills manager](https://github.com/xingkongliang/skills-manager)
+
+一个 macOS 桌面应用，统一管理 Skill 文件，保存在目录 ~/.skills-manager 目录，然后一键同步到各种 AI 工具。
+
+#### [no agents](https://codeberg.org/rossabaker/no-agents.md)
+
+通过`AGENTS.md`拒绝人工智能代理的项目。
+
+#### [gorse](https://github.com/gorse-io/gorse)
+
+开源的推荐引擎，会自动对数据进行训练，为每个用户生成推荐，方便接入各种在线服务。
+
 #### [voxt](https://github.com/hehehai/voxt)
 
 macOS 应用，用于语音转文本、语音的实时翻译。
@@ -425,6 +441,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 收集各类博客集合的网站，大部分博客都是保持更新的，帮你找到你感兴趣的内容。
 
 ## ⛵资料&博文
+
+#### [MicroGPT explained interactively](https://growingswe.com/blog/microgpt)
+
+本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法。
 
 #### [我把自己做成了一个 AI](https://luolei.org/luolei-ai)
 
