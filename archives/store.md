@@ -20,7 +20,6 @@ One of my favorite prompting patterns is to tell an agent to build something new
 The key idea here is that coding agents mean we only ever need to figure out a useful trick _once_. If that trick is then documented somewhere with a working code example our agents can consult that example and use it to solve any similar shaped project in the future.  
 >关键思想是编码代理意味着我们只需要弄出_一次_有用的技巧。如果这个技巧在某处有文档并附有可行的代码示例，我们的代理可以参考该示例，并用它来解决未来类似的项目。
 
-
 #### [我的退休计划：把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/)
 
 > **工作和上班完全是两码事。** 工作是创造价值、实现自我乃至改变世界；而上班，本质上是你把自己的时间和精力打包，批发卖给一家公司以换取生存资料。很多人即使退休了依然会拼命工作，但他们绝不会再去上班。
@@ -414,6 +413,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 收集各类博客集合的网站，大部分博客都是保持更新的，帮你找到你感兴趣的内容。
 
 ## ⛵资料&博文
+
+#### [我把自己做成了一个 AI](https://luolei.org/luolei-ai)
+
+作者记录了，如何将自己十几年的博客、视频和社交媒体，训练成一个数字版的个人分身，对外提供聊天服务。他分别用6个模型训练，就可以6个版本的分身。
 
 #### [Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)
 
