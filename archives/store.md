@@ -1,5 +1,26 @@
 ## 📜有价值的文章
 
+#### [Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/)
+
+Many of my tips for working productively with coding agents are extensions of advice I've found useful in my career without them. Here's a great example of that: **hoard things you know how to do**.  
+>我许多关于高效与编码代理合作的建议，都是我职业生涯中发现有用的建议的延伸，没有他们。这里有一个很好的例子：**囤积你会做的事情**。
+
+A big part of the skill in building software is understanding what's possible and what isn't, and having at least a rough idea of how those things can be accomplished.  
+>构建软件的很大一部分技能是理解什么是可能，什么是不可能，并且至少对这些事情有个大致的理解。
+
+Knowing that something is theoretically possible is not the same as having seen it done for yourself. A key asset to develop as a software professional is a deep collection of answers to questions like this, ideally illustrated by running code.  
+>知道某件事理论上可能，和亲眼见过它做过是不一样的。作为软件专业人士，培养的关键资产之一是对这类问题有丰富的答案，最好通过运行代码来展示。
+
+Why collect all of this stuff? Aside from helping you build and extend your own abilities, the assets you generate along the way become incredibly powerful inputs for your coding agents.  
+>为什么要收集这么多东西？除了帮助你构建和扩展自身能力外，你在过程中生成的资产也成为编码代理极具影响力的输入。
+
+One of my favorite prompting patterns is to tell an agent to build something new by combining two or more existing working examples.  
+>我最喜欢的提示模式之一是告诉代理通过结合两个或多个现有的工作示例来构建新东西。
+
+The key idea here is that coding agents mean we only ever need to figure out a useful trick _once_. If that trick is then documented somewhere with a working code example our agents can consult that example and use it to solve any similar shaped project in the future.  
+>关键思想是编码代理意味着我们只需要弄出_一次_有用的技巧。如果这个技巧在某处有文档并附有可行的代码示例，我们的代理可以参考该示例，并用它来解决未来类似的项目。
+
+
 #### [我的退休计划：把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/)
 
 > **工作和上班完全是两码事。** 工作是创造价值、实现自我乃至改变世界；而上班，本质上是你把自己的时间和精力打包，批发卖给一家公司以换取生存资料。很多人即使退休了依然会拼命工作，但他们绝不会再去上班。
