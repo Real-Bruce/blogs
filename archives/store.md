@@ -156,6 +156,10 @@ macos小工具，统计键盘敲击次数。
 
 ## 🚀网站&工具
 
+#### [now i get it](https://nowigetit.us/)
+
+上传一个科学论文 PDF 文件，该网站将其转成一个互动式网页（上图），用浅显英语来解释论文，目前是免费服务。
+
 #### [Horizon](https://thysrael.github.io/Horizon/)
 
  Python 项目，从自定义的多个信息源收集新闻，进行筛选和摘要，生成一份日报。
