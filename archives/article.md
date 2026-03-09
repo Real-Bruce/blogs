@@ -1,5 +1,33 @@
 # article
 
+## 【10】20260302 - 20260308
+
+#### [Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/)
+
+Many of my tips for working productively with coding agents are extensions of advice I've found useful in my career without them. Here's a great example of that: **hoard things you know how to do**.
+
+> 我许多关于高效与编码代理合作的建议，都是我职业生涯中发现有用的建议的延伸，没有他们。这里有一个很好的例子：**囤积你会做的事情**。
+
+A big part of the skill in building software is understanding what's possible and what isn't, and having at least a rough idea of how those things can be accomplished.
+
+> 构建软件的很大一部分技能是理解什么是可能，什么是不可能，并且至少对这些事情有个大致的理解。
+
+Knowing that something is theoretically possible is not the same as having seen it done for yourself. A key asset to develop as a software professional is a deep collection of answers to questions like this, ideally illustrated by running code.
+
+> 知道某件事理论上可能，和亲眼见过它做过是不一样的。作为软件专业人士，培养的关键资产之一是对这类问题有丰富的答案，最好通过运行代码来展示。
+
+Why collect all of this stuff? Aside from helping you build and extend your own abilities, the assets you generate along the way become incredibly powerful inputs for your coding agents.
+
+> 为什么要收集这么多东西？除了帮助你构建和扩展自身能力外，你在过程中生成的资产也成为编码代理极具影响力的输入。
+
+One of my favorite prompting patterns is to tell an agent to build something new by combining two or more existing working examples.
+
+> 我最喜欢的提示模式之一是告诉代理通过结合两个或多个现有的工作示例来构建新东西。
+
+The key idea here is that coding agents mean we only ever need to figure out a useful trick _once_. If that trick is then documented somewhere with a working code example our agents can consult that example and use it to solve any similar shaped project in the future.
+
+> 关键思想是编码代理意味着我们只需要弄出 _一次_ 有用的技巧。如果这个技巧在某处有文档并附有可行的代码示例，我们的代理可以参考该示例，并用它来解决未来类似的项目。
+
 ## 【09】20260223 - 20260301
 
 #### [不必用自己的认知替人规划](https://blog.solazy.me/20260224/)
@@ -34,7 +62,7 @@ You’re not going to solve it by going deeper into your specialty. That special
 >你不会通过深入你的专业领域来解决这个问题。这个专业正在自动化。
 
 What works is this: **become the person who spots what just became possible and builds your value around that new capabilit**y. Use agents to remove constraints that previously limited what you could do. Become the orchestrator of scale that didn’t exist before.  
->有效的方法是：**成为那个发现刚刚可能实现的东西，并围绕这个新能力y构建价值的人**。利用代理消除之前限制你行动的限制。成为以前不存在的规模协调者。
+>有效的方法是：**成为那个发现刚刚可能实现的东西，并围绕这个新能力 y 构建价值的人**。利用代理消除之前限制你行动的限制。成为以前不存在的规模协调者。
 
 This isn’t a permanent solution. In three to five years, you’ll need to do it again. **The meta-skill is learning to continuously spot the next evolution and position yourself at the edge of what’s newly possible**.  
 >这不是永久的解决方案。三到五年后，你还得再做一次。**元技能是学会不断发现下一个进化，并将自己定位在新可能的边缘**。
@@ -55,7 +83,7 @@ Monday morning will keep coming. The question is whether you’re still wonderin
 
 #### [they lied to you building software is really hard](https://blog.nordcraft.com/they-lied-to-you-building-software-is-really-hard)
 
-一篇关于开发工程师学习的内容，讲到目前AI编程工具让代码开发变的更简单，但是频繁使用AI生成代码，会导致开发工程师自身的能力下降。那些让你头疼痛苦的学习过程让你对知识的理解更深刻，那些你学过的可能已经过时的代码让你后面的学习速度变得更快，所以：“投资你自己！”做哪些困难的事情，一定会有收获的。类似的文章还有这一篇：[I tried coding with ai i became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
+一篇关于开发工程师学习的内容，讲到目前 AI 编程工具让代码开发变的更简单，但是频繁使用 AI 生成代码，会导致开发工程师自身的能力下降。那些让你头疼痛苦的学习过程让你对知识的理解更深刻，那些你学过的可能已经过时的代码让你后面的学习速度变得更快，所以：“投资你自己！”做哪些困难的事情，一定会有收获的。类似的文章还有这一篇：[I tried coding with ai i became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 下面是我摘抄的内容：
 
 The reality is that if your goal is to become a software developer, relying on these tools early on often ends up slowing you down. You get the illusion of progress early on, but the flat learning curve just means that it will take much longer to learn all the things you need.  When you eventually face a problem that the tool cannot solve for you, you will be back at where you started having to learn everything from scratch.  
@@ -65,7 +93,7 @@ The great thing about a steep learning curve is that you progress a lot faster.
 >陡峭的学习曲线的好处是你进步得更快。
 
 The true value of a software engineer is in our ability to analyze problems as well as design and implement creative solutions. To get good at these skills you need to understand not just the tools at your disposal but also the technologies you are building on top of. If you don’t understand how an application works then you have no chance of fixing its bugs and issues.   
->软件工程师的真正价值在于我们分析问题的能力，以及设计和实施创造性解决方案的能力。要掌握这些技能，你不仅需要了解手头的工具，还要了解你所构建的技术。如果你不了解应用的工作原理，就没有修复它的bug和问题的机会。
+>软件工程师的真正价值在于我们分析问题的能力，以及设计和实施创造性解决方案的能力。要掌握这些技能，你不仅需要了解手头的工具，还要了解你所构建的技术。如果你不了解应用的工作原理，就没有修复它的 bug 和问题的机会。
 
 Invest in yourself.   
 >投资于自己。 
@@ -149,12 +177,12 @@ But even if you do regret it, social media excels at making you return. A physic
 >但即使你后悔，社交媒体也非常擅长让你回归。实体赌场只能在你身处其内时扭曲你的时间。社交媒体总是触手可及。而且它总能让你去追求它。
 
 This creates problems of its own. Continually dividing your attention between two worlds means you can never fully settle in either, creating constant anxiety and stress. And when attention is constantly switching between concurrent tasks, it imposes a “[switch-cost effect](https://www.apa.org/topics/research/multitasking)” that can make people [lose track of time](https://link.springer.com/article/10.3758/BF03205526). Thus, by constantly interrupting you, social media platforms can impair your awareness and shorten your days even while you’re not on them, so that you end up scrolling through the real world as shallowly as the virtual one.  
->这本身就带来了问题。不断将注意力分散在两个世界之间，意味着你永远无法真正安顿下来，带来持续的焦虑和压力。当注意力不断在同时进行的任务间切换时，会产生“[切换成本效应](https://www.apa.org/topics/research/multitasking)”，可能导致人们[忘记时间。](https://link.springer.com/article/10.3758/BF03205526)因此，社交媒体平台不断打断你，可能会削弱你的意识，缩短你的一天，即使你不在它们上，也会让你在现实世界中像虚拟世界一样浅薄地浏览。
+>这本身就带来了问题。不断将注意力分散在两个世界之间，意味着你永远无法真正安顿下来，带来持续的焦虑和压力。当注意力不断在同时进行的任务间切换时，会产生“[切换成本效应](https://www.apa.org/topics/research/multitasking)”，可能导致人们 [忘记时间。](https://link.springer.com/article/10.3758/BF03205526) 因此，社交媒体平台不断打断你，可能会削弱你的意识，缩短你的一天，即使你不在它们上，也会让你在现实世界中像虚拟世界一样浅薄地浏览。
 
 ##### IV. TAKING TIME BACK
 
 We’ve already learned the techniques that attention engineers use to speed up time. So, if we can adopt the _opposite_ techniques, we might just be able to slow time, and in so doing, experience longer, richer lives.  
->我们已经学会了注意力工程师用来加快时间的技巧。所以，如果我们能采用_相反_的技巧，或许就能减缓时间，从而体验更长、更丰富的生命。
+>我们已经学会了注意力工程师用来加快时间的技巧。所以，如果我们能采用 _ 相反 _ 的技巧，或许就能减缓时间，从而体验更长、更丰富的生命。
 
 Curvilinear mazes speed up time because little within them sticks out to attention or into memory. So what does stick out and in? Salient stimuli: surprises, stories, (strong) sentiments, and selections. Social media gives you the illusion of these things, but it’s actually their killer.  
 >曲线迷宫加快了时间，因为其中几乎没有什么特别突出或记忆中的元素。那么，哪些是突出的，哪些是内侧的？显著刺激：惊喜、故事、（强烈的）情感和选择。社交媒体给你制造这些幻象，但实际上它是杀手。
@@ -174,7 +202,7 @@ To make life feel longer, choose experiences that are novel over familiar, inten
 ##### V. REMEMBERING TO REMEMBER
 
 Modern research is starting to confirm what the ancients had long known; that reminding yourself that you’ll die doesn’t typically increase anxiety for the future (it might [actually](https://www.researchgate.net/publication/353452316_Memento_mori_Effects_of_mortality_awareness_on_attitudes_toward_dying_and_death_and_meaning_in_life) [reduce](https://www.researchgate.net/publication/328763634_Memento_Mori_The_development_and_validation_of_the_Death_Reflection_Scale) it), but it does [increase](https://www.tandfonline.com/doi/full/10.1080/17439760.2011.558848) [appreciation](https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/Reflecting-on-death-Priorities-for-living-well-1.pdf) [for](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1477479/full) [the](https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2230549) [present](https://www.sciencedaily.com/releases/2012/04/120419102516.htm). Without remembering our own impermanence, we’re liable to live as if we’d never die, and hence, die as if we’d never lived.  
->现代研究开始证实古人早已知道的事实：提醒自己你会死，通常不会增加对未来的焦虑（实际上 [](https://www.researchgate.net/publication/353452316_Memento_mori_Effects_of_mortality_awareness_on_attitudes_toward_dying_and_death_and_meaning_in_life)可能会[减轻](https://www.researchgate.net/publication/328763634_Memento_Mori_The_development_and_validation_of_the_Death_Reflection_Scale)），但会[增加](https://www.tandfonline.com/doi/full/10.1080/17439760.2011.558848) 对 [当下](https://www.sciencedaily.com/releases/2012/04/120419102516.htm)的[感激](https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/Reflecting-on-death-Priorities-for-living-well-1.pdf) [感](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1477479/full)激[](https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2230549)。如果不记得自己的无常，我们很容易活得仿佛永远不会死去，因此也会像从未活过一样死去。
+>现代研究开始证实古人早已知道的事实：提醒自己你会死，通常不会增加对未来的焦虑（实际上 [](https://www.researchgate.net/publication/353452316_Memento_mori_Effects_of_mortality_awareness_on_attitudes_toward_dying_and_death_and_meaning_in_life) 可能会 [减轻](https://www.researchgate.net/publication/328763634_Memento_Mori_The_development_and_validation_of_the_Death_Reflection_Scale)），但会 [增加](https://www.tandfonline.com/doi/full/10.1080/17439760.2011.558848) 对 [当下](https://www.sciencedaily.com/releases/2012/04/120419102516.htm) 的 [感激](https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/Reflecting-on-death-Priorities-for-living-well-1.pdf) [感](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1477479/full) 激 [](https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2230549)。如果不记得自己的无常，我们很容易活得仿佛永远不会死去，因此也会像从未活过一样死去。
 
 The key to maintaining a memorable life is to fill your feeds, and life, with these right-angle turns.  
 >保持难忘生活的关键是用这些直角转折来填满你的信息流和生活。

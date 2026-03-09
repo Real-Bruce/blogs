@@ -1,10 +1,16 @@
 # blogs
 
+## 【10】20260302 - 20260308
+
+#### [MicroGPT explained interactively](https://growingswe.com/blog/microgpt)
+
+本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法。
+
 ## 【09】20260223 - 20260301
 
 #### [claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
 
-Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总长约1小时。
+Anthropic 官方的 Claude Code 免费入门教程，一共 15 节视频课，总长约 1 小时。
 
 ## 【07 08】20260209 - 20260222
 
@@ -28,7 +34,7 @@ HTTP 缓存机制的一个总体介绍，梳理浏览器缓存的处理逻辑。
 
 #### [huggingface](https://huggingface.co/learn)
 
-`HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
+`HuggingFace` 推出 9 门全免费开源 AI 课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
 
 ## 【05】20260126 - 20260201
 
@@ -77,13 +83,13 @@ HTTP 缓存机制的一个总体介绍，梳理浏览器缓存的处理逻辑。
 
 #### [liquid glass css svg](https://kube.io/blog/liquid-glass-css-svg/)
 
-作者使用CSS和SVG实现了苹果的液态玻璃效果，最终的效果很惊艳。
+作者使用 CSS 和 SVG 实现了苹果的液态玻璃效果，最终的效果很惊艳。
 
 ## 【01】20251228 - 20260104
 
 #### [gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips)
 
-作者给出了使用 Gemini Cli 的一些小技巧，很有趣能帮你更好的使用AI。
+作者给出了使用 Gemini Cli 的一些小技巧，很有趣能帮你更好的使用 AI。
 
 #### [A system to organise your life](https://johnnydecimal.com/)
 

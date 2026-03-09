@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/03/02 - 2026/03/08 [Vol.078 Hoard things you know how to do](./weekly/Vol078.md)
+
 #### 2026/02/23 - 2026/03/01[Vol.077 不必用自己的认知替人规划](./weekly/Vol077.md)
 
 #### 2026/02/09 - 2026/02/22 [Vol.076 春节假期](./weekly/Vol076.md)
