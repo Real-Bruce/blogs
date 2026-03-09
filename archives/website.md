@@ -2,6 +2,22 @@
 
 ## 【10】20260302 - 20260308
 
+#### [Life Time Visualizer](https://karthicobla.github.io/LifeTimeVisualizer/)
+
+生命网格，用网格的形式展示你剩余的时间，提醒你珍惜时间努力追求目标。
+
+#### [metro line hub](https://www.metrolinehub.com/zh)
+
+这个网站收集了全球各大城市的地铁地图。
+
+#### [best travel translator](https://besttraveltranslator.com/)
+
+出国旅游翻译网站，支持对话翻译和拍照翻译。
+
+#### [ooh directory](https://ooh.directory/)
+
+收集各类博客集合的网站，大部分博客都是保持更新的，帮你找到你感兴趣的内容。
+
 ## 【09】20260223 - 20260301
 
 #### [中国医院及专科声誉排行榜](https://rank.cn-healthcare.com/)
