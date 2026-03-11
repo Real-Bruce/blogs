@@ -18,6 +18,10 @@
 
 ## 🛸开源项目
 
+#### [openfang](https://github.com/RightNow-AI/openfang)
+
+OpenFang 是一个**开源的代理作系统**——不是聊天机器人框架，不是围绕大型语言模型的 Python 包装器，更不是“多代理编排器”。它是一个完整的自主代理作系统，从零开始用 Rust 构建。
+
 #### [block-kit](https://github.com/Steven-Qiang/block-kit)
 
 一个功能强大的多平台油猴脚本，支持通过关键词搜索并批量拉黑营销账号和垃圾用户。
