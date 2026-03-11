@@ -18,6 +18,10 @@
 
 ## 🛸开源项目
 
+#### [block-kit](https://github.com/Steven-Qiang/block-kit)
+
+一个功能强大的多平台油猴脚本，支持通过关键词搜索并批量拉黑营销账号和垃圾用户。
+
 #### [PUA Claw](https://github.com/puaclaw/PUAClaw/)
 
 对小龙虾（OpenClaw，能执行多种任务的 AI 助理）进行 PUA 的话术。
