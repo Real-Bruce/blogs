@@ -386,6 +386,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [microgpt](https://growingswe.com/blog/microgpt)
+
+这个是基于 Andrej Karpathy 用大约 200 行 Python 代码实现的 GPT，并以可视化的方式解释了语言模型的工作原理的学习网站，值得看看。
+
+#### [Learn Claude Code](https://learn.shareai.run/zh/)
+
+从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制。
+
 #### [ Claude Code：架构、治理与工程实践](https://tw93.fun/2026-03-12/claude.html)
 
 TW93 大佬写的，围绕上下文管理、Skills、Hooks、Subagents、Prompt Caching 以及 CLAUDE.md 的设计展开，重点讨论怎样让协作过程更稳定、更可控，偏工程师技术视角的最佳实践，欢迎大伙一起最佳交流。
