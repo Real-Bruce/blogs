@@ -2,6 +2,22 @@
 
 ## 【11】20260309 - 20260315
 
+#### [video compressors](https://videocompressors.com/zh)
+
+纯前端的视频压缩，直接调用 GPU 进行硬件加速。
+
+#### [noteslide](https://codia.ai/noteslide)
+
+使用 Codia AI Vision 将 NotebookLM PDF 或图片幻灯片转换为可完全编辑的主题演讲或 PowerPoint 演示文稿。
+
+#### [Future Style Periodic Table](https://seanwong17.github.io/Future-Style-Periodic-Table/)
+
+开源的可视化元素周期表，会展示核外电子排布。
+
+#### [fontsniff](https://fontsniff.com/zh/font-identification)
+
+ 上传文本图片，自动识别使用了什么字体。
+
 ## 【10】20260302 - 20260308
 
 #### [Life Time Visualizer](https://karthicobla.github.io/LifeTimeVisualizer/)

@@ -1,5 +1,11 @@
 # blogs
 
+## 【11】20260309 - 20260315
+
+#### [我把自己做成了一个 AI](https://luolei.org/luolei-ai)
+
+作者记录了，如何将自己十几年的博客、视频和社交媒体，训练成一个数字版的个人分身，对外提供聊天服务。他分别用 6 个模型训练，就可以 6 个版本的分身。
+
 ## 【10】20260302 - 20260308
 
 #### [MicroGPT explained interactively](https://growingswe.com/blog/microgpt)

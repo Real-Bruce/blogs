@@ -1,5 +1,23 @@
 # software
 
+## 【11】20260309 - 20260315
+
+#### [Deck](https://github.com/yuzeguitarist/Deck)
+
+macOS 剪贴板管理的开源桌面应用，支持 Touch ID 保护和端到端加密。
+
+#### [pomo](https://github.com/Bahaaio/pomo)
+
+使用 Bubble Tea 构建的终端番茄时钟很好玩的项目。
+
+#### [toad](https://github.com/batrachianai/toad)
+
+统一 AI 界面的终端 Toad ，借助 ACP 协议，编码代理在一个漂亮的终端界面下无缝运行。
+
+#### [MemOS](https://github.com/MemTensor/MemOS)
+
+**MemOS** 是一个面向大型语言模型（LLM）和人工智能代理的内存作系统，统一了**存储/检索/管理**，实现**了长期记忆**的上下文**感知和个性化**交互，内置了知识库、**多模态**、**工具存储**器和**企业级**优化功能。
+
 ## 【10】20260302 - 20260308
 
 #### [pure genealogy](https://github.com/yunfengsa/pure-genealogy)
