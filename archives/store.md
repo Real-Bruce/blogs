@@ -410,6 +410,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [i designed some more user friendly methods for multi factor authentication](https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication)
+
+很有趣的一篇博客，作者设计了很多有意思的多因素验证器，比如：从 52 张扑克牌内每次按顺序选出 5 张牌、每次用同样的方法和验证器下一盘国际象棋、每次按一定的速度打字等等。
+
 #### [microgpt](https://growingswe.com/blog/microgpt)
 
 这个是基于 Andrej Karpathy 用大约 200 行 Python 代码实现的 GPT，并以可视化的方式解释了语言模型的工作原理的学习网站，值得看看。
