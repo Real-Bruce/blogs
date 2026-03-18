@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [wsl2 distro manager](https://github.com/bostrot/wsl2-distro-manager)
+
+
+
 #### [openfang](https://github.com/RightNow-AI/openfang)
 
 OpenFang 是一个**开源的代理作系统**——不是聊天机器人框架，不是围绕大型语言模型的 Python 包装器，更不是“多代理编排器”。它是一个完整的自主代理作系统，从零开始用 Rust 构建。
