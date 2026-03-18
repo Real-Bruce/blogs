@@ -4,7 +4,7 @@
 
 #### [wsl2 distro manager](https://github.com/bostrot/wsl2-distro-manager)
 
-
+WSL Distro Manager 是一个免费的开源应用程序，它提供了一个用户友好的图形界面来管理 Windows Subsystem for Linux（WSL）发行版。通过 WSL 发行版管理器，你可以轻松地安装、卸载、更新、备份和恢复 WSL 发行版，以及配置它们的设置，并通过一次点击启动它们。
 
 #### [openfang](https://github.com/RightNow-AI/openfang)
 
