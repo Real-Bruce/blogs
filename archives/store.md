@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [Prism](https://github.com/golangboy/Prism)
+
+ Chrome/Chromium 扩展，用来同时打开并平铺多个 AI 窗口，通过常驻控制台将消息同时发送给不同的 AI，同时查看结果。
+
 #### [agent-safehouse](https://github.com/eugene1g/agent-safehouse)
 
 在 macOS 上对 LLM 编码代理进行沙箱，让他们只能访问真正需要的文件和集成。
