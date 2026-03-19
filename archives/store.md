@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [memo-skills](https://github.com/maimemo/memo-skills)
+
+墨墨背单词 Skills，通过调用学习数据查询接口，获取学习进度、需要背的单词、复习的单词等数据。
+
 #### [Prism](https://github.com/golangboy/Prism)
 
  Chrome/Chromium 扩展，用来同时打开并平铺多个 AI 窗口，通过常驻控制台将消息同时发送给不同的 AI，同时查看结果。
