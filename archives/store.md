@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [meilisearch](https://github.com/meilisearch/meilisearch)
+
+Rust语言构建的搜索引擎，对标ElasticSearch 
+
 #### [memo-skills](https://github.com/maimemo/memo-skills)
 
 墨墨背单词 Skills，通过调用学习数据查询接口，获取学习进度、需要背的单词、复习的单词等数据。
