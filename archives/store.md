@@ -2,6 +2,22 @@
 
 ## 🛸开源项目
 
+#### [AIComicBuilder](https://github.com/twwch/AIComicBuilder)
+
+开源的 AI 动漫视频生成系统，只需输入文字剧本，即可自动完成角色提取、分镜设计、关键帧生成、视频合成的全流程。
+
+#### [aicheck](https://github.com/MatrixA/aicheck)
+
+AICheck 通过分析文件元数据和隐形水印来回答这些问题。不需要 API key，不需要联网，不需要配置。
+
+#### [wechat download api](https://github.com/tmwgsicp/wechat-download-api)
+
+开源的微信公众号转 RSS 工具。
+
+#### [aptui](https://github.com/mexirica/aptui)
+
+APTUI 是一个用 Go 编写的终端用户界面（TUI），用于管理 APT 包。浏览、搜索、安装、移除和升级套餐——全程无需离开终端。
+
 #### [meilisearch](https://github.com/meilisearch/meilisearch)
 
 Rust 语言构建的搜索引擎，对标 ElasticSearch 性能会更好一点，有一篇 [相关文章介绍](https://www.anisafifi.com/en/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/)
