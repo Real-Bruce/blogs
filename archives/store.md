@@ -4,7 +4,7 @@
 
 #### [meilisearch](https://github.com/meilisearch/meilisearch)
 
-Rust语言构建的搜索引擎，对标ElasticSearch 
+Rust 语言构建的搜索引擎，对标 ElasticSearch 性能会更好一点，有一篇 [相关文章介绍](https://www.anisafifi.com/en/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/)
 
 #### [memo-skills](https://github.com/maimemo/memo-skills)
 
