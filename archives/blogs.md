@@ -1,5 +1,15 @@
 # blogs
 
+## 【12】20260316 - 20260322
+
+#### [ Claude Code：架构、治理与工程实践](https://tw93.fun/2026-03-12/claude.html)
+
+TW93 大佬写的，围绕上下文管理、Skills、Hooks、Subagents、Prompt Caching 以及 CLAUDE.md 的设计展开，重点讨论怎样让协作过程更稳定、更可控，偏工程师技术视角的最佳实践，欢迎大伙一起最佳交流。
+
+#### [Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)
+
+包含 10 个完整章节的 Claude Code 中文教程仓库。
+
 ## 【11】20260309 - 20260315
 
 #### [我把自己做成了一个 AI](https://luolei.org/luolei-ai)

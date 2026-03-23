@@ -1,5 +1,23 @@
 # website
 
+## 【12】20260316 - 20260322
+
+#### [jina](https://r.jina.ai/)
+
+有时候你需要 AI 去读取一个线上网站的内容，很多时候由于各种原因获取不到，就可以试试这个服务，直接在后面加上你需要获取的地址，他会帮你转成很规范的 markdown，这样 AI 使用非常方便。
+
+#### [channel surfer](https://channelsurfer.tv/)
+
+把 Youtube 改成传统的电视频道，每个频道都有节目表，可以切换频道。
+
+#### [canirun](https://www.canirun.ai/)
+
+找出你的机器实际上能运行哪些 AI 模型。
+
+#### [fuelingcuriosity](https://fuelingcuriosity.com/game.html)
+
+炼油厂探索动画交互网站，展示炼油厂怎样将石油变成汽柴油。
+
 ## 【11】20260309 - 20260315
 
 #### [video compressors](https://videocompressors.com/zh)

@@ -1,5 +1,23 @@
 # software
 
+## 【12】20260316 - 20260322
+
+#### [obsidian-copy-to-mp](https://github.com/Spute/obsidian-copy-to-mp)
+
+Obsidian 的开源插件，一键将 Obsidian 笔记复制为微信公众号的格式。
+
+#### [wincron](https://github.com/ame-yu/wincron)
+
+开源的 Windows 桌面应用，用来设置和管理计划任务（cron）。
+
+#### [zerobrew](https://github.com/lucasgelfond/zerobrew)
+
+homebrew 的替代品，号称可以将软件包的安装速度提高到 5 倍以上。
+
+#### [cpx](https://github.com/11happy/cpx)
+
+Linux 基础命令 cp 的增强版，拷贝文件时带进度条，支持并发拷贝和断点续传。
+
 ## 【11】20260309 - 20260315
 
 #### [Deck](https://github.com/yuzeguitarist/Deck)

@@ -1,5 +1,9 @@
 # article
 
+## 【12】20260316 - 20260322
+
+💁本周偷懒了！
+
 ## 【11】20260309 - 20260315
 
 #### [把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/)

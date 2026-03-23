@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/03/16 - 2026/03/22 [Vol.080](./weekly/Vol080.md)
+
 #### 2026/03/09 - 2026/03/15 [Vol.079 把无期变成有期](./weekly/Vol079.md)
 
 #### 2026/03/02 - 2026/03/08 [Vol.078 Hoard things you know how to do](./weekly/Vol078.md)
