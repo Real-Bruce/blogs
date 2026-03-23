@@ -446,6 +446,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [Get inspired by what you can do with Claude](https://claude.com/resources/use-cases)
+
+从这些用 Claude 做的项目获取灵感，包括从研究、写作、编程、分析，日常工作中的各种案例，内容比我想的要深入不少。
+
 #### [Agent：原理、架构与工程实践](https://tw93.fun/2026-03-21/agent.html)
 
 TW93 大佬写的 Angent 原理、架构和工程实践，建议搭配 [你不知道的 Claude Code：架构、治理与工程实践](https://tw93.fun/2026-03-12/claude.html) 一起查看，写的特别好相信你也会很有收获。
