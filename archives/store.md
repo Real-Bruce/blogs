@@ -128,6 +128,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [apple rankings](https://applerankings.com/)
+
+很有趣的网站，全球苹果品类排名，评选最好吃的苹果。
+
 #### [cosmos daily](https://cosmosdaily.co/)
 
 这个网站将 4500 年间的天象事件和世界历史联系在一起。
