@@ -128,6 +128,26 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [cosmos daily](https://cosmosdaily.co/)
+
+这个网站将 4500 年间的天象事件和世界历史联系在一起。
+
+#### [cchistory](https://cchistory.mariozechner.at/)
+
+这个工具可以查看 Claude Code 历史每个版本的系统提示的变化。
+
+#### [drake equation](https://mendiak.github.io/drake.equation/)
+
+通过调整各种德雷克方程的参数来估算银河系中可能存在的文明数量。
+
+#### [one zoom](https://www.onezoom.org/)
+
+生命之树展示了地球上所有生命之间的联系。 在我们的互动生命树中，你可以探索两者之间的关系 **2,228,001**个物种 并且惊叹于单页可缩放的**105,508**张图片。 每片叶子代表不同的物种，枝条展示这些物种如何从共同祖先经过数十亿年进化而来。 探索物种间的关系，了解它们的共同祖先，或参加树上的导览之旅。 绕着树飞快，惊叹于地球上生命的多样性。
+
+#### [rovers land](https://www.rovers.land/)
+
+网站记录了好奇号火星探测器自 2012 年以来在火星上的旅程，包括它在过去 13 年里每天发回地球的照片。
+
 #### [mechanical pencil](https://mechanical-pencil.com/)
 
 展示日常小工具的内部构造，比如：打火机、机械铅笔、签字笔等等。
@@ -421,6 +441,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 网站提供了很多使用绳子来编织很好看带子的教程。
 
 ## ⛵资料&博文
+
+#### [2026 企业级AI编程实践手册](https://lcnziv86vkx6.feishu.cn/wiki/XZOSwI51wi5a5okxCF4cAxHSnBh)
+
+字节 TRAE 团队发布的《2026 企业级 AI 编程实践手册》。
 
 #### [Get inspired by what you can do with Claude](https://claude.com/resources/use-cases)
 
