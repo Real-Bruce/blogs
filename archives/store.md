@@ -14,9 +14,13 @@
 
 ## 🛸开源项目
 
+#### [ccm](https://github.com/Daydayoneup/ccm)
+
+macOS 的 Claude 资源（Skills、MCP、Agent）桌面管理工具，提供一个图形化的中央控制台。
+
 #### [npflared](https://github.com/Thomascogez/npflared)
 
-架设私有 NPM 镜像的工具，适合企业用来提供内部的 JS 软件包。
+可以架设私有 NPM 镜像的工具，适合企业用来提供内部的 JS 软件包。
 
 #### [Work_Review](https://github.com/wm94i/Work_Review)
 
