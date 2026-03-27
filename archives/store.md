@@ -14,6 +14,10 @@
 
 ## 🛸开源项目
 
+#### [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+Linux 应用，集成了各种人类知识（维基百科、全球地图、在线课程、本地 AI 助手）等等，用于在断网时查阅。
+
 #### [ccm](https://github.com/Daydayoneup/ccm)
 
 macOS 的 Claude 资源（Skills、MCP、Agent）桌面管理工具，提供一个图形化的中央控制台。
