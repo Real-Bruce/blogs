@@ -14,6 +14,18 @@
 
 ## 🛸开源项目
 
+#### [npflared](https://github.com/Thomascogez/npflared)
+
+架设私有 NPM 镜像的工具，适合企业用来提供内部的 JS 软件包。
+
+#### [Work_Review](https://github.com/wm94i/Work_Review)
+
+开源的 Win/Mac 桌面应用，在后台持续记录当天使用过的应用、访问过的网站等。
+
+#### [tunelo](https://github.com/jiweiyuan/tunelo)
+
+一行命令将本地服务暴露到公网，只需要单个 4MB 二进制文件，使用 QUIC 协议。
+
 #### [pi-mono](https://github.com/badlogic/pi-mono)
 
 最小 Agent 框架值得了解一下，openclaw 就是基于这个框架来实现，属于了解 Agent 的一个很好入口。
