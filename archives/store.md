@@ -478,6 +478,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [the-concise-typescript-book](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
+
+《Concise TypeScript Book》全面而简洁地概述了 TypeScript 的功能。它提供了清晰的解释，涵盖了该语言最新版本中的所有方面，从强大的类型系统到高级功能。无论您是初学者还是经验丰富的开发人员，本书都是增强您对 TypeScript 的理解和熟练程度的宝贵资源。
+
+#### [nicar-2026-coding-agents](https://simonw.github.io/nicar-2026-coding-agents/index.html)
+
+著名开发者 Simon Willison 的培训班讲课资料，通过 AI 工具进行数据分析，有详细步骤。
+
 #### [2026 企业级AI编程实践手册](https://lcnziv86vkx6.feishu.cn/wiki/XZOSwI51wi5a5okxCF4cAxHSnBh)
 
 字节 TRAE 团队发布的《2026 企业级 AI 编程实践手册》。
