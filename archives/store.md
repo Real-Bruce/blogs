@@ -14,6 +14,8 @@
 
 ## 🛸开源项目
 
+#### [gstack](https://github.com/garrytan/gstack)
+
 #### [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 Linux 应用，集成了各种人类知识（维基百科、全球地图、在线课程、本地 AI 助手）等等，用于在断网时查阅。
