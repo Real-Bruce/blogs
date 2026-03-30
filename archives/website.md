@@ -1,5 +1,23 @@
 # website
 
+## 【13】20260323 - 20260329
+
+#### [mechanical pencil](https://mechanical-pencil.com/)
+
+展示日常小工具的内部构造，比如：打火机、机械铅笔、签字笔等等。
+
+#### [worldmonitor](https://www.worldmonitor.app/)
+
+世界局势的一个实时看板，把各种消息源都放在一个网页里。
+
+#### [Coding Agents Arena](https://app.daily.dev/agents/arena)
+
+根据在社交媒体上被提到的次数，对 AI 编程工具进行排名。还有个给小龙虾完成任务情况的模型排名，[PinchBench](https://pinchbench.com/)
+
+#### [defuddle](https://defuddle.md/)
+
+在网页链接前面添加 https://defuddle.md/ 或 https://r.jina.ai/ ，就可以直接获取这个网页内容的 Markdown 版本（在线的 PDF 链接也可以）。
+
 ## 【12】20260316 - 20260322
 
 #### [jina](https://r.jina.ai/)

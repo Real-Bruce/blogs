@@ -1,5 +1,15 @@
 # blogs
 
+## 【13】20260323 - 20260329
+
+#### [nicar-2026-coding-agents](https://simonw.github.io/nicar-2026-coding-agents/index.html)
+
+著名开发者 Simon Willison 的培训班讲课资料，通过 AI 工具进行数据分析，有详细步骤。
+
+#### [2026 企业级AI编程实践手册](https://lcnziv86vkx6.feishu.cn/wiki/XZOSwI51wi5a5okxCF4cAxHSnBh)
+
+字节 TRAE 团队发布的《2026 企业级 AI 编程实践手册》。
+
 ## 【12】20260316 - 20260322
 
 #### [ Claude Code：架构、治理与工程实践](https://tw93.fun/2026-03-12/claude.html)
