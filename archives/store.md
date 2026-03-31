@@ -134,6 +134,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [agent skills finder](https://agentskillsfinder.com/)
+
+一个面向 Agent Skills 的发现网站，帮用户更快找到适合自己的 skill。
+
 #### [apple rankings](https://applerankings.com/)
 
 很有趣的网站，全球苹果品类排名，评选最好吃的苹果。
