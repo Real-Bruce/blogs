@@ -134,6 +134,18 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [做meme梗图](https://www.zuomeme.com/)
+
+在线制作 MEME 梗图，非常好玩。
+
+#### [周末自驾逃离计划](https://drive-escape.pomodiary.com/)
+
+输入出发城市，探索你的驾车逃离范围。
+
+#### [fontvs](https://fontvs.com/)
+
+输入文本后查看不同字体的对比效果，可以直接加载电脑上已安装的所有字体。
+
 #### [agent skills finder](https://agentskillsfinder.com/)
 
 一个面向 Agent Skills 的发现网站，帮用户更快找到适合自己的 skill。
