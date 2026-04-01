@@ -134,6 +134,18 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [thesvg](https://www.thesvg.org/)
+
+包含了几千个品牌 Logo 的免费 SVG 图标库。
+
+#### [Claude Code Cheat Sheet](https://cc.storyfox.cz/)
+
+Claude Code 各种命令的速查表。
+
+#### [hacker-podcast](https://hacker-podcast.agi.li/)
+
+一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+
 #### [做meme梗图](https://www.zuomeme.com/)
 
 在线制作 MEME 梗图，非常好玩。
