@@ -464,6 +464,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [Claude Code Unpacked](https://ccunpacked.dev/)
+
+Claude Code 源码解读，从按键到渲染的响应，一步步带你深入源码，揭开 Agent Loop 的全貌，帮你深入理解 Claude Code。
+
 #### [the-concise-typescript-book](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
 
 《Concise TypeScript Book》全面而简洁地概述了 TypeScript 的功能。它提供了清晰的解释，涵盖了该语言最新版本中的所有方面，从强大的类型系统到高级功能。无论您是初学者还是经验丰富的开发人员，本书都是增强您对 TypeScript 的理解和熟练程度的宝贵资源。
