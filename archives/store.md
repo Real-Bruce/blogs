@@ -2,7 +2,7 @@
 
 #### [dont let ai write for you](https://alexhwoods.com/dont-let-ai-write-for-you/)
 
-作者在文中讨论了不要让 AI 代替你写作，因为写作的过程是提升自己理解力的过程，同时也是提升能力的机会，每当你输出新的文章都是在挑战自己的能力边界，作者提倡使用AI作为灵感生成器，快速产生ling'gan。下面是我摘录的内容：
+作者在文中讨论了不要让 AI 代替你写作，因为写作的过程是提升自己理解力的过程，同时也是提升能力的机会，每当你输出新的文章都是在挑战自己的能力边界，作者提倡使用 AI 作为灵感生成器，快速产生灵感并保留其中一个。下面是我摘录的内容：
 
 The goal of writing is not to have written. It is to have increased your understanding, and then the understanding of those around you. When you are tasked to write something, your job is to go into the murkiness and come out of it with structure and understanding. [To conquer the unknown](https://essay.app/guide/).  
 
