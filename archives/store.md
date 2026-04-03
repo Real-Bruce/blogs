@@ -486,7 +486,13 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
-#### [](https://claude.nagdy.me/)
+#### [Machine Learning: A Practitioner's Mental Model](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)
+
+工程师的机器学习教程，解释基本概念。
+
+#### [Learn Claude Code by doing, not reading.](https://claude.nagdy.me/)
+
+Claude Code 的互动式教程，通过 11 个小练习，掌握这个 AI 编程工具。
 
 #### [anatomy-of-the-claude-folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 
