@@ -164,6 +164,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [http cat](https://http.cat/)
+
+这个网站收集了各种猫猫图片，用来表示 HTTP 状态码。
+
 #### [lixian](https://lixian.online/)
 
 获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具。
