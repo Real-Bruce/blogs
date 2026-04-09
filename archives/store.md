@@ -170,7 +170,35 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 基于 Rust 语言的跨平台 SSH 终端，功能较多，使用 Tauri 桌面框架。
 
+#### [魔方简历]([https://magicv.art/](https://github.com/JOYCEQL/magic-resume))
+
+一个开源免费的简历编辑工具，数据保存在浏览器本地。
+
 ## 🚀网站&工具
+
+#### [100 个产品设计框架](https://pmframe.works/)
+
+这个网站收录了 100 个产品思维框架的信息，每个框架都有可视化结构图、真实案例拆解和可下载的 Skill
+
+#### [motionsites](https://motionsites.ai/)
+
+这个网站提供了很多让 AI 生成的具有非常高质量的动画效果的网站的提示词。
+
+#### [gitreverse](https://www.gitreverse.com/)
+
+输入一个公开的 GitHub 仓库链接或 owner/repo。网站会把它变成 Vibe Coding 的 prompt，让你自己也能构建类似的项目。
+
+#### [月盒 MoonBox](https://two-moons.site/)
+
+在线学习和练习音乐乐理的工具。
+
+#### [aiart](https://aiart.pics/)
+
+AI 图像生成提示词的灵感库，收录了上万个生成图像的提示词
+
+#### [ggemu](https://ggemu.com/)
+
+可以玩各种经典游戏的在线模拟器，无需登录即可游戏。
 
 #### [docmd](https://docmd.io/)
 
