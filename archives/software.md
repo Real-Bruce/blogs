@@ -1,5 +1,23 @@
 # software
 
+## 【14】20260330 - 20260405
+
+#### [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+Linux 应用，集成了各种人类知识（维基百科、全球地图、在线课程、本地 AI 助手）等等，用于在断网时查阅。
+
+#### [ccm](https://github.com/Daydayoneup/ccm)
+
+macOS 的 Claude 资源（Skills、MCP、Agent）桌面管理工具，提供一个图形化的中央控制台。
+
+#### [npflared](https://github.com/Thomascogez/npflared)
+
+可以架设私有 NPM 镜像的工具，适合企业用来提供内部的 JS 软件包。
+
+#### [Work_Review](https://github.com/wm94i/Work_Review)
+
+开源的 Win/Mac 桌面应用，在后台持续记录当天使用过的应用、访问过的网站等。
+
 ## 【13】20260323 - 20260329
 
 #### [AIComicBuilder](https://github.com/twwch/AIComicBuilder)

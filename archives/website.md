@@ -1,5 +1,23 @@
 # website
 
+## 【14】20260330 - 20260405
+
+#### [月盒 MoonBox](https://two-moons.site/)
+
+在线学习和练习音乐乐理的工具。
+
+#### [aiart](https://aiart.pics/)
+
+AI 图像生成提示词的灵感库，收录了上万个生成图像的提示词
+
+#### [ggemu](https://ggemu.com/)
+
+可以玩各种经典游戏的在线模拟器，无需登录即可游戏。
+
+#### [docmd](https://docmd.io/)
+
+极简、零配置的专业文档引擎，可以把 Markdown 转换为快速、清爽的静态文档，具备自动路由、内置搜索和 AI 方便使用的上下文能力。
+
 ## 【13】20260323 - 20260329
 
 #### [mechanical pencil](https://mechanical-pencil.com/)

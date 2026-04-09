@@ -1,5 +1,19 @@
 # article
 
+## 【14】20260330 - 20260405
+
+#### [dont let ai write for you](https://alexhwoods.com/dont-let-ai-write-for-you/)
+
+作者在文中讨论了不要让 AI 代替你写作，因为写作的过程是提升自己理解力的过程，同时也是提升能力的机会，每当你输出新的文章都是在挑战自己的能力边界，作者提倡使用 AI 作为灵感生成器，快速产生灵感并保留其中一个。下面是我摘录的内容：
+
+The goal of writing is not to have written. It is to have increased your understanding, and then the understanding of those around you. When you are tasked to write something, your job is to go into the murkiness and come out of it with structure and understanding. [To conquer the unknown](https://essay.app/guide/).  
+
+>写作的目标不是写过。那就是提升了你的理解力，进而加深了周围人的理解。当你被指派写作时，你的任务是进入模糊的领域，并带着结构和理解走出来。[征服未知](https://essay.app/guide/)。
+
+The second order goal of writing is to become more capable. It is like working out. Every time you do a rep on the boundary of what you can do, you get stronger. It is uncomfortable and effortful.  
+
+>写作的第二级目标是提升能力。这就像锻炼一样。每次你在自己能做的边界上做一次，你就会变得更强壮。这既不舒服又费力。
+
 ## 【13】20260323 - 20260329
 
 #### [如何获得内心的安宁](https://www.geedea.pro/library/2026/how-to-find-peace/)
