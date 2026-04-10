@@ -1,5 +1,19 @@
 ## 📜有价值的文章
 
+#### [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)
+
+What matters is the process of getting them: the development and application of methods, the training of minds, the creation of people who know how to think about hard problems. If you hand that process to a machine, you haven't accelerated science. You've removed the only part of it that anyone actually needed.
+
+>重要的是获得这些问题的过程：方法的发展与应用，头脑的培养，培养懂得思考难题的人。如果你把这个过程交给机器，你并没有加速科学。你已经把唯一真正需要的部分都拿掉了。
+
+The models are already powerful enough to produce publishable results under competent supervision. That's not the bottleneck. The bottleneck is the supervision. Stronger models won't eliminate the need for a human who understands the physics; they'll just broaden the range of problems that a supervised agent can tackle. The supervisor still needs to know what the answer should look like, still needs to know which checks to demand, still needs to have the instinct that something is off before they can articulate why. That instinct doesn't come from a subscription. It comes from years of failing at exactly the kind of work that people keep calling grunt work. Making the models smarter doesn't solve the problem. It makes the problem harder to see.
+
+>这些模型已经足够强大，可以在有能力的监督下产生可发表的结果。这不是瓶颈。瓶颈是监督。更强的模型并不能消除对理解物理的人类的需求; 他们只是扩大了受监督代理人能解决的问题范围。主管仍然需要知道答案应该是什么样子，仍然需要知道该要求哪些检查，仍然需要有直觉觉得哪里不对劲，才能清楚说明原因。这种本能不是来自订阅。这源于多年在人们称之为苦力活的那种工作上失败的结果。让模型更智能并不能解决问题。这让问题更难察觉。
+
+What's great about science is its people. The slow, stubborn, sometimes painful process by which a confused student becomes an independent thinker. If we use these tools to bypass that process in favor of faster output, we don't just risk taking away what's great about science. We take away the only part of it that wasn't replaceable in the first place.
+
+>科学的伟大之处在于经历它的人 。一个缓慢、固执、有时痛苦的过程，让一个迷茫的学生成为独立思考者。如果我们利用这些工具绕过这一过程，转而追求更快的产出，我们不仅会冒着剥夺科学伟大之处的风险。我们剥夺了唯一一部分本来就无法替代的部分。
+
 ## 🛸开源项目
 
 #### [adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
