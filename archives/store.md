@@ -2,7 +2,7 @@
 
 #### [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)
 
-作者是一位天体物理学家，讲了两个博士生的例子，一位全程用AI工具完成任务，另一位则在和各种论文错误调试中成长，他们都能毕业，但是收获是不一样的。坚持自己做的那位会在错误中成长，会积累自己的经验结构，但是将思考方式全部交给AI则不会体会到，这也就引申出AI的使用，如果你用AI仅仅作为工具，完成那些你早熟悉的事情，或是作为字典查询一些知识，那他就是最好的工具，但是当你把自己的思考也交给AI时，
+作者是一位天体物理学家，讲了两个博士生的例子，一位全程用 AI 工具完成任务，另一位则在和各种论文错误调试中成长，他们都能毕业，但是收获是不一样的。坚持自己做的那位会在错误中成长，会积累自己的经验结构，但是将思考方式全部交给 AI 则不会体会到，这也就引申出 AI 的使用，如果你用 AI 仅仅作为工具，完成那些你早熟悉的事情，或是作为字典查询一些知识，那他就是最好的工具，但是当你把自己的思考也交给 AI 时，只当那个点击授权按钮的人，那你什么也收获不到。我摘录了其中一些内容：
 
 What matters is the process of getting them: the development and application of methods, the training of minds, the creation of people who know how to think about hard problems. If you hand that process to a machine, you haven't accelerated science. You've removed the only part of it that anyone actually needed.
 
@@ -18,7 +18,7 @@ What's great about science is its people. The slow, stubborn, sometimes painfu
 
 when you look at how they use them, there's a pattern: they know what the code should do before they ask the agent to write it. They know what the paper should say before they let it help with the phrasing. They can explain every function, every parameter, every modeling choice, because they built that knowledge over years of doing things the slow way. If every AI company went bankrupt tomorrow, these people would be slower. They would not be lost. They came to the tools after the training, not instead of it. That sequence matters more than anything else in this conversation.
 
->当你观察他们如何使用这些工具时，有一个模式：他们在让代理写代码之前就知道代码应该做什么。他们知道论文应该写什么，才会让它帮助措辞。他们能解释每一个函数、每一个参数、每一个建模选择，因为他们是多年慢慢做事积累的知识。如果明天所有AI公司都破产，这些人会变慢。他们不会迷失。他们是在训练之后才接触到工具的，而不是代替训练。这段序列在这场对话中比其他任何事情都重要。
+>当你观察他们如何使用这些工具时，有一个模式：他们在让代理写代码之前就知道代码应该做什么。他们知道论文应该写什么，才会让它帮助措辞。他们能解释每一个函数、每一个参数、每一个建模选择，因为他们是多年慢慢做事积累的知识。如果明天所有 AI 公司都破产，这些人会变慢。他们不会迷失。他们是在训练之后才接触到工具的，而不是代替训练。这段序列在这场对话中比其他任何事情都重要。
 
 The error messages are the syllabus. Every hour you spend confused is an hour you spend building the infrastructure inside your own head that will eventually let you do original work. There is no shortcut through that process that doesn't leave you diminished on the other side.
 
