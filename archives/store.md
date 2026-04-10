@@ -152,6 +152,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [every-gpu](https://sheets.works/data-viz/every-gpu)
+
+网站展示了 GPU 显卡的发展历程，从 1996 年的 Voodoo 卡到 2025 年的 RTX 5090 显卡，支持不同显卡的对比。
+
 #### [佛津](https://fojin.app/)
 
 全球佛教古籍数字化聚合平台。
