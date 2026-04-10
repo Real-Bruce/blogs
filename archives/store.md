@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
+
+自适应浏览器，根据 API 规范和用户/组织偏好构建定制用户界面。
+
 #### [claude-hud](https://github.com/jarrodwatts/claude-hud)
 
 一个 Claude Code 插件，显示发生了什么——上下文使用情况、活跃工具、运行中的代理和待办事项进度。它总是在你的输入下方可见。
