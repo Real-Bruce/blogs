@@ -1,5 +1,23 @@
 # software
 
+## 【15】20260406 - 20260412
+
+#### [tunelo](https://github.com/jiweiyuan/tunelo)
+
+一行命令将本地服务暴露到公网，只需要单个 4MB 二进制文件，使用 QUIC 协议。
+
+#### [pi-mono](https://github.com/badlogic/pi-mono)
+
+最小 Agent 框架值得了解一下，openclaw 就是基于这个框架来实现，属于了解 Agent 的一个很好入口。
+
+#### [meilisearch](https://github.com/meilisearch/meilisearch)
+
+Rust 语言构建的搜索引擎，对标 ElasticSearch 性能会更好一点，有一篇 [相关文章介绍](https://www.anisafifi.com/en/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/)
+
+#### [memo-skills](https://github.com/maimemo/memo-skills)
+
+墨墨背单词 Skills，通过调用学习数据查询接口，获取学习进度、需要背的单词、复习的单词等数据。
+
 ## 【14】20260330 - 20260405
 
 #### [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)

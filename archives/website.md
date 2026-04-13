@@ -1,5 +1,23 @@
 # website
 
+## 【15】20260406 - 20260412
+
+#### [hacker-podcast](https://hacker-podcast.agi.li/)
+
+一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+
+#### [做meme梗图](https://www.zuomeme.com/)
+
+在线制作 MEME 梗图，非常好玩。
+
+#### [周末自驾逃离计划](https://drive-escape.pomodiary.com/)
+
+输入出发城市，探索你的驾车逃离范围。
+
+#### [fontvs](https://fontvs.com/)
+
+输入文本后查看不同字体的对比效果，可以直接加载电脑上已安装的所有字体。
+
 ## 【14】20260330 - 20260405
 
 #### [月盒 MoonBox](https://two-moons.site/)

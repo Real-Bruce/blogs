@@ -1,5 +1,39 @@
 # article
 
+## 【15】20260406 - 20260412
+
+#### [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)
+
+作者是一位天体物理学家，讲了两个博士生的例子，一位全程用 AI 工具完成任务，另一位则在和各种论文错误调试中成长，他们都能毕业，但是收获是不一样的。坚持自己做的那位会在错误中成长，会积累自己的经验结构，但是将思考方式全部交给 AI 则不会体会到，这也就引申出 AI 的使用，如果你用 AI 仅仅作为工具，完成那些你早熟悉的事情，或是作为字典查询一些知识，那他就是最好的工具，但是当你把自己的思考也交给 AI 时，只当那个点击授权按钮的人，那你什么也收获不到。我摘录了其中一些内容：
+
+What matters is the process of getting them: the development and application of methods, the training of minds, the creation of people who know how to think about hard problems. If you hand that process to a machine, you haven't accelerated science. You've removed the only part of it that anyone actually needed.
+
+>重要的是获得这些问题的过程：方法的发展与应用，头脑的培养，培养懂得思考难题的人。如果你把这个过程交给机器，你并没有加速科学。你已经把唯一真正需要的部分都拿掉了。
+
+The models are already powerful enough to produce publishable results under competent supervision. That's not the bottleneck. The bottleneck is the supervision. Stronger models won't eliminate the need for a human who understands the physics; they'll just broaden the range of problems that a supervised agent can tackle. The supervisor still needs to know what the answer should look like, still needs to know which checks to demand, still needs to have the instinct that something is off before they can articulate why. That instinct doesn't come from a subscription. It comes from years of failing at exactly the kind of work that people keep calling grunt work. Making the models smarter doesn't solve the problem. It makes the problem harder to see.
+
+>这些模型已经足够强大，可以在有能力的监督下产生可发表的结果。这不是瓶颈。瓶颈是监督。更强的模型并不能消除对理解物理的人类的需求; 他们只是扩大了受监督代理人能解决的问题范围。主管仍然需要知道答案应该是什么样子，仍然需要知道该要求哪些检查，仍然需要有直觉觉得哪里不对劲，才能清楚说明原因。这种本能不是来自订阅。这源于多年在人们称之为苦力活的那种工作上失败的结果。让模型更智能并不能解决问题。这让问题更难察觉。
+
+What's great about science is its people. The slow, stubborn, sometimes painful process by which a confused student becomes an independent thinker. If we use these tools to bypass that process in favor of faster output, we don't just risk taking away what's great about science. We take away the only part of it that wasn't replaceable in the first place.
+
+>科学的伟大之处在于经历它的人 。一个缓慢、固执、有时痛苦的过程，让一个迷茫的学生成为独立思考者。如果我们利用这些工具绕过这一过程，转而追求更快的产出，我们不仅会冒着剥夺科学伟大之处的风险。我们剥夺了唯一一部分本来就无法替代的部分。
+
+when you look at how they use them, there's a pattern: they know what the code should do before they ask the agent to write it. They know what the paper should say before they let it help with the phrasing. They can explain every function, every parameter, every modeling choice, because they built that knowledge over years of doing things the slow way. If every AI company went bankrupt tomorrow, these people would be slower. They would not be lost. They came to the tools after the training, not instead of it. That sequence matters more than anything else in this conversation.
+
+>当你观察他们如何使用这些工具时，有一个模式：他们在让代理写代码之前就知道代码应该做什么。他们知道论文应该写什么，才会让它帮助措辞。他们能解释每一个函数、每一个参数、每一个建模选择，因为他们是多年慢慢做事积累的知识。如果明天所有 AI 公司都破产，这些人会变慢。他们不会迷失。他们是在训练之后才接触到工具的，而不是代替训练。这段序列在这场对话中比其他任何事情都重要。
+
+The error messages are the syllabus. Every hour you spend confused is an hour you spend building the infrastructure inside your own head that will eventually let you do original work. There is no shortcut through that process that doesn't leave you diminished on the other side.
+
+>错误信息就是教学大纲。你每花一小时困惑，就等于花一小时在脑海中构建基础设施，最终能让你做出原创性工作。在这个过程中没有捷径，不会让你在另一端变得被削弱。
+
+The boring parts and the important parts are tangled together in a way that you can't separate in advance. You don't know which afternoon of debugging was the one that taught you something fundamental about your data until three years later, when you're working on a completely different problem and the insight surfaces. Serendipity doesn't come from efficiency. It comes from spending time in the space where the problem lives, getting your hands dirty, making mistakes that nobody asked you to make and learning things nobody assigned you to learn.
+
+>枯燥的部分和重要的部分纠缠在一起，无法提前分开。你不会知道是哪一个调试下午教会了你关于数据的根本性知识，直到三年后，当你在处理完全不同的问题时，洞见才浮现出来。巧合不来自效率。它来自于在问题所在的空间里度过时间，亲自动手，犯下没人要求你犯的错误，学到没人让你学的东西。
+
+We have centuries of accumulated pedagogical wisdom telling us that the attempt, including the failed attempt, is where the learning lives.
+
+>我们积累了数百年的教学智慧，告诉我们，尝试，包括失败的尝试，才是学习的所在。
+
 ## 【14】20260330 - 20260405
 
 #### [dont let ai write for you](https://alexhwoods.com/dont-let-ai-write-for-you/)

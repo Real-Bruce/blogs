@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/04/06 - 2026/04//12 [Vol.083 The machines are fine. I'm worried about us.](./weekly/Vol083.md)
+
 #### 2026/03/30 - 2026/04/05 [Vol.082 dont let ai write for you](./weekly/Vol082.md)
 
 #### 2026/03/23 - 2026/03/29 [Vol.081 如何获得内心的安宁](./weekly/Vol081.md)
