@@ -136,6 +136,26 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [claw eval](https://claw-eval.github.io/)
+
+评测了各种 AI 模型在执行 Claw 任务时的表现。
+
+#### [app store price](https://app.vbr.me/)
+
+在线查询应用在全球不同国家 App Store 的价格。
+
+#### [k timeline](https://k-timeline.netlify.app/)
+
+直观的查看全球的股票、外汇、黄金等交易所是否在交易时间段内。
+
+#### [file compress](https://filecompress.org/zh-cn/)
+
+支持在线压缩各种格式的文件，非常齐全。
+
+#### [middle class museum](https://www.ideagames.fun/middle-class-museum)
+
+中产博物馆，展示了 1980 年代到 2020 年代中产阶级的生活方式和消费习惯。
+
 #### [every-gpu](https://sheets.works/data-viz/every-gpu)
 
 网站展示了 GPU 显卡的发展历程，从 1996 年的 Voodoo 卡到 2025 年的 RTX 5090 显卡，支持不同显卡的对比。
