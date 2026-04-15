@@ -136,6 +136,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [中国科技云数据胶囊](https://data.cstcloud.cn/)
+
+中科院提供的在线云盘服务，能领取 20G 不限速的空间。
+
 #### [claw eval](https://claw-eval.github.io/)
 
 评测了各种 AI 模型在执行 Claw 任务时的表现。
