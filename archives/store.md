@@ -502,9 +502,13 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [Good Sleep, good Learning, good life](https://super-memory.com/articles/sleep.htm)
+
+一篇关于睡眠的文章，作者论证和介绍了很多关于睡眠的研究，很有意思的一篇博文。
+
 #### [谈谈不受欢迎的博客技术特征](https://blog.zhilu.site/2025/unpopular-blog-tech)
 
-作者列列举了一些不受欢迎的技术博客的特点，可以参考看看，作为自己博客的正向优化案例。
+作者列举了一些不受欢迎的技术博客的特点，可以参考看看，作为自己博客的正向优化案例。
 
 #### [Machine Learning: A Practitioner's Mental Model](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)
 
