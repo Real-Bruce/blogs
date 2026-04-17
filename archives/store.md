@@ -7,6 +7,18 @@ Brainrot is the gradual erosion of one’s ability to think, focus, and reflect,
 
 ## 🛸开源项目
 
+#### [input0](https://github.com/10xChengTu/input0)
+
+macOS 语音输入工具 — 按住快捷键录音，松开后自动转写、优化、粘贴到当前输入框。
+
+#### [Recordly](https://github.com/webadderall/Recordly)
+
+**开源屏幕录制器**和编辑器，适合制作**操作讲解、演示、产品视频**等内容。
+
+#### [gridea-pro](https://github.com/Gridea-Pro/gridea-pro)
+
+基于 Wails (Go + Vue 3) 的静态博客写作客户端，永久开源免费！
+
 #### [adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
 
 自适应浏览器，根据 API 规范和用户/组织偏好构建定制用户界面。
