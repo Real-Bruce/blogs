@@ -7,6 +7,14 @@ Brainrot is the gradual erosion of one’s ability to think, focus, and reflect,
 
 ## 🛸开源项目
 
+#### [TokenTracker](https://github.com/mm7894215/TokenTracker)
+
+生成本地的 Token 消耗统计报表，支持多种 Agent（Claude Code、Codex、Cursor、Gemini、Kiro、OpenCode、OpenClaw 和 Every Code）。
+
+#### [msync](https://github.com/debugtheworldbot/msync)
+
+命令行工具，导出 claude code 的记忆（memory），然后输入 Claude 客户端或其他 AI Agent。
+
 #### [input0](https://github.com/10xChengTu/input0)
 
 macOS 语音输入工具 — 按住快捷键录音，松开后自动转写、优化、粘贴到当前输入框。
