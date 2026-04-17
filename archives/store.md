@@ -1,5 +1,10 @@
 ## 📜有价值的文章
 
+#### [brainrot industrial complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
+
+Brainrot is the gradual erosion of one’s ability to think, focus, and reflect, caused by continuous exposure to high-stimulation, low-substance digital input.  
+>脑腐是由于持续接触高刺激、低物质的数字输入，导致一个人思考、专注和反思能力逐渐丧失。
+
 ## 🛸开源项目
 
 #### [adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
