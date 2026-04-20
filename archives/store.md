@@ -17,7 +17,6 @@ Most important is to be more intentional in your digital media consumption. Do n
 Understand that you are not bored, you are being processed. It is not that you are lacking discipline that makes you easily distracted, it is because you are in the machine optimised for brainrot.  
 >要明白你不是无聊，而是在被处理。你容易分心并不是缺乏自律，而是因为你身处一台为大脑腐朽优化的机器中。
 
-
 _Stay glitched, stay human._  
 > 保持漏洞，保持人性.。
 
