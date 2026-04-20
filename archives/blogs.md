@@ -1,5 +1,19 @@
 # blogs
 
+## 【16】20260413 - 20260419
+
+#### [anatomy-of-the-claude-folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+
+Claude Code 内文件作用解析，帮助你更好的理解和使用 Claude Code，文章也给出了很多使用的建议。
+
+#### [Get inspired by what you can do with Claude](https://claude.com/resources/use-cases)
+
+从这些用 Claude 做的项目获取灵感，包括从研究、写作、编程、分析，日常工作中的各种案例，内容比我想的要深入不少。
+
+#### [你不知道的大模型训练：原理、路径与新实践](https://tw93.fun/2026-04-03/llm.html)
+
+TW93 大佬的第三篇 AI 文章，更加面向普通使用这，很推荐看看。
+
 ## 【15】20260406 - 20260412
 
 #### [Claude Code Unpacked](https://ccunpacked.dev/)

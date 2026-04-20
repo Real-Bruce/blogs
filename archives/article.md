@@ -1,5 +1,27 @@
 # article
 
+## 【16】20260413 - 20260419
+
+#### [brainrot industrial complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
+
+Brainrot is the gradual erosion of one’s ability to think, focus, and reflect, caused by continuous exposure to high-stimulation, low-substance digital input.  
+>脑腐是由于持续接触高刺激、低物质的数字输入，导致一个人思考、专注和反思能力逐渐丧失。
+
+ The **“brainrot industrial complex”** is a whole industry designed to hijack your attention, by making your brain’s reward centers produce dopamine as cheaply and abundantly as possible to maximise profits.  
+>**“脑腐产业综合体”**是一个专门设计来劫持你注意力的产业，通过让你大脑的奖赏中枢尽可能低廉且大量地产生多巴胺，以最大化利润。
+
+The modern internet is no longer designed to inform you, it is now designed to dissolve your ability to think clearly. The **“brainrot”** phenomena is not just distraction, but decay.  
+>现代互联网不再是用来告诉你信息的，而是用来消解你清晰思考的能力。**“脑腐”**现象不仅仅是分心，更是腐朽。
+
+Most important is to be more intentional in your digital media consumption. Do not let the algorithm decide what you should indulge. Choose consciously what enters your mind.  
+>最重要的是在数字媒体消费上更加有意识地消费。不要让算法决定你该放纵什么。有意识地选择进入你脑海的事物。
+
+Understand that you are not bored, you are being processed. It is not that you are lacking discipline that makes you easily distracted, it is because you are in the machine optimised for brainrot.  
+>要明白你不是无聊，而是在被处理。你容易分心并不是缺乏自律，而是因为你身处一台为大脑腐朽优化的机器中。
+
+_Stay glitched, stay human._  
+> 保持漏洞，保持人性.。
+
 ## 【15】20260406 - 20260412
 
 #### [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)

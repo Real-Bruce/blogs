@@ -1,25 +1,5 @@
 ## 📜有价值的文章
 
-#### [brainrot industrial complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
-
-Brainrot is the gradual erosion of one’s ability to think, focus, and reflect, caused by continuous exposure to high-stimulation, low-substance digital input.  
->脑腐是由于持续接触高刺激、低物质的数字输入，导致一个人思考、专注和反思能力逐渐丧失。
-
- The **“brainrot industrial complex”** is a whole industry designed to hijack your attention, by making your brain’s reward centers produce dopamine as cheaply and abundantly as possible to maximise profits.  
->**“脑腐产业综合体”**是一个专门设计来劫持你注意力的产业，通过让你大脑的奖赏中枢尽可能低廉且大量地产生多巴胺，以最大化利润。
-
-The modern internet is no longer designed to inform you, it is now designed to dissolve your ability to think clearly. The **“brainrot”** phenomena is not just distraction, but decay.  
->现代互联网不再是用来告诉你信息的，而是用来消解你清晰思考的能力。**“脑腐”**现象不仅仅是分心，更是腐朽。
-
-Most important is to be more intentional in your digital media consumption. Do not let the algorithm decide what you should indulge. Choose consciously what enters your mind.  
->最重要的是在数字媒体消费上更加有意识地消费。不要让算法决定你该放纵什么。有意识地选择进入你脑海的事物。
-
-Understand that you are not bored, you are being processed. It is not that you are lacking discipline that makes you easily distracted, it is because you are in the machine optimised for brainrot.  
->要明白你不是无聊，而是在被处理。你容易分心并不是缺乏自律，而是因为你身处一台为大脑腐朽优化的机器中。
-
-_Stay glitched, stay human._  
-> 保持漏洞，保持人性.。
-
 ## 🛸开源项目
 
 #### [TokenTracker](https://github.com/mm7894215/TokenTracker)
@@ -41,22 +21,6 @@ macOS 语音输入工具 — 按住快捷键录音，松开后自动转写、优
 #### [gridea-pro](https://github.com/Gridea-Pro/gridea-pro)
 
 基于 Wails (Go + Vue 3) 的静态博客写作客户端，永久开源免费！
-
-#### [adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
-
-自适应浏览器，根据 API 规范和用户/组织偏好构建定制用户界面。
-
-#### [claude-hud](https://github.com/jarrodwatts/claude-hud)
-
-一个 Claude Code 插件，显示发生了什么——上下文使用情况、活跃工具、运行中的代理和待办事项进度。它总是在你的输入下方可见。
-
-#### [waza](https://github.com/tw93/waza)
-
-TW93 开源的一组 Skill，可以熟悉的工程习惯，并转化为 Claude Code 能直接调用的 Skill。里面很多 Skill 的设计很有趣，很建议安装尝试。
-
-#### [openilink hub](https://github.com/openilink/openilink-hub)
-
-开源的微信机器人消息管理平台，自带应用市场，通过点击安装应用，给微信 Bot 加功能。
 
 #### [gstack](https://github.com/garrytan/gstack)
 
@@ -183,22 +147,6 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 #### [中国卷烟博物馆](https://www.ciggies.app/)
 
 收集各种国产品牌的卷烟。
-
-#### [中国科技云数据胶囊](https://data.cstcloud.cn/)
-
-中科院提供的在线云盘服务，能领取 20G 不限速的空间。
-
-#### [claw eval](https://claw-eval.github.io/)
-
-评测了各种 AI 模型在执行 Claw 任务时的表现。
-
-#### [app store price](https://app.vbr.me/)
-
-在线查询应用在全球不同国家 App Store 的价格。
-
-#### [k timeline](https://k-timeline.netlify.app/)
-
-直观的查看全球的股票、外汇、黄金等交易所是否在交易时间段内。
 
 #### [file compress](https://filecompress.org/zh-cn/)
 
@@ -563,20 +511,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 工程师的机器学习教程，解释基本概念。
 
 #### [Learn Claude Code by doing, not reading.](https://claude.nagdy.me/)
-
-Claude Code 的互动式教程，通过 11 个小练习，掌握这个 AI 编程工具。
-
-#### [anatomy-of-the-claude-folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
-
-Claude Code 内文件作用解析，帮助你更好的理解和使用 Claude Code，文章也给出了很多使用的建议。
-
-#### [Get inspired by what you can do with Claude](https://claude.com/resources/use-cases)
-
-从这些用 Claude 做的项目获取灵感，包括从研究、写作、编程、分析，日常工作中的各种案例，内容比我想的要深入不少。
-
-#### [你不知道的大模型训练：原理、路径与新实践](https://tw93.fun/2026-04-03/llm.html)
-
-TW93 大佬的第三篇 AI 文章，更加面向普通使用这，很推荐看看。
 
 #### [Agent：原理、架构与工程实践](https://tw93.fun/2026-03-21/agent.html)
 

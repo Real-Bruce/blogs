@@ -20,7 +20,9 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 2026/04/06 - 2026/04//12 [Vol.083 The machines are fine. I'm worried about us.](./weekly/Vol083.md)
+#### 2026/04/13 - 2026/04/19 [Vol.084 brainrot industrial complex](./weekly/Vol084.md)
+
+#### 2026/04/06 - 2026/04/12 [Vol.083 The machines are fine. I'm worried about us.](./weekly/Vol083.md)
 
 #### 2026/03/30 - 2026/04/05 [Vol.082 dont let ai write for you](./weekly/Vol082.md)
 

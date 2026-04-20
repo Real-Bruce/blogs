@@ -1,5 +1,23 @@
 # website
 
+## 【16】20260413 - 20260419
+
+#### [中国科技云数据胶囊](https://data.cstcloud.cn/)
+
+中科院提供的在线云盘服务，能领取 20G 不限速的空间。
+
+#### [claw eval](https://claw-eval.github.io/)
+
+评测了各种 AI 模型在执行 Claw 任务时的表现。
+
+#### [app store price](https://app.vbr.me/)
+
+在线查询应用在全球不同国家 App Store 的价格。
+
+#### [k timeline](https://k-timeline.netlify.app/)
+
+直观的查看全球的股票、外汇、黄金等交易所是否在交易时间段内。
+
 ## 【15】20260406 - 20260412
 
 #### [hacker-podcast](https://hacker-podcast.agi.li/)

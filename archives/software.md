@@ -1,5 +1,23 @@
 # software
 
+## 【16】20260413 - 20260419
+
+#### [adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
+
+自适应浏览器，根据 API 规范和用户/组织偏好构建定制用户界面。
+
+#### [claude-hud](https://github.com/jarrodwatts/claude-hud)
+
+一个 Claude Code 插件，显示发生了什么——上下文使用情况、活跃工具、运行中的代理和待办事项进度。它总是在你的输入下方可见。
+
+#### [waza](https://github.com/tw93/waza)
+
+TW93 开源的一组 Skill，可以熟悉的工程习惯，并转化为 Claude Code 能直接调用的 Skill。里面很多 Skill 的设计很有趣，很建议安装尝试。
+
+#### [openilink hub](https://github.com/openilink/openilink-hub)
+
+开源的微信机器人消息管理平台，自带应用市场，通过点击安装应用，给微信 Bot 加功能。
+
 ## 【15】20260406 - 20260412
 
 #### [tunelo](https://github.com/jiweiyuan/tunelo)
