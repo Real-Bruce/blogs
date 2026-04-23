@@ -140,6 +140,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [中国樱花花期预测](https://rogerzhu.github.io/yinghua-map/)
+
+基于气象数据与物候学模型，预测樱花是否盛开，覆盖全国 49 个代表性赏樱城市。
+
 #### [guide world](https://guide.world/)
 
 收集世界各地的优秀游记散文，不过文章还不多。
