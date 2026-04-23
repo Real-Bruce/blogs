@@ -140,6 +140,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [kenney](https://kenney.nl/assets)
+
+提供了几百种 2D/3D 的免费游戏素材资源。
+
 #### [Draw & Animate Braille](https://obaidnadeem.github.io/dab/)
 
 绘制各种点状字符并进行动画展示，可以用来制作 Loading 动画，可以设置动画的速度和播放效果。
