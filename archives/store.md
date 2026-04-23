@@ -140,6 +140,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [Draw & Animate Braille](https://obaidnadeem.github.io/dab/)
+
+绘制各种点状字符并进行动画展示，可以用来制作 Loading 动画，可以设置动画的速度和播放效果。
+
 #### [中国樱花花期预测](https://rogerzhu.github.io/yinghua-map/)
 
 基于气象数据与物候学模型，预测樱花是否盛开，覆盖全国 49 个代表性赏樱城市。
