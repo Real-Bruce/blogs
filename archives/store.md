@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+GPT Image 2 提示库，具有像素完美的文本渲染、跨图像一致性和商业级插图。 16 种语言。免费且开源。
+
 #### [TokenTracker](https://github.com/mm7894215/TokenTracker)
 
 生成本地的 Token 消耗统计报表，支持多种 Agent（Claude Code、Codex、Cursor、Gemini、Kiro、OpenCode、OpenClaw 和 Every Code）。
