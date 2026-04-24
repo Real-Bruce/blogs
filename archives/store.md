@@ -31,6 +31,10 @@ Compression made the information age possible by stripping things down to fit th
 
 ## 🛸开源项目
 
+#### [himi recorder](https://github.com/jrainlau/himi-recorder)
+
+一款具有隐身能力的 macOS 录屏工具 ，绕过系统录屏检测机制，让被录制的应用无法感知正在被录屏。常驻菜单栏，框选任意区域，录制为 MP4。
+
 #### [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
 GPT Image 2 提示库，具有像素完美的文本渲染、跨图像一致性和商业级插图。 16 种语言。免费且开源。
