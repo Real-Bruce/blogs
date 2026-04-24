@@ -1,5 +1,9 @@
 ## 📜有价值的文章
 
+#### [expansion artifacts](https://mattstromawn.com/writing/expansion-artifacts/)
+
+
+
 ## 🛸开源项目
 
 #### [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
