@@ -31,6 +31,8 @@ Compression made the information age possible by stripping things down to fit th
 
 ## 🛸开源项目
 
+#### [](https://github.com/openai/privacy-filter)
+
 #### [kite desktop](https://github.com/eryajf/kite-desktop)
 
 基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具。
