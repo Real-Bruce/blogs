@@ -31,7 +31,13 @@ Compression made the information age possible by stripping things down to fit th
 
 ## 🛸开源项目
 
-#### [](https://github.com/openai/privacy-filter)
+#### [link ai](https://github.com/star7th/link-ai)
+
+智链 AI 网关在统一代理转发大模型 API 的基础上，内置**数据脱敏、隐私保护、全链路审计**三大安全能力，确保敏感信息不泄露、每次调用可追溯。支持 OpenAI、Anthropic、Azure、通义千问、DeepSeek 等主流提供商，三态熔断器保障高可用。
+
+#### [privacy filter](https://github.com/openai/privacy-filter)
+
+OpenAI 隐私过滤器是一种双向令牌分类模型，用于文本中的个人身份信息（PII）检测和掩蔽。它适用于高吞吐量的数据净化工作流程，团队需要一个能够在本地运行、快速、上下文感知且可调的模型。[相关的介绍文章](https://openai.com/index/introducing-openai-privacy-filter/)
 
 #### [kite desktop](https://github.com/eryajf/kite-desktop)
 
@@ -190,6 +196,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 一个开源免费的简历编辑工具，数据保存在浏览器本地。
 
 ## 🚀网站&工具
+
+#### [laws of software engineering](https://lawsofsoftwareengineering.com/)
+
+收集各种软件相关的定律，目前有 56 条。比如：过早优化是万恶之源，除非必要否则不要添加功能
 
 #### [kenney](https://kenney.nl/assets)
 
