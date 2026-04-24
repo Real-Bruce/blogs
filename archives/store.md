@@ -31,6 +31,18 @@ Compression made the information age possible by stripping things down to fit th
 
 ## 🛸开源项目
 
+#### [kite desktop](https://github.com/eryajf/kite-desktop)
+
+基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具。
+
+#### [blog helper](https://github.com/thinkycx/blog-helper)
+
+轻量级静态博客分析与评论系统 — PV/UV 统计、热门文章、趋势图、评论审核管理、内置 Dashboard。一个实例服务多个站点，按域名自动隔离数据。
+
+#### [animal island ui](https://github.com/guokaigdg/animal-island-ui)
+
+参考《动物森友会》风格的 React UI 组件库，仅用于学习与技术交流。
+
 #### [himi recorder](https://github.com/jrainlau/himi-recorder)
 
 一款具有隐身能力的 macOS 录屏工具 ，绕过系统录屏检测机制，让被录制的应用无法感知正在被录屏。常驻菜单栏，框选任意区域，录制为 MP4。
