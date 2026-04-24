@@ -2,6 +2,22 @@
 
 #### [expansion artifacts](https://mattstromawn.com/writing/expansion-artifacts/)
 
+A well-designed compression algorithm keeps data _perceptually_ identical while making files much more efficient to store and transmit.  
+>设计良好的压缩算法能保持 _ 数据 _ 感知上的一致性，同时使文件的存储和传输效率大大提升。
+
+Compression always changes data permanently. Common formats (JPG, MP3, MP4) make changes slowly and gently: it usually takes hundreds of cycles of saving, sharing, and re-uploading before the tool marks, called **compression artifacts**, become apparent. [Re-save a JPG enough times](https://www.youtube.com/watch?v=jjhomJ04S18) and it goes blocky and washed out; [iterate an MP3](https://parkerhiggins.net/2015/10/mad-generation-loss/) and metallic tones bleed through the music; [re-upload a YouTube video a thousand times](https://www.youtube.com/watch?v=icruGcSsPp0) and you end up with a blobby mess over unintelligible audio.  
+>压缩总是会永久改变数据。常见格式（JPG、MP3、MP4）做的修改缓慢而温和：通常需要数百个周期的保存、分享和重新上传，才会出现称为**压缩伪影**的工具痕迹。[重复保存JPG](https://www.youtube.com/watch?v=jjhomJ04S18)会变得块状且褪色;[重复MP3](https://parkerhiggins.net/2015/10/mad-generation-loss/)时，金属音调会渗透音乐;[重新上传YouTube视频一千次](https://www.youtube.com/watch?v=icruGcSsPp0)，最终会变成一团混乱且难以理解的音频。
+
+
+1. A CEO dictates a five-minute voice memo
+2. Claude expands it into a strategy doc
+3. Notion’s AI turns the strategy doc into product specs
+4. Cursor vibe-codes a prototype
+5. Devin gives feedback on the PR
+6. ChatGPT writes the launch copy
+7. Intercom’s Fin support agent fields support questions.
+
+>
 
 
 ## 🛸开源项目
