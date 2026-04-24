@@ -545,7 +545,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [stop using ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
 
-Ollama 是一个运行本地大模型的工具，作者提出它存在的诸多问题，并建议改用 [llama.cpp](https://github.com/ggml-org/llama.cpp) 和 [LM Studio](https://lmstudio.ai/)。
+Ollama 是一个运行本地大模型的工具，作者提出它存在的诸多问题，并建议改用 [llama.cpp](https://github.com/ggml-org/llama.cpp) 和 [LM Studio](https://lmstudio.ai/)。
 
 #### [Good Sleep, good Learning, good life](https://super-memory.com/articles/sleep.htm)
 
