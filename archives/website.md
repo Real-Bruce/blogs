@@ -1,5 +1,23 @@
 # website
 
+## 【17】20260420 - 20260426
+
+#### [100 个产品设计框架](https://pmframe.works/)
+
+这个网站收录了 100 个产品思维框架的信息，每个框架都有可视化结构图、真实案例拆解和可下载的 Skill
+
+#### [motionsites](https://motionsites.ai/)
+
+这个网站提供了很多让 AI 生成的具有非常高质量的动画效果的网站的提示词。
+
+#### [gitreverse](https://www.gitreverse.com/)
+
+输入一个公开的 GitHub 仓库链接或 owner/repo。网站会把它变成 Vibe Coding 的 prompt，让你自己也能构建类似的项目。
+
+#### [http cat](https://http.cat/)
+
+这个网站收集了各种猫猫图片，用来表示 HTTP 状态码。
+
 ## 【16】20260413 - 20260419
 
 #### [中国科技云数据胶囊](https://data.cstcloud.cn/)

@@ -1,5 +1,15 @@
 # blogs
 
+## 【17】20260420 - 20260426
+
+#### [你不知道的 AI Coding：非技术人的上手、场景与实战](https://tw93.fun/2026-04-26/ai-coding.html)
+
+TW93 大佬的新文章，写给非技术人的 AI Coding 指南，文章提出了很多 AI 的使用指南，很值得好好读读的文章。
+
+#### [Good Sleep, good Learning, good life](https://super-memory.com/articles/sleep.htm)
+
+一篇关于睡眠的文章，作者论证和介绍了很多关于睡眠的研究，很有意思的一篇博文。
+
 ## 【16】20260413 - 20260419
 
 #### [anatomy-of-the-claude-folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)

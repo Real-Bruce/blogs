@@ -1,5 +1,27 @@
 # software
 
+## 【17】20260420 - 20260426
+
+#### [TokenTracker](https://github.com/mm7894215/TokenTracker)
+
+生成本地的 Token 消耗统计报表，支持多种 Agent（Claude Code、Codex、Cursor、Gemini、Kiro、OpenCode、OpenClaw 和 Every Code）。
+
+#### [msync](https://github.com/debugtheworldbot/msync)
+
+命令行工具，导出 claude code 的记忆（memory），然后输入 Claude 客户端或其他 AI Agent。
+
+#### [input0](https://github.com/10xChengTu/input0)
+
+macOS 语音输入工具 — 按住快捷键录音，松开后自动转写、优化、粘贴到当前输入框。
+
+#### [Recordly](https://github.com/webadderall/Recordly)
+
+**开源屏幕录制器**和编辑器，适合制作**操作讲解、演示、产品视频**等内容。
+
+#### [gridea-pro](https://github.com/Gridea-Pro/gridea-pro)
+
+基于 Wails (Go + Vue 3) 的静态博客写作客户端，永久开源免费！
+
 ## 【16】20260413 - 20260419
 
 #### [adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
