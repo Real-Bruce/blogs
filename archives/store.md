@@ -3,7 +3,7 @@
 #### [expansion artifacts](https://mattstromawn.com/writing/expansion-artifacts/)
 
 A well-designed compression algorithm keeps data _perceptually_ identical while making files much more efficient to store and transmit.  
->设计良好的压缩算法能保持 _ 数据 _ 感知上的一致性，同时使文件的存储和传输效率大大提升。
+>设计良好的压缩算法能保持数据感知上的一致性，同时使文件的存储和传输效率大大提升。
 
 Compression always changes data permanently. Common formats (JPG, MP3, MP4) make changes slowly and gently: it usually takes hundreds of cycles of saving, sharing, and re-uploading before the tool marks, called **compression artifacts**, become apparent. [Re-save a JPG enough times](https://www.youtube.com/watch?v=jjhomJ04S18) and it goes blocky and washed out; [iterate an MP3](https://parkerhiggins.net/2015/10/mad-generation-loss/) and metallic tones bleed through the music; [re-upload a YouTube video a thousand times](https://www.youtube.com/watch?v=icruGcSsPp0) and you end up with a blobby mess over unintelligible audio.  
 >压缩总是会永久改变数据。常见格式（JPG、MP3、MP4）做的修改缓慢而温和：通常需要数百个周期的保存、分享和重新上传，才会出现称为**压缩伪影**的工具痕迹。[重复保存JPG](https://www.youtube.com/watch?v=jjhomJ04S18) 会变得块状且褪色;[重复MP3](https://parkerhiggins.net/2015/10/mad-generation-loss/) 时，金属音调会渗透音乐;[重新上传YouTube视频一千次](https://www.youtube.com/watch?v=icruGcSsPp0)，最终会变成一团混乱且难以理解的音频。
@@ -30,6 +30,10 @@ Compression made the information age possible by stripping things down to fit th
 >压缩通过简化内容以适应管道，使信息时代成为可能。扩展通过重新爆破数据，使人工智能时代成为可能。这两种操作都会留下痕迹; 我们学会了识别压缩伪影，但我们才刚刚开始面对扩展伪影。在我们发现之前，风险很大。
 
 ## 🛸开源项目
+
+#### [kami](https://github.com/tw93/kami)
+
+主打用于 Paper 排版的场景的 Sikll，生成的内容简洁清晰，支持很多表格样式，很好玩的一个 skill。
 
 #### [link ai](https://github.com/star7th/link-ai)
 
