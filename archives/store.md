@@ -199,7 +199,7 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 #### [laws of software engineering](https://lawsofsoftwareengineering.com/)
 
-收集各种软件相关的定律，目前有 56 条。比如：过早优化是万恶之源，除非必要否则不要添加功能
+收集各种软件相关的定律，目前有 56 条。比如：过早优化是万恶之源，除非必要否则不要添加功能。
 
 #### [kenney](https://kenney.nl/assets)
 
