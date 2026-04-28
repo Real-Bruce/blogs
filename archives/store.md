@@ -31,6 +31,11 @@ Compression made the information age possible by stripping things down to fit th
 
 ## 🛸开源项目
 
+#### [opencli](https://github.com/jackwener/opencli)
+
+**把网站、浏览器会话、Electron 应用和本地工具，统一变成适合人类与 AI Agent 使用的确定性接口。**  
+复用浏览器登录态，先自动化真实操作，再把高频流程沉淀成可复用的 CLI 命令。
+
 #### [kami](https://github.com/tw93/kami)
 
 主打用于 Paper 排版的场景的 Sikll，生成的内容简洁清晰，支持很多表格样式，很好玩的一个 skill。
