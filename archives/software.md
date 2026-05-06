@@ -1,5 +1,25 @@
 # software
 
+## 【18】20260427 - 20260503
+
+#### [rename](https://github.com/chenz24/rename.tools)
+
+浏览器端的批量文件重命名工具，支持各种规则设定，浏览器本地运行。
+
+#### [FontInAss](https://github.com/Yuri-NagaSaki/FontInAss)
+
+FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕文件上传后，系统自动从在线字体库中匹配字幕引用的字体，提取实际使用的字符生成极小的子集化字体，并嵌入到字幕文件中。
+
+支持 Web 界面、命令行工具（CLI）和 API 调用三种使用方式。
+
+#### [oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
+
+基于 Rust 语言的跨平台 SSH 终端，功能较多，使用 Tauri 桌面框架。
+
+#### [魔方简历]([https://magicv.art/](https://github.com/JOYCEQL/magic-resume))
+
+一个开源免费的简历编辑工具，数据保存在浏览器本地。
+
 ## 【17】20260420 - 20260426
 
 #### [TokenTracker](https://github.com/mm7894215/TokenTracker)

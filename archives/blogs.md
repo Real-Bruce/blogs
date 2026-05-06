@@ -1,5 +1,15 @@
 # blogs
 
+## 【18】20260427 - 20260503
+
+#### [谈谈不受欢迎的博客技术特征](https://blog.zhilu.site/2025/unpopular-blog-tech)
+
+作者列举了一些不受欢迎的技术博客的特点，可以参考看看，作为自己博客的正向优化案例。
+
+#### [Machine Learning: A Practitioner's Mental Model](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)
+
+工程师的机器学习教程，解释基本概念。
+
 ## 【17】20260420 - 20260426
 
 #### [你不知道的 AI Coding：非技术人的上手、场景与实战](https://tw93.fun/2026-04-26/ai-coding.html)

@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/04/27 - 2026/05/03 [Vol.086](./weekly/Vol086.md)
+
 #### 2026/04/20 - 2026/04/26 [Vol.085 Expansion artifacts](./weekly/Vol085.md)
 
 #### 2026/04/13 - 2026/04/19 [Vol.084 brainrot industrial complex](./weekly/Vol084.md)

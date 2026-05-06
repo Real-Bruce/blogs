@@ -1,5 +1,23 @@
 # website
 
+## 【18】20260427 - 20260503
+
+#### [every-gpu](https://sheets.works/data-viz/every-gpu)
+
+网站展示了 GPU 显卡的发展历程，从 1996 年的 Voodoo 卡到 2025 年的 RTX 5090 显卡，支持不同显卡的对比。
+
+#### [佛津](https://fojin.app/)
+
+全球佛教古籍数字化聚合平台。
+
+#### [lixian](https://lixian.online/)
+
+获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具。
+
+#### [thesvg](https://www.thesvg.org/)
+
+包含了几千个品牌 Logo 的免费 SVG 图标库。
+
 ## 【17】20260420 - 20260426
 
 #### [100 个产品设计框架](https://pmframe.works/)

@@ -1,5 +1,9 @@
 # article
 
+## 【18】20260427 - 20260503
+
+出去玩了！
+
 ## 【17】20260420 - 20260426
 
 #### [expansion artifacts](https://mattstromawn.com/writing/expansion-artifacts/)
