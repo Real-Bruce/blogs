@@ -159,6 +159,14 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [get design](https://getdesign.md/)
+
+收集了各种网站的设计系统的描述文档（design.md），可以给 AI 进行参考使用。
+
+#### [web check](https://web-check.xyz/)
+
+输入网址，可以检查该网站的各种信息。
+
 #### [ipaddress](https://ipaddress.to/lookup/)
 
  IP 地址、域名的各种信息查询，还提供了免费的 API。
