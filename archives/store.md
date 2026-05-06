@@ -159,6 +159,10 @@ FontInAss 是一个开源的字幕字体子集化工具。将 ASS/SSA/SRT 字幕
 
 ## 🚀网站&工具
 
+#### [xsct](https://xsct.ai/)
+
+在线同时对比各种模型的效果，帮你找到最适配你产品的那个模型。
+
 #### [the Mahjong](https://themahjong.guide/)
 
 教外国人打麻将的可视化教程，但是我感觉我也很需要，哈哈哈哈。
