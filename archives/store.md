@@ -518,6 +518,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [why is the sky blue](https://explainers.blog/posts/why-is-the-sky-blue/)
+
+很有趣的一篇科普文章，介绍地球上的天空为什么是蓝色的，夕阳为什么是红色的，以及火星的天空为什么是红色的，而夕阳却是蓝色的。
+
 #### [stop using ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
 
 Ollama 是一个运行本地大模型的工具，作者提出它存在的诸多问题，并建议改用 [llama.cpp](https://github.com/ggml-org/llama.cpp) 和 [LM Studio](https://lmstudio.ai/)。
