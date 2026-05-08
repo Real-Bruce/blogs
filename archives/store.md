@@ -534,9 +534,13 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
+开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。
+
 #### [how llms work](https://ynarwal.github.io/how-llms-work/)
 
-
+大模型原理的长篇讲解，带有可互动的图形解释，针对初学者，基于 Andrej Karpathy 的技术深度分析文章。
 
 #### [why is the sky blue](https://explainers.blog/posts/why-is-the-sky-blue/)
 
