@@ -1,5 +1,7 @@
 ## 📜有价值的文章
 
+#### [](https://blog.solazy.me/20260507/)
+
 ## 🛸开源项目
 
 #### [Launch Next](https://github.com/RoversX/LaunchNext)
