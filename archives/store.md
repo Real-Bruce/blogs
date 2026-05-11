@@ -502,6 +502,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [你不知道的 GEO：AI 可见性的原理、实践与取舍](https://tw93.fun/2026-05-01/ai-visibility.html)
+
+TW93 老师最新的博客，将 AI 搜索逻辑相关的文章。
+
 #### [Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 
 开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。
