@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/05/04 - 2026/05/10 [Vol.087 误会是表达者的宿命](./weekly/Vol087.md)
+
 #### 2026/04/27 - 2026/05/03 [Vol.086](./weekly/Vol086.md)
 
 #### 2026/04/20 - 2026/04/26 [Vol.085 Expansion artifacts](./weekly/Vol085.md)
