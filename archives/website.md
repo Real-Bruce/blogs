@@ -2,6 +2,22 @@
 
 ## 【19】20260504 - 20260510
 
+#### [中国卷烟博物馆](https://www.ciggies.app/)
+
+收集各种国产品牌的卷烟。
+
+#### [file compress](https://filecompress.org/zh-cn/)
+
+支持在线压缩各种格式的文件，非常齐全。
+
+#### [middle class museum](https://www.ideagames.fun/middle-class-museum)
+
+中产博物馆，展示了 1980 年代到 2020 年代中产阶级的生活方式和消费习惯。
+
+#### [Claude Code Cheat Sheet](https://cc.storyfox.cz/)
+
+Claude Code 各种命令的速查表。
+
 ## 【18】20260427 - 20260503
 
 #### [every-gpu](https://sheets.works/data-viz/every-gpu)
