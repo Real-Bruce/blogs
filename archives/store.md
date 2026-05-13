@@ -132,6 +132,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [agent tank](https://agentank.ai/)
+
+创建独一无二的坦克外观，然后基于 md 文档，让你的 Agent 赋予其独一无二的战斗策略，然后和其他人的坦克战斗、进化，拿到更强排名。
+
 #### [privacy filter](https://privacyfilter.app/zh-hans/)
 
 在线的文本隐私检测和脱敏工具，基于 OpenAI 的本地模型 Privacy Filter。
