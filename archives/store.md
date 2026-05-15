@@ -142,6 +142,30 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [image2hub](https://image2hub.netlify.app/)
+
+AI 图片提示词库，包含了多种海报、插画风格的提示词信息。
+
+#### [open animation](https://openanimation.web.app/#Home)
+
+可以发现、查看一些热门的高质量 Lottie 动画，没有广告，支持免费下载。
+
+#### [cdielts gelielts](https://cdielts.gelielts.com/)
+
+雅思官方的模拟考试系统，可以免费测试英语能力。
+
+#### [the galactic archive](https://thegalacticarchive.com/)
+
+互动式的《星球大战》星系地图，包含超过 2000 颗行星坐标、背景故事趣闻和空间贸易路线。
+
+#### [cateno](https://cateno.app/)
+
+探索历史因果关系的网站。
+
+#### [ask an astronaut](https://askanastronaut.issinrealtime.org/)
+
+在国际空间站数百位宇航员的访谈记录里面寻找一些问题的答案。
+
 #### [agent tank](https://agentank.ai/)
 
 创建独一无二的坦克外观，然后基于 md 文档，让你的 Agent 赋予其独一无二的战斗策略，然后和其他人的坦克战斗、进化，拿到更强排名。
