@@ -1,5 +1,22 @@
 ## 📜有价值的文章
 
+#### [why facts don't change minds](https://jamesclear.com/why-facts-dont-change-minds)
+
+The people who are most likely to change our minds are the ones we agree with on 98 percent of topics.
+
+>最有可能改变我们观点的人，往往是那些在98%的话题上都与我们意见一致的人
+
+
+Books resolve this tension. With a book, the conversation takes place inside someone's head and without the risk of being judged by others. It's easier to be open-minded when you aren't feeling defensive.  
+
+>书籍化解了这种紧张。有了书，对话发生在别人的脑海中，没有被他人评判的风险。当你不再感到防御时，更容易保持开放心态。
+
+
+Arguments are like a full frontal attack on a person's identity. Reading a book is like slipping the seed of an idea into a person's brain and letting it grow on their own terms. There's enough wrestling going on in someone's head when they are overcoming a pre-existing belief. They don't need to wrestle with you too.  
+
+>争吵就像对一个人身份的全面攻击。读书就像把一个想法的种子悄悄植入一个人的脑海，让它按自己的方式成长。当一个人克服一个既有信念时，脑子里已经有足够的挣扎了。他们不需要和你一起挣扎。
+
+
 #### [我对你无能的细节没兴趣](https://blog.solazy.me/20260512/)
 
 假如你觉得一项工作可以用 5 分钟概括完，而对方却汇报了 20 分钟，那么对方一定是在展示「他无能的细节」。
