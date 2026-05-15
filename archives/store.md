@@ -540,6 +540,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)
+
+很有趣的一篇博客，作者把 22 端口暴露在公网上，在一个月内受到不同 IP 的攻击和访问，作者统计了这些数据，得到了很多有意思的事情。
+
 #### [你不知道的 GEO：AI 可见性的原理、实践与取舍](https://tw93.fun/2026-05-01/ai-visibility.html)
 
 TW93 老师最新的博客，将 AI 搜索逻辑相关的文章。
