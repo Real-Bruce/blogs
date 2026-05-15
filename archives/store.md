@@ -4,17 +4,35 @@
 
 The people who are most likely to change our minds are the ones we agree with on 98 percent of topics.
 
->最有可能改变我们观点的人，往往是那些在98%的话题上都与我们意见一致的人
-
+>最有可能改变我们观点的人，往往是那些在 98% 的话题上都与我们意见一致的人
 
 Books resolve this tension. With a book, the conversation takes place inside someone's head and without the risk of being judged by others. It's easier to be open-minded when you aren't feeling defensive.  
 
 >书籍化解了这种紧张。有了书，对话发生在别人的脑海中，没有被他人评判的风险。当你不再感到防御时，更容易保持开放心态。
 
-
 Arguments are like a full frontal attack on a person's identity. Reading a book is like slipping the seed of an idea into a person's brain and letting it grow on their own terms. There's enough wrestling going on in someone's head when they are overcoming a pre-existing belief. They don't need to wrestle with you too.  
 
 >争吵就像对一个人身份的全面攻击。读书就像把一个想法的种子悄悄植入一个人的脑海，让它按自己的方式成长。当一个人克服一个既有信念时，脑子里已经有足够的挣扎了。他们不需要和你一起挣扎。
+
+There is another reason bad ideas continue to live on, which is that people continue to talk about them.  
+
+>坏想法之所以持续存在，还有一个原因是人们还在谈论它们。
+
+Silence is death for any idea. An idea that is never spoken or written down dies with the person who conceived it. Ideas can only be remembered when they are repeated. They can only be _believed_ when they are repeated.  
+
+>沉默对任何想法来说都是死亡。一个从未被说出口或书写的想法，随着构思者一同消亡。思想只有在被重复时才能被记住。只有在被重复时才能被 _ 相信 _。
+
+
+People also repeat bad ideas when they complain about them. Before you can criticize an idea, you have to reference that idea. You end up repeating the ideas you’re hoping people will forget—but, of course, people can’t forget them because you keep talking about them. The more you repeat a bad idea, the more likely people are to believe it.[](https://jamesclear.com/why-facts-dont-change-minds#)  
+
+>人们抱怨时也会重复糟糕的想法。在批评一个想法之前，你必须先引用那个观点。你最终会重复那些你希望人们忘记的想法——但当然，人们不会忘记它们，因为你一直在谈论它们。你重复的坏观点越多，人们就越可能相信它。
+
+
+Let's call this phenomenon **Clear's Law of Recurrence:** The number of people who believe an idea is directly proportional to the number of times it has been repeated during the last year—even if the idea is false.[](https://jamesclear.com/why-facts-dont-change-minds#)  
+
+>我们称这种现象为**克利尔的复归定律：**相信一个观点的人数与过去一年中该观点被重复的次数成正比——即使该观点是错误的
+
+
 
 
 #### [我对你无能的细节没兴趣](https://blog.solazy.me/20260512/)
