@@ -1,5 +1,19 @@
 # software
 
+## 【20】20260511 - 20260517
+
+#### [agent-safehouse](https://github.com/eugene1g/agent-safehouse)
+
+在 macOS 上对 LLM 编码代理进行沙箱，让他们只能访问真正需要的文件和集成。
+
+#### [cc-connect](https://github.com/chenhg5/cc-connect)
+
+个开源的连接器，将各种 AI 编程工具与手机聊天软件相连。
+
+#### [wsl2 distro manager](https://github.com/bostrot/wsl2-distro-manager)
+
+WSL Distro Manager 是一个免费的开源应用程序，它提供了一个用户友好的图形界面来管理 Windows Subsystem for Linux（WSL）发行版。通过 WSL 发行版管理器，你可以轻松地安装、卸载、更新、备份和恢复 WSL 发行版，以及配置它们的设置，并通过一次点击启动它们。
+
 ## 【19】20260504 - 20260510
 
 #### [animal island ui](https://github.com/guokaigdg/animal-island-ui)
