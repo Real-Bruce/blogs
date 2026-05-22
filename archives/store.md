@@ -174,7 +174,13 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
-#### [](https://mikeveerman.github.io/tokenspeed/?rate=30&mode=code)
+#### [superspl](https://superspl.at/)
+
+提供在线的高斯泼溅处理，可以上传照片进行处理，还能浏览很多合成好的 3D 模型。
+
+#### [tokenspeed](https://mikeveerman.github.io/tokenspeed/?rate=30&mode=code)
+
+这个网站让你在线体验 token 生成速度。
 
 #### [collectui](https://collectui.com/)
 
