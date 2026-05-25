@@ -1,5 +1,23 @@
 # software
 
+## 【21】20260518 - 20260524
+
+#### [kami](https://github.com/tw93/kami)
+
+主打用于 Paper 排版的场景的 Sikll，生成的内容简洁清晰，支持很多表格样式，很好玩的一个 skill。
+
+#### [link ai](https://github.com/star7th/link-ai)
+
+智链 AI 网关在统一代理转发大模型 API 的基础上，内置**数据脱敏、隐私保护、全链路审计**三大安全能力，确保敏感信息不泄露、每次调用可追溯。支持 OpenAI、Anthropic、Azure、通义千问、DeepSeek 等主流提供商，三态熔断器保障高可用。
+
+#### [privacy filter](https://github.com/openai/privacy-filter)
+
+OpenAI 隐私过滤器是一种双向令牌分类模型，用于文本中的个人身份信息（PII）检测和掩蔽。它适用于高吞吐量的数据净化工作流程，团队需要一个能够在本地运行、快速、上下文感知且可调的模型。[相关的介绍文章](https://openai.com/index/introducing-openai-privacy-filter/)
+
+#### [kite desktop](https://github.com/eryajf/kite-desktop)
+
+基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具。
+
 ## 【20】20260511 - 20260517
 
 #### [agent-safehouse](https://github.com/eugene1g/agent-safehouse)

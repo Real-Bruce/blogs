@@ -1,5 +1,15 @@
 # blogs
 
+## 【21】20260518 - 20260524
+
+#### [Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
+开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。
+
+#### [how llms work](https://ynarwal.github.io/how-llms-work/)
+
+大模型原理的长篇讲解，带有可互动的图形解释，针对初学者，基于 Andrej Karpathy 的技术深度分析文章。
+
 ## 【20】20260511 - 20260517
 
 #### [I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)

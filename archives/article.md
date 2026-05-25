@@ -1,5 +1,45 @@
 # article
 
+## 【21】20260518 - 20260524
+
+#### [why facts don't change minds](https://jamesclear.com/why-facts-dont-change-minds)
+
+The people who are most likely to change our minds are the ones we agree with on 98 percent of topics.
+
+>最有可能改变我们观点的人，往往是那些在 98% 的话题上都与我们意见一致的人
+
+Books resolve this tension. With a book, the conversation takes place inside someone's head and without the risk of being judged by others. It's easier to be open-minded when you aren't feeling defensive.  
+
+>书籍化解了这种紧张。有了书，对话发生在别人的脑海中，没有被他人评判的风险。当你不再感到防御时，更容易保持开放心态。
+
+Arguments are like a full frontal attack on a person's identity. Reading a book is like slipping the seed of an idea into a person's brain and letting it grow on their own terms. There's enough wrestling going on in someone's head when they are overcoming a pre-existing belief. They don't need to wrestle with you too.  
+
+>争吵就像对一个人身份的全面攻击。读书就像把一个想法的种子悄悄植入一个人的脑海，让它按自己的方式成长。当一个人克服一个既有信念时，脑子里已经有足够的挣扎了。他们不需要和你一起挣扎。
+
+There is another reason bad ideas continue to live on, which is that people continue to talk about them.  
+
+>坏想法之所以持续存在，还有一个原因是人们还在谈论它们。
+
+Silence is death for any idea. An idea that is never spoken or written down dies with the person who conceived it. Ideas can only be remembered when they are repeated. They can only be _believed_ when they are repeated.  
+
+>沉默对任何想法来说都是死亡。一个从未被说出口或书写的想法，随着构思者一同消亡。思想只有在被重复时才能被记住。只有在被重复时才能被 _ 相信 _。
+
+People also repeat bad ideas when they complain about them. Before you can criticize an idea, you have to reference that idea. You end up repeating the ideas you’re hoping people will forget—but, of course, people can’t forget them because you keep talking about them. The more you repeat a bad idea, the more likely people are to believe it.[](https://jamesclear.com/why-facts-dont-change-minds#)  
+
+>人们抱怨时也会重复糟糕的想法。在批评一个想法之前，你必须先引用那个观点。你最终会重复那些你希望人们忘记的想法——但当然，人们不会忘记它们，因为你一直在谈论它们。你重复的坏观点越多，人们就越可能相信它。
+
+Let's call this phenomenon **Clear's Law of Recurrence:** The number of people who believe an idea is directly proportional to the number of times it has been repeated during the last year—even if the idea is false.[](https://jamesclear.com/why-facts-dont-change-minds#)  
+
+>我们称这种现象为**克利尔的复归定律**：相信一个观点的人数与过去一年中该观点被重复的次数成正比——即使该观点是错误的。
+
+Your time is better spent championing good ideas than tearing down bad ones. Don't waste time explaining why bad ideas are bad. You are simply fanning the flame of ignorance and stupidity.  
+
+>你花时间去支持好主意，而不是拆毁坏主意。别浪费时间解释为什么坏主意是坏的。你只是在助长无知和愚蠢的火焰。
+
+Most people argue to win, not to learn. As Julia Galef so aptly puts it: people often act like soldiers rather than scouts. Soldiers are on the intellectual attack, looking to defeat the people who differ from them. Victory is the operative emotion. Scouts, meanwhile, are like intellectual explorers, slowly trying to map the terrain with others. Curiosity is the driving force.  
+
+>大多数人争论是为了赢，而不是为了学习。正如朱莉娅·加莱夫恰如其分地说的：人们往往表现得像士兵而非侦察兵。士兵们在智力上发起攻击，试图击败与他们不同的人。胜利是关键的情感。而侦察兵则像智力探险者，慢慢地与他人一起绘制地形图。好奇心是驱动力。
+
 ## 【20】20260511 - 20260517
 
 #### [我对你无能的细节没兴趣](https://blog.solazy.me/20260512/)

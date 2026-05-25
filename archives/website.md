@@ -1,5 +1,23 @@
 # website
 
+## 【21】20260518 - 20260524
+
+#### [3dsvg](https://3dsvg.design/)
+
+网站支持把绘图、文字或 SVG 图片转换为 3D 效果，支持在线录制。
+
+#### [image provenance](https://863401402.github.io/image-provenance/)
+
+检查一张图片是否是 AI 生成的图片。
+
+#### [tiny world build](https://tinyworld.build/)
+
+微缩世界摆放小游戏，可以随意添加建筑、树木、花草等到地图上，很解压的一款小游戏。
+
+#### [lawsofux](https://lawsofux.com/)
+
+这个网站收集各种用户体验（UX）法则，比如 [米勒法则](https://lawsofux.com/millers-law/)：普通人一次能记住 7 个项目（变动范围为 5～9）
+
 ## 【20】20260511 - 20260517
 
 #### [cateno](https://cateno.app/)
