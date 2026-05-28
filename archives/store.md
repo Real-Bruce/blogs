@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [mise](https://github.com/jdx/mise)
+
+一个工具统一运行时版本 (nvm/asdf)+ 环境变量 (direnv)+ 任务 (make)，一个 mise.toml 管全部，基于 Rust 开发，单个二进制文件就能用运行。
+
 #### [Lucarne](https://github.com/tuchg/Lucarne)
 
 将电脑上的 AI Agent 对接到微信/TG 内，实现在手机上完成权限审批、实时获取项目进展、回复问题，支持连续对话。
