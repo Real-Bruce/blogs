@@ -124,6 +124,26 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [Browse The Collection](https://storiedcolors.com/browse/)
+
+网站收集了各种颜色的来源故事。
+
+#### [math-curve-loaders](https://paidax01.github.io/math-curve-loaders/)
+
+这个项目提供了多种基于数学公式计算绘制的曲线加载动画。
+
+#### [Trending Research](https://paperswithcode.co/)
+
+网站提供了实时的热门人工智能研究论文数据，包含了代码、数据集等内容。
+
+#### [gallery](https://svg-bench.fenx.work/gallery)
+
+使用 AI 生成宝可梦 SVG 的测试集，评测各种 AI 模型生成的效果。
+
+#### [Ogden's Basic English](https://ogden.munch.love/)
+
+英国语言学家 C.K. Ogden 认为英语 850 个词就够了，这是根据这些词生成的一个在线词典，包含了每个词的定义、用法和例句。
+
 #### [superspl](https://superspl.at/)
 
 提供在线的高斯泼溅处理，可以上传照片进行处理，还能浏览很多合成好的 3D 模型。
