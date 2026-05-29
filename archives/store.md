@@ -2,6 +2,30 @@
 
 ## 🛸开源项目
 
+#### [codexmate](https://github.com/SakuraByteCore/codexmate)
+
+一站式本地 AI 编程智能体管理面板。统一管理 Codex、Claude Code 与 OpenClaw，支持 Provider 切换、会话管理与任务编排。纯本地优先，你的智能体控制中心。
+
+#### [DeepSeek Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+
+专为 DeepSeek 设计的终端 AI 编程 agent，充分利用了缓存机制，可以极大降低费用，只支持 DeepSeek 的付费 API。
+
+#### [witr](https://github.com/pranshuparmar/witr)
+
+命令行工具，显示当前每个进程对应什么命令，可以用命令名或端口号查询。
+
+#### [Echo Loop](https://github.com/echo-loop/Echo-Loop)
+
+一款科学高效的英语听说训练 App。
+
+#### [CanvasCast](https://github.com/nine19een/CanvasCast)
+
+白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容。
+
+#### [dive](https://github.com/wagoodman/dive)
+
+一个命令行工具，展示 docker 镜像内部的每一层文件列表。
+
 #### [mise](https://github.com/jdx/mise)
 
 一个工具统一运行时版本 (nvm/asdf)+ 环境变量 (direnv)+ 任务 (make)，一个 mise.toml 管全部，基于 Rust 开发，单个二进制文件就能用运行。
@@ -546,7 +570,13 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [微积分其实很容易](https://keen-ginger-62hw.here.now/)
+
+著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书，可以 [在线阅读](https://keen-ginger-62hw.here.now/)。
+
 #### [Learn Claude Code by doing, not reading.](https://claude.nagdy.me/)
+
+Claude Code 在线学习网站，一步一步引导学习。
 
 #### [Agent：原理、架构与工程实践](https://tw93.fun/2026-03-21/agent.html)
 
