@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/5/25 - 2026/5/31 [Vol.090](./weekly/Vol090.md)
+
 #### 2026/05/18 - 2026/05/24 [Vol.089 why facts don't change minds](./weekly/Vol089.md)
 
 #### 2026/05/11 - 2026/05/17 [Vol.088 我对你无能的细节没兴趣](./weekly/Vol088.md)
