@@ -1,5 +1,8 @@
 # article
 
+## 【22】20260525 - 20260530
+
+
 ## 【21】20260518 - 20260524
 
 #### [why facts don't change minds](https://jamesclear.com/why-facts-dont-change-minds)

@@ -1,5 +1,23 @@
 # website
 
+## 【22】20260525 - 20260530
+
+#### [ass subset](https://subs.js.org/ass-subset/)
+
+ASS 字幕字体嵌入的网页工具，可以减少字幕文件的体积。
+
+#### [get design](https://getdesign.md/)
+
+收集了各种网站的设计系统的描述文档（design.md），可以给 AI 进行参考使用。
+
+#### [web check](https://web-check.xyz/)
+
+输入网址，可以检查该网站的各种信息。
+
+#### [ipaddress](https://ipaddress.to/lookup/)
+
+ IP 地址、域名的各种信息查询，还提供了免费的 API。
+
 ## 【21】20260518 - 20260524
 
 #### [3dsvg](https://3dsvg.design/)
