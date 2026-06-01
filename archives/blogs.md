@@ -1,5 +1,14 @@
 # blogs
+
 ## 【22】20260525 - 20260530
+
+#### [whats_ai](https://wmyskxz.cn/wiki/whats_ai/)
+
+通俗 AI 原理教程，作者详细介绍了关于 AI 使用和研究中的思考。
+
+#### [Learn Claude Code](https://learn.shareai.run/zh/)
+
+从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制。
 
 ## 【21】20260518 - 20260524
 

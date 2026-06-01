@@ -1,6 +1,20 @@
 # software
 ## 【22】20260525 - 20260530
+#### [pocket id](https://github.com/pocket-id/pocket-id)
 
+需要自搭建的 OIDC 身份认证服务，支持 Passkey 无密码登录，设置参考 [这篇文章](https://runtimeterror.dev/pocket-id-easy-passkey-authentication/)。
+
+#### [r2 web](https://github.com/vikiboss/r2-web)
+
+轻盈优雅的 Web 原生 Cloudflare R2 文件管理器，一切皆在浏览器中完成。
+
+#### [wereadexporter](https://github.com/onyas/weread-exporter)
+
+将微信读书的划线、笔记和书评导出为 Markdown 文件。
+
+#### [JadeAI](https://github.com/twwch/JadeAI)
+
+基于 Next.js 的智能简历生成器，支持拖拽编辑、实时 AI 优化、50 套专业模板打造简历。
 
 ## 【21】20260518 - 20260524
 
