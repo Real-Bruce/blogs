@@ -136,6 +136,22 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [WikiMap](https://wikimap.wiki/)
+
+在一张地图上展示各种维基百科的条目。
+
+#### [Free Viral Video Generator](https://mkdollar.com/tools/video)
+
+一个免费的数字庆祝视频生成工具，比如庆祝某些数量达到某个里程碑的数字。
+
+#### [retrato de tenochtitlan](https://retratodetenochtitlan.mx/)
+
+一个 3D 可视化网站，展示 16 世纪初的阿兹特克帝国首都 Tenochtitlan（特诺奇蒂特兰，古墨西哥城
+
+#### [半挂倒车模拟器](https://semi-trailer-parking.tankxu.com/)
+
+在线模拟驾驶一辆半挂车进行倒车操作，把半挂车倒入指定位置。
+
 #### [Browse The Collection](https://storiedcolors.com/browse/)
 
 网站收集了各种颜色的来源故事。
