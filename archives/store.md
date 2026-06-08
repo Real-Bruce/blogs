@@ -1,15 +1,5 @@
 ## 📜有价值的文章
 
-#### [three ways to get paid](https://jasonzweig.com/three-ways-to-get-paid/)
-
-1) Lie to people who want to be lied to, and you’ll get rich.  
-2) 2) Tell the truth to those who want the truth, and you’ll make a living.  
-3) Tell the truth to those who want to be lied to, and you’ll go broke.  
-
-> 1）对那些想被欺骗的人撒谎，你会发财。
-> 2）对那些想知道真相的人说实话，你就能谋生。
-> 3）对那些想被欺骗的人说实话，你会破产。
-
 ## 🛸开源项目
 
 #### [flipbook-app](https://github.com/imcuttle/flipbook-app)
@@ -55,22 +45,6 @@
 #### [CanvasCast](https://github.com/nine19een/CanvasCast)
 
 白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容。
-
-#### [dive](https://github.com/wagoodman/dive)
-
-一个命令行工具，展示 docker 镜像内部的每一层文件列表。
-
-#### [mise](https://github.com/jdx/mise)
-
-一个工具统一运行时版本 (nvm/asdf)+ 环境变量 (direnv)+ 任务 (make)，一个 mise.toml 管全部，基于 Rust 开发，单个二进制文件就能用运行。
-
-#### [Lucarne](https://github.com/tuchg/Lucarne)
-
-将电脑上的 AI Agent 对接到微信/TG 内，实现在手机上完成权限审批、实时获取项目进展、回复问题，支持连续对话。
-
-#### [remove ai watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
-
-移除 AI 水印的开源项目，支持移除 Google Gemini（Nano Banana）、ChatGPT / DALL-E、Stable Diffusion、Adobe Firefly、Midjourney 及其他 AI 模型生成的图像中的**可见**和**不可见** AI 水印。
 
 #### [markstream-vue](https://github.com/Simon-He95/markstream-vue)
 
@@ -189,22 +163,6 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 #### [半挂倒车模拟器](https://semi-trailer-parking.tankxu.com/)
 
 在线模拟驾驶一辆半挂车进行倒车操作，把半挂车倒入指定位置。
-
-#### [Browse The Collection](https://storiedcolors.com/browse/)
-
-网站收集了各种颜色的来源故事。
-
-#### [math-curve-loaders](https://paidax01.github.io/math-curve-loaders/)
-
-这个项目提供了多种基于数学公式计算绘制的曲线加载动画。
-
-#### [Trending Research](https://paperswithcode.co/)
-
-网站提供了实时的热门人工智能研究论文数据，包含了代码、数据集等内容。
-
-#### [gallery](https://svg-bench.fenx.work/gallery)
-
-使用 AI 生成宝可梦 SVG 的测试集，评测各种 AI 模型生成的效果。
 
 #### [Ogden's Basic English](https://ogden.munch.love/)
 
@@ -604,6 +562,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [你不知道的具身智能：从小机器狗到 Optimus](https://tw93.fun/2026-06-07/robot.html)
+
+TW93 大佬的最新博客，从小机器狗讲到具身智能的相关技术，很有意思的一篇文章，推荐阅读。
+
 #### [markov chains](https://setosa.io/blog/2014/07/26/markov-chains/)
 
 本文使用大量动画，解释什么是马尔可夫链。
@@ -611,14 +573,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [微积分其实很容易](https://keen-ginger-62hw.here.now/)
 
 著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书，可以 [在线阅读](https://keen-ginger-62hw.here.now/)。
-
-#### [Learn Claude Code by doing, not reading.](https://claude.nagdy.me/)
-
-Claude Code 在线学习网站，一步一步引导学习。
-
-#### [Agent：原理、架构与工程实践](https://tw93.fun/2026-03-21/agent.html)
-
-TW93 大佬写的 Angent 原理、架构和工程实践，建议搭配 [你不知道的 Claude Code：架构、治理与工程实践](https://tw93.fun/2026-03-12/claude.html) 一起查看，写的特别好相信你也会很有收获。
 
 #### [cloudflare 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
 
