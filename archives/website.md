@@ -1,5 +1,23 @@
 # website
 
+## 【23】20260601 - 20260607
+
+#### [Browse The Collection](https://storiedcolors.com/browse/)
+
+网站收集了各种颜色的来源故事。
+
+#### [math-curve-loaders](https://paidax01.github.io/math-curve-loaders/)
+
+这个项目提供了多种基于数学公式计算绘制的曲线加载动画。
+
+#### [Trending Research](https://paperswithcode.co/)
+
+网站提供了实时的热门人工智能研究论文数据，包含了代码、数据集等内容。
+
+#### [gallery](https://svg-bench.fenx.work/gallery)
+
+使用 AI 生成宝可梦 SVG 的测试集，评测各种 AI 模型生成的效果。
+
 ## 【22】20260525 - 20260530
 
 #### [ass subset](https://subs.js.org/ass-subset/)

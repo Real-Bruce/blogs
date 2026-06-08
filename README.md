@@ -20,9 +20,9 @@
 
 ### 📰weekly: Records the resources collected each week
 
-#### 2026/6/01
+#### 2026/06/01 - 2026/06/07 [Vol.091 three ways to get paid](./weekly/Vol091.md)
 
-#### 2026/5/25 - 2026/5/31 [Vol.090](./weekly/Vol090.md)
+#### 2026/05/25 - 2026/05/31 [Vol.090](./weekly/Vol090.md)
 
 #### 2026/05/18 - 2026/05/24 [Vol.089 why facts don't change minds](./weekly/Vol089.md)
 

@@ -1,5 +1,25 @@
 # software
+
+## 【23】20260601 - 20260607
+
+#### [dive](https://github.com/wagoodman/dive)
+
+一个命令行工具，展示 docker 镜像内部的每一层文件列表。
+
+#### [mise](https://github.com/jdx/mise)
+
+一个工具统一运行时版本 (nvm/asdf)+ 环境变量 (direnv)+ 任务 (make)，一个 mise.toml 管全部，基于 Rust 开发，单个二进制文件就能用运行。
+
+#### [Lucarne](https://github.com/tuchg/Lucarne)
+
+将电脑上的 AI Agent 对接到微信/TG 内，实现在手机上完成权限审批、实时获取项目进展、回复问题，支持连续对话。
+
+#### [remove ai watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
+
+移除 AI 水印的开源项目，支持移除 Google Gemini（Nano Banana）、ChatGPT / DALL-E、Stable Diffusion、Adobe Firefly、Midjourney 及其他 AI 模型生成的图像中的**可见**和**不可见** AI 水印。
+
 ## 【22】20260525 - 20260530
+
 #### [pocket id](https://github.com/pocket-id/pocket-id)
 
 需要自搭建的 OIDC 身份认证服务，支持 Passkey 无密码登录，设置参考 [这篇文章](https://runtimeterror.dev/pocket-id-easy-passkey-authentication/)。

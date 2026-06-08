@@ -1,5 +1,15 @@
 # blogs
 
+## 【23】20260601 - 20260607
+
+#### [Learn Claude Code by doing, not reading.](https://claude.nagdy.me/)
+
+Claude Code 在线学习网站，一步一步引导学习。
+
+#### [Agent：原理、架构与工程实践](https://tw93.fun/2026-03-21/agent.html)
+
+TW93 大佬写的 Angent 原理、架构和工程实践，建议搭配 [你不知道的 Claude Code：架构、治理与工程实践](https://tw93.fun/2026-03-12/claude.html) 一起查看，写的特别好相信你也会很有收获。
+
 ## 【22】20260525 - 20260530
 
 #### [whats_ai](https://wmyskxz.cn/wiki/whats_ai/)

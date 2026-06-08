@@ -1,5 +1,17 @@
 # article
 
+## 【23】20260601 - 20260607
+
+#### [three ways to get paid](https://jasonzweig.com/three-ways-to-get-paid/)
+
+1) Lie to people who want to be lied to, and you’ll get rich.  
+2) 2) Tell the truth to those who want the truth, and you’ll make a living.  
+3) Tell the truth to those who want to be lied to, and you’ll go broke.  
+
+> 1）对那些想被欺骗的人撒谎，你会发财。
+> 2）对那些想知道真相的人说实话，你就能谋生。
+> 3）对那些想被欺骗的人说实话，你会破产。
+
 ## 【22】20260525 - 20260530
 
 没找到！
