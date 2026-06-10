@@ -140,6 +140,20 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [](https://tobypenner.com/wikigraph/)
+
+#### [can agent suse](https://www.canagentsuse.com/)
+
+这个项目收录了各种网站面向 AI Agent 提供了哪些功能和服务，比如提供 CLI、API 还是 MCP。
+
+#### [last museum](https://lastmuseum.com/)
+
+线上博物馆项目，收录了五百多万件博物馆藏品的图片和信息。
+
+#### [lacing methods](https://www.fieggen.com/shoelace/lacingmethods.htm)
+
+这个网站记录了 62 种鞋带的系法，很有意思。
+
 #### [高考真题大全](https://t.urongda.com/)
 
 这个网站收集各省历年的高考试卷，另可参考这个 [GitHub 仓库](https://github.com/deekur/gaokaomath)。
