@@ -140,7 +140,13 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
-#### [](https://tobypenner.com/wikigraph/)
+#### [vocabulary](https://animations.dev/vocabulary)
+
+网站收录了很多描述动画的单词、术语及其含义，适合给 AI 描述动画时使用。
+
+#### [wikigraph](https://tobypenner.com/wikigraph/)
+
+用星图的方式展示 wiki 百科词条之间的关系，对外关联越多词条越大。
 
 #### [can agent suse](https://www.canagentsuse.com/)
 
