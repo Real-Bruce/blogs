@@ -2,6 +2,18 @@
 
 ## 🛸开源项目
 
+#### [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api)
+
+基于 Go 语言的高性能中国古诗词 API 服务，支持 REST 和 GraphQL 接口，提供简体/繁体中文、爬虫练习场等功能。
+
+#### [SnackBase](https://github.com/lalitgehani/SnackBase)
+
+通用的 Python 项目网页管理后端。
+
+#### [math](https://github.com/webc-site/math)
+
+ Markdown 数学公式的渲染库，使用浏览器原生支持的 MathML Core，体积很小，渲染速度快，可以替代 KaTeX / MathJax。
+
 #### [smctl](https://github.com/leaperone/smctl)
 
 **smctl** 是一个开源、命令行优先的 Mac 硬件控制工具：风扇曲线、电池充电限制、温度/功耗遥测——这些 macOS 不开放的控制能力，一条命令搞定。
@@ -593,6 +605,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 网站提供了很多使用绳子来编织很好看带子的教程。
 
 ## ⛵资料&博文
+
+#### [battle tested patterns](https://totoro-jam.github.io/battle-tested-patterns/zh/)
+
+从 React 调度器到 Linux 内核——46 个模式，可交互探索、可溯源真实代码、可用 4 种语言实现。
 
 #### [大模型的权重是什么](https://mp.weixin.qq.com/s/TM9lv6b-9AH8O9ZiApgTBA)
 
