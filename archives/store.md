@@ -581,6 +581,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 网站提供了很多使用绳子来编织很好看带子的教程。
 
 ## ⛵资料&博文
+#### [大模型的q'yu](https://mp.weixin.qq.com/s/TM9lv6b-9AH8O9ZiApgTBA)
 
 #### [你不知道的具身智能：从小机器狗到 Optimus](https://tw93.fun/2026-06-07/robot.html)
 
