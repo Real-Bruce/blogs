@@ -2,6 +2,18 @@
 
 ## 🛸开源项目
 
+#### [smctl](https://github.com/leaperone/smctl)
+
+**smctl** 是一个开源、命令行优先的 Mac 硬件控制工具：风扇曲线、电池充电限制、温度/功耗遥测——这些 macOS 不开放的控制能力，一条命令搞定。
+
+#### [altcha](https://github.com/altcha-org/altcha)
+
+ALTCHA 是一款自托管的 Captcha 替代品，用来过滤掉机器人。
+
+#### [oproxy](https://github.com/sauravrao637/oproxy)
+
+oproxy 是一个本地的 HTTP、HTTPS 和 SOCKS5 代理，用于检查、重放和修改流量。
+
 #### [flipbook-app](https://github.com/imcuttle/flipbook-app)
 
 使用 AI 生成可点击的图册（一系列相关图片），根据点击位置的文字，自动进入对应的下一页图片，可以参考示例 [《2026世界杯》](https://imcuttle.github.io/flipbook-app/3CxOnV76roLd/)。
@@ -581,7 +593,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 网站提供了很多使用绳子来编织很好看带子的教程。
 
 ## ⛵资料&博文
-#### [大模型的q'yu](https://mp.weixin.qq.com/s/TM9lv6b-9AH8O9ZiApgTBA)
+
+#### [大模型的权重是什么](https://mp.weixin.qq.com/s/TM9lv6b-9AH8O9ZiApgTBA)
+
+一篇入门科普文章，解释为什么模型代码只有几十 KB，但权重却动辄几十 GB。
 
 #### [你不知道的具身智能：从小机器狗到 Optimus](https://tw93.fun/2026-06-07/robot.html)
 
