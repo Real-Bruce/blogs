@@ -1,5 +1,23 @@
 # website
 
+## 【24】20260608 - 20260614
+
+#### [高考真题大全](https://t.urongda.com/)
+
+这个网站收集各省历年的高考试卷，另可参考这个 [GitHub 仓库](https://github.com/deekur/gaokaomath)。
+
+#### [How Deep is Challenger Deep?](https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859)
+
+生动的图文介绍，解释地球最深处 " 挑战者深渊 "（Challenger Deep），深达约 11000 米。
+
+#### [WikiMap](https://wikimap.wiki/)
+
+在一张地图上展示各种维基百科的条目。
+
+#### [Free Viral Video Generator](https://mkdollar.com/tools/video)
+
+一个免费的数字庆祝视频生成工具，比如庆祝某些数量达到某个里程碑的数字。
+
 ## 【23】20260601 - 20260607
 
 #### [Browse The Collection](https://storiedcolors.com/browse/)

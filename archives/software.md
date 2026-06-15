@@ -1,5 +1,23 @@
 # software
 
+## 【24】20260608 - 20260614
+
+#### [flipbook-app](https://github.com/imcuttle/flipbook-app)
+
+使用 AI 生成可点击的图册（一系列相关图片），根据点击位置的文字，自动进入对应的下一页图片，可以参考示例 [《2026世界杯》](https://imcuttle.github.io/flipbook-app/3CxOnV76roLd/)。
+
+#### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+
+开源工具使用 Web 界面，管理 Nginx 反向代理，并自动开启 SSL 证书，参见 [介绍文章](https://www.xda-developers.com/nginx-proxy-manager-best-reverse-proxy/)
+
+#### [AppPorts](https://github.com/wzh4869/AppPorts)
+
+专为 macOS 设计的应用程序迁移与链接工具。 轻松将庞大的应用程序迁移至外部存储，同时保持系统无感运行。
+
+#### [readneo](https://github.com/extrastu/readneo)
+
+微信读书数据面板 -- 连接微信读书 Skill API，可视化书架、阅读统计、笔记划线，一键导出到 Notion 和 Flomo。
+
 ## 【23】20260601 - 20260607
 
 #### [dive](https://github.com/wagoodman/dive)
