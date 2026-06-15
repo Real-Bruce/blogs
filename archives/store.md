@@ -1,5 +1,8 @@
 ## 📜有价值的文章
 
+#### [睡眠是第二天的预算](https://blog.solazy.me/20260610/)
+
+
 ## 🛸开源项目
 
 #### [flipbook-app](https://github.com/imcuttle/flipbook-app)
