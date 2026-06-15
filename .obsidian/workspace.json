@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "6daa7a28fe167975",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc811c54e29b8d20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fd6f5408dc5038",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archives/store.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "store"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "168617f05889ec54",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa2a0186f4eba20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02eec11b2f93e6fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "22ee746e59806345",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "47d192b719c4d43e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b90fd6b8c8994a02",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e0882e8ece1217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0f457220b5c5904",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "weekly/Vol.019.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Vol.019 的反向链接列表"
+            }
+          },
+          {
+            "id": "62ab7e212e0eb71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "weekly/Vol.019.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Vol.019 的出链列表"
+            }
+          },
+          {
+            "id": "732638a84bc6cf83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7037c5c3c01bbc54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archives/store.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "store 的大纲"
+            }
+          },
+          {
+            "id": "cedbb8e0ab68e494",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c4fd6f5408dc5038",
+  "lastOpenFiles": [
+    "README.md",
+    "weekly/Vol091.md",
+    "archives/store.md",
+    "archives/article.md",
+    "archives/blogs.md",
+    "archives/software.md",
+    "archives/website.md",
+    "weekly/Vol090.md",
+    "archives/template.md",
+    "weekly/Vol089.md",
+    "weekly/Vol085.md",
+    "weekly/Vol088.md",
+    "weekly/Vol087.md",
+    "weekly/Vol086.md",
+    "weekly/Vol084.md",
+    "weekly/Vol083.md",
+    "weekly/Vol082.md",
+    "weekly/Vol081.md",
+    "weekly/Vol080.md",
+    "weekly/Vol079.md",
+    "未命名.base",
+    "weekly/Vol078.md",
+    "weekly/Vol070.md",
+    "weekly/Vol077.md",
+    "weekly/Vol076.md",
+    "weekly/Vol075.md",
+    "weekly/Vol074.md",
+    "2025/weekly",
+    "2025/archives",
+    "2025",
+    "Pasted image 20250331084922.png",
+    "接口巡检日志2025-02-24.xlsx",
+    "weekly/未命名",
+    "weekly",
+    "archives",
+    "2024",
+    "archives/2024"
+  ]
+}
