@@ -534,6 +534,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [终端里的异常字符是什么意思](https://blog.mxdyeah.com/post/strange-terminal-characters)
+
+解释关于你粘贴命令时出现的莫名奇妙的字符是什么的博文，很有趣。
+
 #### [markov chains](https://setosa.io/blog/2014/07/26/markov-chains/)
 
 本文使用大量动画，解释什么是马尔可夫链。
