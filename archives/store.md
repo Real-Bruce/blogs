@@ -124,6 +124,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [tinywind](https://tinywind.io/play)
+
+TinyWind 是一款拥有真实风力物理引擎的像素海盗航海游戏，玩家已在其中累计航行了超过 38 万公里。
+
 #### [retrato de tenochtitlan](https://retratodetenochtitlan.mx/)
 
 一个 3D 可视化网站，展示 16 世纪初的阿兹特克帝国首都 Tenochtitlan（特诺奇蒂特兰，古墨西哥城
