@@ -140,6 +140,18 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [tvexplorer](https://tvexplorer.live/)
+
+在地图上探索全球可以在线播放的电视节目。
+
+#### [fcksignups](https://fcksignups.com/)
+
+网站收录了各种无需注册即可使用的在线工具。
+
+#### [stonkrider](https://stonkrider.com/)
+
+选择一家公司的股票，可以在股票走势上玩骑摩托小游戏。
+
 #### [tinywind](https://tinywind.io/play)
 
 TinyWind 是一款拥有真实风力物理引擎的像素海盗航海游戏，玩家已在其中累计航行了超过 38 万公里。
