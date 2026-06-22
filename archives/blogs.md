@@ -1,5 +1,15 @@
 # blogs
 
+## 【25】20260615 - 20260621
+
+#### [markov chains](https://setosa.io/blog/2014/07/26/markov-chains/)
+
+本文使用大量动画，解释什么是马尔可夫链。
+
+#### [微积分其实很容易](https://keen-ginger-62hw.here.now/)
+
+著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书，可以 [在线阅读](https://keen-ginger-62hw.here.now/)。
+
 ## 【24】20260608 - 20260614
 
 #### [你缺失的那门计算机课](https://www.criwits.top/missing/)

@@ -1,5 +1,23 @@
 # website
 
+## 【25】20260615 - 20260621
+
+#### [半挂倒车模拟器](https://semi-trailer-parking.tankxu.com/)
+
+在线模拟驾驶一辆半挂车进行倒车操作，把半挂车倒入指定位置。
+
+#### [Ogden's Basic English](https://ogden.munch.love/)
+
+英国语言学家 C.K. Ogden 认为英语 850 个词就够了，这是根据这些词生成的一个在线词典，包含了每个词的定义、用法和例句。
+
+#### [superspl](https://superspl.at/)
+
+提供在线的高斯泼溅处理，可以上传照片进行处理，还能浏览很多合成好的 3D 模型。
+
+#### [tokenspeed](https://mikeveerman.github.io/tokenspeed/?rate=30&mode=code)
+
+这个网站让你在线体验 token 生成速度。
+
 ## 【24】20260608 - 20260614
 
 #### [高考真题大全](https://t.urongda.com/)

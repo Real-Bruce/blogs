@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/06/15 - 2026/06/21 [Vol.093 职场中的「可预期性」](./weekly/Vol093.md)
+
 #### 2026/06/08 - 2026/06/14 [Vol.092 睡眠是第二天的预算](./weekly/Vol092.md)
 
 #### 2026/06/01 - 2026/06/07 [Vol.091 three ways to get paid](./weekly/Vol091.md)

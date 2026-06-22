@@ -1,5 +1,23 @@
 # software
 
+## 【25】20260615 - 20260621
+
+#### [blog helper](https://github.com/thinkycx/blog-helper)
+
+轻量级静态博客分析与评论系统 — PV/UV 统计、热门文章、趋势图、评论审核管理、内置 Dashboard。一个实例服务多个站点，按域名自动隔离数据。
+
+#### [Prism](https://github.com/golangboy/Prism)
+
+ Chrome/Chromium 扩展，用来同时打开并平铺多个 AI 窗口，通过常驻控制台将消息同时发送给不同的 AI，同时查看结果。
+
+#### [block-kit](https://github.com/Steven-Qiang/block-kit)
+
+一个功能强大的多平台油猴脚本，支持通过关键词搜索并批量拉黑营销账号和垃圾用户。
+
+#### [PUA Claw](https://github.com/puaclaw/PUAClaw/)
+
+对小龙虾（OpenClaw，能执行多种任务的 AI 助理）进行 PUA 的话术。
+
 ## 【24】20260608 - 20260614
 
 #### [flipbook-app](https://github.com/imcuttle/flipbook-app)
