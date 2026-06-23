@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [rtk](https://github.com/rtk-ai/rtk)
+
+rtk 在命令输出到达 LLM 上下文之前进行过滤和压缩。单一 Rust 二进制文件，零依赖，<10ms 开销。
+
 #### [geo-citation-lab](https://github.com/yaojingang/geo-citation-lab)
 
 GEO Citation Lab 是一个面向 GEO 研究的公开资料仓库。
