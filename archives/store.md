@@ -2,9 +2,13 @@
 
 ## 🛸开源项目
 
+#### [geo-citation-lab](https://github.com/yaojingang/geo-citation-lab)
+
+GEO Citation Lab 是一个面向 GEO 研究的公开资料仓库。
+
 #### [ppt-master](https://github.com/hugohe3/ppt-master)
 
-
+生成可编辑 PPT 的 haness 工具，支持对接各种模型。
 
 #### [penpot](https://github.com/penpot/penpot)
 
