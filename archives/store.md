@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [dnspick](https://github.com/palemoky/dnspick)
+
+**DNS** + **pick**）是一个跨平台命令行工具：它并发基准测试一批主流及自定义 DNS 服务器（涵盖 UDP、DoT、DoH），对一组常用的国内/国外域名反复查询，结合**平均延迟**与**成功率**智能评分。
+
 #### [lore](https://github.com/EpicGames/lore)
 
 Epic 开发的适合游戏的版本管理工具，支持管理二进制文件。
