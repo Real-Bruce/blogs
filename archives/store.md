@@ -120,6 +120,14 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [every noise](https://everynoise.com/)
+
+音乐流派探索，收录了 6000+ 种流派，通过散点图的方式展示流派。
+
+#### [little alchemy2](https://littlealchemy2.com/)
+
+元素合成小游戏，利用基础的水、火、涂、空气四种元素组合得到全新的物质。
+
 #### [tvexplorer](https://tvexplorer.live/)
 
 在地图上探索全球可以在线播放的电视节目。
