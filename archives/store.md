@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [lore](https://github.com/EpicGames/lore)
+
+Epic 开发的适合游戏的版本管理工具，支持管理二进制文件。
+
 #### [rtk](https://github.com/rtk-ai/rtk)
 
 rtk 在命令输出到达 LLM 上下文之前进行过滤和压缩。
