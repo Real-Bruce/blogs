@@ -34,6 +34,10 @@ GEO Citation Lab 是一个面向 GEO 研究的公开资料仓库。
 
 一站式本地 AI 编程智能体管理面板。统一管理 Codex、Claude Code 与 OpenClaw，支持 Provider 切换、会话管理与任务编排。纯本地优先，你的智能体控制中心。
 
+#### [mykvm](https://github.com/XxMinor/mykvm)
+
+源跨平台软件 KVM，在同一局域网内，让 macOS、Windows、Linux 共享一套键盘、鼠标和剪贴板。
+
 #### [DeepSeek Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
 专为 DeepSeek 设计的终端 AI 编程 agent，充分利用了缓存机制，可以极大降低费用，只支持 DeepSeek 的付费 API。
