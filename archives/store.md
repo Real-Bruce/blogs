@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [direct light](https://github.com/oukeming64-tech/direct-light)
+
+面向导演、摄影指导和灯光师的白棚灯光预演沙盘。在标准白色影棚里，实时预览人物站位、灯位、灯具、控光附件、白光与彩色光对人物和阴影的影响。
+
 #### [dnspick](https://github.com/palemoky/dnspick)
 
 **DNS** + **pick**）是一个跨平台命令行工具：它并发基准测试一批主流及自定义 DNS 服务器（涵盖 UDP、DoT、DoH），对一组常用的国内/国外域名反复查询，结合**平均延迟**与**成功率**智能评分。
@@ -25,6 +29,10 @@ GEO Citation Lab 是一个面向 GEO 研究的公开资料仓库。
 #### [penpot](https://github.com/penpot/penpot)
 
 开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。
+
+#### [tiygate](https://github.com/tiylabs/tiygate)
+
+通过一个控制面接入 OpenAI-Compatible、Responses、Messages、Gemini 等协议。用虚拟模型按策略路由多服务商 / 多模型，捕获完整请求响应日志，并支持个人桌面端零配置启用与企业容器化部署。
 
 #### [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi)
 
