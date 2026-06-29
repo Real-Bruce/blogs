@@ -42,6 +42,10 @@ GEO Citation Lab 是一个面向 GEO 研究的公开资料仓库。
 
 开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。
 
+#### [claude-tap](https://github.com/liaohch3/claude-tap)
+
+`claude-tap` 是给 AI 编程 agent 用的本地代理和 trace 查看器。把 CLI 通过它启动，或监听本地 app transcript，就能看到真实 API 流量和 agent 上下文：system prompt、对话历史、工具 schema、工具调用、流式响应、token 用量和请求 diff。
+
 #### [tiygate](https://github.com/tiylabs/tiygate)
 
 通过一个控制面接入 OpenAI-Compatible、Responses、Messages、Gemini 等协议。用虚拟模型按策略路由多服务商 / 多模型，捕获完整请求响应日志，并支持个人桌面端零配置启用与企业容器化部署。
@@ -49,6 +53,18 @@ GEO Citation Lab 是一个面向 GEO 研究的公开资料仓库。
 #### [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi)
 
 记录鸟类访客的项目，很有趣的一个项目，[AvianVisitors](https://theodore.net/projects/AvianVisitors/)
+
+#### [witr](https://github.com/pranshuparmar/witr)
+
+它解释**了一个运行中的事物的起源**、**起源**，以及**是哪条系统链促成了它现在存在**，无论是在一个单一的、可读的输出还是**交互式的 TUI 仪表盘**中。
+
+#### [VidBee](https://github.com/nexmoe/VidBee)
+
+从全球任何网站下载视频，包括 YouTube、TikTok、Instagram、Twitter 等。
+
+#### [dinky](https://github.com/heyderekj/dinky)
+
+macOS 工具，可以压缩**图片**、**视频**和**PDF**。放文件进去，拿回更小的。
 
 #### [codexmate](https://github.com/SakuraByteCore/codexmate)
 
