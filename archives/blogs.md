@@ -1,5 +1,15 @@
 # blogs
 
+## 【26】20260622 - 20260628
+
+#### [使用llama.cpp部署本地大模型](https://blog.quickso.cn/2026/06/30/%E4%BD%BF%E7%94%A8llama-cpp%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B/)
+
+如题，详细介绍了搭建过程和其中可能会遇到的一些坑。
+
+#### [终端里的异常字符是什么意思](https://blog.mxdyeah.com/post/strange-terminal-characters)
+
+解释关于你粘贴命令时出现的莫名奇妙的字符是什么的博文，很有趣。
+
 ## 【25】20260615 - 20260621
 
 #### [markov chains](https://setosa.io/blog/2014/07/26/markov-chains/)

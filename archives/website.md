@@ -1,5 +1,23 @@
 # website
 
+## 【26】20260622 - 20260628
+
+#### [zoomquilt](https://zoomquilt.org/)
+
+一幅“无限放大”的合作绘画，由多位插画师从 2004 年起协作完成。画面会不断向纵深拉近，一层奇幻场景里又藏着下一层场景，仿佛永远看不到尽头。
+
+#### [open peeps](https://www.openpeeps.com/)
+
+由设计师 Pablo Stanley 制作的手绘人物插画库，提供很多可以自由组合的头部、表情、姿势、服饰部件，能拼出风格统一又多样的人物形象。采用 CC0 协议，可以免费商用。
+
+#### [Old Book Illustrations](https://www.oldbookillustrations.com/)
+
+网站收录了各种古旧书籍的插画，所有插图都来自 18 至 20 世纪初的公版书籍，可以免费下载使用。
+
+#### [fcksignups](https://fcksignups.com/)
+
+网站收录了各种无需注册即可使用的在线工具。
+
 ## 【25】20260615 - 20260621
 
 #### [半挂倒车模拟器](https://semi-trailer-parking.tankxu.com/)
