@@ -562,6 +562,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
+#### [words are a byproduct of consciousness](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)
+
+一篇很有趣的博文，对于人类来说文字是思考的副产品，但是 LLM 是反过来的，因为大量的文字输入而产生了智能。
+
 #### [cloudflare 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
 
 Cloudflare 的 2025 年互联网年度回顾，很有意思的一份报告。
