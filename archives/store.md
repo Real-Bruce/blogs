@@ -168,9 +168,17 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [中国传统纹样图鉴](https://wenyang.net/#/)
+
+纹样图鉴是一个开源的中国传统纹样图录站，收录了 100 多种传统纹样，适合用于学习收藏再创造。
+
 #### [every noise](https://everynoise.com/)
 
 音乐流派探索，收录了 6000+ 种流派，通过散点图的方式展示流派。
+
+#### [standard ebooks](https://standardebooks.org/)
+
+Standard Ebooks 是一个志愿者驱动的项目，制作格式精良、开源、无美国版权限制且免费的公有领域电子书新版本。
 
 #### [little alchemy2](https://littlealchemy2.com/)
 
@@ -180,9 +188,25 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 在地图上探索全球可以在线播放的电视节目。
 
+#### [zoomquilt](https://zoomquilt.org/)
+
+一幅“无限放大”的合作绘画，由多位插画师从 2004 年起协作完成。画面会不断向纵深拉近，一层奇幻场景里又藏着下一层场景，仿佛永远看不到尽头。
+
+#### [open peeps](https://www.openpeeps.com/)
+
+由设计师 Pablo Stanley 制作的手绘人物插画库，提供很多可以自由组合的头部、表情、姿势、服饰部件，能拼出风格统一又多样的人物形象。采用 CC0 协议，可以免费商用。
+
+#### [Old Book Illustrations](https://www.oldbookillustrations.com/)
+
+网站收录了各种古旧书籍的插画，所有插图都来自 18 至 20 世纪初的公版书籍，可以免费下载使用。
+
 #### [fcksignups](https://fcksignups.com/)
 
 网站收录了各种无需注册即可使用的在线工具。
+
+#### [audio mass](https://audiomass.co/)
+
+免费开源音频编辑器，支持裁剪、淡入淡出、降噪、均衡器、压缩、混响等常用效果。
 
 #### [stonkrider](https://stonkrider.com/)
 
