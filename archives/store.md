@@ -18,7 +18,7 @@ In this world, there is no one you can change. Not your spouses, not your friend
 >在这个世界上，没有人是你能改变的。不是你的配偶，不是你的朋友，不是你的孩子，当然也不是网络上的陌生人。只有你自己。
 
 Stay humble. Keep asking.
->保持谦逊，不断探索。
+>保持谦逊，持续发问。
 
 ## 🛸开源项目
 
