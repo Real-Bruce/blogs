@@ -1,5 +1,25 @@
 ## 📜有价值的文章
 
+#### [why i stopped arguing with people](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+
+When you argue with someone, you think you’re debating an idea. Often you’re not. You’re challenging their sense of self.  
+>当你和别人争论时，你会以为自己在辩论一个观点。很多时候并不是这样的。你是在挑战他们的自我认知。
+
+Most people don’t reason their way to conclusions and then feel accordingly. They feel first, then reason backward to justify the feeling. They follow the crowd, mistake confidence for correctness, and adopt whatever the people around them already believe. Independent thinking is rare, far rarer than we admit.  
+>大多数人不会通过推理得出结论然后做出相应的感受。他们先感受，然后回溯推理来合理化这种感觉。他们跟随人群，把自信误认为正确，采纳周围人已经相信的东西。独立思考很少见，远比我们承认的要少得多。
+
+The most respectful thing you can often do is let people meet their own consequences, because that’s the only teacher they’ll actually listen to.
+>你能做的最尊重的事情往往是让别人自己承担后果，因为那是他们唯一真正会听的老师。
+
+When someone asks, the cause and effect reverse. You’re no longer imposing your judgment on someone who never wanted it. Their asking is the cause; your helping is the effect. Now there’s an opening, a real one, because they’ve decided they’re ready to hear it. The ego is lowered. The defenses are down. The advice lands.  
+>当有人问起时，因果关系会反转。你不再强加对一个从未想要评判的人。他们的请求是原因; 你的帮助就是效果。现在有了真正的机会，因为他们决定准备好听这个机会了。自尊心被降低。防御已经失效。建议确实生效了。
+
+In this world, there is no one you can change. Not your spouses, not your friends, not your kids, and of course not strangers on the internet. Only yourself.  
+>在这个世界上，没有人是你能改变的。不是你的配偶，不是你的朋友，不是你的孩子，当然也不是网络上的陌生人。只有你自己。
+
+Stay humble. Keep asking.
+>保持谦逊，不断探索。
+
 ## 🛸开源项目
 
 #### [direct light](https://github.com/oukeming64-tech/direct-light)
