@@ -160,6 +160,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [depo](https://www.depo.zip/)
+
+提供 AI 相关的各类资源，包括工具、Harness 等等。
+
 #### [中国传统纹样图鉴](https://wenyang.net/#/)
 
 纹样图鉴是一个开源的中国传统纹样图录站，收录了 100 多种传统纹样，适合用于学习收藏再创造。
