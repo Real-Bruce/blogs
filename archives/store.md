@@ -22,6 +22,10 @@ Stay humble. Keep asking.
 
 ## 🛸开源项目
 
+#### [file viewer](https://github.com/flyfish-dev/file-viewer)
+
+File Viewer 是面向业务系统的浏览器原生文件预览组件。它的核心场景是企业后台、OA、知识库、工单系统、附件中心、工程资料库和私有化交付项目中的附件预览。
+
 #### [direct light](https://github.com/oukeming64-tech/direct-light)
 
 面向导演、摄影指导和灯光师的白棚灯光预演沙盘。在标准白色影棚里，实时预览人物站位、灯位、灯具、控光附件、白光与彩色光对人物和阴影的影响。
