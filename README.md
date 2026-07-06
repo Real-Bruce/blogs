@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/06/29 - 2026/07/05 [Vol.095 why i stopped arguing with people](./weekly/Vol095.md)
+
 #### 2026/06/22 - 2026/06/28 [Vol.094 别拿道德当武器](./weekly/Vol094.md)
 
 #### 2026/06/15 - 2026/06/21 [Vol.093 职场中的「可预期性」](./weekly/Vol093.md)

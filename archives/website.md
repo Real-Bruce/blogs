@@ -1,5 +1,23 @@
 # website
 
+## 【27】20260629 - 20260705
+
+#### [tinywind](https://tinywind.io/play)
+
+TinyWind 是一款拥有真实风力物理引擎的像素海盗航海游戏，玩家已在其中累计航行了超过 38 万公里。
+
+#### [retrato de tenochtitlan](https://retratodetenochtitlan.mx/)
+
+一个 3D 可视化网站，展示 16 世纪初的阿兹特克帝国首都 Tenochtitlan（特诺奇蒂特兰，古墨西哥城
+
+#### [collectui](https://collectui.com/)
+
+网站收集了各种 APP 的 UI 设计，适合做设计参考。
+
+#### [personal web sites](https://personalwebsites.org/)
+
+网站收录了全球四千多个个人网站，涵盖了各种领域和风格。
+
 ## 【26】20260622 - 20260628
 
 #### [zoomquilt](https://zoomquilt.org/)

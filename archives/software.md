@@ -1,5 +1,19 @@
 # software
 
+## 【27】20260629 - 20260705
+
+#### [penpot](https://github.com/penpot/penpot)
+
+开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。
+
+#### [claude-tap](https://github.com/liaohch3/claude-tap)
+
+`claude-tap` 是给 AI 编程 agent 用的本地代理和 trace 查看器。把 CLI 通过它启动，或监听本地 app transcript，就能看到真实 API 流量和 agent 上下文：system prompt、对话历史、工具 schema、工具调用、流式响应、token 用量和请求 diff。
+
+#### [tiygate](https://github.com/tiylabs/tiygate)
+
+通过一个控制面接入 OpenAI-Compatible、Responses、Messages、Gemini 等协议。用虚拟模型按策略路由多服务商 / 多模型，捕获完整请求响应日志，并支持个人桌面端零配置启用与企业容器化部署。
+
 ## 【26】20260622 - 20260628
 
 #### [lore](https://github.com/EpicGames/lore)
