@@ -164,9 +164,9 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
-#### [高考分数模拟](https://agentsfeed.org/app-demo/gaokao/index.html)
+#### [高考志愿填报模拟器](https://agentsfeed.org/app-demo/gaokao/index.html)
 
-
+交互效果做的很好的网站，可以缩放查看各个地方的大学和专业，提供分数排名查询。
 
 #### [glaze](https://www.glaze.app/)
 
