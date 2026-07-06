@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4fd6f5408dc5038",
+  "active": "7037c5c3c01bbc54",
   "lastOpenFiles": [
     "archives/website.md",
     "archives/store.md",
