@@ -132,9 +132,21 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [中国古建筑瑰宝](https://architecture-iota-khaki.vercel.app/)
+
+在线 3D 环视 7 座具有代表性的中国古建筑。
+
+#### [Radio Garden](https://radio.garden/)
+
+“收音机地球”，地球上的每一个绿点都代表一座城市的实时电台。拖动地球、点开绿点，就可以收听正在直播的广播。
+
 #### [高考志愿填报模拟器](https://agentsfeed.org/app-demo/gaokao/index.html)
 
 交互效果做的很好的网站，可以缩放查看各个地方的大学和专业，提供分数排名查询。
+
+#### [动画词汇表](https://vocabulary.vikingz.me/)
+
+可以预览各种动画效果的在线词汇表，可以在 Vibe Coding 的时候进行参考。
 
 #### [glaze](https://www.glaze.app/)
 
@@ -151,6 +163,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 #### [every noise](https://everynoise.com/)
 
 音乐流派探索，收录了 6000+ 种流派，通过散点图的方式展示流派。
+
+#### [Free Music Archive](https://freemusicarchive.org/)
+
+历史悠久的免费音乐库，收录了大量独立音乐人授权发布的作品，多数采用 CC 协议，可免费下载，按协议注明出处即可用于视频、播客等创作。
 
 #### [standard ebooks](https://standardebooks.org/)
 
