@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [handmux](https://github.com/handmux/handmux)
+
+一个命令行工具，把电脑上正跑着的 tmux 会话原样搬进手机浏览器，适合在手机浏览器上操作电脑的 Claude Code / Codex。
+
 #### [onlyoffice web comp](https://github.com/electroluxcode/onlyoffice-web-comp)
 
 基于 OnlyOffice 静态 SDK 的浏览器端文档处理方案，网页端完成 Word、Excel、PowerPoint 的查看、编辑与转换，无需后端。
@@ -155,6 +159,8 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 #### [Radio Garden](https://radio.garden/)
 
 “收音机地球”，地球上的每一个绿点都代表一座城市的实时电台。拖动地球、点开绿点，就可以收听正在直播的广播。
+
+####
 
 #### [高考志愿填报模拟器](https://agentsfeed.org/app-demo/gaokao/index.html)
 
