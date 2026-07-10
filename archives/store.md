@@ -2,9 +2,17 @@
 
 ## 🛸开源项目
 
+#### [onlyoffice web comp](https://github.com/electroluxcode/onlyoffice-web-comp)
+
+基于 OnlyOffice 静态 SDK 的浏览器端文档处理方案，网页端完成 Word、Excel、PowerPoint 的查看、编辑与转换，无需后端。
+
+#### [LaTeX Snipper](https://github.com/SakuraMathcraft/LaTeXSnipper)
+
+一个 Windows 软件，能够将手写的或截图的数学公式，转为 LaTex 代码，并提供 Office 插件。
+
 #### [flint chart](https://github.com/microsoft/flint-chart)
 
-Flint 是一种可视化zhongjian语言，使 AI 代理能够可靠地从简单、可人工编辑的图表规格中，创建富有表现力、画面美观的图表。Flint 编译器无需依赖冗长的底层参数，如比例、轴、间距和布局，而是从数据、语义类型、图表类型和编码中推导出优化的图表设置。Flint 支持 46 种图表类型，并支持 Vega-Lite、ECharts 和 Chart.js 的渲染。
+Flint 是一种可视化中间语言，使 AI 代理能够可靠地从简单、可人工编辑的图表规格中，创建富有表现力、画面美观的图表。Flint 编译器无需依赖冗长的底层参数，如比例、轴、间距和布局，而是从数据、语义类型、图表类型和编码中推导出优化的图表设置。Flint 支持 46 种图表类型，并支持 Vega-Lite、ECharts 和 Chart.js 的渲染。
 
 #### [davit](https://davit.app/)
 
