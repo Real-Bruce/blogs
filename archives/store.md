@@ -2,6 +2,14 @@
 
 ## 🛸开源项目
 
+#### [flint chart](https://github.com/microsoft/flint-chart)
+
+Flint 是一种可视化zhongjian语言，使 AI 代理能够可靠地从简单、可人工编辑的图表规格中，创建富有表现力、画面美观的图表。Flint 编译器无需依赖冗长的底层参数，如比例、轴、间距和布局，而是从数据、语义类型、图表类型和编码中推导出优化的图表设置。Flint 支持 46 种图表类型，并支持 Vega-Lite、ECharts 和 Chart.js 的渲染。
+
+#### [davit](https://davit.app/)
+
+完全原生的苹果容器平台 macOS 应用。在苹果 M 系列芯片上运行 Linux 容器; 替代 Docker Desktop。
+
 #### [file viewer](https://github.com/flyfish-dev/file-viewer)
 
 File Viewer 是面向业务系统的浏览器原生文件预览组件。它的核心场景是企业后台、OA、知识库、工单系统、附件中心、工程资料库和私有化交付项目中的附件预览。
