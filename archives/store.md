@@ -160,7 +160,9 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 “收音机地球”，地球上的每一个绿点都代表一座城市的实时电台。拖动地球、点开绿点，就可以收听正在直播的广播。
 
-####
+#### [awesome zhuiju free](https://github.com/laoma2053/awesome-zhuiju-free)
+
+收集免费的追剧资源。
 
 #### [高考志愿填报模拟器](https://agentsfeed.org/app-demo/gaokao/index.html)
 
@@ -587,3 +589,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 网站提供了很多使用绳子来编织很好看带子的教程。
 
 ## ⛵资料&博文
+
+#### [存储技术书](https://github.com/Lularible/storage-book/tree/master/chapters)
+
+开源中文技术书，从存储的本质讲到文件系统设计与实现。
