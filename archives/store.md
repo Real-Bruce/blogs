@@ -592,4 +592,4 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [存储技术书](https://github.com/Lularible/storage-book/tree/master/chapters)
 
-开源中文技术书，从存储的本质讲到文件系统设计与实现。
+开源技术书，从存储的本质讲到文件系统设计与实现。
