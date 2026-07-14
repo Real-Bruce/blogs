@@ -614,3 +614,4 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [git commands before reading code/](https://piechowski.io/post/git-commands-before-reading-code/)
 
+博客建议在你准备开始读项目代码的时候，建议先运行文章中的几个命令查看项目的情况，对项目的整体有大致的了解。
