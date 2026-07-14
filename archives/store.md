@@ -18,7 +18,7 @@
 
 #### [kill ai slop](https://github.com/yetone/kill-ai-slop)
 
-教你识别常见的 AI Slop 并给出修改建议和 Skill，项目很不错
+教你识别常见的 AI Slop 并给出修改建议和 Skill，项目很不错。
 
 #### [handmux](https://github.com/handmux/handmux)
 
@@ -611,3 +611,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [存储技术书](https://github.com/Lularible/storage-book/tree/master/chapters)
 
 开源技术书，从存储的本质讲到文件系统设计与实现。
+
+#### [git commands before reading code/](https://piechowski.io/post/git-commands-before-reading-code/)
+
