@@ -16,6 +16,10 @@
 
 ## 🛸开源项目
 
+#### [kill ai slop](https://github.com/yetone/kill-ai-slop)
+
+教你识别常见的 AI Slop 并给出修改建议和 Skill，项目很不错
+
 #### [handmux](https://github.com/handmux/handmux)
 
 一个命令行工具，把电脑上正跑着的 tmux 会话原样搬进手机浏览器，适合在手机浏览器上操作电脑的 Claude Code / Codex。
