@@ -1,6 +1,6 @@
 ## 📜有价值的文章
 
-#### [拧巴的人](https://blog.solazy.me/20260710/)
+#### [拧巴](https://blog.solazy.me/20260710/)
 
 如果真的不在乎结果，那就接受自己只是参与者。如果认为自己的判断很重要，那就把观点讲清楚，承担说服别人以及判断失误的成本。两种选择都没什么问题。最消耗人的，是嘴上说着无所谓，行动上却要求所有人证明他很重要。
 
@@ -612,6 +612,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 开源技术书，从存储的本质讲到文件系统设计与实现。
 
-#### [git commands before reading code/](https://piechowski.io/post/git-commands-before-reading-code/)
+#### [git commands before reading code](https://piechowski.io/post/git-commands-before-reading-code/)
 
 博客建议在你准备开始读项目代码的时候，建议先运行文章中的几个命令查看项目的情况，对项目的整体有大致的了解。
