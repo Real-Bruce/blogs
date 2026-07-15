@@ -170,6 +170,18 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [public domain review](https://publicdomainreview.org/)
+
+一个专门挖掘和介绍历史上那些有趣、冷门的公共领域作品的非营利在线刊物。
+
+#### [Incompetech Graph Paper](https://incompetech.com/beta/incompetech-graphpaper.html)
+
+在线方格纸生成工具，支持自定义尺寸、网格间距、线条颜色等。
+
+#### [gradients](https://feralui.dev/gradients)
+
+快速创建漂亮的动态渐变图像的在线工具，支持导出图片和 MP4 视频。
+
 #### [cartographia imperialis](https://cartographia40k.com/)
 
 战锤 40K 在线 3D 互动地图。
