@@ -1,5 +1,23 @@
 # software
 
+## 【28】20260706 - 20260712
+
+#### [FineTune](https://github.com/ronitsingh10/FineTune)
+
+macOS 本来就该自带的音量混音器，真正做到按应用独立音量控制，每个 App 都有单独的滑杆和静音。
+
+#### [lobsterai](https://github.com/netease-youdao/lobsterai)
+
+**LobsterAI** 是由 [网易有道](https://www.youdao.com/) 开发的全场景个人助理 Agent。它 7×24 小时待命，能够帮你完成日常办公中的各类事务 —— 数据分析、制作 PPT、生成视频、撰写文档、搜索信息、收发邮件、定时任务，以及更多。
+
+#### [Kaku](https://github.com/tw93/Kaku)
+
+好用极速的 Mac 终端工具。
+
+#### [ai-credit](https://github.com/debugtheworldbot/ai-credit)
+
+一个命令行工具，用于追踪和分析 AI 编码助手在你的代码库（macOS/Linux/Windows）中的贡献。支持 **Claude Code**、**Codex CLI**、**Cursor**、**Gemini CLI** 和 **Opencode**。
+
 ## 【27】20260629 - 20260705
 
 #### [penpot](https://github.com/penpot/penpot)

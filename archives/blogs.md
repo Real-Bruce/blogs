@@ -1,5 +1,15 @@
 # blogs
 
+## 【28】20260706 - 20260712
+
+#### [存储技术书](https://github.com/Lularible/storage-book/tree/master/chapters)
+
+开源技术书，从存储的本质讲到文件系统设计与实现。
+
+#### [git commands before reading code](https://piechowski.io/post/git-commands-before-reading-code/)
+
+博客建议在你准备开始读项目代码的时候，建议先运行文章中的几个命令查看项目的情况，对项目的整体有大致的了解。
+
 ## 【27】20260629 - 20260705
 
 #### [words are a byproduct of consciousness](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)

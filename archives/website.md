@@ -1,5 +1,23 @@
 # website
 
+## 【28】20260706 - 20260712
+
+#### [the Mahjong](https://themahjong.guide/)
+
+教外国人打麻将的可视化教程，但是我感觉我也很需要，哈哈哈哈。
+
+#### [pyrun](https://pyrun.xyz/packages)
+
+在浏览器中运行 Python 代码的工具，支持多个代码文件引用。
+
+#### [your name in landsat](https://science.nasa.gov/specials/your-name-in-landsat/)
+
+NASA 的一个小工具，可以用多张真实的地理图片显示任意英文字母。
+
+#### [laws of software engineering](https://lawsofsoftwareengineering.com/)
+
+收集各种软件相关的定律，目前有 56 条。比如：过早优化是万恶之源，除非必要否则不要添加功能。
+
 ## 【27】20260629 - 20260705
 
 #### [tinywind](https://tinywind.io/play)
