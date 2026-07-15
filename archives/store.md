@@ -170,6 +170,14 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [cartographia imperialis](https://cartographia40k.com/)
+
+战锤 40K 在线 3D 互动地图。
+
+#### [dailyakari](https://dailyakari.com/)
+
+解密小游戏，通过放在灯泡来照亮整个网格，并满足每个方块的要求。
+
 #### [中国古建筑瑰宝](https://architecture-iota-khaki.vercel.app/)
 
 在线 3D 环视 7 座具有代表性的中国古建筑。
