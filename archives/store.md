@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
+将指定网站的内容，抓取成一个 JSON 文件，然后上传到 ChatGPT，从而生成该网站的聊天机器人，允许你跟该网站聊天。
+
 #### [loro](https://www.loro.dev/)
 
 开源的 CRDT 的同步算法库，用来多人实时同步状态。
