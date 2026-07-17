@@ -152,6 +152,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [openai tokenizer](https://platform.openai.com/tokenizer)
+
+ChatGPT 输入文本分词在线展示，帮你理解 GPT 模型的分词原理。
+
 #### [马屁精学院](https://mapijing89757.dpdns.org/#home)
 
 全球首套把职场赞美、向上沟通与关系维护讲明白的幽默课程。内容是认真的，证书是虚构的，你学到的分寸是真的。
