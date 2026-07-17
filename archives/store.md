@@ -152,6 +152,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [mazes](https://www.jamisbuck.org/mazes/)
+
+网站收集了各种迷宫生成算法。
+
 #### [openai tokenizer](https://platform.openai.com/tokenizer)
 
 ChatGPT 输入文本分词在线展示，帮你理解 GPT 模型的分词原理。
