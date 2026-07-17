@@ -152,6 +152,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [immersive math](https://immersivemath.com/ila/index.html)
+
+互动式线性代数学习网站，将枯燥的线性代数知识转换为可以交互的动画，帮你快速理解相关知识点。
+
 #### [mazes](https://www.jamisbuck.org/mazes/)
 
 网站收集了各种迷宫生成算法。
