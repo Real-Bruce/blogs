@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archives/website.md",
+                "file": "weekly/Vol098.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "website 的大纲"
+              "title": "Vol098 的大纲"
             }
           },
           {
@@ -209,15 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f97ad6a1f84ff5a4",
+  "active": "de2052036e7823cb",
   "lastOpenFiles": [
+    "archives/store.md",
+    "weekly/Vol098.md",
+    "archives/website.md",
     "archives/software.md",
     "archives/blogs.md",
     "archives/article.md",
-    "archives/website.md",
-    "weekly/Vol098.md",
     "weekly/Vol097.md",
-    "archives/store.md",
     "weekly/Vol096.md",
     "archives/template.md",
     "README.md",
