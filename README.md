@@ -20,6 +20,8 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/07/13 - 2026/07/19 [Vol.097](./weekly/Vol097.md)
+
 #### 2026/07/06 - 2026/07/12  [Vol.096 拧巴](./weekly/Vol096.md)
 
 #### 2026/06/29 - 2026/07/05 [Vol.095 why i stopped arguing with people](./weekly/Vol095.md)

@@ -2,22 +2,6 @@
 
 ## 🛸开源项目
 
-#### [gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
-
-将指定网站的内容，抓取成一个 JSON 文件，然后上传到 ChatGPT，从而生成该网站的聊天机器人，允许你跟该网站聊天。
-
-#### [loro](https://www.loro.dev/)
-
-开源的 CRDT 的同步算法库，用来多人实时同步状态。
-
-#### [whatcable](https://github.com/darrylmorley/whatcable)
-
-mac 开源应用，识别插入的 USB 线缆支持那些协议，帮你识别线缆的充电速度，数据传输速度以及对视频的支持情况。
-
-#### [kill ai slop](https://github.com/yetone/kill-ai-slop)
-
-教你识别常见的 AI Slop 并给出修改建议和 Skill，项目很不错。
-
 #### [handmux](https://github.com/handmux/handmux)
 
 一个命令行工具，把电脑上正跑着的 tmux 会话原样搬进手机浏览器，适合在手机浏览器上操作电脑的 Claude Code / Codex。
@@ -151,22 +135,6 @@ macOS 应用，用于语音转文本、语音的实时翻译。
 AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封装，加入了飞书、钉钉、企业微信、QQ 等主流中国 IM 插件。
 
 ## 🚀网站&工具
-
-#### [shot cafe](https://shot.cafe/)
-
-电影剧照检索数据库，支持使用场景 + 拍摄方法 + 颜色查找对应的影片，目前收了 187 部电影加 23 支广告，累计两万四千多张剧照。还有类似的找广告短片的网站：[film vibes](https://filmvibes.io/)
-
-#### [reicon](https://reicon.dev/icons)
-
-在线的免费图标库，无需登录，支持自定义。
-
-#### [immersive math](https://immersivemath.com/ila/index.html)
-
-互动式线性代数学习网站，将枯燥的线性代数知识转换为可以交互的动画，帮你快速理解相关知识点。
-
-#### [mazes](https://www.jamisbuck.org/mazes/)
-
-网站收集了各种迷宫生成算法。
 
 #### [openai tokenizer](https://platform.openai.com/tokenizer)
 
