@@ -118,6 +118,10 @@ macOS 应用，用于语音转文本、语音的实时翻译。
 
 AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封装，加入了飞书、钉钉、企业微信、QQ 等主流中国 IM 插件。
 
+#### [Bark](https://github.com/Finb/Bark)
+
+免费、轻量！简单调用接口即可给自己的 iPhone 发送推送。依赖苹果 APNs，及时、稳定、可靠。
+
 ## 🚀网站&工具
 
 #### [gradients](https://feralui.dev/gradients)
@@ -552,4 +556,16 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 网站提供了很多使用绳子来编织很好看带子的教程。
 
+#### [phistory](https://phistory.cc/)
+
+展示最近主流 AI Coding 工具的系统提示词每次更新内容的网站，适合研究 AI Coding 演进的朋友们。
+
+#### [macapp](https://macapp.supply/)
+
+收集好看好用的 mac app 的网站，可以发现很多好玩有趣的 app。
+
 ## ⛵资料&博文
+
+#### [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)
+
+
