@@ -585,8 +585,3 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 网站提供了很多使用绳子来编织很好看带子的教程。
 
 ## ⛵资料&博文
-
-#### [Stop Naming Your Variables "Flag": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
-
-一篇关于布尔型变量取名的博客，博客建议使用 `is\has\can\should` 这类单词作为前缀，方便阅读和识别，但是有一点文章没有提到，很多开发框架会使用 `is` 前缀作为默认约定，如果代码内使用会出现问题。
-
