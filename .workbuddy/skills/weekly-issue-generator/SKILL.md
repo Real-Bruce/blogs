@@ -65,7 +65,7 @@ Then the 4 section headers, filled with content pulled from `store.md` according
 | ⛵资料&博文 | 2 | `## ⛵资料&博文` |
 
 - Take entries **from the top** of each section, preserving each entry's `#### [title](url)` heading and its body text (copy verbatim, including nested links).
-- **Underflow rule:** if a section has fewer entries than the quota, take all of them. If it has 0, take none (leave the section empty in the issue).
+- **Underflow rule:** if a section has fewer entries than the quota, take all of them. If it has 0 entries in store.md, take none **but** write the placeholder `本周偷懒了(T_T)` as the section body in the issue (applies to every section whose store.md counterpart is empty, e.g. 文章/资料&博文). Do NOT leave the section blank.
 - Do NOT modify store.md in this step.
 
 ### Step 5 — Update README.md index
@@ -87,6 +87,8 @@ For each category file:
 3. **Do NOT remove the content from `weekly/Vol0XX.md`.**
 
 **Lazy-week rule (article.md only):** if the issue's `📜有价值的文章` section is empty, still create the `## 【周数】YYYYMMDD - YYYYMMDD` block in `article.md`, with body text exactly: `本周偷懒了(T_T)`.
+
+**Consistency rule (all four archives):** the split into archive files must mirror the issue exactly. For every section in the issue — including a section whose only content is the placeholder `本周偷懒了(T_T)` — write a corresponding `## 【周数】YYYYMMDD - YYYYMMDD` block into its mapped archive file (article/software/website/blogs.md) with the same body. Never skip an archive file just because that section's store.md was empty; the placeholder must still be archived so the four files stay in sync with the issue.
 
 ### Step 7 — Clean consumed entries from archives/store.md
 
