@@ -129,7 +129,7 @@ def build_issue(vol, start, end, week_no, pulled):
         lines, is_ph = pulled[name]
         body.append(f"## {name}\n")
         if is_ph:
-            body.append(f"\n{PLACEHOLDER}\n")
+            body.append(f"\n{PLACEHOLDER}\n\n")
         else:
             body.append("\n")
             body.extend(lines)
