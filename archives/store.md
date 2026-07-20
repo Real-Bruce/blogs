@@ -2,22 +2,6 @@
 
 ## 🛸开源项目
 
-#### [handmux](https://github.com/handmux/handmux)
-
-一个命令行工具，把电脑上正跑着的 tmux 会话原样搬进手机浏览器，适合在手机浏览器上操作电脑的 Claude Code / Codex。
-
-#### [onlyoffice web comp](https://github.com/electroluxcode/onlyoffice-web-comp)
-
-基于 OnlyOffice 静态 SDK 的浏览器端文档处理方案，网页端完成 Word、Excel、PowerPoint 的查看、编辑与转换，无需后端。
-
-#### [LaTeX Snipper](https://github.com/SakuraMathcraft/LaTeXSnipper)
-
-一个 Windows 软件，能够将手写的或截图的数学公式，转为 LaTex 代码，并提供 Office 插件。
-
-#### [flint chart](https://github.com/microsoft/flint-chart)
-
-Flint 是一种可视化中间语言，使 AI 代理能够可靠地从简单、可人工编辑的图表规格中，创建富有表现力、画面美观的图表。Flint 编译器无需依赖冗长的底层参数，如比例、轴、间距和布局，而是从数据、语义类型、图表类型和编码中推导出优化的图表设置。Flint 支持 46 种图表类型，并支持 Vega-Lite、ECharts 和 Chart.js 的渲染。
-
 #### [davit](https://davit.app/)
 
 完全原生的苹果容器平台 macOS 应用。在苹果 M 系列芯片上运行 Linux 容器; 替代 Docker Desktop。
@@ -135,22 +119,6 @@ macOS 应用，用于语音转文本、语音的实时翻译。
 AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封装，加入了飞书、钉钉、企业微信、QQ 等主流中国 IM 插件。
 
 ## 🚀网站&工具
-
-#### [openai tokenizer](https://platform.openai.com/tokenizer)
-
-ChatGPT 输入文本分词在线展示，帮你理解 GPT 模型的分词原理。
-
-#### [马屁精学院](https://mapijing89757.dpdns.org/#home)
-
-全球首套把职场赞美、向上沟通与关系维护讲明白的幽默课程。内容是认真的，证书是虚构的，你学到的分寸是真的。
-
-#### [public domain review](https://publicdomainreview.org/)
-
-一个专门挖掘和介绍历史上那些有趣、冷门的公共领域作品的非营利在线刊物。
-
-#### [Incompetech Graph Paper](https://incompetech.com/beta/incompetech-graphpaper.html)
-
-在线方格纸生成工具，支持自定义尺寸、网格间距、线条颜色等。
 
 #### [gradients](https://feralui.dev/gradients)
 

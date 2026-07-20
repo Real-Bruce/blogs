@@ -1,5 +1,23 @@
 # website
 
+## 【30】20260720 - 20260726
+
+#### [openai tokenizer](https://platform.openai.com/tokenizer)
+
+ChatGPT 输入文本分词在线展示，帮你理解 GPT 模型的分词原理。
+
+#### [马屁精学院](https://mapijing89757.dpdns.org/#home)
+
+全球首套把职场赞美、向上沟通与关系维护讲明白的幽默课程。内容是认真的，证书是虚构的，你学到的分寸是真的。
+
+#### [public domain review](https://publicdomainreview.org/)
+
+一个专门挖掘和介绍历史上那些有趣、冷门的公共领域作品的非营利在线刊物。
+
+#### [Incompetech Graph Paper](https://incompetech.com/beta/incompetech-graphpaper.html)
+
+在线方格纸生成工具，支持自定义尺寸、网格间距、线条颜色等。
+
 ## 【29】20260713 - 20260719
 
 #### [shot cafe](https://shot.cafe/)

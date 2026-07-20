@@ -1,5 +1,9 @@
 # blogs
 
+## 【30】20260720 - 20260726
+
+本周偷懒了(T_T)
+
 ## 【29】20260713 - 20260719
 
 #### [Stop Naming Your Variables "Flag": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
