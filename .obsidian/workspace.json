@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archives/article.md",
+                "file": "weekly/Vol097.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "article"
+              "title": "Vol097"
             }
           },
           {
@@ -50,9 +50,23 @@
               "icon": "lucide-file",
               "title": "Vol097"
             }
+          },
+          {
+            "id": "b2bad8090026aef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archives/article.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "article"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,18 +223,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4e8952892bbeeda",
+  "active": "55bf1d890d6f29d4",
   "lastOpenFiles": [
-    "archives/article.md",
+    "README.md",
+    "archives/website.md",
     "weekly/Vol097.md",
+    "archives/article.md",
     "archives/blogs.md",
     "archives/software.md",
-    "archives/website.md",
+    "weekly/Vol098.md",
     "archives/store.md",
-    "README.md",
+    "archives/template.md",
     "weekly/Vol096.md",
     "weekly/Vol095.md",
-    "archives/template.md",
     "2025/archives/website.md",
     "weekly/Vol094.md",
     "weekly/Vol093.md",
@@ -236,7 +251,6 @@
     "weekly/Vol083.md",
     "weekly/Vol082.md",
     "weekly/Vol081.md",
-    "weekly/Vol080.md",
     "未命名.base",
     "2025/weekly",
     "2025/archives",
