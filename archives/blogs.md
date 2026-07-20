@@ -1,5 +1,11 @@
 # blogs
 
+## 【29】20260713 - 20260719
+
+#### [Stop Naming Your Variables "Flag": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
+
+一篇关于布尔型变量取名的博客，博客建议使用 `is\has\can\should` 这类单词作为前缀，方便阅读和识别，但是有一点文章没有提到，很多开发框架会使用 `is` 前缀作为默认约定，如果代码内使用会出现问题。
+
 ## 【28】20260706 - 20260712
 
 #### [存储技术书](https://github.com/Lularible/storage-book/tree/master/chapters)

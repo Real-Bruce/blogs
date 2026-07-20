@@ -1,5 +1,23 @@
 # software
 
+## 【29】20260713 - 20260719
+
+#### [gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
+将指定网站的内容，抓取成一个 JSON 文件，然后上传到 ChatGPT，从而生成该网站的聊天机器人，允许你跟该网站聊天。
+
+#### [loro](https://www.loro.dev/)
+
+开源的 CRDT 的同步算法库，用来多人实时同步状态。
+
+#### [whatcable](https://github.com/darrylmorley/whatcable)
+
+mac 开源应用，识别插入的 USB 线缆支持那些协议，帮你识别线缆的充电速度，数据传输速度以及对视频的支持情况。
+
+#### [kill ai slop](https://github.com/yetone/kill-ai-slop)
+
+教你识别常见的 AI Slop 并给出修改建议和 Skill，项目很不错。
+
 ## 【28】20260706 - 20260712
 
 #### [FineTune](https://github.com/ronitsingh10/FineTune)

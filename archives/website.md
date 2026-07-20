@@ -1,5 +1,23 @@
 # website
 
+## 【29】20260713 - 20260719
+
+#### [shot cafe](https://shot.cafe/)
+
+电影剧照检索数据库，支持使用场景 + 拍摄方法 + 颜色查找对应的影片，目前收了 187 部电影加 23 支广告，累计两万四千多张剧照。还有类似的找广告短片的网站：[film vibes](https://filmvibes.io/)
+
+#### [reicon](https://reicon.dev/icons)
+
+在线的免费图标库，无需登录，支持自定义。
+
+#### [immersive math](https://immersivemath.com/ila/index.html)
+
+互动式线性代数学习网站，将枯燥的线性代数知识转换为可以交互的动画，帮你快速理解相关知识点。
+
+#### [mazes](https://www.jamisbuck.org/mazes/)
+
+网站收集了各种迷宫生成算法。
+
 ## 【28】20260706 - 20260712
 
 #### [the Mahjong](https://themahjong.guide/)
