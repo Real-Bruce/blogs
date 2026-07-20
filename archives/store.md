@@ -568,4 +568,4 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)
 
-
+Anthropic 官方发布的博客，讲团队怎样借助 Claude 将 Bun 项目从 Zig 代码升级为 Rust 的过程，对需要借助 AI 做老旧项目升级迁移来说很有参考价值。
