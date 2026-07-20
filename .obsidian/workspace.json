@@ -43,16 +43,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/Vol097.md",
+                "file": "archives/store.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vol097"
+              "title": "store"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/Vol097.md",
+                "file": "archives/store.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Vol097 的大纲"
+              "title": "store 的大纲"
             }
           },
           {
@@ -209,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b920aeb84dea41d",
+  "active": "c4fd6f5408dc5038",
   "lastOpenFiles": [
-    "archives/store.md",
-    "weekly/Vol097.md",
     "weekly/Vol096.md",
+    "weekly/Vol097.md",
+    "archives/store.md",
     "archives/article.md",
     "README.md",
     "archives/website.md",
