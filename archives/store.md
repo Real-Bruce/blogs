@@ -126,7 +126,7 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 #### [gracecathedral](https://vincentwoo.com/3d/grace_cathedral/)
 
-沉浸式体验高斯泼溅技术构建的3D教堂，
+沉浸式体验高斯泼溅技术构建的 3D 教堂，很震撼的感觉。
 
 #### [airport](https://airport.apunen.com/)
 
