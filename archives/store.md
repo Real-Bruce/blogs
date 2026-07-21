@@ -124,6 +124,14 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [gracecathedral](https://vincentwoo.com/3d/grace_cathedral/)
+
+沉浸式体验高斯泼溅技术构建的3D教堂，
+
+#### [airport](https://airport.apunen.com/)
+
+在线模拟飞机塔台小游戏，指挥飞机降落起飞。
+
 #### [gradients](https://feralui.dev/gradients)
 
 快速创建漂亮的动态渐变图像的在线工具，支持导出图片和 MP4 视频。
