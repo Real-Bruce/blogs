@@ -124,6 +124,14 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [mcjs](https://mcjs.cc/)
+
+无需下载, 直接在浏览器里玩 MC，Eaglercraft 最佳中文版分支。
+
+#### [dailyintegral](https://dailyintegral.com/)
+
+面向数学爱好者的网站，每日提供 3 道高质量的微积分题目挑战。
+
 #### [gracecathedral](https://vincentwoo.com/3d/grace_cathedral/)
 
 沉浸式体验高斯泼溅技术构建的 3D 教堂，很震撼的感觉。
