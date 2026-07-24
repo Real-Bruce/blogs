@@ -176,6 +176,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 通过与 AI 对话的方式构建桌面应用，优先本地运行，适合没有代码基础但想构建桌面应用的小伙伴试试。
 
+#### [乡土游戏馆](https://youxi.pomodiary.com/)
+
+收集各种 90 后童年时期的小游戏，支持在线游玩。
+
 #### [depo](https://www.depo.zip/)
 
 提供 AI 相关的各类资源，包括工具、Harness 等等。
