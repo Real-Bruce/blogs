@@ -128,6 +128,10 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [ship that code](https://shipthatcode.com/)
+
+一个动手课程，从零开始构建各种流行的中间件，如：从头构建一个 Redis，帮你了解内部的工作原理。
+
 #### [mcjs](https://mcjs.cc/)
 
 无需下载, 直接在浏览器里玩 MC，Eaglercraft 最佳中文版分支。
