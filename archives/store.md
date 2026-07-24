@@ -2,6 +2,10 @@
 
 ## 🛸开源项目
 
+#### [satteri](https://github.com/bruits/satteri)
+
+JS 的 Markdown 引擎，使用 Rust 语言开发，可以快速把 Markdown 语法转为 HTML，提供众多插件。
+
 #### [davit](https://davit.app/)
 
 完全原生的苹果容器平台 macOS 应用。在苹果 M 系列芯片上运行 Linux 容器; 替代 Docker Desktop。
@@ -585,6 +589,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 收集好看好用的 mac app 的网站，可以发现很多好玩有趣的 app。
 
 ## ⛵资料&博文
+
+#### [美国政府是如何没收大量比特币的](https://brainz.fun/blog/2026/06/01/mei-guo-zheng-fu-shi-ru-he-mei-shou-da-liang-bi-te-bi-de/)
+
+从美国政府没收比特币为背景，讲为什么号称去中心化的货币会被没收，由此引申出来的比特币加密算法相关博客，很有意思，值得一读。
 
 #### [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)
 
