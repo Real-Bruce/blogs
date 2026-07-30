@@ -24,10 +24,21 @@ On the whole, people far too often hold strong opinions about topics for which t
 The extent to which we interact with other opinions and ideas can also impact the illusion. If we exist in an insulated community and never seek to challenge our opinions or ideas, we can be left feeling overly confident in our knowledge of a topic.
 >我们与他人观点和想法的互动程度也会影响幻觉。如果我们生活在一个封闭的社区，从不挑战自己的观点或想法，我们可能会对自己对某个话题的知识过于自信。
 
+ Subjects and concepts catch us when we’re thinking fast and running high on passion, meaning our feelings don’t necessarily translate succinctly into explanation. In these cases, we can make rash decisions without thinking them through, and being asked to explain ourselves can help get us in touch with our own thoughts.  
+>当我们思考快速、充满激情时，主题和概念会抓住我们，这意味着我们的感受不一定能简洁地转化为解释。在这种情况下，我们可能会在没有经过深思的情况下做出冲动的决定，而被要求解释自己，可以帮助我们与自己的想法相连。
 
+The illusion of explanatory depth happens for four reasons:  
 
+1. When information is not in front of us, our memories of it are foggy, but we aren’t aware of this gap.  
+2. Believing that we can briefly explain multiple parts or levels of a concept leads us to believe we understand the entire concept better.  
+3. Not having a natural endpoint for explanations feeds our ego and leads us to believe we can explain anything well, since there is no such thing as “complete.” 
+4. We rarely explain things, and therefore don’t get the practice or feedback we need to understand our own shortcomings.  
 
-
+解释深度的错觉由四个原因产生：
+1. 当信息不在我们面前时，我们的记忆会模糊，但我们并未意识到这个空白。
+2. 相信自己能简要解释一个概念的多个部分或层次，会让我们误以为自己对整个概念理解得更好。
+3. 没有一个自然的解释终点，滋养了我们的自我，让我们相信自己能很好地解释任何事情，因为没有所谓的“完整”。
+4. 我们很少解释事情，因此得不到足够的练习和反馈来理解自己的不足。
 
 ## 🛸开源项目
 
