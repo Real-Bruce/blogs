@@ -114,6 +114,10 @@ macOS 工具，可以压缩**图片**、**视频**和**PDF**。放文件进去�
 
 白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容。
 
+#### [open-connector](https://github.com/oomol-lab/open-connector)
+
+OpenConnector 是面向 AI Agent 的开源 connector gateway，也是 Composio 的开源替代方案。 连接一次用户应用账号，就可以把包含 1,000+ 个 provider 和 10,000+ 个预置 Action 的共享 catalog 暴露给 Agent 和应用
+
 #### [markstream-vue](https://github.com/Simon-He95/markstream-vue)
 
 使用 Vue3 开发的 AI 流式 markdown 渲染库
