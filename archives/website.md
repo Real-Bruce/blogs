@@ -1,5 +1,24 @@
 # website
 
+## 【31】20260727 - 20260802
+
+#### [sticker](https://sticker.oooo.so/)
+
+一个在线生成贴纸的工具，可以自定义富文本、图像生成贴纸，然后导出为 PNG 或动态的 GIF、MOV。
+
+#### [read the places](https://readtheplaces.com/)
+
+一份开放的地图集，收录了各种小说中出现的真实地点，并按故事发生的顺序排列。
+
+#### [window-swap](https://www.window-swap.com/Window)
+
+随机打开一扇全世界各地的窗户，让你看看不同地方的风景，很有意思的网站。
+
+#### [ship that code](https://shipthatcode.com/)
+
+一个动手课程，从零开始构建各种流行的中间件，如：从头构建一个 Redis，帮你了解内部的工作原理。
+
+
 ## 【30】20260720 - 20260726
 
 #### [openai tokenizer](https://platform.openai.com/tokenizer)

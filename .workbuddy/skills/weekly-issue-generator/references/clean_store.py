@@ -30,10 +30,10 @@ STORE_DEFAULT = os.path.join(REPO_ROOT, "archives", "store.md")
 
 # 必须与 SKILL.md Step 4 的配额表完全一致。
 DEFAULT_QUOTA = {
-    "📜有价值的文章": 0,
+    "📜有价值的文章": 1,
     "🛸开源项目": 4,
     "🚀网站&工具": 4,
-    "⛵资料&博文": 0,
+    "⛵资料&博文": 2,
 }
 
 

@@ -1,5 +1,16 @@
 # blogs
 
+## 【31】20260727 - 20260802
+
+#### [美国政府是如何没收大量比特币的](https://brainz.fun/blog/2026/06/01/mei-guo-zheng-fu-shi-ru-he-mei-shou-da-liang-bi-te-bi-de/)
+
+从美国政府没收比特币为背景，讲为什么号称去中心化的货币会被没收，由此引申出来的比特币加密算法相关博客，很有意思，值得一读。
+
+#### [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)
+
+Anthropic 官方发布的博客，讲团队怎样借助 Claude 将 Bun 项目从 Zig 代码升级为 Rust 的过程，对需要借助 AI 做老旧项目升级迁移来说很有参考价值。
+
+
 ## 【30】20260720 - 20260726
 
 本周偷懒了(T_T)

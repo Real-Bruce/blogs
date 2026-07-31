@@ -104,10 +104,10 @@ def pull_entries(store_lines, quota):
                 end = j
                 break
         entries = collect_entries(store_lines, start, end)
-        if not entries:
-            result[name] = ([], True)  # 空 → 占位
+        taken = entries[:n] if n > 0 else []
+        if not taken:
+            result[name] = ([], True)  # section 为空或配额取到 0 条 → 占位
         else:
-            taken = entries[:n]
             # 拼接原始行（含标题行、正文、空行）
             block_lines = []
             for _, s, e in taken:

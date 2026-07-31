@@ -1,5 +1,24 @@
 # software
 
+## 【31】20260727 - 20260802
+
+#### [peek-cli](https://github.com/puffinsoft/peek-cli)
+
+让 Agent 直接截取浏览器里任意一个已打开标签页的画面，开发方便迭代和优化。
+
+#### [clawk](https://github.com/clawkwork/clawk)
+
+给 AI Agent 提供一次性运行的 Linux 虚拟机，防止运行破坏性命令。
+
+#### [bento](https://github.com/nyblnet/bento)
+
+在线版本的 PPT，支持将文字、图片、表格、视频都嵌入其中。
+
+#### [satteri](https://github.com/bruits/satteri)
+
+JS 的 Markdown 引擎，使用 Rust 语言开发，可以快速把 Markdown 语法转为 HTML，提供众多插件。
+
+
 ## 【30】20260720 - 20260726
 
 #### [handmux](https://github.com/handmux/handmux)

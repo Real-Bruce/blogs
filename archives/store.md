@@ -1,62 +1,6 @@
 ## 📜有价值的文章
 
-#### [the illusion of explanatory depth](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
-
-The _illusion of explanatory depth (IOED)_ describes our belief that we understand more about the world than we actually do. It’s often not until we are asked to explain a concept that we come face to face with our limited understanding of it.  
->**深度的错觉（IOED）** 描述了我们相信自己对世界的理解比实际更多的认知。往往只有当我们被要求解释一个概念时，才会正面对我们有限的理解。
-
-The illusion has two parts. First, the “explanatory” part refers to our belief that we can provide a clear, detailed explanation of how something works. The “depth” part reflects our assumption that the explanation will be thorough and complex enough to convey what we’re trying to explain. In reality, however, when we try to dig into the details, we often find that our explanatory knowledge is much shallower than we initially thought. What we actually end up with is the _reality of explanatory shallowness_.  
-
->幻觉分为两部分。首先，“解释性”部分指的是我们相信能够清晰、详细地解释某物是如何运作的。“深度”部分反映了我们假设解释会足够详尽且复杂，以传达我们想要解释的内容。然而，实际上，当我们试图深入细节时，常常发现我们的解释知识远比最初想象的要浅薄。我们最终得到的，是解释性浅薄的原因。
-
-Both parts are important to the illusion. That is, it’s only when we _explain_ something that the gaps in our knowledge become apparent to us. Before that, we might still believe in our minds that we possess a depth of knowledge. The illusion of the explanatory gap is something that we’re subject to from an early age, with studies showing that children as young as kindergarten overestimate their explanatory knowledge. 
->这两部分对幻觉都很重要。也就是说，只有当我们 _解释_ 某件事时，知识的空白才会显现出来。在此之前，我们可能仍然相信自己拥有深厚的知识。解释性差距的错觉是我们从小就面临的问题，研究显示，连幼儿园的孩子都高估了自己的解释能力。
-
-The illusion of explanatory depth can cause people to make important decisions based on limited information, as we consistently believe we have much more information to work with than we really do.
->解释深度的错觉可能导致人们基于有限信息做出重要决策，因为我们总是相信自己掌握的信息远比实际多得多。
-
-On the whole, people far too often hold strong opinions about topics for which they have limited information. This can cause social and political movements to have plenty of people behind them with limited ideas of what they are even fighting for.
->总体来说，人们往往对自己信息有限的话题持有强烈的看法。这可能导致社会和政治运动背后有大量对自己为何而战的想法有限的人
-
- People rely on sparse, simplified causal explanations called 'intuitive theories' to understand complex systems. These intuitive theories provide a sense of coherence and structure, even when they lack detailed or mechanistic accuracy. We're very rarely asked to give explicit explanations that conform to our intuitive theories of everyday phenomena.
->人们依赖简约、简洁的因果解释，称为“直觉理论”来理解复杂系统。这些直观的理论即使缺乏细节或机制性准确性，也能带来连贯性和结构感。我们很少被要求给出符合我们对日常现象直觉理论的明确解释。
-
-The extent to which we interact with other opinions and ideas can also impact the illusion. If we exist in an insulated community and never seek to challenge our opinions or ideas, we can be left feeling overly confident in our knowledge of a topic.
->我们与他人观点和想法的互动程度也会影响幻觉。如果我们生活在一个封闭的社区，从不挑战自己的观点或想法，我们可能会对自己对某个话题的知识过于自信。
-
- Subjects and concepts catch us when we’re thinking fast and running high on passion, meaning our feelings don’t necessarily translate succinctly into explanation. In these cases, we can make rash decisions without thinking them through, and being asked to explain ourselves can help get us in touch with our own thoughts.  
->当我们思考快速、充满激情时，主题和概念会抓住我们，这意味着我们的感受不一定能简洁地转化为解释。在这种情况下，我们可能会在没有经过深思的情况下做出冲动的决定，而被要求解释自己，可以帮助我们与自己的想法相连。
-
-The illusion of explanatory depth happens for four reasons:  
-
-1. When information is not in front of us, our memories of it are foggy, but we aren’t aware of this gap.  
-2. Believing that we can briefly explain multiple parts or levels of a concept leads us to believe we understand the entire concept better.  
-3. Not having a natural endpoint for explanations feeds our ego and leads us to believe we can explain anything well, since there is no such thing as “complete.” 
-4. We rarely explain things, and therefore don’t get the practice or feedback we need to understand our own shortcomings.  
-
-解释深度的错觉由四个原因产生：
-1. 当信息不在我们面前时，我们的记忆会模糊，但我们并未意识到这个空白。
-2. 相信自己能简要解释一个概念的多个部分或层次，会让我们误以为自己对整个概念理解得更好。
-3. 没有一个自然的解释终点，滋养了我们的自我，让我们相信自己能很好地解释任何事情，因为没有所谓的“完整”。
-4. 我们很少解释事情，因此得不到足够的练习和反馈来理解自己的不足。
-
 ## 🛸开源项目
-
-#### [peek-cli](https://github.com/puffinsoft/peek-cli)
-
-让 Agent 直接截取浏览器里任意一个已打开标签页的画面，开发方便迭代和优化。
-
-#### [clawk](https://github.com/clawkwork/clawk)
-
-给 AI Agent 提供一次性运行的 Linux 虚拟机，防止运行破坏性命令。
-
-#### [bento](https://github.com/nyblnet/bento)
-
-在线版本的 PPT，支持将文字、图片、表格、视频都嵌入其中。
-
-#### [satteri](https://github.com/bruits/satteri)
-
-JS 的 Markdown 引擎，使用 Rust 语言开发，可以快速把 Markdown 语法转为 HTML，提供众多插件。
 
 #### [davit](https://davit.app/)
 
@@ -199,22 +143,6 @@ Birth 是一款免费开源的 macOS 启动项管理工具。它把系统里每�
 Figwright 通过本地 WebSocket 中继将 **MCP 服务器**连接到 **Figma 插件**，因此 AI 代理——Claude Code、Cursor、Codex 或其他 MCP 客户端——可以直接操作 Figma，而不仅仅是查看它。
 
 ## 🚀网站&工具
-
-#### [sticker](https://sticker.oooo.so/)
-
-一个在线生成贴纸的工具，可以自定义富文本、图像生成贴纸，然后导出为 PNG 或动态的 GIF、MOV。
-
-#### [read the places](https://readtheplaces.com/)
-
-一份开放的地图集，收录了各种小说中出现的真实地点，并按故事发生的顺序排列。
-
-#### [window-swap](https://www.window-swap.com/Window)
-
-随机打开一扇全世界各地的窗户，让你看看不同地方的风景，很有意思的网站。
-
-#### [ship that code](https://shipthatcode.com/)
-
-一个动手课程，从零开始构建各种流行的中间件，如：从头构建一个 Redis，帮你了解内部的工作原理。
 
 #### [mcjs](https://mcjs.cc/)
 
@@ -681,14 +609,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 收集好看好用的 mac app 的网站，可以发现很多好玩有趣的 app。
 
 ## ⛵资料&博文
-
-#### [美国政府是如何没收大量比特币的](https://brainz.fun/blog/2026/06/01/mei-guo-zheng-fu-shi-ru-he-mei-shou-da-liang-bi-te-bi-de/)
-
-从美国政府没收比特币为背景，讲为什么号称去中心化的货币会被没收，由此引申出来的比特币加密算法相关博客，很有意思，值得一读。
-
-#### [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)
-
-Anthropic 官方发布的博客，讲团队怎样借助 Claude 将 Bun 项目从 Zig 代码升级为 Rust 的过程，对需要借助 AI 做老旧项目升级迁移来说很有参考价值。
 
 #### [tls-ca-linux](https://previnder.com/tls-ca-linux/)
 
