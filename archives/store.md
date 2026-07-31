@@ -240,6 +240,10 @@ Figwright 通过本地 WebSocket 中继将 **MCP 服务器**连接到 **Figma 
 
 战锤 40K 在线 3D 互动地图。
 
+#### [scroll-driven-animations](https://scroll-driven-animations.style/)
+
+这个网站收集各种网页滚动的动画效果，使用 Web Animations API (WAAPI) 和 CSS Animations API 实现。
+
 #### [dailyakari](https://dailyakari.com/)
 
 解密小游戏，通过放在灯泡来照亮整个网格，并满足每个方块的要求。
