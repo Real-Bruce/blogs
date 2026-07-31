@@ -182,6 +182,22 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 免费、轻量！简单调用接口即可给自己的 iPhone 发送推送。依赖苹果 APNs，及时、稳定、可靠。
 
+#### [chirp](https://github.com/solst-ice/chirp)
+
+利用声音传递信息的项目，通过麦克风和扬声器实现信息的发送和接收。
+
+#### [birth](https://github.com/iAmCorey/birth)
+
+Birth 是一款免费开源的 macOS 启动项管理工具。它把系统里每一个后台项、守护进程和登录项收进同一个窗口，告诉你是谁装的（代码签名身份）、现在有没有在运行，并让你一键停用或移除。
+
+#### [Linux Router](https://github.com/Jaksay/Linux-Router)
+
+将 Debian 或 Armbian 设备变成路由器，并提供一个清晰的 Web 控制台，用于查看系统状态、管理有线网络和 Wi-Fi、开启热点共享、查看接入设备以及执行维护操作。
+
+#### [figwright](https://github.com/awdr74100/figwright)
+
+Figwright 通过本地 WebSocket 中继将 **MCP 服务器**连接到 **Figma 插件**，因此 AI 代理——Claude Code、Cursor、Codex 或其他 MCP 客户端——可以直接操作 Figma，而不仅仅是查看它。
+
 ## 🚀网站&工具
 
 #### [sticker](https://sticker.oooo.so/)
@@ -669,3 +685,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)
 
 Anthropic 官方发布的博客，讲团队怎样借助 Claude 将 Bun 项目从 Zig 代码升级为 Rust 的过程，对需要借助 AI 做老旧项目升级迁移来说很有参考价值。
+
+#### [tls-ca-linux](https://previnder.com/tls-ca-linux/)
+
+本文是一篇教程，介绍在 Linux 建立自己的证书颁发机构，将它的根证书加入操作系统的受信任证书列表。
