@@ -180,6 +180,14 @@ AI 机器人 [OpenClaw](https://openclaw.ai/) 的一个中文环境 Docker 封
 
 ## 🚀网站&工具
 
+#### [sticker](https://sticker.oooo.so/)
+
+一个在线生成贴纸的工具，可以自定义富文本、图像生成贴纸，然后导出为 PNG 或动态的 GIF、MOV。
+
+#### [read the places](https://readtheplaces.com/)
+
+一份开放的地图集，收录了各种小说中出现的真实地点，并按故事发生的顺序排列。
+
 #### [window-swap](https://www.window-swap.com/Window)
 
 随机打开一扇全世界各地的窗户，让你看看不同地方的风景，很有意思的网站。
