@@ -43,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -148,7 +150,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "store 的大纲"
+              "title": "大纲"
             }
           },
           {
