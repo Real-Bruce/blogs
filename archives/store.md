@@ -188,6 +188,10 @@ Figwright 通过本地 WebSocket 中继将 **MCP 服务器**连接到 **Figma 
 
 在线 3D 环视 7 座具有代表性的中国古建筑。
 
+#### [folding globes](https://foldingglobes.com/globes)
+
+这个网站可以免费下载太阳系内各个星球的折纸模板，每个模型都支持选择折纸大小和图形样式，但是这个功能是要收费的。
+
 #### [Radio Garden](https://radio.garden/)
 
 “收音机地球”，地球上的每一个绿点都代表一座城市的实时电台。拖动地球、点开绿点，就可以收听正在直播的广播。
