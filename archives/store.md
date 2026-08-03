@@ -30,6 +30,10 @@ File Viewer 是面向业务系统的浏览器原生文件预览组件。它的�
 
 从全球任何网站下载视频，包括 YouTube、TikTok、Instagram、Twitter 等。
 
+#### [kaset](https://github.com/sozercan/kaset)
+
+MAC 上的 YouTube music 三方客户端，界面很简洁漂亮。
+
 #### [dinky](https://github.com/heyderekj/dinky)
 
 macOS 工具，可以压缩**图片**、**视频**和**PDF**。放文件进去，拿回更小的。
@@ -53,6 +57,10 @@ macOS 工具，可以压缩**图片**、**视频**和**PDF**。放文件进去�
 #### [Echo Loop](https://github.com/echo-loop/Echo-Loop)
 
 一款科学高效的英语听说训练 App。
+
+#### [img2threejs](https://github.com/img2threejs/img2threejs)
+
+图片转 thressjs 项目，可以将 2D 图片转换为 threejs。
 
 #### [CanvasCast](https://github.com/nine19een/CanvasCast)
 
