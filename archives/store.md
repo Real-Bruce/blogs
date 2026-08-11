@@ -640,4 +640,4 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [continuous voice interaction with gpt live](https://openai.com/zh-Hans-CN/index/continuous-voice-interaction-with-gpt-live/)
 
-OpenAI 官方博客的一篇文章，讲他们是如何把现在的 voice AI 的实现方式，值得一看。
+OpenAI 官方博客的一篇文章，讲他们 voice AI 的实现方式，值得一看。
