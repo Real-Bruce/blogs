@@ -150,6 +150,10 @@ Birth 是一款免费开源的 macOS 启动项管理工具。它把系统里每�
 
 Figwright 通过本地 WebSocket 中继将 **MCP 服务器**连接到 **Figma 插件**，因此 AI 代理——Claude Code、Cursor、Codex 或其他 MCP 客户端——可以直接操作 Figma，而不仅仅是查看它。
 
+#### [tinycast](https://github.com/abue-ammar/tinycast)
+
+一个小巧的、完全原生的 macOS 启动器类**Raycast**应用。
+
 ## 🚀网站&工具
 
 #### [mcjs](https://mcjs.cc/)
@@ -179,6 +183,14 @@ Figwright 通过本地 WebSocket 中继将 **MCP 服务器**连接到 **Figma 
 #### [scroll-driven-animations](https://scroll-driven-animations.style/)
 
 这个网站收集各种网页滚动的动画效果，使用 Web Animations API (WAAPI) 和 CSS Animations API 实现。
+
+#### [anywear](https://anywear.decart.ai/)
+
+在线试衣服的网站，很有意思。
+
+#### [美股编年史](https://historyofmarket.com/)
+
+网站包括标普 500、纳斯达克、半导体、信息科技、金融、七姐妹、Top 10 等的资料，适合对美股感兴趣的朋友。
 
 #### [dailyakari](https://dailyakari.com/)
 
@@ -625,3 +637,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [tls-ca-linux](https://previnder.com/tls-ca-linux/)
 
 本文是一篇教程，介绍在 Linux 建立自己的证书颁发机构，将它的根证书加入操作系统的受信任证书列表。
+
+#### [continuous voice interaction with gpt live](https://openai.com/zh-Hans-CN/index/continuous-voice-interaction-with-gpt-live/)
+
+OpenAI 官方博客的一篇文章，讲他们是如何把现在的 voice AI 的实现方式，值得一看。
