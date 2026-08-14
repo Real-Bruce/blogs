@@ -163,6 +163,14 @@ Figwright 通过本地 WebSocket 中继将 **MCP 服务器**连接到 **Figma 
 
 一个小巧的、完全原生的 macOS 启动器类**Raycast**应用。
 
+#### [trash-cli](https://github.com/andreafrancia/trash-cli)
+
+trash-cli 用于移动文件到回收站，同时会记录文件的原地址、删除日期和权限。
+
+#### [dbx](https://github.com/t8y2/dbx)
+
+小巧轻量的数据库管理软件，支持连接 70 多种数据库，还支持 MCP 和 AI 集成。
+
 ## 🚀网站&工具
 
 #### [mcjs](https://mcjs.cc/)
@@ -650,3 +658,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [continuous voice interaction with gpt live](https://openai.com/zh-Hans-CN/index/continuous-voice-interaction-with-gpt-live/)
 
 OpenAI 官方博客的一篇文章，讲他们 voice AI 的实现方式，值得一看。
+
+#### [elevators](https://john.fun/elevators)
+
+一篇关于电梯算法的文章，用大量交互的动画展示算法。
