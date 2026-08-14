@@ -1,5 +1,14 @@
 ## 📜有价值的文章
 
+#### [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
+
+**Writing is the best way to think clearly about a topic.** It’s easy to believe you understand something when you’re just turning it over in your head. When you have to condense that down into words, you find out exactly how much you do or don’t understand. I am constantly having moments where I type something, stop myself, and think “wait, that can’t actually be right”, or “is that really true?”  
+
+>**写作是清晰思考一个话题的最佳方式。** 当你只是在脑子里转一转的时候，你很容易相信你理解了一些东西。当你必须把它浓缩成文字时，你会发现你到底理解了多少，还是不理解多少。我经常有这样的时刻，我输入一些东西，停下来，想“等等，这不可能是真的”，或者“这是真的吗？”
+
+Even if nobody reads what you write, writing is still a good discipline for getting your thoughts in order. But another big reason why writing is a great learning tool is that **you can get feedback**.  
+>即使没有人读你写的东西，写作仍然是一种很好的训练，可以让你的思想井然有序。但是写作是一种很好的学习工具的另一个重要原因是**你可以得到反馈**。
+
 ## 🛸开源项目
 
 #### [davit](https://davit.app/)
