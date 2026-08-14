@@ -649,6 +649,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 收集好看好用的 mac app 的网站，可以发现很多好玩有趣的 app。
 
+#### [how to whistle](https://howtowhistle.org/zh)
+
+在线吹口哨练习网站， 支持很多曲目，很好玩的网站。
+
+#### [koboyo](https://koboyo.com/icons)
+
+收录了仅十万个图标的图标库，包含大量手绘风格图标。
+
 ## ⛵资料&博文
 
 #### [tls-ca-linux](https://previnder.com/tls-ca-linux/)
