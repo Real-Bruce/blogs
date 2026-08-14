@@ -1,5 +1,16 @@
 # blogs
 
+## 【32】20260803 - 20260809
+
+#### [tls-ca-linux](https://previnder.com/tls-ca-linux/)
+
+本文是一篇教程，介绍在 Linux 建立自己的证书颁发机构，将它的根证书加入操作系统的受信任证书列表。
+
+#### [continuous voice interaction with gpt live](https://openai.com/zh-Hans-CN/index/continuous-voice-interaction-with-gpt-live/)
+
+OpenAI 官方博客的一篇文章，讲他们 voice AI 的实现方式，值得一看。
+
+
 ## 【31】20260727 - 20260802
 
 #### [美国政府是如何没收大量比特币的](https://brainz.fun/blog/2026/06/01/mei-guo-zheng-fu-shi-ru-he-mei-shou-da-liang-bi-te-bi-de/)

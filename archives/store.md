@@ -1,31 +1,6 @@
 ## 📜有价值的文章
 
-#### [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
-
-**Writing is the best way to think clearly about a topic.** It’s easy to believe you understand something when you’re just turning it over in your head. When you have to condense that down into words, you find out exactly how much you do or don’t understand. I am constantly having moments where I type something, stop myself, and think “wait, that can’t actually be right”, or “is that really true?”  
-
->**写作是清晰思考一个话题的最佳方式。** 当你只是在脑子里转一转的时候，你很容易相信你理解了一些东西。当你必须把它浓缩成文字时，你会发现你到底理解了多少，还是不理解多少。我经常有这样的时刻，我输入一些东西，停下来，想“等等，这不可能是真的”，或者“这是真的吗？”
-
-Even if nobody reads what you write, writing is still a good discipline for getting your thoughts in order. But another big reason why writing is a great learning tool is that **you can get feedback**.  
->即使没有人读你写的东西，写作仍然是一种很好的训练，可以让你的思想井然有序。但是写作是一种很好的学习工具的另一个重要原因是**你可以得到反馈**。
-
 ## 🛸开源项目
-
-#### [davit](https://davit.app/)
-
-完全原生的苹果容器平台 macOS 应用。在苹果 M 系列芯片上运行 Linux 容器; 替代 Docker Desktop。
-
-#### [file viewer](https://github.com/flyfish-dev/file-viewer)
-
-File Viewer 是面向业务系统的浏览器原生文件预览组件。它的核心场景是企业后台、OA、知识库、工单系统、附件中心、工程资料库和私有化交付项目中的附件预览。
-
-#### [direct light](https://github.com/oukeming64-tech/direct-light)
-
-面向导演、摄影指导和灯光师的白棚灯光预演沙盘。在标准白色影棚里，实时预览人物站位、灯位、灯具、控光附件、白光与彩色光对人物和阴影的影响。
-
-#### [dnspick](https://github.com/palemoky/dnspick)
-
-**DNS** + **pick**）是一个跨平台命令行工具：它并发基准测试一批主流及自定义 DNS 服务器（涵盖 UDP、DoT、DoH），对一组常用的国内/国外域名反复查询，结合**平均延迟**与**成功率**智能评分。
 
 #### [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi)
 
@@ -172,22 +147,6 @@ trash-cli 用于移动文件到回收站，同时会记录文件的原地址、�
 小巧轻量的数据库管理软件，支持连接 70 多种数据库，还支持 MCP 和 AI 集成。
 
 ## 🚀网站&工具
-
-#### [mcjs](https://mcjs.cc/)
-
-无需下载, 直接在浏览器里玩 MC，Eaglercraft 最佳中文版分支。
-
-#### [dailyintegral](https://dailyintegral.com/)
-
-面向数学爱好者的网站，每日提供 3 道高质量的微积分题目挑战。
-
-#### [gracecathedral](https://vincentwoo.com/3d/grace_cathedral/)
-
-沉浸式体验高斯泼溅技术构建的 3D 教堂，很震撼的感觉。
-
-#### [airport](https://airport.apunen.com/)
-
-在线模拟飞机塔台小游戏，指挥飞机降落起飞。
 
 #### [gradients](https://feralui.dev/gradients)
 
@@ -658,14 +617,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 收录了仅十万个图标的图标库，包含大量手绘风格图标。
 
 ## ⛵资料&博文
-
-#### [tls-ca-linux](https://previnder.com/tls-ca-linux/)
-
-本文是一篇教程，介绍在 Linux 建立自己的证书颁发机构，将它的根证书加入操作系统的受信任证书列表。
-
-#### [continuous voice interaction with gpt live](https://openai.com/zh-Hans-CN/index/continuous-voice-interaction-with-gpt-live/)
-
-OpenAI 官方博客的一篇文章，讲他们 voice AI 的实现方式，值得一看。
 
 #### [elevators](https://john.fun/elevators)
 

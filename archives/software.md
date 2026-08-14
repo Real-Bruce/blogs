@@ -1,5 +1,24 @@
 # software
 
+## 【32】20260803 - 20260809
+
+#### [davit](https://davit.app/)
+
+完全原生的苹果容器平台 macOS 应用。在苹果 M 系列芯片上运行 Linux 容器; 替代 Docker Desktop。
+
+#### [file viewer](https://github.com/flyfish-dev/file-viewer)
+
+File Viewer 是面向业务系统的浏览器原生文件预览组件。它的核心场景是企业后台、OA、知识库、工单系统、附件中心、工程资料库和私有化交付项目中的附件预览。
+
+#### [direct light](https://github.com/oukeming64-tech/direct-light)
+
+面向导演、摄影指导和灯光师的白棚灯光预演沙盘。在标准白色影棚里，实时预览人物站位、灯位、灯具、控光附件、白光与彩色光对人物和阴影的影响。
+
+#### [dnspick](https://github.com/palemoky/dnspick)
+
+**DNS** + **pick**）是一个跨平台命令行工具：它并发基准测试一批主流及自定义 DNS 服务器（涵盖 UDP、DoT、DoH），对一组常用的国内/国外域名反复查询，结合**平均延迟**与**成功率**智能评分。
+
+
 ## 【31】20260727 - 20260802
 
 #### [peek-cli](https://github.com/puffinsoft/peek-cli)

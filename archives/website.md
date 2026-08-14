@@ -1,5 +1,24 @@
 # website
 
+## 【32】20260803 - 20260809
+
+#### [mcjs](https://mcjs.cc/)
+
+无需下载, 直接在浏览器里玩 MC，Eaglercraft 最佳中文版分支。
+
+#### [dailyintegral](https://dailyintegral.com/)
+
+面向数学爱好者的网站，每日提供 3 道高质量的微积分题目挑战。
+
+#### [gracecathedral](https://vincentwoo.com/3d/grace_cathedral/)
+
+沉浸式体验高斯泼溅技术构建的 3D 教堂，很震撼的感觉。
+
+#### [airport](https://airport.apunen.com/)
+
+在线模拟飞机塔台小游戏，指挥飞机降落起飞。
+
+
 ## 【31】20260727 - 20260802
 
 #### [sticker](https://sticker.oooo.so/)

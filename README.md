@@ -20,6 +20,7 @@
 
 ### 📰weekly: Records the resources collected each week
 
+#### 2026/08/03 - 2026/08/09 [Vol.100 Blog about things you don't understand yet](./weekly/Vol100.md)
 #### 2026/07/27 - 2026/08/02 [Vol.099 the illusion of explanatory depth](./weekly/Vol099.md)
 #### 2026/07/20 - 2026/07/26 [Vol.098](./weekly/Vol098.md)
 
