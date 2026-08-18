@@ -621,3 +621,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [elevators](https://john.fun/elevators)
 
 一篇关于电梯算法的文章，用大量交互的动画展示算法。
+
+#### [a complete guide to agents-md](https://www.aihero.dev/a-complete-guide-to-agents-md)
+
+一篇关于 Agents.md 应当怎样书写的文章，有很多实用的小技巧，值得一读。
