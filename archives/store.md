@@ -148,7 +148,11 @@ trash-cli 用于移动文件到回收站，同时会记录文件的原地址、�
 
 #### [brain.md](https://github.com/mindmuxai/brain.md)
 
+一个开放的、与 Agent 无关的标准，用于捕获项目的持久知识，通过小型 CLI 读取和写入。它存在于您的存储库中，并跨代理、计算机和模型传输。
 
+#### [agentsview](https://github.com/kenn-io/agentsview)
+
+本地优先的应用，可以浏览、搜索和分析过去的 AI Coding 会话，看看 Agent 的时间和钱都花在了哪里，还能按项目、模型和工具分别查看。
 
 ## 🚀网站&工具
 
