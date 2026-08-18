@@ -146,6 +146,10 @@ trash-cli 用于移动文件到回收站，同时会记录文件的原地址、�
 
 小巧轻量的数据库管理软件，支持连接 70 多种数据库，还支持 MCP 和 AI 集成。
 
+#### [brain.md](https://github.com/mindmuxai/brain.md)
+
+
+
 ## 🚀网站&工具
 
 #### [gradients](https://feralui.dev/gradients)
