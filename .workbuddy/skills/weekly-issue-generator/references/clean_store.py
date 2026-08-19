@@ -108,11 +108,18 @@ def verify(path, deleted):
             if lines[j].startswith("## "):
                 end = j
                 break
-        block = "".join(lines[start:end])
+        # 仅检查清理后的「前 n 条」(即原本被移除的顶部条目)，而非整个 section 子串，
+        # 以避免与同名重复条目（如 store.md 中两条 `#### [witr]`）误判为清理失败。
+        sec_entries = []
+        for j in range(start + 1, end):
+            if lines[j].startswith("#### "):
+                sec_entries.append(lines[j].rstrip("\n"))
+        n = len(titles)
+        top = sec_entries[:n]
         for t in titles:
             key = t.split("]")[0] + "]"  # "#### [handmux]"
-            if key in block:
-                errors.append(f"已删条目仍残留在 `{name}`：{t}")
+            if any(key == (e.split("]")[0] + "]") for e in top):
+                errors.append(f"已删条目仍残留在 `{name}` 顶部：{t}")
 
     # 报告剩余条数 + 各 section 新顶部
     secs, cur, cnt = {}, None, 0

@@ -1,30 +1,6 @@
 ## 📜有价值的文章
 
-#### [放弃自证的减负感](https://blog.solazy.me/20260816/)
-
-试图纠正别人对你的误解，是一件投资回报率极低的事情。
-
-绝大多数人对你的评价，并不是建立在对你完整人生的审视上，而是建立在他自己有限的认知框架、当下的情绪，以及你在他世界里投射出的那一点点碎片上。
-
-
-
 ## 🛸开源项目
-
-#### [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi)
-
-记录鸟类访客的项目，很有趣的一个项目，[AvianVisitors](https://theodore.net/projects/AvianVisitors/)
-
-#### [witr](https://github.com/pranshuparmar/witr)
-
-它解释**了一个运行中的事物的起源**、**起源**，以及**是哪条系统链促成了它现在存在**，无论是在一个单一的、可读的输出还是**交互式的 TUI 仪表盘**中。
-
-#### [VidBee](https://github.com/nexmoe/VidBee)
-
-从全球任何网站下载视频，包括 YouTube、TikTok、Instagram、Twitter 等。
-
-#### [kaset](https://github.com/sozercan/kaset)
-
-MAC 上的 YouTube music 三方客户端，界面很简洁漂亮。
 
 #### [dinky](https://github.com/heyderekj/dinky)
 
@@ -163,22 +139,6 @@ trash-cli 用于移动文件到回收站，同时会记录文件的原地址、�
 本地优先的应用，可以浏览、搜索和分析过去的 AI Coding 会话，看看 Agent 的时间和钱都花在了哪里，还能按项目、模型和工具分别查看。
 
 ## 🚀网站&工具
-
-#### [gradients](https://feralui.dev/gradients)
-
-快速创建漂亮的动态渐变图像的在线工具，支持导出图片和 MP4 视频。
-
-#### [cartographia imperialis](https://cartographia40k.com/)
-
-战锤 40K 在线 3D 互动地图。
-
-#### [scroll-driven-animations](https://scroll-driven-animations.style/)
-
-这个网站收集各种网页滚动的动画效果，使用 Web Animations API (WAAPI) 和 CSS Animations API 实现。
-
-#### [anywear](https://anywear.decart.ai/)
-
-在线试衣服的网站，很有意思。
 
 #### [美股编年史](https://historyofmarket.com/)
 
@@ -634,10 +594,3 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 ## ⛵资料&博文
 
-#### [elevators](https://john.fun/elevators)
-
-一篇关于电梯算法的文章，用大量交互的动画展示算法。
-
-#### [a complete guide to agents-md](https://www.aihero.dev/a-complete-guide-to-agents-md)
-
-一篇关于 Agents.md 应当怎样书写的文章，有很多实用的小技巧，值得一读。

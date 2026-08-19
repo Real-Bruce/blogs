@@ -1,5 +1,24 @@
 # website
 
+## 【33】20260810 - 20260816
+
+#### [gradients](https://feralui.dev/gradients)
+
+快速创建漂亮的动态渐变图像的在线工具，支持导出图片和 MP4 视频。
+
+#### [cartographia imperialis](https://cartographia40k.com/)
+
+战锤 40K 在线 3D 互动地图。
+
+#### [scroll-driven-animations](https://scroll-driven-animations.style/)
+
+这个网站收集各种网页滚动的动画效果，使用 Web Animations API (WAAPI) 和 CSS Animations API 实现。
+
+#### [anywear](https://anywear.decart.ai/)
+
+在线试衣服的网站，很有意思。
+
+
 ## 【32】20260803 - 20260809
 
 #### [mcjs](https://mcjs.cc/)

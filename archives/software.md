@@ -1,5 +1,24 @@
 # software
 
+## 【33】20260810 - 20260816
+
+#### [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi)
+
+记录鸟类访客的项目，很有趣的一个项目，[AvianVisitors](https://theodore.net/projects/AvianVisitors/)
+
+#### [witr](https://github.com/pranshuparmar/witr)
+
+它解释**了一个运行中的事物的起源**、**起源**，以及**是哪条系统链促成了它现在存在**，无论是在一个单一的、可读的输出还是**交互式的 TUI 仪表盘**中。
+
+#### [VidBee](https://github.com/nexmoe/VidBee)
+
+从全球任何网站下载视频，包括 YouTube、TikTok、Instagram、Twitter 等。
+
+#### [kaset](https://github.com/sozercan/kaset)
+
+MAC 上的 YouTube music 三方客户端，界面很简洁漂亮。
+
+
 ## 【32】20260803 - 20260809
 
 #### [davit](https://davit.app/)
