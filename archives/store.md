@@ -138,6 +138,10 @@ trash-cli 用于移动文件到回收站，同时会记录文件的原地址、�
 
 本地优先的应用，可以浏览、搜索和分析过去的 AI Coding 会话，看看 Agent 的时间和钱都花在了哪里，还能按项目、模型和工具分别查看。
 
+#### [cumora](https://github.com/yetone/cumora)
+
+Agent 协作软件，支持接入多个 Agent，每个 Agent 有独立的记忆和角色，还能拉群沟通互相协调。 
+
 ## 🚀网站&工具
 
 #### [美股编年史](https://historyofmarket.com/)
