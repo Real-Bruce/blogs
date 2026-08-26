@@ -604,6 +604,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 由故宫博物院制作的中国古代绘画珍品的高清大图在线鉴赏。
 
+#### [造物矩阵](https://zaowujuzhen.com/bip/makers)
+
+全球创客社区，展示各地创客的项目和作品，可以直接导航到对应产品制作的视频教程。
+
+#### [texture](https://texture.fayaz.workers.dev/)
+
+免登录在线图片滤镜添加工具。
+
 ## ⛵资料&博文
 
 #### [线性代数应该这样学](https://linear.axler.net/)
