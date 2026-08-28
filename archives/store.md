@@ -621,3 +621,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [线性代数应该这样学](https://linear.axler.net/)
 
 免费的中文版线性代数教程。
+
+#### [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
+
+一篇介绍 git worktree 命令使用的文章，帮你掌握这个功能强大的命令。
