@@ -1,5 +1,23 @@
 ## 📜有价值的文章
 
+#### [ai and chauffeur knowledge](https://www.aaron-gray.com/ai-and-chauffeur-knowledge/)
+
+One of the things people are realizing is that if you use AI to learn something new, you can learn things far faster than traditional methods because it is so good at summarizing lots of diverse amounts of info, but your comprehension and memory is far worse than traditional methods of learning because you spent such a short amount of time learning it, and since your brain was not actively engaged in the act of learning. The way the human brain works, [learning things in spirals](https://medium.com/inspired-ideas-prek-12/why-a-spiral-curriculum-works-f1f4214f04ab) is one of the best ways to remember them.
+>人们意识到的一件事是，如果你使用人工智能来学习新东西，你可以比传统方法更快地学习东西，因为它擅长总结大量不同数量的信息，但你的理解力和记忆力远远不如传统学习方法，因为你花了很短的时间学习它，因为你的大脑并没有积极地参与学习。人类大脑的工作方式，螺旋式学习是记住它们的最好方法之一。
+
+
+But AI totally short circuits this because it just investigates and summarizes everything for you and then you make a decision and move on. So maybe you make a pretty good decision, but you never truly learn the nuance and details behind it because your brain never had to work for it. For something like researching a purchase, that’s great.
+>但人工智能完全短路了这一点，因为它只是为你调查和总结一切，然后你做出决定，继续前进。所以也许你做出了一个很好的决定，但你从来没有真正了解它背后的细微差别和细节，因为你的大脑从来没有为它工作。
+
+
+Contrast this with reading a book, where you keep coming back to the same topic over a period of weeks in spiral cycles. Or with traditional software engineering, where you are immersed in the code, actively using your brain to learn where things are and gluing them together, a little bit every day over the course of months and years. This creates Planck knowledge.
+>相比之下，阅读一本书，你会在几周的时间里不断地回到同一个话题，或者传统的软件工程，你会沉浸在代码中，积极地用你的大脑去学习东西在哪里，然后把它们粘在一起，在几个月或几年的时间里，每天都有一点。
+
+
+
+
+
+
 ## 🛸开源项目
 
 #### [dinky](https://github.com/heyderekj/dinky)
