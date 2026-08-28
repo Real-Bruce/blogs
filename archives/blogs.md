@@ -1,5 +1,15 @@
 # blogs
 
+## 【34】20260817 - 20260823
+
+#### [线性代数应该这样学](https://linear.axler.net/)
+
+免费的中文版线性代数教程。
+
+#### [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
+
+介绍 git worktree 命令使用的文章，帮你掌握这个功能强大的命令。
+
 ## 【33】20260810 - 20260816
 
 #### [elevators](https://john.fun/elevators)

@@ -1,5 +1,23 @@
 # website
 
+## 【34】20260817 - 20260823
+
+#### [美股编年史](https://historyofmarket.com/)
+
+网站包括标普 500、纳斯达克、半导体、信息科技、金融、七姐妹、Top 10 等的资料，适合对美股感兴趣的朋友。
+
+#### [dailyakari](https://dailyakari.com/)
+
+解密小游戏，通过放在灯泡来照亮整个网格，并满足每个方块的要求。
+
+#### [中国古建筑瑰宝](https://architecture-iota-khaki.vercel.app/)
+
+在线 3D 环视 7 座具有代表性的中国古建筑。
+
+#### [folding globes](https://foldingglobes.com/globes)
+
+这个网站可以免费下载太阳系内各个星球的折纸模板，每个模型都支持选择折纸大小和图形样式，但是这个功能是要收费的。
+
 ## 【33】20260810 - 20260816
 
 #### [gradients](https://feralui.dev/gradients)

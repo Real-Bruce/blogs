@@ -1,36 +1,6 @@
 ## 📜有价值的文章
 
-#### [ai and chauffeur knowledge](https://www.aaron-gray.com/ai-and-chauffeur-knowledge/)
-
-One of the things people are realizing is that if you use AI to learn something new, you can learn things far faster than traditional methods because it is so good at summarizing lots of diverse amounts of info, but your comprehension and memory is far worse than traditional methods of learning because you spent such a short amount of time learning it, and since your brain was not actively engaged in the act of learning. The way the human brain works, [learning things in spirals](https://medium.com/inspired-ideas-prek-12/why-a-spiral-curriculum-works-f1f4214f04ab) is one of the best ways to remember them.
->人们意识到的一件事是，如果你使用人工智能来学习新东西，你可以比传统方法更快地学习东西，因为它擅长总结大量不同数量的信息，但你的理解力和记忆力远远不如传统学习方法，因为你花了很短的时间学习它，因为你的大脑并没有积极地参与学习。人类大脑的工作方式，螺旋式学习是记住它们的最好方法之一。
-
-But AI totally short circuits this because it just investigates and summarizes everything for you and then you make a decision and move on. So maybe you make a pretty good decision, but you never truly learn the nuance and details behind it because your brain never had to work for it. For something like researching a purchase, that’s great.
->但人工智能完全短路了这一点，因为它只是为你调查和总结一切，然后你做出决定，继续前进。所以也许你做出了一个很好的决定，但你从来没有真正了解它背后的细微差别和细节，因为你的大脑从来没有为它工作。
-
-Contrast this with reading a book, where you keep coming back to the same topic over a period of weeks in spiral cycles. Or with traditional software engineering, where you are immersed in the code, actively using your brain to learn where things are and gluing them together, a little bit every day over the course of months and years. This creates Planck knowledge.
->相比之下，阅读一本书，你会在几周的时间里不断地回到同一个话题，或者传统的软件工程，你会沉浸在代码中，积极地用你的大脑去学习东西在哪里，然后把它们粘在一起，在几个月或几年的时间里，每天都有一点。
-
-I’m not saying that AI is not useful and it doesn’t have its place. It can help you get started on a problem that you have no idea where to start. It can help you gain a surface level understanding very rapidly. It can help you tackle a particularly thorny issue by rapidly teaching you new things you didn’t know. But don’t outsource your brain to it. Don’t become dependent on it. Don’t use it for more than limited scope tasks without rigorous personal review. Don’t turn it into a required translation layer for every decision, every meeting, every communication, and every codebase change.
->我并不是说人工智能没有用处，它没有自己的位置。它可以帮助你开始解决一个你不知道从哪里开始的问题。它可以帮助你非常迅速地获得表面水平的理解。它可以帮助你解决一个特别棘手的问题，通过快速教你你不知道的新东西。但是不要把你的大脑外包给它。不要依赖它。不要把它用于不经过严格的个人审核，就可以完成范围有限的任务。不要将其变成每个决策、每次会议、每次沟通和每次代码库更改所需的翻译层。
-
 ## 🛸开源项目
-
-#### [dinky](https://github.com/heyderekj/dinky)
-
-macOS 工具，可以压缩**图片**、**视频**和**PDF**。放文件进去，拿回更小的。
-
-#### [codexmate](https://github.com/SakuraByteCore/codexmate)
-
-一站式本地 AI 编程智能体管理面板。统一管理 Codex、Claude Code 与 OpenClaw，支持 Provider 切换、会话管理与任务编排。纯本地优先，你的智能体控制中心。
-
-#### [mykvm](https://github.com/XxMinor/mykvm)
-
-源跨平台软件 KVM，在同一局域网内，让 macOS、Windows、Linux 共享一套键盘、鼠标和剪贴板。
-
-#### [DeepSeek Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
-
-专为 DeepSeek 设计的终端 AI 编程 agent，充分利用了缓存机制，可以极大降低费用，只支持 DeepSeek 的付费 API。
 
 #### [witr](https://github.com/pranshuparmar/witr)
 
@@ -157,22 +127,6 @@ trash-cli 用于移动文件到回收站，同时会记录文件的原地址、�
 Agent 协作软件，支持接入多个 Agent，每个 Agent 有独立的记忆和角色，还能拉群沟通互相协调。 
 
 ## 🚀网站&工具
-
-#### [美股编年史](https://historyofmarket.com/)
-
-网站包括标普 500、纳斯达克、半导体、信息科技、金融、七姐妹、Top 10 等的资料，适合对美股感兴趣的朋友。
-
-#### [dailyakari](https://dailyakari.com/)
-
-解密小游戏，通过放在灯泡来照亮整个网格，并满足每个方块的要求。
-
-#### [中国古建筑瑰宝](https://architecture-iota-khaki.vercel.app/)
-
-在线 3D 环视 7 座具有代表性的中国古建筑。
-
-#### [folding globes](https://foldingglobes.com/globes)
-
-这个网站可以免费下载太阳系内各个星球的折纸模板，每个模型都支持选择折纸大小和图形样式，但是这个功能是要收费的。
 
 #### [Radio Garden](https://radio.garden/)
 
@@ -631,14 +585,6 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 模型能力竞技场，在同种提示词约束条件下对比不同模型的生成效果。
 
 ## ⛵资料&博文
-
-#### [线性代数应该这样学](https://linear.axler.net/)
-
-免费的中文版线性代数教程。
-
-#### [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
-
-介绍 git worktree 命令使用的文章，帮你掌握这个功能强大的命令。
 
 #### [xorshift generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 
