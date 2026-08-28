@@ -5,18 +5,14 @@
 One of the things people are realizing is that if you use AI to learn something new, you can learn things far faster than traditional methods because it is so good at summarizing lots of diverse amounts of info, but your comprehension and memory is far worse than traditional methods of learning because you spent such a short amount of time learning it, and since your brain was not actively engaged in the act of learning. The way the human brain works, [learning things in spirals](https://medium.com/inspired-ideas-prek-12/why-a-spiral-curriculum-works-f1f4214f04ab) is one of the best ways to remember them.
 >人们意识到的一件事是，如果你使用人工智能来学习新东西，你可以比传统方法更快地学习东西，因为它擅长总结大量不同数量的信息，但你的理解力和记忆力远远不如传统学习方法，因为你花了很短的时间学习它，因为你的大脑并没有积极地参与学习。人类大脑的工作方式，螺旋式学习是记住它们的最好方法之一。
 
-
 But AI totally short circuits this because it just investigates and summarizes everything for you and then you make a decision and move on. So maybe you make a pretty good decision, but you never truly learn the nuance and details behind it because your brain never had to work for it. For something like researching a purchase, that’s great.
 >但人工智能完全短路了这一点，因为它只是为你调查和总结一切，然后你做出决定，继续前进。所以也许你做出了一个很好的决定，但你从来没有真正了解它背后的细微差别和细节，因为你的大脑从来没有为它工作。
-
 
 Contrast this with reading a book, where you keep coming back to the same topic over a period of weeks in spiral cycles. Or with traditional software engineering, where you are immersed in the code, actively using your brain to learn where things are and gluing them together, a little bit every day over the course of months and years. This creates Planck knowledge.
 >相比之下，阅读一本书，你会在几周的时间里不断地回到同一个话题，或者传统的软件工程，你会沉浸在代码中，积极地用你的大脑去学习东西在哪里，然后把它们粘在一起，在几个月或几年的时间里，每天都有一点。
 
-
-
-
-
+I’m not saying that AI is not useful and it doesn’t have its place. It can help you get started on a problem that you have no idea where to start. It can help you gain a surface level understanding very rapidly. It can help you tackle a particularly thorny issue by rapidly teaching you new things you didn’t know. But don’t outsource your brain to it. Don’t become dependent on it. Don’t use it for more than limited scope tasks without rigorous personal review. Don’t turn it into a required translation layer for every decision, every meeting, every communication, and every codebase change.
+>我并不是说人工智能没有用处，它没有自己的位置。它可以帮助你开始解决一个你不知道从哪里开始的问题。它可以帮助你非常迅速地获得表面水平的理解。它可以帮助你解决一个特别棘手的问题，通过快速教你你不知道的新东西。但是不要把你的大脑外包给它。不要依赖它。不要把它用于不经过严格的个人审核，就可以完成范围有限的任务。不要将其变成每个决策、每次会议、每次沟通和每次代码库更改所需的翻译层。
 
 ## 🛸开源项目
 
