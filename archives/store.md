@@ -612,6 +612,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 免登录在线图片滤镜添加工具。
 
+#### [Model Capability Arena](https://model-ui-arena.lank.workers.dev/)
+
+模型能力竞技场，在同种提示词约束条件下对比不同模型的生成效果。
+
 ## ⛵资料&博文
 
 #### [线性代数应该这样学](https://linear.axler.net/)
