@@ -624,4 +624,8 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
 
-一篇介绍 git worktree 命令使用的文章，帮你掌握这个功能强大的命令。
+介绍 git worktree 命令使用的文章，帮你掌握这个功能强大的命令。
+
+#### [xorshift generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
+
+计算机中的随机数，大部分是由 Xorshift 算法生成的：通过对种子值进行 Xor 运算和位移，得到随机数。本文介绍具体的实现细节。
