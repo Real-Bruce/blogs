@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "store"
             }
-          },
-          {
-            "id": "ecd6806248bc428d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8acc22a521b7cbad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archives/website.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "website"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "archives/store.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,18 +182,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecd6806248bc428d",
+  "active": "c4fd6f5408dc5038",
   "lastOpenFiles": [
-    "weekly/Vol102.md",
+    "archives/blogs.md",
+    "archives/article.md",
+    "archives/software.md",
     "archives/website.md",
+    "weekly/Vol102.md",
     "README.md",
     "archives/store.md",
-    "archives/software.md",
-    "archives/article.md",
     "weekly/Vol101.md",
     "weekly/Vol100.md",
     "_verify_test.py",
-    "archives/blogs.md",
     "archives/template.md",
     "weekly/Vol099.md",
     "weekly/Vol098.md",
