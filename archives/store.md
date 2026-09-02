@@ -584,6 +584,14 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 模型能力竞技场，在同种提示词约束条件下对比不同模型的生成效果。
 
+#### [mengto](https://mengto.com/)
+
+一本能翻的新加坡水彩画册，包含了新加坡各种地标和景点，可以拖拽翻动纸张，并可以使用放大镜查看细节。
+
+#### [水族箱养殖指南](https://www.fishcareai.com/guides/)
+
+这个网站提供了各种养鱼的知识和构建水族箱的指南
+
 ## ⛵资料&博文
 
 #### [xorshift generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
