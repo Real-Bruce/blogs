@@ -597,3 +597,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [xorshift generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 
 计算机中的随机数，大部分是由 Xorshift 算法生成的：通过对种子值进行 Xor 运算和位移，得到随机数。本文介绍具体的实现细节。
+
+#### [对 OpenAI / Hugging Face 入侵事件中智能体行为、推理与协作的简要独立调查](https://metr.org/zh-hans/blog/2026-08-26-openai-hugging-face-incident-investigation/#july-9th-phaseone10841-passes-on-its-work-to-phaseonebig-which-establishes-several-ambitious-workstreams)
+
+一份关于 OpenAI 内部 Agent 逃逸攻击 Hugging Face 的调查报告，里面详细介绍了攻击的细节，很有趣的一点是内部沙箱相互隔离的 Agent 竟然通过 Artifactory 漏洞在内部搭建起未经授权的“留言板”，Agent 之间的协作让人感到惊奇。
