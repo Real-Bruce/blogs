@@ -608,4 +608,4 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 #### [GPS Glitched Across The US by as Much as 33 Feet. Scientists Have Never Seen This Before.](https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before)
 
-最近一次的太阳风暴导致美国的GPS系统产生定位偏差，偏差距离超过10米
+太阳风暴导致美国的 GPS 系统产生定位偏差，偏差距离超过 10 米，对农业生产和自动驾驶产生严重影响，这篇博文是对这个事件的介绍，很有意思的博客。
