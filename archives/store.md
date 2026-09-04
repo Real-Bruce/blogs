@@ -126,6 +126,10 @@ trash-cli 用于移动文件到回收站，同时会记录文件的原地址、�
 
 Agent 协作软件，支持接入多个 Agent，每个 Agent 有独立的记忆和角色，还能拉群沟通互相协调。 
 
+#### [ATBClone](https://github.com/aitobox/ATBClone)
+
+开源的 macOS 应用，允许应用程序多开，并进行分身管理。
+
 ## 🚀网站&工具
 
 #### [Radio Garden](https://radio.garden/)
