@@ -596,6 +596,10 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 
 这个网站提供了各种养鱼的知识和构建水族箱的指南
 
+#### [anyhumanever](https://anyhumanever.com/)
+
+根据真实历史统计数据，随机生成一个人的一生。
+
 ## ⛵资料&博文
 
 #### [xorshift generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
