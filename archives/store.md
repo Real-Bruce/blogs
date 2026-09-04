@@ -605,3 +605,7 @@ DemoGet 是市面唯一一款支持录屏后自动剪辑的免费工具。我们
 #### [对 OpenAI / Hugging Face 入侵事件中智能体行为、推理与协作的简要独立调查](https://metr.org/zh-hans/blog/2026-08-26-openai-hugging-face-incident-investigation/#july-9th-phaseone10841-passes-on-its-work-to-phaseonebig-which-establishes-several-ambitious-workstreams)
 
 一份关于 OpenAI 内部 Agent 逃逸攻击 Hugging Face 的调查报告，里面详细介绍了攻击的细节，很有趣的一点是内部沙箱相互隔离的 Agent 竟然通过 Artifactory 漏洞在内部搭建起未经授权的“留言板”，Agent 之间的协作让人感到惊奇。
+
+#### [GPS Glitched Across The US by as Much as 33 Feet. Scientists Have Never Seen This Before.](https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before)
+
+最近一次的太阳风暴导致美国的GPS系统产生定位偏差，偏差距离超过10米
